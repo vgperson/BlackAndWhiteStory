@@ -1,4 +1,4 @@
-N/A
+﻿N/A
 Black
 White
 Boy
@@ -18,13 +18,13 @@ Cute
 Funny
 Pokabu
 Mijumaru
-Shita-ja
+Tsutarja
 Sea
 River
 Mountain
 Class
 Break
-School lunch
+Lunch
 Family
 Friends
 Self
@@ -44,11 +44,11 @@ Battle
 Collect
 Story
 Pokémon
-First Language
+Language
 Math
 Science
 Social Studies
-First Language
+Language
 Math
 Science
 Social Studies
@@ -72,7 +72,7 @@ Comedy
 Sports
 Anime
 Action
-SF
+Sci-Fi
 Love
 Suspense
 Comedy
@@ -100,14 +100,14 @@ Games
 Student
 Office Worker
 Creator
-Self-employed
+Self-Employed
 Govt. Official
 Housewife
 Artist
 Job-Hopper
-Podda
-Dento
-Koon
+Pod
+Dent
+Corn
 Aloe
 Arti
 Kamitsure

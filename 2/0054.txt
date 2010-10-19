@@ -1,4 +1,4 @@
-None
+﻿None
 Master Ball
 Ultra Ball
 Great Ball
@@ -577,7 +577,7 @@ Deru Ball
 Dream Ball
 Poké-Toy
 Goods Case
-Dragon Bone
+Dragon Skull
 FragrantMushroom
 Huge Gold Orb
 Round Pearl
@@ -589,7 +589,7 @@ Old Vase
 Old Bracelet
 Old Statue
 Old Crown
-Hiun Ice-cream
+Hiun Ice
 Dire Hit 2
 X Speed 2
 X Sp. Atk 2

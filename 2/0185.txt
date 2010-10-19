@@ -1,63 +1,63 @@
-Fly to where?
+﻿Fly to where?
 Dummy
-A small countryside town with\xfffea soft, pleasant breeze.
+A small countryside town with\xfffea pleasant, portentious breeze.
 Pokémon Lab
 A small, calm town that has\xfffethe looks and feels of a city.
-Pokécenter
+Pokémon Center
 A little city that gives a\xfffehome to many famous people.
-Gym
-Pokécenter
-Trainer School
-Transfer House
+Sanyou Gym
+Pokémon Center
+Trainer's School
+Makomo's Lab
 This 100-year old city has\xfffethe looks of a plain city.
-Gym
-Pokécenter
-Shippou Diner
-Museum
+Shippo Gym
+Pokémon Center
+Shippo Museum
+Cafe Soco
 A city with high buildings.\xfffeThis city is quite young.
-Gym
-Pokécenter
-Harbor
-Global Tower
-Poké Massage
-Middle Square
+Hiun Gym
+Pokémon Center
+Survey HQ
+Name Rater
+Pokémon Massage
+Royal Isshu
 A very amusing city.\xfffeThere is a funfair here.
-Gym
-Pokécenter
-Theater
-Soccer
-Tennis
-Ferris wheel
+Raimon Gym
+Pokémon Center
+Musical Hall
+Battle Subway
+Big Stadium
+Little Court
 An everyday city.\xfffeThere is much to do here.
-Gym
-Pokécenter
-Market
-Warehouse
+Hodomoe Gym
+Pokémon Center
+Hodomoe Market
+Move Tutor's House
 A little airport.\xfffeThey also grow vegetables here.
-Gym
-Pokécenter
-Airport
+Fukiyose Gym
+Pokémon Center
 Move Deleter
+Cargo Service
 In winter, this town is\xfffeused as a rink.
-Gym
-Pokécenter
-Evolve checker
+Sekka Gym
+Pokémon Center
+Pokémon Fanclub
 This city has natural looks.\xfffeIt is over 1,000 years old!
 This city has futuristic looks.\xfffeEven though it's 1000 years old!
-Gym
-Pokécenter
-Trio Battle House
+Souryuu Gym
+Pokémon Center
+Battle Mansion
 Many Trainers come here to\xfffelook at their skills.
-Pokécenter
+Pokémon Center
 Long ago, a monster came with a meteor.\xfffeEver since, people stay at home in nights.
-Pokécenter
+Pokémon Center
 Home to the famous Sinnoh Champion.\xfffeElite 4-members will come to battle her.
-Pokécenter
+Pokémon Center
 てつどうしゃりょうが せいびされたり\xfffeていはくする しゃりょうきちの まち
 ひとがつどい はってんを つづける\xfffeきんだいてきな ふんいきの まち
-Pokécenter
+Pokémon Center
 This city contains very large trees.\xfffeThere is only one wooden house here.
-Pokécenter
+Pokémon Center
 せかい かっこくの ひとびとと\xfffeこうりゅうできる ちょうこうそうビル
 とおく はなれた べつちほうの\xfffeポケモンを けんきゅうする しせつ
 こどもや ポケモンの あそびばとして\xfffeつかわれている こうじょうの あとち
@@ -88,7 +88,7 @@ A short, paved road that connects\xfffeRaimon City with Hodomoe Drawbridge.
 ながい くさむらに はいらなくても\xfffeすすめるよう いっぽんばしが ある
 Route 8 is a route with many water\xfffepuddels due to excessive amounts of rain.
 This route is very popular. It is\xfffethe location of the Department Store.
-Department store
+Shopping Mall
 うでじまんが つどい きそいあう\xfffeバッジチェックのもんに つづく みち
 せいりゅうが どうろないを めぐり\xfffeうつくしい けしきが うまれた みち
 あるくだけで たのしくなってしまう\xfffeなだらかな おかが つらなる ばしょ

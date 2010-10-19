@@ -1,19 +1,19 @@
-Ichirouta
+Ichirota
 London
 Momoji
 Smith
 Anyo
 Curvet
-Shizumi
-Kwan
+Shizu
+Quan
 Muramasa
-Semi-Mal
-Sailers
+Semimaru
+Ichimonji
 Kevin
-Hearts
-Tutu
+Hatsu
+Chuchu
 Monmo
-Ume Chi
+Umichiyo
 Pond
 Rupee
 Dollar
@@ -21,51 +21,51 @@ Rooty
 Wong
 Peso
 Krone
-Real
+Rail
 Nobunaga
-Hide Knob
-Yass Knob
-Free Knob
-Emanuel
-Dominica
+Nobuhide
+Nobuyasu
+Nobutada
+Emmanuel
+Dominic
 Monroe
 Sunray
-Gen Nai
+Gennai
 Ananda
-Serujibude
-Mira
+Serjbüdee
+Myla
 Tanya
 Terissa
-Goujin
+Gojin
 Abdul
-Jimujirou
+Jimjiro
 Aoyagi
-Francolin
-Grunt
-Hutu
-Mura spider
+Shako
+Isaki
+Futsu
+Murakumo
 Totsuka
-Nat's Amateur
+Amanatsu
 Karellen
-Fall Na
-Hodzumin
+Falna
+Hozumin
 Tsurugi
-Dipuro
-Jagger
+Diplo
+Jaguar
 Polo
-Abakkio
+Abbacchio
 Scampi
-Tipu
+Tiu
 Atlas
 Callisto
-Nikolaos
+Nikolaus
 Paul
-Hobiron
+Hotvitlon
 Clarabelle
 Clara
 Olga
 Bob
-Bobuhiko
+Bobhiko
 Micah
 Menkaura
 Lincoln
@@ -78,105 +78,105 @@ Kurinosuke
 Kakiemon
 Momotarou
 Roberta
-Park
+Pac
 Tsuruko
 Rosie
 Fabian
-Netarou
+Netaro
 Piaget
 Emil
 Shinemon
 Way
-Min
-Marukusu
-Elephant Machi
-Gen Singh
+Ming
+Marx
+Matizo
+Shingen
 Cloud
-Basileus
-Hoffmann
+Basiléus
+Hoffman
 Sada
 Yodo
 Gosaku
 Kocher
-Turtle
-Doi Car
-Shintarou
-En Elephant
+Kame
+Cadoi
+Shintaro
+Enzo
 Dione
 Nereid
 Akkun
-Kung cut
-Rohan
-Kuen
-Terumoto
+Kakkun
+Rowan
+Quen
+Telmoto
 Kanetsugu
-Yuittoru
-Pantado
+Huitres
+Pintade
 Fritz
 Yohei
-Waka Bamboo
-Tuvalu
+Wakatake
+Tsubaru
 Cain
 Abel
 Poisson
-Yuitoru
-Yousuf
+Huitol
+Josef
 Zeid
 Betty
 Helen
 Kunya
 Shams
 Zurata
-Polina
+Paulina
 Leonard
 Lorenz
 Engawa
-Gizzard shad
+Kohada
 Sergio
 Felipe
-Bijaru
-Merrill
+Vejal
+Meryl
 Tapioca
-Diving beetle
+Gengoro
 Duncan
 Morgan
 Kokomero
-Nuun
+Noon
 Pomodoro
 Oberon
 Triton
 Charon
 Xavier
 Jacob
-Joachim
+Joakim
 Celine
-High School
+Ko
 Marie
 Juzumaru
 Munechika
 Onimaru
 Tetsu
-Cinnamon
+Nikkei
 Sabiasagi
 Shank
 Iron
-Bogie
+Bogey
 March
-Miki Wo
+Mikiwo
 Polka
 Antoku
-Human ibis
-Yuki Mura
-Uzi Masa
+Tokihito
+Yukimura
+Uzimasa
 Hameed
 Ahmad
-ICHI pine
+Ichimatsu
 Nayotake
-Bobujirou
-Bob Reed
+Bobjiro
+Bobyoshi
 Vadim
-Urey
-Belloy
+Juli
+Velour
 Mohair
 Kamanari
 Yobuko
@@ -188,10 +188,10 @@ Adenine
 Tamatoyo
 Kikuri
 Kushinada
-Daniil
-Fyodor
+Danille
+Fedor
 Makie
-Sumac
+Urushi
 Moririn
 Mizunosuke
 Usobuki
@@ -200,13 +200,13 @@ Gekkou
 Izayoi
 Nejihiko
 Faust
-Bush shark
+Yabusame
 Utsuke
 Futokoro
 Lotte
-Tereze
+Therese
 Tsuyako
-Borudobato
+Boldbato
 Sorongo
 Hahn
 Mu
@@ -215,38 +215,38 @@ Longo
 Eun-Soo
 Harimao
 Enpi
-Heaven's blessing
-Earth's blessing
-Four kongs
+Tenho
+Chiho
+Sukantsu
 Susutake
 Mouse
 Kamenozoki
 Terracotta
 Bough
 Bordeaux
-Cattle pine
-Pine Crane
-Sae Mon
+Matsushi
+Tsurumatsu
+Saemon
 Nguyen
-Mooi
-Palm
+Mui
+Pam
 Ponta
 Donta
-Magobee
-Mal Singh
+Magobe
+Shinmaru
 Yamauba
-Sinja
+Shinja
 Namanari
 Hannya
 Cedric
 Simon
-Jouhara
-Wardha
+Johara
+Walda
 Haithem
 Konnyon
-Yellowtail
-Salmon roe
-Georges
+Hamachi
+Ikura
+George
 Samuel
 Humphrey
 Adolph
@@ -256,15 +256,15 @@ Ganymede
 Proteus
 Peter
 Filippo
-Tamakadzura
+Tamakazura
 Nonomiya
-Ootenta
-Doujigiri
-Angiyu
+Otenta
+Dojigiri
+Anguille
 Fezzan
 Hechikan
 Rikyuu
-Mi vine
+Tsurumi
 Chacha
 Roman
 Valerie
@@ -274,36 +274,36 @@ Marion
 Dante
 Birgit
 Margaret
-In Bank
-Katsu cedar
-Bob Nori
-Bobuemon
+Bank
+Sugikatsu
+Bobnori
+Bobemon
 Erik
 Oscar
-Thutmose
+Totomes
 Ramses
-Pine cold
+Matsukaze
 Uneme
 Kotetsu
-Toushirou
+Toshiro
 Saizuni
-Panaratto
-Elephant Man
+Panarat
+Manzo
 Ieon
-Show
-Tsudzumi
+Sho
+Tsuzumi
 Camus
-Hiko
-Suttie
-Aparuna
-Mikadzuki
+Rilke
+Satie
+Apalna
+Mikazuki
 Shingetsu
-Touya
-Touya
-Touya
-Touko
-Touko
-Touko
+Toya
+Toya
+Toya
+Toko
+Toko
+Toko
 Nobori
 Nobori
 Kudari

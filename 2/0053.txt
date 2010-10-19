@@ -1,4 +1,4 @@
--\xfffe-\xfffe-
+﻿-\xfffe-\xfffe-
 The best Ball with the ultimate level\xfffeof performance. It will catch any\xfffewild Pokémon without fail.
 An ultra-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a Great Ball.
 A good, high-performance Ball that\xfffeprovides a higher Pokémon catch\xffferate than a standard Poké Ball.
@@ -565,7 +565,7 @@ A shiny, iron gem.\xfffeIf held by a Pokémon,\xfffeit boosts Steel-type moves o
 A plain, normal gem.\xfffeIf held by a Pokémon,\xfffeit boosts Normal-type moves one time.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's HP EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Attack EV a little.
-An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Defence EV a little.。
+An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Defence EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Atk EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Sp. Def EV a little.
 An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémon's Speed EV a little.
@@ -619,9 +619,9 @@ The form of Zekrom's destroyed body.\xfffeIf a here appears holding\xfffeit, it 
 It covers itself in electricity \xfffeand crashes into the opponent. \xfffeIt also takes a little damage.
 The user hits with a punch that \xfffemay lower the target’s Defense. \xfffeIt can also smash cracked boulders.
 It yells at an opponent for a long time \xfffeand lowers their Special Attack stat.
-The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.
 A phantom stone.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
 An important letter delivered by WINGULL.\xfffe\xfffe
-The latest model tranciever with a\xfffevideo camera capable of four\xfffepeople talking at the same time.
+A new model of transciever\xfffethat supports video conversations\xfffebetween up to four people.

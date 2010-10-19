@@ -1,4 +1,4 @@
-\xf000ā\x0001\x0000
+﻿\xf000ā\x0001\x0000
 \xf000Ă\x0001\x0000
 Held Item
 Nature
@@ -51,7 +51,7 @@ Beach
 Sea floor
 River
 Sky
-Pokemon Center
+Pokémon Center
 Metal
 Check
 Simple
@@ -87,9 +87,9 @@ Quit
 Change
 Quit
 Quit
-Change\xfffe Box
-Change\xfffe Wallpaper
-Store\xfffe Pokemon
+Change\xfffeBox
+Change\xfffeWallpaper
+Store\xfffePokemon
 To bag
 Hold
 Move
