@@ -1,0 +1,146 @@
+N/A
+Black
+White
+Boy
+Girl
+Battle
+Trade
+City
+Country
+Smart
+Athletic
+Time
+Money
+Looks
+Personality
+Cool
+Cute
+Funny
+Pokabu
+Mijumaru
+Shita-ja
+Sea
+River
+Mountain
+Class
+Break
+School lunch
+Family
+Friends
+Self
+Spring
+Summer
+Fall
+Winter
+Sweet
+Spicy
+Sour
+Bitter
+Interesting
+Cool
+Nice
+Rich
+Battle
+Collect
+Story
+Pokémon
+First Language
+Math
+Science
+Social Studies
+First Language
+Math
+Science
+Social Studies
+Trainer
+Pokémon Professor
+Team Plasma
+Pokémon
+Play Outside
+Shop
+Read
+Game
+Sleep
+Pop
+Rock
+Jazz
+Rap
+Classic
+News
+Drama
+Comedy
+Sports
+Anime
+Action
+SF
+Love
+Suspense
+Comedy
+Horror
+Baseball
+Soccer
+Basketball
+Football
+Hockey
+Martial Arts
+Red
+Green
+Blue
+Yellow
+White
+Black
+Fitness
+Reading
+Music
+Movies
+Travel
+Cooking
+Fishing
+Games
+Student
+Office Worker
+Creator
+Self-employed
+Govt. Official
+Housewife
+Artist
+Job-Hopper
+Podda
+Dento
+Koon
+Aloe
+Arti
+Kamitsure
+Yacon
+Fuuro
+Hachiku
+Iris
+Shaga
+Normal
+Fire
+Water
+Electric
+Grass
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+0 - 10 hours
+10 - 20 hours
+20 - 30 hours
+30 - 40 hours
+40 - 50 hours
+50 - 60 hours
+60 - 70 hours
+70 - 80 hours
+80 - 90 hours
+90 - 100 hours
+100  hours

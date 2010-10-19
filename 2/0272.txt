@@ -1,0 +1,107 @@
+Search Mode
+Please enter the search criteria.
+Search Results
+RESULTS: \xf000Ȃ\x0001\x0000
+Select the Pokédex listing mode.
+List by the first letter in the name.
+List by type.
+List by body style.
+List by body color.
+Pokémon found!
+Not found...
+Searching...
+Order
+Name
+Type
+Color
+Forme
+Isshu Dex: Search Mode
+National Dex: Search Mode
+Reset
+Start
+Cancel
+\xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
+Accept
+Cancel
+Numerical
+A to Z
+Heaviest
+Lightest
+Tallest
+Shortest
+Type
+Rock
+Psychic
+Fighting
+Grass
+Ice
+Ghost
+Ground
+Electric
+Poison
+Dragon
+Normal
+Steel
+Flying
+Fire
+Water
+Bug
+――――
+／
+――――
+ア.
+イ
+ウ
+エ
+オ
+カ.
+キ
+ク
+ケ
+コ
+サ.
+シ
+ス
+セ
+ソ
+タ.
+チ
+ツ
+テ
+ト
+ナ.
+ニ
+ヌ
+ネ
+ノ
+ハ.
+ヒ
+フ
+ヘ
+ホ
+マ.
+ミ
+ム
+メ
+モ
+ヤ.
+ユ
+ヨ
+ラ.
+リ
+ル
+レ
+ロ
+ワ.
+―
+Red
+Blue
+Yellow
+Green
+Black
+Brown
+Purple
+Gray
+White
+Pink
+――――

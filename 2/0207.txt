@@ -1,0 +1,17 @@
+Welcome to Geonet,\xfffethe high-tech globe!\xf000븁\x0000
+What would you like to do?
+Here, you may register the location\xfffeof where you live.\xf000븁\x0000That information may be provided to\xfffefriends and strangers through\xf000븁\x0000DS Wireless Communications or over\xfffeNintendo WFC.\xf000븁\x0000Would you like to register your\xfffehome’s location area?
+Please select the location in which\xfffeyou live.
+Please select the area in which\xfffeyou live.
+Once registered, you may not change\xfffeyour registered location data.\xf000븁\x0000Should this location be registered\xfffeas where you live?
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Yes
+No
+See List
+Register
+Quit
+\xf000ȅ\x0000View
+Your registered location:\xfffe\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
+To display registered locations, line up\xfffethe cursor, and press the X Button.
+\xf000ȅ\x0000Quit

@@ -1,0 +1,9 @@
+Health
+Attack
+Defence
+Speed
+Special Attack
+Special Defense
+Accuracy
+Evasion
+Max HP
