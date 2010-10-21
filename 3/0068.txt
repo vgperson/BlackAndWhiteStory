@@ -1,4 +1,4 @@
-……あまりの スピードに\xfffeクラクラ してない？\xf000븁\x0000\xfffeつぎは いとしの ポケモンたちで\xfffeあなたを クラクラ させちゃうけど\xf000븁\x0000
+﻿……あまりの スピードに\xfffeクラクラ してない？\xf000븁\x0000\xfffeつぎは いとしの ポケモンたちで\xfffeあなたを クラクラ させちゃうけど\xf000븁\x0000
 ステキ……\xfffeホレボレしちゃう ファイトスタイル\xf000븁\x0000\xfffeあなた いい トレーナーね\xfffeなんだか かんげき……\xf000븀\x0000\xfffeこれを……！\xf000븁\x0000
 \xf000Ā\x0001\x0000は カミツレから\xfffeボルトバッジを もらった！\xf000븁\x0000
 ボルトバッジを ふくめ\xfffe４つの バッジが あれば\xf000븁\x0000レベル５０までの ポケモンは\xfffeあなたに したがってくれる\xf000븁\x0000\xfffeそれと これは\xfffeわたしの すきな わざ……\xf000븀\x0000\xfffeよければ あなたも つかって\xf000븁\x0000
@@ -18,6 +18,6 @@
 どうっすか？\xfffeおどろいたでしょう！？\xf000븁\x0000\xfffeこのジムは みてのとおり\xfffeジェットコースター なんすよね！！\xf000븁\x0000\xfffeまあ とりあえずは\xfffeこれを さしあげるっす！\xf000븁\x0000
 この ジェットコースター ジムは\xfffeまず コースターに のる！\xf000븁\x0000\xfffeつぎに プラットフォーム……\xfffeあしばですね！ そこで\xf000븀\x0000\xfffeポイントを きりかえる\xf000븁\x0000\xfffeときとして たおした あいての\xfffeコースターにも のってすすむ！\xf000븁\x0000\xfffeそうやって ジムリーダーの いる\xfffeばしょを めざしてくださいっす！\xf000븁\x0000ちなみに でんきタイプの\xfffeポケモンは じめんタイプの\xf000븀\x0000わざが にがて なんすよ……
 カミツレさんの まぶしく\xfffeかれいな でんきこうげき！\xf000븁\x0000\xfffeそれを うわまわった あんたと\xfffeポケモンとの コンビネーション！\xf000븁\x0000\xfffeまさに まさに\xfffeジェットコースター ムービー っすよ！
-Raimon Pokémon Gym\xf000븁\x0000\xfffeLeader: Kamitsure\xfffeCertified Trainers!
-Raimon Pokémon Gym\xf000븁\x0000\xfffeLeader: Kamitsure\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Raimon Pokémon Gym\xf000븁\x0000\xfffeLeader: Kamitsure\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Raimon Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Camille!
+Raimon Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Camille!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Raimon Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Camille!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBelle
