@@ -1,9 +1,9 @@
-いよいよ たべられる！\xfffeならんだかいが あったぜ！\xf000븁\x0000
+﻿いよいよ たべられる！\xfffeならんだかいが あったぜ！\xf000븁\x0000
 これを あじわいたくて はるばる\xfffeカラクサタウンから きちゃいました！\xf000븁\x0000
 ここのー スィーツー！\xfffeチョーにんき なんだよー！！\xf000븁\x0000
 さすが わだいの おみせ！\xfffeこんなに こんでるなんて すごい！\xf000븁\x0000
-Huh? Now\xfffethey're selling Hiun City's\xf000븀\x0000special ice cream.\xf000븁\x0000Are you waiting in line?
-Well then stay\xfffein the line!\xf000븁\x0000It's definitely something\xfffeworth waiting for!\xf000븁\x0000
+Yeah? You can buy\xfffeHiun City's famous sweets here.\xf000븁\x0000You lining up for it, too?
+Well!\xfffeThere is quite a line, though!\xf000븁\x0000But it's definitely tasty,\xfffeso I say it's worth the wait!\xf000븁\x0000
 そうかー こんでるしな\xf000븁\x0000でも ここだけの はなし\xfffeきょうは すいてるほう なんだよ\xf000븀\x0000いつもは もう うりきれ なんだ\xf000븁\x0000
 うん？ ここでは\xfffeいま ヒウンシティで わだいの\xf000븀\x0000スィーツを かうことが できるんだよ\xf000븁\x0000でも きょうは もう\xfffeぼくで うりきれ みたいだ\xf000븁\x0000
 うん？ ここでは\xfffeいま ヒウンシティで わだいの\xf000븀\x0000スィーツを かうことが できるんだよ\xf000븁\x0000でも きょうは もう\xfffeぼくで うりきれ みたいだ……\xf000븀\x0000また べつのひに きてごらんよ\xf000븁\x0000
@@ -13,11 +13,11 @@ Well then stay\xfffein the line!\xf000븁\x0000It's definitely something\xfffewo
 ありがとう ございます！\xf000븁\x0000……あれ あれれ？\xfffeおかねが たりないみたいですね\xf000븀\x0000また きてくださいませ\xf000븁\x0000
 ありがとう ございます！\xf000븁\x0000……あれ あれれ？\xfffeバッグが いっぱいみたいですね\xf000븀\x0000また きてくださいませ\xf000븁\x0000
 せっかく ならんでくれたのに……\xfffeあのう また きてくださいね！\xf000븁\x0000
-ここでは ヒウンシティめいぶつの\xfffeヒウンアイスを うっていまーす！\xf000븁\x0000でも オーナーの かんがえで\xfffeふゆは おやすみ なんです……\xf000븀\x0000あたたかくなったら またきてください！
-かう
+We're selling Hiun City's\xfffefamous Hiun Ice!\xf000븁\x0000But the owner figured\xfffewe should close shop for winter...\xf000븀\x0000Please come again when it gets warm!
+Buy
 Quit
-Hiun Art Gallery
-Hiun's Special Icees\xfffeWe sell anytime except during Winter.
+Hiun Atelier
+Hiun's Famous Hiun Ice\xfffeOn break for the freezing winter.
 no data
 no data
 no data
