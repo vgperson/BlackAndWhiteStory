@@ -109,8 +109,8 @@ Pod
 Dent
 Corn
 Aloe
-Arti
-Kamitsure
+Arty
+Camille
 Yacon
 Fuuro
 Hachiku

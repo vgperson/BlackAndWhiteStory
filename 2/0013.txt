@@ -1,4 +1,4 @@
-What will \xf000Ă\x0001\x0000 do?
+﻿What will \xf000Ă\x0001\x0000 do?
 Please Mark
 Are you sure?
 \xf000Ă\x0001\x0000 released!
@@ -51,5 +51,5 @@ You can't choose an Egg!
 Make \xf000Ă\x0001\x0000 go to sleep?
 This Pokemon doesn't\xfffelook sleepy.
 Continue Box operations?
-Battle Box has been locked \xfffe Pokemon cannot be removed
-Battle Box has been locked \xfffe Held item cannot be changed
+Battle Box has been locked.\xfffePokemon cannot be removed.
+Battle Box has been locked.\xfffeHeld item cannot be changed.
