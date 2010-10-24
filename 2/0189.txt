@@ -20,7 +20,7 @@ Whoa! Awesome stuff!\xfffeYou're really strong!
 Looking an opponent in the eyes\xfffetells you their feelings...\xf000븀\x0000People and Pokémon are the same that way.
 We'll combine our power and try hard,\xfffeso please look as us!\xf000븁\x0000
 Kumi: Waaah! Pokémon,\xfffeyou should've tried harder!\xf000븁\x0000Lumi: Huhhh? Pokémon,\xfffeyou're not looking too good...
-Maybe if we used a Potion mid-battle,\xfffewe could've won?
+Maybe if we'd used a Potion mid-battle,\xfffewe could've won?
 Huh? You've only got one Pokémon?\xfffeAnd you say you're a trainer?
 Uhhh...\xfffeOne plus one is two!\xf000븁\x0000
 Huhhh? Pokémon,\xfffeyou're not looking too good...
@@ -197,7 +197,7 @@ I-I am a lady,\xfffes-so I shall not be mortified!
 The primaries are soon!\xf000븁\x0000You be my wall, and let's do\xfffesome SMASHING practice!\xf000븁\x0000
 Pant! Pant, pant, pant...\xfffeThat was some good training...
 You and I just met,\xfffeand we're already in competition!
-One-two, one-two! Ah!\xfffeBreathing in and out! Face our one-two PUNCH!\xf000븁\x0000
+One-two, one-two! Ah! Breathing\xfffein and out! Face our one-two PUNCH!\xf000븁\x0000
 Mayo: But we synced our breathing!\xfffeHUHHHHHHHHHHHHHHH?!?\xf000븁\x0000Maya: But we synced our breathing!\xfffeHUHHHHHHHHHHHHHHH?!?
 But we should've been way better\xfffeworking with two Pokémon!
 Only one Pokémon?\xfffeWell then, we can't battle.
@@ -297,61 +297,61 @@ I, too, journeyed with Pokémon\xfffewhen I was a child...\xf000븁\x0000Of cour
 It is my job!\xfffeIt is my job to Pokémon battle!\xf000븁\x0000
 Things didn't go so well\xfffeat work today...
 My company develops goods\xfffefor Pokémon and trainers.\xf000븁\x0000So Pokémon battling is\xfffean important part of the job!
-ヤーコンさんに びっしびし\xfffeきたえられた わたしの つよさ\xf000븁\x0000そこいらの トレーナーに\xfffeみおとりなど するわけもなく！\xf000븁\x0000
-あらららら……\xfffeみおとり しちゃってるじゃん
-ヤーコンさんは ジムリーダーであり\xfffeかいしゃの しゃちょうであり\xf000븀\x0000わたし いつも おこられているのです
-ちょいと きゅうけいを しようと\xfffeおもったところで キミに であう！\xf000븁\x0000
-この であいは\xfffeキミにとって いいものだったね！
-わたしの ポケモンは\xfffeであって １０ねんいじょう！\xf000븀\x0000こころを ゆるせる あいぼうだよ
-まけた しょうぶも\xfffeホロにがい おもいで さ……
-むおお！ なんと\xfffeたくましい トレーナーだ！！
-ポケモントレーナーが\xfffeであえば するのは もちろん\xf000븀\x0000ポケモンしょうぶ ですよねー\xf000븁\x0000
-ふぎゃあ\xfffeふがいないなあ ワシ……
-ここで だれかと であうのも\xfffeあのこの みちびき なのかなあ
-あら？ おばさんの あいて？\xf000븁\x0000いいわよ！ あたしには\xfffeつよい ポケモンが いるんですから\xf000븁\x0000
-……そうでした\xfffeあのこは もう いないのね
-……あのこは もう いない\xf000븁\x0000……ちがうわね\xfffeあたしが わすれなければ\xf000븀\x0000ずっとずっと いっしょ よね
-よろしければ あなたの ポケモンを\xfffeげんきに してあげます！\xf000븁\x0000ただし！ そのまえに\xfffeおてあわせ ねがいます！\xf000븁\x0000
-なんとッ！ げんきが なくなったのは\xfffeわたしの ポケモン ですか！？
-では やくそくどおり\xfffeポケモンを げんきに しますよ！\xf000븁\x0000
-みんなを げんきに するため\xfffeドクターは どこにでも おもむきます
-……ながい みちのり\xfffeあえて うれしい おいしゃさん\xf000븁\x0000わたくしとの しょうぶに かてたら\xfffeポケモンを げんきに しましょう！\xf000븁\x0000
-わたくしが かいふく しなくとも\xfffeじゅうぶんに げんき でしょう！
-ポケモンしょうぶの あとは\xfffeゆっくり かいふく してください\xf000븁\x0000
-どんなときでも げんきが いちばん！\xfffeほんとうに それが だいじです
-パートナーである ポケモンと\xfffeかずかずの げきせんを かちぬいた！\xf000븁\x0000その オレが まけるとは おもえん！\xf000븁\x0000
-げきせんを かちぬいたのは\xfffeオマエの ほうか！？
-こころは おれていない\xf000븁\x0000パートナーと ともに さらなる\xfffeげきせんを かちぬき\xf000븀\x0000もっと つよくなるだけさ
-いままでに きずきあげた\xfffeひっしょうパターン くらいな！\xf000븁\x0000
-はあ……\xfffeしょんぼり
-まけて おちこむのは いっしゅん！\xf000븁\x0000トレーナーの オレが あきらめたら\xfffeポケモンは なにも できないもんな！
-ポケモンリーグを めざせるほどの\xfffeじつりょくか ためしてあげよう！\xf000븁\x0000
-なるほど！ なるほどなるほど！\xfffeなるほどなるほどなるほど！
-おせっかいだが ポケモンリーグには\xfffeつよい チャンピオンが いるらしい\xf000븁\x0000ぼくも いつかは ポケモンリーグに\xfffeちょうせん できるように なるのさ！
-ワタクシ エリートトレーナー！\xfffeいってしまえば すごく つよいのです\xf000븁\x0000もしも この ワタクシが やぶれれば\xfffeこの イッシュちほうが ゆれますよ\xf000븁\x0000
-……ワタクシの そんざいかちが\xfffeいままさに ぐらぐらと ゆれている！
-キミの そんざいは やがて\xfffeこの イッシュちほうを ゆるがす！\xf000븁\x0000まけても キミを たたえることで\xfffeワタクシを おおきく みせているんだ
-ねえねえ！ あたしの ポケモン\xfffeすごいんだ！ みてみて！！\xf000븁\x0000
-ぎゃふん！！
-エリートと よばれちゃうけど\xfffeなんか しっくり こないんだよね\xf000븁\x0000だって ただ ポケモンが すきで\xfffeつよくなりたいだけ なんだもん！
-たとえ でんきが ながれる\xfffeこのような ばしょでも！\xf000븀\x0000いどまれれば こたえます\xf000븀\x0000それが エリートトレーナー！\xf000븁\x0000
-うーん……\xfffeしびれた……！
-でんきの マメちしき！\xf000븁\x0000でんりゅうは プラスから マイナス\xfffeでんしは マイナスから プラスに\xf000븀\x0000それぞれ ながれるんですよ
-じぶんと パートナーの ポケモンを\xfffeきたえるためなら でんき ながれる\xf000븀\x0000この ほらあなにも くるのです！\xf000븁\x0000
-はしる でんげき……\xfffeくずれおちる わたし……！
-でんきが ながれる\xfffeこの ほらあなを このんで\xf000븀\x0000くらす ポケモンたち……\xf000븁\x0000ひとは はいらないほうが\xfffeいいのかも って おもったりしない？
-つよい あいてと たちあい\xfffeおいつき おいこせで\xf000븀\x0000じつりょくを のばしてきた！\xf000븁\x0000あなたたちは つよい！\xfffeぜひ おいこしてみせるわ！\xf000븁\x0000
-おいつくどころでは なかった……\xfffeただもの じゃないわね！！
-まけて おちこむ ヒマなし！\xf000븁\x0000つよく なれるなら\xfffeいくらでも クヨクヨするけどね
-ねむる たましいを よろこばせるのは\xfffeポケモンの あつい たたかいさ！\xf000븁\x0000
-もえさかるような\xfffeたましいの かがやき だ！
-ここ…… タワーオブヘブンにくると\xfffeふしぎと たたかいたく なるんだ\xf000븁\x0000それが いきている ってことかな
-せかいの おわりが しりたくて\xfffeここに いるけれど ピンとこない\xf000븁\x0000しょうぶ してみれば\xfffeなにか わかるのかな……？\xf000븁\x0000
-ジ エンド……\xfffeって わけかな？
-ひとも ポケモンも……\xfffeたとえば せかい すらも\xf000븀\x0000なくなって おわり じゃないんだ\xf000븀\x0000ここにいると そう かんじる
-なんとも いいようのない\xfffeエネルギーが ながれこんでくる！\xf000븁\x0000
-エネルギーが ぬけていく……\xfffeふにゃにゃにゃあ……
-せかいには いろんな\xfffeエネルギーが うずまいているの\xf000븀\x0000ゆめとか きぼうとかね
+I've relentlessly trained\xfffemyself against Mr. Yacon!\xf000븁\x0000Comparing me to the trainers\xfffeover there wouldn't even be fair!\xf000븁\x0000
+Arrrrrgh...\xfffeThis isn't even fair...
+Mr. Yacon is both a gym leader\xfffeand the manager of a company...\xf000븀\x0000It always makes me so mad!
+I was gonna take a little break,\xfffebut then you came into my life!\xf000븁\x0000
+Our meeting was\xfffecertainly good for you!
+It's been over ten years\xfffesince I met my Pokémon!\xf000븀\x0000We're partners who share our souls.
+Even a lost battle\xfffecan be a bittersweet memory...
+Ohhh!\xfffeWhy, what a tough trainer!!
+When you meet a Pokémon Trainer,\xfffeyou must naturally have a battle!\xf000븁\x0000
+Gyahhh...\xfffeI'm no good at this...
+Even meeting someone here...\xfffecould it be part of her guidance?
+Oh? You'd fight an old lady?\xf000븁\x0000No, it's fine!\xfffeFor I have strong Pokémon with me!\xf000븁\x0000
+...So I see.\xfffeShe's gone now...
+...She's gone now.\xf000븁\x0000...No, that's not right.\xfffeAs long as I don't forget her,\xf000븀\x0000we'll always, always be together.
+If you want me to,\xfffeI'll heal up your Pokémon!\xf000븁\x0000However! First, I ask you\xfffeto have a bout with me!\xf000븁\x0000
+What the?! The Pokémon who\xfffelost their fighting fitness... were mine?!
+Well then, as promised.\xfffeLet me heal your Pokémon!\xf000븁\x0000
+To truly make everyone healthy,\xfffea doctor must go everywhere.
+...Seeing you've come such a\xffelong way makes me a happy doctor.\xf000븁\x0000Battle me and win,\xfffeand I'll recover your Pokémon!\xf000븁\x0000
+Even if I didn't heal you,\xfffeyou'd be plenty energetic!
+After a Pokémon battle,\xfffemake sure to take it easy and heal.\xf000븁\x0000
+Health is top priority wherever you go!\xfffeReally, it's very important.
+I've held out through countless fierce\xfffebattles with my Pokémon partners!\xf000븁\x0000I DOUBT I'll lose to you!\xf000븁\x0000
+Wait, YOU held out\xfffethrough the fierce battle?!
+Well, I'm not giving in...\xf000븁\x0000I'll just get stronger with my partners\xfffe'til I can hold out to the end!
+I've found a thus-far consistent\xfffepattern to victory! Take THIS!\xf000븁\x0000
+Huh...\xfffeWell, that sucks.
+The sadness of loss is only momentary!\xf000븁\x0000If I, the trainer, give up,\xfffemy Pokémon can't do anything!
+Do you have the potential to look\xfffetoward the Pokémon League? Let me see!\xf000븁\x0000
+Aha! Aha aha!\xfffeAha-aha-aha-aha-aha! I see!
+I hear there's a powerful\xfffeChampion at the Pokémon League.\xf000븁\x0000I hope that I, too, will someday be\xfffeable to challenge the Pokémon League!
+I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Isshu!\xf000븁\x0000
+...The value of my being is\xfffereally starting to shake down!
+Your very existence will soon\xfffemake all of Isshu shake!\xf000븁\x0000Even if I lost, at least I got to\xfffeshow off while fighting you!
+Heyyy! My Pokémon rock!\xfffeLookit 'em!!\xf000븁\x0000
+Waaaugh!!
+People call me an "ace," but\xfffethat doesn't seem... right, y'know?\xf000븁\x0000I just wanna be strong\xfffe'cause I like Pokémon!
+Just like the flow of electricity,\xfffeI can be anywhere, even here!\xf000븀\x0000And if challenged, I can respond!\xf000븀\x0000That's why I'm an Ace Trainer!\xf000븁\x0000
+Ooh...\xfffeI'm paralyzed...!
+Here's some electrivia!\xf000븁\x0000Current flows from plus to minus,\xfffeelectrons flow from minus to plus!\xf000븀\x0000It goes both ways! That's nuts!
+Electricity must flow if you're to\xfffetrain Pokémon you're partners with...\xf000븀\x0000So it comes even to this cave!\xf000븁\x0000
+The running electricity...\xfffeIt zapped me...!
+Electricity flows in the Pokémon\xfffewho choose to live in this cave...\xf000븁\x0000Don't you think it might be\xfffesmarter for people to not come in?
+When facing off against a strong foe,\xfffeI pass them up and show my power!\xf000븁\x0000You look strong!\xfffeI'll have to pass you up!\xf000븁\x0000
+I couldn't even catch up...\xfffeYou're not anything ordinary!!
+No time to lament my loss!\xf000븁\x0000But once you get stronger,\xfffeyou can mope all you like.
+What really delights the sleeping\xfffespirits is a heated Pokémon battle!\xf000븁\x0000
+Your burning spirit gleams!
+Upon coming to the Tower of Heaven,\xfffeI had a desire to battle a marvel...\xf000븁\x0000Is this what it is to live?
+I'm here because I want to know\xfffeabout the end of the world, but...\xf000븁\x0000If we battle,\xfffeperhaps we'll learn something...?\xf000븁\x0000
+Could this be...\xfffeThe End?
+If not people nor Pokémon...\xfffebut only the world alone vanishes,\xf000븀\x0000that will not be the end.\xf000븀\x0000That's what I feel from being here.
+I'm filled with an\xfffeindescribable energy!\xf000븁\x0000
+The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
+The world has many kinds of\xfffeenergies flowing around in it.\xf000븀\x0000Like hopes, like dreams...
 ……まだ たたかいたい！\xfffeさまよう たましいが そういうの！\xf000븁\x0000
 ハァハァ……\xfffeちょっと おちついたみたい
 ここ…… タワーオブヘブンは\xfffeあるいみ いきたい という きもちで\xf000븀\x0000いっぱいの くうかん なのね
@@ -462,9 +462,9 @@ I'm worn out, but\xfffeboiling over with emotions...\xf000븀\x0000What can I sa
 パラソルを くるりと まわせば\xfffeあめの なか さいた はなのよう！\xf000븁\x0000
 うげ……\xfffeちょっと！！
 あめのひに かさをさすのも\xfffeコートをきるのも ぬれちゃうのも\xf000븀\x0000すきなように すれば いいの！
-ボクは おぼっちゃま だからね\xfffeすんごい ポケモン もってるのさ！\xf000븁\x0000
-ボクは おぼっちゃま だからね\xfffeまけても くやしくないのさ！ フン！
-ボクは おぼっちゃま だからね\xfffeがっつり かいものを するのさ！
+I am a privileged youth, thus...\xfffeI have Pokémon of the highest quality!\xf000븁\x0000
+I am a privileged youth, thus,\xfffeeven if I lose, I feel no regret! Hmph!
+I am a privileged youth, thus...\xfffeI'm going to go on a shopping spree!
 ショッピングづかれで やすんでいても\xfffeしょうぶは よろこんで いたします！\xf000븁\x0000
 んま！ ショッピングなら\xfffeひけを とりませんのに！
 ショッピングモールの しなぞろえには\xfffeリッチな わたくしでも だいまんぞく\xf000븀\x0000あれも これも ほしくなりますわ！
@@ -668,9 +668,9 @@ You're a most elegant and\xfffeexcellent trainer, you are.\xf000븁\x0000Your Po
 Do you believe we come to mutual\xfffeunderstanding through Pokémon battles?
 I overflow with a love for my friends\xfffefrom my ancestors! Let me show you!
 My friends are wounded...\xfffeThis is what a Pokémon battle does!
-チッ！\xfffeいつもいつも……
-トモダチが おいこまれる ようすは\xfffeみていて たのしくないね
-まあいいさ\xfffeこの はいぼくは わかっていた
+Feh!\xfffeAs always, as always...
+It's no fun to see\xfffemy friends cornered...
+Very well...\xfffeI understand it is my defeat.
 ...You think you\xfffecan stop us with that?!
 My final friend...\xfffeLend me your courage!
 Do you mean the world has\xfffechosen not me, but you?!
@@ -843,17 +843,17 @@ Hahhh, hahhh, hahhh, hahhh...
 Temp Message
 Temp Message
 Temp Message
-いきものが ぜんりょくで\xfffeうごく うつくしさ！\xf000븁\x0000あぁっ！\xfffeもっと ちかくで みさせておくれ！\xf000븁\x0000
-しかと みとどけたっ！
-いやー ぜんりょくをだす いきものは\xfffeいつだって うつくしいよね
-おいらに かったら\xfffeこの バックパックの なかの\xf000븀\x0000いいもの あげるよ！\xf000븁\x0000
-すごいね！\xfffeつよいな！
-はい これ\xfffeやくそくどおり あげる！\xf000븁\x0000
-やまや もりを\xfffeおもいきり はしりまわるって\xf000븀\x0000きもち いいもんな！
-タビノ トチュウニ キテミタ ケレド\xfffeナンダカ ココハ ニギヤカ デスネ\xf000븁\x0000
-ココデハ フェスティバル デモ\xfffeヤッテ イルノ デスカ？
-タビノ トチュウデ ミツケタモノデス\xfffeワタシ イラナイ アナタ アゲマス\xf000븁\x0000
-ミンナ オナジ ヨウナ ファッション\xfffeコレハ ナニカノ ギシキ デスカ？
+The beauty of living things\xfffemoving with all their might!\xf000븁\x0000Ahhh!\xfffeLet me see it closer!\xf000븁\x0000
+Yes, I've seen it clearly!
+Ah... living things giving it their all\xfffewill always be too beautiful!
+Beat me, and I'll give you\xfffesomethin' good from my backpack!\xf000븁\x0000
+Nice!\xfffeYou're strong!
+Okay, take this.\xfffeAs promised!\xf000븁\x0000
+Running around mountains and forests\xfffewith resolve is a great feeling!
+I CAME HERE ON MY JOURNEY\xfffeBUT THIS PLACE IS VERY BUSY\xf000븁\x0000
+IS THERE A FESTIVAL\xfffeGOING ON HERE
+I FOUND THIS ON MY JOURNEY\xfffeI DON'T NEED IT YOU TAKE IT\xf000븁\x0000
+EVERYONE HAS SIMILAR FASHION HERE\xfffeIS THIS SOME KIND OF CEREMONY
 スポーツせんしゅ って\xfffeきっと まんぞく していないわよね\xf000븁\x0000おばさん しあいを みていて\xfffeそう かんじるんだよね\xf000븁\x0000りゆう？ おばさんに かてたら\xfffeはなしてあげるわよ！\xf000븁\x0000
 あなたは かって まんぞく？\xfffeそれとも なっとく してない？
 この モーモーミルクは\xfffeおいしいから だいまんぞく よ！\xf000븁\x0000
