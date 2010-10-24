@@ -1,4 +1,4 @@
-アララギ『おう！ \xf000Ā\x0001\x0000くん\xfffe\xf000ā\x0001\x0001の ようすは どうかね？\xf000븁\x0000
+﻿アララギ『おう！ \xf000Ā\x0001\x0000くん\xfffe\xf000ā\x0001\x0001の ようすは どうかね？\xf000븁\x0000
 おお！ この \xf000ā\x0001\x0001\xfffeおまえさんに なついているんだな\xf000븁\x0000
 なるほど おまえさん\xfffe\xf000ā\x0001\x0001を きびしく そだてるのか\xf000븁\x0000
 ポケモンずかんも だいじだが\xfffeこうして いっしょに すごす\xf000븀\x0000\xfffeじかんが なにより だもんな\xf000븁\x0000\xfffeところで おまえさん\xfffeリュウラセンのとうを\xf000븀\x0000\xfffeしっておるかね？
@@ -34,7 +34,7 @@ no data
 あさも よるも まざり\xfffeすべてが ゆるされる♪
 しっちを あるけば ビックリした\xfffeやせいの ポケモンが でてくるよ！
 しっちが こおって ツルツル……\xfffeしっちの ポケモン げんきかな？
-Sekka City\xfffeThe Shining Snow Flower
-Loving all Pokémon\xfffeThe Pokémon Fan Club
+Sekka City\xfffeThe sky's sparking snow flower!
+Loving all Pokémon!\xfffeThe Pokémon Fan Club
 no data
 Sekka Pokémon Gym\xfffeLeader: Hachiku\xf000븀\x0000\xfffeThe Mask of Ice
