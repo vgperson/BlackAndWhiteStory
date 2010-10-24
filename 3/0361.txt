@@ -1,4 +1,4 @@
-チェレン『\xf000Ā\x0001\x0000 ストップ！\xf000븁\x0000ボルトバッジを もつもの どうし\xfffeどちらが つよいか たしかめる！\xf000븀\x0000というか かたせてもらうよ\xf000븁\x0000
+﻿チェレン『\xf000Ā\x0001\x0000 ストップ！\xf000븁\x0000ボルトバッジを もつもの どうし\xfffeどちらが つよいか たしかめる！\xf000븀\x0000というか かたせてもらうよ\xf000븁\x0000
 チェレン『……どうして？\xfffeどうして きみに かてない？\xf000븁\x0000
 カミツレ『あなたたち\xfffeともだち どうし なんだ……\xf000븁\x0000いいわね\xfffeそうやって おたがい きそいあい\xf000븀\x0000たかめあうのって\xf000븁\x0000
 さ いきましょう\xf000븁\x0000
@@ -47,7 +47,7 @@
 ポケモンも パフォーマーも みんな\xfffeすごい わざの もちぬし なのね！
 だれかを えがおに できるなんて\xfffeすてきな さいのうだと おもうな！\xf000븁\x0000そう！ ポケモンは ステキなの！\xfffeだって アナタを えがおにするもの！
 ろじょうパフォーマンスも\xfffeライモンの みりょく だなや！
-Route 5\xfffe Street Performances
+Route 5\xfffePerformer's Street
 Hodomoe Drawbridge
 Hodomoe Drawbridge
-Trainer Tips\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.
