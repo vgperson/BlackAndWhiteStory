@@ -41,7 +41,7 @@ Your magnificence overwhelmed my\xfffeability to remember what I studied!\xf000�
 I've been standing here and thinking\xfffeabout some new strategies!\xf000븁\x0000
 I got too confused\xfffeabout how to battle...
 They say there might be\xfffea rare Pokémon in shaking grass?\xf000븀\x0000The more you know!
-Even yet-untrained Pokémon,\xfffecan still demonstrate strength,\xf000븀\x0000given the trainer fights with them right!\xf000븁\x0000
+Even yet-untrained Pokémon\xfffecan still demonstrate strength,\xf000븀\x0000given the trainer fights with them right!\xf000븁\x0000
 Oh, such a pity!\xfffeI lost...
 I feel bad when Pokémon lose\xfffebecause of their trainer...\xf000븀\x0000Trainers bear a heavy responsibility!
 The joy of journeying the world\xfffeis in meeting countless Pokémon...\xf000븀\x0000Now let our Pokémon duel!\xf000븁\x0000
@@ -142,7 +142,7 @@ Sanyou Gym prides itself upon\xfffea full course of trainers!\xf000븀\x0000The 
 Aha, NOW I get to see\xfffewhat kind of trainer you are!
 Even in these circumstances,\xfffeI can find a way to win!
 Now that was really something!\xfffeAin't you just charming!
-I frequent Shippo Gym,\xfffeso people call my a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
+I frequent Shippo Gym,\xfffeso people call me a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a whole book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
 They call me a bookworm,\xfffebut I'm not a bug-type Pokémon!
 My first recommendation\xfffeis "Hello, My Pokémon."\xf000븁\x0000It's on the shelf for children's books\xfffenear the entrance.
 Wooooow!\xfffeI lost, but still, thanks for the battle!
@@ -221,7 +221,7 @@ Blend too much into the wild,\xfffeand of course, people won't\xf000븀\x0000not
 Okay! Let's take\xfffea deep breath together!\xf000븁\x0000Breeeeeathe... haaah...\xfffeBreeeeeathe... haaah...\xf000븁\x0000Okay! Next,\xfffelet's battle Pokémon!\xf000븁\x0000
 In this state of affairs...\xfffeAll I can manage is a sigh.
 Take this from me, too!\xf000븁\x0000
-Various Pokémon are\xfffein various places...\xf000븁\x0000Does that many everyone\xfffehas a particular place?
+Various Pokémon are\xfffein various places...\xf000븁\x0000Does that mean everyone\xfffehas a particular place?
 Without disturbing Mother Nature...\xfffeWe grow more powerful.\xf000븀\x0000That's the strength of a Ranger!\xf000븁\x0000
 You, too, join forces\xfffewith your Pokémon!
 Take a small part of the power\xfffeI've received from Mother Nature.\xf000븁\x0000
@@ -232,7 +232,7 @@ Why are Pokémon\xfffeand people together...?\xf000븁\x0000I hypothesize that i
 If you make use of what you\xfffehave learned, you too may win!\xf000븁\x0000
 But I've even\xfffebeaten my teacher before...
 Knowing and doing seem similar,\xfffebut are actually very different.
-My Pokémon are awesome!\xffeBattle 'em and you'll know why!\xf000븁\x0000
+My Pokémon are awesome!\xfffeBattle 'em and you'll know why!\xf000븁\x0000
 So... hey! Did you get\xfffewhy my Pokémon are so awesome?!
 My Pokémon are awesome because...!\xf000븁\x0000Um...\xf000븁\x0000I dunno, I have a bunch?
 Bundle up when it's cold!\xfffe'Tis the wisdom of humans!\xf000븁\x0000
@@ -813,13 +813,13 @@ So what did you think?!\xfffe...I'm such a sore loser.
 PLASMAAAAA!\xfffeT-The dreams...!
 PLASMAAAAA!\xfffeThis is a nightmare!
 Whoa, whoa, whoa! Losin' to a runt?\xfffeNow that's a shocker!
-まなんだ ちしきを モノにするには\xfffeじっさいに つかうのが いちばん！\xf000븁\x0000
-まけて わかることも あるわ\xfffeなるほどって かんじ！
-こうやって ちしきを けいけんで\xfffeりったいてきに とらえていくの！
-なんだよ！ こどもの くせに！！\xfffeしゃらくさいんだよ！！！
-われらと おまえとでは\xfffeルールが ちがうのだ！
+The best way of using what you\xfffelearn is applying it practically!\xf000븁\x0000
+I know I have to lose sometimes!\xfffeBut I think I really GET it now!
+Developing your knowledge like this\xfffeis like making it three-dimensional!
+What the?! But you're just a kid!!\xfffeYou little HOOCHEE!!!
+You and us are clearly\xfffeplaying by different rules!
 PLASMAAAAA! Alas,\xfffethe Pokémon couldn't be saved!
-ひょっとして この ファッションに\xfffeヤキモチやいて ジャマしてるの？
+Perhaps you're only in my way\xfffe'cause you're jealous of my fashion?
 I know full well the value\xfffeof getting the first strike!
 If I show the full power of my Pokémon,\xfffeI can still turn this around!
 ...Well done.\xfffeBut why can't I win?!
@@ -1287,15 +1287,15 @@ G... Giving it my all!\xfffeMe AND my Pokémon!
 Alrighty then!\xfffeThis one's up next!
 Wait wait wait...\xfffeAm I in trouble here?!
 Whoaaa...\xfffeI couldn't win...
-ねえねえ トレーナー！\xf000븁\x0000ぼくが どんな ポケモンを\xfffeもってるか みせてあげるよ！\xf000븁\x0000
-ボクの ポケモン みてくれた？\xfffeがんじょうで すごいでしょ！
-とくせい がんじょうの ポケモンは\xfffeいちげきで たおされないんだよ！
-ねえねえ トレーナーさん！\xfffeどんな ポケモンさんと いっしょか\xf000븀\x0000みせてちょーだい！\xf000븁\x0000
-すごーい すごーい！\xfffeそんな そだてかた あるんだね！
-しんか させると\xfffeポケモンは つよくなるでしょ\xf000븁\x0000でも しんか させないと\xfffeはやく わざを おぼえるのよ
-すなあらしで まえが\xfffeよく みえません！\xf000븁\x0000みえないから あたし\xfffeあなたと たたかっちゃいます！\xf000븁\x0000
+Hey, hey, trainer!\xf000븁\x0000Lemme show you\xfffethe Pokémon I have!\xf000븁\x0000
+Did you see my Pokémon?\xfffeIt's so sturdy, it's awesome!
+Pokémon with the ability Sturdy\xfffecan't be fainted in a single blow!
+Hey, hey, trainer!\xfffeWhat Pokémon do you have?\xf000븀\x0000I wanna seeeee!\xf000븁\x0000
+Whoa! AWESOME!\xfffeI didn't know you could train like that!
+Evolving Pokémon makes\xfffethem strong, right?\xf000븁\x0000But if you don't evolve them,\xfffethey learn moves sooner!
+I can't see ahead\xfffeof me in the sandstorm!\xf000븁\x0000I can't see you,\xfffeso I'll battle you instead!\xf000븁\x0000
 SAAAANDSTOOOORM!
-すなあらしを さけるための\xfffeパラソル じゃないのに……\xf000븁\x0000ああ！ ４ばんどうろに\xfffeわたしの ナミダが ふりそそぐ……
+This parasol wasn't designed\xfffefor protection from sandstorms...\xf000븁\x0000Waaah! Curse you, Route 4!\xfffeMy tears won't stop...
 いっぽんばし での けっとう！\xfffeなんだか かっこいいですな\xf000븁\x0000
 まけると かっこわるいですな\xfffeいやいや あなたが かっこいいです
 いっぽんばしの うえで\xfffeぐらぐら ゆれるのが いいですな！
@@ -1389,10 +1389,10 @@ Is strength a matter of not being beaten?\xfffeOr is it all about winning?
 こだかい おかの うえ……\xfffeむかいあう きみと わたし……\xf000븁\x0000
 こだかい おかの うえ……\xfffeまけて ことばの でない わたし……
 こだかい おかの うえ……\xfffeわたしは なにを みているか……\xf000븁\x0000それは いままで むきあった\xfffeかずかずの トレーナー……\xf000븁\x0000あと なんにんと たたかえるか……\xfffeすべての しょうぶを だいじにしよう
-ヤグルマのもりに いくの？\xfffeそれとも ためしのいわ？\xf000븁\x0000どちらにしても たくましくないと\xfffeたちつくす ことに なるわよ！\xf000븁\x0000
-あら やだ……\xfffeすごく たくましいのね！
-たくましい トレーナーさん！\xf000븁\x0000あなたの ポケモンを\xfffeアタシが げんきに してあげますね\xf000븁\x0000
-ヤグルマのもりの ちかくには\xfffeどくなど じょうたいいじょうに なる\xf000븀\x0000わざを つかう ポケモンが おおいわ\xf000븁\x0000なにかあれば アタシに いってね！
+Going to Yaguruma Forest?\xfffeOr going to smash rocks?\xf000븁\x0000Either way, you must be tough, else\xfffeyou'll get stopped in your tracks!\xf000븁\x0000
+Oh, no more...!\xfffeYou're very tough!
+Tough trainer!\xf000븁\x0000Let me heal your\xfffePokémon for you!\xf000븁\x0000
+In and around Yaguruma Forest\xfffeare many Pokémon with moves\xf000븀\x0000that cause effects like poison.\xf000븁\x0000You need anything, come to me!
 まさに バッド！
 バリバリだぜー！
 ムムム……！？\xfffeあらわれたのは きみか？\xf000븁\x0000

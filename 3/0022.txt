@@ -6,12 +6,12 @@ Hmm! Every time I behold this skeleton...\xfffeit's simply charming!\xf000븁\x0
 Oh, hello.\xfffeI'm the vice-curator, Kidachi.\xf000븁\x0000You've come a long way. Allow me\xfffeto guide you around the building!\xf000븁\x0000
 This skeleton...\xfffeIt's from a dragon-type Pokémon.\xf000븁\x0000Perhaps there was some form of\xfffedisaster while it still roamed the lands,\xf000븀\x0000leaving it to fossilize like so.\xf000븁\x0000
 This is an impressive stone.\xfffeIt's a meteorite!\xf000븁\x0000It would appear to contain\xfffesome kind of mystical space energy.\xf000븁\x0000
-Ah, this is...\xfffejust a plain old stone.\xf000븁\x0000It was found in the desert,\xfffebut the only value it has\xf000븀\x0000going for it is that it's old...\xf000븁\x0000But it's quite pretty,\xfffeso we put it up on display.\xf000븁\x0000
+Ah, this is...\xfffejust a plain old stone.\xf000븁\x0000It was found in the desert,\xfffebut the only value it has going\xf000븀\x0000for it is that it's old...\xf000븁\x0000But it's quite pretty,\xfffeso we put it up on display.\xf000븁\x0000
 Beyond here, the museum\xfffebecomes a Pokémon gym.\xf000븁\x0000
 Furthest in, you'll find the strong,\xfffeyet kind gym leader awaiting.\xf000븁\x0000Oh... and by the way,\xfffegym leader Aloe is my wife.\xf000븁\x0000
 Furthest in, you'll find the strong,\xfffeyet kind gym leader awaiting.\xf000븁\x0000Oh... and by the way,\xfffegym leader Aloe is my wife.
 Aloe: Hold up, you!\xfffeStop foolin' around!!\xf000븁\x0000
-Grunt: Oh, you came, gym leader?\xf000븁\x0000We're going to take this museum's Dragon\xfffeSkull for our cause of liberating Pokémon!\xf000븁\x0000
+Grunt: Oh, you came, gym leader?\xf000븁\x0000We're going to take this Dragon Skull\xfffefor our cause of liberating Pokémon!\xf000븁\x0000
 Grunt: And to show you we're serious,\xfffewe'll do it right before your eyes!\xf000븁\x0000
 Grunt: Alright! Smokescreen!\xf000븁\x0000
 Plasmaaaaa!
@@ -20,12 +20,12 @@ Aloe: What in the name of...\xf000븁\x0000
 Kidachi: Uh... uh?!\xfffeWe've got to chase them down!\xf000븁\x0000
 Kidachi: Aloe really loves that skull...
 Belle: I can't let these\xfffejerk thieves get away with this!!
-Cheren: Great, so Team Plasma's preventing\xfffeus from fighting the gym leader...?\xf000븁\x0000Just my luck... what a pain.
+Cheren: Great, so Team Plasma's keeping\xfffeus from fighting the gym leader...?\xf000븁\x0000Just my luck... what a pain.
 Fossil specimens\xfffeare truly wondrous...\xf000븁\x0000Normally, the bare-bones design is\xfffefunctionally invisible from the outside.\xf000븁\x0000It brings new meaning to the notion\xfffeof something's true nature... how fascinating.
-Rare things gathered from the world over...\xfffeMuseums are truly enchanting!
-Whoaaaaa!
+Rarities gathered from the world over...\xfffeMuseums are truly enchanting!
+Whoaaaaa! AHHHHH!
 The gym leader here also does\xffferesearch in fossils and Pokémon bones!
-The sheer audacity of those thieves...\xf000븁\x0000They really do seem to believe\xfffethat what they're doing is just.
+The sheer audacity of these thieves...\xf000븁\x0000They really do seem to believe\xfffethat what they're doing is just.
 Do you think any Pokémon might have\xfffecome from space, along with meteorites?
 What are those fools\xfffein Team Plasma THINKING?!
 A fossil specimen of a Pokémon\xfffethat once flew throughout the world.
@@ -33,6 +33,6 @@ The skull stolen by Team Plasma\xfffeis still missing!!
 The fossil of a Pokémon\xfffeprotected by a very hard shell.
 A meteorite carrying\xfffespace viruses.
 An ancient, round rock\xfffefound buried in the desert.
-A slate with letters enscribed\xfffein a yet-undeciphered script.
+Slates with letters enscribed\xfffein a yet-undeciphered script.
 A mask once used by\xfffeancient people in festivals.
 A bone used by a\xfffecertain Pokémon as a weapon.
