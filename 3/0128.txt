@@ -1,22 +1,22 @@
-シャガ『……では はなそう\xf000븁\x0000きみが もっているのは\xfffeダークストーン だな\xf000븁\x0000ダークストーンから\xfffeめざめるだろう ゼクロム\xf000븀\x0000すでに めざめた レシラムは\xf000븀\x0000もともと いっぴきの ポケモンだった\xf000븁\x0000
-シャガ『……では はなそう\xf000븁\x0000きみが もっているのは\xfffeライトストーン だな\xf000븁\x0000ライトストーンから\xfffeめざめるだろう レシラム\xf000븀\x0000すでに めざめた ゼクロムは\xf000븀\x0000もともと いっぴきの ポケモンだった\xf000븁\x0000
-アイリス『……その いっぴきの\xfffeドラゴンポケモンは\xf000븁\x0000ふたごの えいゆうと ともに\xfffeあたらしい くにを つくり\xf000븁\x0000ひとと ポケモン\xfffeしあわせな ひびを すごしていたんだ！\xf000븁\x0000
-シャガ『だが あるひの こと……\xf000븁\x0000ふたごの えいゆうは\xfffeしんじつを もとめる あに と\xf000븀\x0000りそうを もとめる おとうと に\xf000븁\x0000わかれ どちらが ただしいか\xfffeきめるべく あらそいを はじめた……\xf000븁\x0000ふたごと ともに あゆんできた\xfffeいっぴきの ドラゴンは\xf000븀\x0000その からだを ふたつに わかち\xfffeあにと おとうと\xf000븀\x0000それぞれの みかたを した……\xf000븁\x0000
-シャガ『だが あるひの こと……\xf000븁\x0000ふたごの えいゆうは\xfffeしんじつを もとめる あに と\xf000븀\x0000りそうを もとめる おとうと に\xf000븁\x0000わかれ どちらが ただしいか\xfffeきめるべく あらそいを はじめた……\xf000븁\x0000ふたごと ともに あゆんできた\xfffeいっぴきの ドラゴンは\xf000븀\x0000その からだを ふたつに わかち\xfffeあにと おとうと\xf000븀\x0000それぞれの みかたを した……\xf000븁\x0000
-アイリス『しんじつを もとめ\xfffeあらたなる ぜんの せかいに\xf000븀\x0000みちびく しろき ドラゴン……\xf000븁\x0000その なも レシラム\xf000븁\x0000そして もういっぴき\xf000븁\x0000りそうを もとめ\xfffeあらたなる きぼうの せかいに\xf000븀\x0000みちびく くろき ドラゴン……\xf000븁\x0000その なも ゼクロム\xf000븁\x0000
-アイリス『りそうを もとめ\xfffeあらたなる きぼうの せかいに\xf000븀\x0000みちびく くろき ドラゴン……\xf000븁\x0000その なも ゼクロム\xf000븁\x0000そして もういっぴき\xf000븁\x0000しんじつを もとめ\xfffeあらたなる ぜんの せかいに\xf000븀\x0000みちびく しろき ドラゴン……\xf000븁\x0000その なも レシラム\xf000븁\x0000
-シャガ『２ひきは もともと\xfffeどういつの そんざい ゆえ\xf000븀\x0000あらそいは はげしく なるばかり\xf000븁\x0000どちらが かつとも いえず\xfffeただただ つかれはてていった……\xf000븁\x0000ふたごの えいゆうも\xfffeこの あらそいは どちらかだけが\xf000븀\x0000ただしいのでは ない……\xf000븀\x0000そういって あらそいを おさめた……\xf000븁\x0000
-アイリス『なのに なのに……\xfffeえいゆうの むすこたちが\xf000븀\x0000また あらそいを はじめちゃって……\xf000븁\x0000レシラムと ゼクロムは\xfffeほのおと いなずまで\xf000븁\x0000イッシュを いっしゅんで ほろぼし\xfffeすがたを けしちゃったって……\xf000븁\x0000だけどね ひとが ポケモンとの\xfffeつきあいかたを まちがえなければ\xf000븀\x0000せかいを ほろぼしたり しないよ\xf000븁\x0000だって レシラムも ゼクロムも\xfffeみんなのために がんばって\xf000븀\x0000あたらしい くにを つくったんだもん！\xf000븁\x0000だから だから……！\xf000븁\x0000
-アイリス『なのに なのに……\xfffeえいゆうの むすこたちが\xf000븀\x0000また あらそいを はじめちゃって……\xf000븁\x0000ゼクロムと レシラムは\xfffeいなずまと ほのおで\xf000븁\x0000イッシュを いっしゅんで ほろぼし\xfffeすがたを けしちゃったって……\xf000븁\x0000だけどね ひとが ポケモンとの\xfffeつきあいかたを まちがえなければ\xf000븀\x0000せかいを ほろぼしたり しないよ\xf000븁\x0000だって ゼクロムも レシラムも\xfffeみんなのために がんばって\xf000븀\x0000あたらしい くにを つくったんだもん！\xf000븁\x0000だから だから……！\xf000븁\x0000
-シャガ『……たしかに\xfffeポケモンは ものを いわぬ\xf000븁\x0000それゆえ ひとが ポケモンに\xfffeかってな おもいを かさね\xf000븀\x0000つらい おもいを させるかも しれぬ\xf000븁\x0000だが それでもだ！\xf000븁\x0000われわれ ポケモンと ひとは\xfffeおたがいを しんじ ひつようとし\xf000븀\x0000これからも いきていく……\xf000븁\x0000
-アイリス『そーなのッ！！\xf000븁\x0000だから だからねっ\xfffeポケモンと あたしたちを\xf000븀\x0000わかれさせようとする\xf000븁\x0000プラズマだん なんか\xfffeぜったい ゆるさないんだからッ！\xf000븁\x0000
-シャガ『……すまない\xfffeさいご はなしが それてしまったが\xf000븁\x0000わたしたちが\xfffeしっていることは いじょうだ\xf000븁\x0000ざんねんながら でんせつの\xfffeドラゴンポケモンを めざめさせる\xf000븀\x0000ほうほうは わからぬ……\xf000븁\x0000
-シャガ『……さて アデクとの\xfffeやくそく だったね\xf000븁\x0000きみは ソウリュウ ポケモンジムの\xfffeジムバッジを てにいれねば ならない\xf000븁\x0000
-では アイリスや\xf000븁\x0000ポケモンジムにて \xf000Ā\x0001\x0000の\xfffeあいてを してあげなさい\xf000븁\x0000
-アイリス『ハーイッ！！\xf000븁\x0000あたしも シャガおじーちゃん みたく\xfffeものすごーく つよいんだからね！\xf000븁\x0000
-では \xf000Ā\x0001\x0000\xf000븁\x0000ポケモンジムにて\xfffeきみの ちょうせんを まつ！\xf000븁\x0000
-シャガ『……ひとと ポケモンの\xfffeくらす せかいを\xf000븀\x0000かんぜんに わけて どうなる？\xf000븁\x0000いまのように すべてが まじりあい\xfffeあらゆる そんざいを みとめ ゆるす\xf000븁\x0000それこそが ゆたかに なれる\xfffeかんがえかた だと しんじている
-アイリス『ポケモンも ひとも\xfffeみんな なかよしで いいんだよね！
+﻿Shaga: ...Well, I'll start.\xf000븁\x0000That's the Dark Stone\xfffeyou have there.\xf000븁\x0000Zekrom, who will awake\xfffefrom the Dark Stone,\xf000븀\x0000and the already-awakened Reshiram\xf000븀\x0000were originally one Pokémon.\xf000븁\x0000
+Shaga: ...Well, I'll start.\xf000븁\x0000That's the Light Stone\xfffeyou have there.\xf000븁\x0000Reshiram, who will awake\xfffefrom the Light Stone,\xf000븀\x0000and the already-awakened Zekrom\xf000븀\x0000were originally one Pokémon.\xf000븁\x0000
+Iris: ...That one dragon Pokémon made a\xfffenew land together with twin heroes.\xf000븁\x0000And people and Pokémon\xfffelived their days happily!\xf000븁\x0000
+Shaga: But one day...\xf000븁\x0000The older of the two heroes\xfffesought the truth,\xf000븀\x0000and the younger sought the ideal.\xf000븁\x0000A dividing struggle began\xfffeto decide who was right...\xf000븁\x0000The single dragon that had\xfffewalked with the twins\xf000븀\x0000was also split into two\xfffeto support both...\xf000븁\x0000
+Shaga: But one day...\xf000븁\x0000The older of the two heroes\xfffesought the truth,\xf000븀\x0000and the younger sought the ideal.\xf000븁\x0000A dividing struggle began\xfffeto decide who was right...\xf000븁\x0000The single dragon that had\xfffewalked with the twins\xf000븀\x0000was also split into two\xfffeto support both...\xf000븁\x0000
+Iris: A light dragon that searched\xfffethrough the world of the past\xf000븀\x0000for the truth...\xf000븁\x0000Its name was Reshiram.\xf000븁\x0000And another...\xf000븁\x0000A dark dragon that searched\xfffethrough the new, hopeful world\xf000븀\x0000for its ideal...\xf000븁\x0000Its name was Zekrom.\xf000븁\x0000
+Iris: A dark dragon that searched\xfffethrough the new, hopeful world\xf000븀\x0000for its ideal...\xf000븁\x0000Its name was Zekrom.\xf000븁\x0000And another...\xf000븁\x0000A light dragon that searched\xfffethrough the world of the past\xf000븀\x0000for the truth...\xf000븁\x0000Its name was Reshiram.\xf000븁\x0000
+Shaga: The two being equal entities\xfffefrom the very start\xf000븀\x0000only made the quarrel more violent.\xf000븁\x0000Whichever side won, they would\xfffeend up absolutely exhausted...\xf000븁\x0000The twin heroes, too,\xfffecould not find either to be right\xf000븀\x0000in their struggle...\xf000븀\x0000So the struggle was ended...\xf000븁\x0000
+Iris: And yet, yet, yet... the hero's\xfffesons began to struggle again...\xf000븁\x0000So Reshiram and Zekrom\xfffeused their flames and lightning\xf000븁\x0000to eradicate Isshu in an instant...\xf000븁\x0000But if people hadn't been mistaken\xfffeabout how to get along with Pokémon,\xf000븀\x0000the world wouldn't have been destroyed!\xf000븁\x0000So Reshiram and Zekrom did their best\xfffefor everyone and made a new land!\xf000븁\x0000And so so so...!\xf000븁\x0000
+Iris: And yet, yet, yet... the hero's\xfffesons began to struggle again...\xf000븁\x0000So Zekrom and Reshiram\xfffeused their lightning and flames\xf000븁\x0000to eradicate Isshu in an instant...\xf000븁\x0000But if people hadn't been mistaken\xfffeabout how to get along with Pokémon,\xf000븀\x0000the world wouldn't have been destroyed!\xf000븁\x0000So Zekrom and Reshiram did their best\xfffefor everyone and made a new land!\xf000븁\x0000And so so so...!\xf000븁\x0000
+Shaga: ...I'm certain Pokémon\xfffedon't need possessions.\xf000븁\x0000As people continue having\xfffetheir own thoughts on Pokémon,\xf000븀\x0000some of them may be hateful...\xf000븁\x0000But even so!\xf000븁\x0000It is necessary for Pokémon and people\xfffeto believe in each other\xf000븀\x0000to continue living...\xf000븁\x0000
+Iris: Yow, that's right!!\xf000븁\x0000And so so sooo!\xfffeWe just CAN'T let Team Plasma\xf000븀\x0000separate us from our Pokémon!\xf000븁\x0000
+Shaga: ...I'm sorry, that last part\xfffewas a bit off-topic.\xf000븁\x0000But that's all\xfffewe can tell you.\xf000븁\x0000Unfortunately, we know nothing\xfffeabout how to awaken\xf000븀\x0000the legendary dragon Pokémon...\xf000븁\x0000
+Shaga: ...Well, I made\xfffea promise to Adeku.\xf000븁\x0000You'll have to come get\xfffethe Souryuu gym badge.\xf000븁\x0000
+So, Iris...\xf000븁\x0000Face off against \xf000Ā\x0001\x0000\xfffeat the Pokémon gym.\xf000븁\x0000
+Iris: You BET!!\xf000븁\x0000Watch out, 'cause I'm just as big\xfffeof a doozy as Uncle Shaga!\xf000븁\x0000
+Well then, \xf000Ā\x0001\x0000.\xf000븁\x0000I await your challenge\xfffeat the Pokémon gym!\xf000븁\x0000
+Shaga: ...How would our world of people\xfffeand Pokémon co-existing be perfectly split...?\xf000븁\x0000As they are now, everything is allowed\xfffeto intermingle with everthing else.\xf000븁\x0000I believe that makes for\xfffean abundance in ways of thinking.
+Iris: It's great when everyone can\xfffeget along, Pokémon and humans!
 no data
 no data
 no data
