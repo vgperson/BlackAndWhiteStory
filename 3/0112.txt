@@ -1,6 +1,6 @@
 ﻿Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
 Can I take a quick look at your\xfffePokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
-Oh! And you've found Gear?!\xfffeYou're quite the trainer!\xf000븁\x0000
+Oh! And you've found Giaru?!\xfffeYou're quite the trainer!\xf000븁\x0000
 Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Araragi!\xf000븁\x0000
 That's right! My daughter is the\xfffeone who made your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts\xfffeof things about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
 So in comemmoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
@@ -13,10 +13,10 @@ Araragi: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\x
 Well, Flo, if anything comes up\xfffeagain, I'm counting on you!\xf000븁\x0000
 Flo: ...Professor, my plane's\xfffea cargo plane!\xf000븁\x0000It carries luggage, not people.\xf000븁\x0000...Not to mention places like Kanto\xfffeand Sinnoh aren't easy destinations!\xf000븁\x0000
 Araragi: Hey, now, don't be\xfffeso harsh while you're making\xf000븀\x0000\xfffesuch a cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two,\xfffehope we meet again!\xf000븁\x0000
-Flo: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-\xffferenowned Pokémon professor!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
+Flo: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-renowned\xfffePokémon professor!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
 Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
 Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
-Earlier, when I was flying my cargo\xfffeplane...\xf000븁\x0000I saw something atop\xfffethe Tower of Heaven.\xf000븁\x0000It was a weakened Pokémon,\xfffeI'm sure of it!\xf000븁\x0000
+Earlier, when I was flying\xfffemy cargo plane...\xf000븁\x0000I saw something atop\xfffethe Tower of Heaven.\xf000븁\x0000It was a weakened Pokémon,\xfffeI'm sure of it!\xf000븁\x0000
 I can't very well ignore it,\xfffenow can I?\xf000븁\x0000So I'm going ahead and investigating!\xf000븁\x0000That said, I'm going to the\xfffeTower of Heaven on Route 7...\xf000븀\x0000And if you want, you can come too.\xf000븁\x0000
 フウロさん\xf000븁\x0000かもつきの そうじゅうを おえて\xfffeどこに いっちゃったんですかね\xf000븁\x0000ひょっとして ７ばんどうろの\xfffeタワーオブヘブン っすか？
 N: \xf000븉\x0001\x0001...To understand each other,\xfffetrainers struggle through battle,\xf000븀\x0000and wound Pokémon in the process.\xf000븁\x000Am I the only one? The only one\xfffewho sees how very painful it is?\xf000븁\x0000Regardless... I have\xfffespoken to your Pokémon...\xf000븁\x0000...Since the day I was born,\xfffeI have been brought up with Pokémon.\xf000븀\x0000It's more comfortable to me\xf000븀\x0000than talking with people.\xf000븁\x0000So I know Pokémon cannot ever lie.\xf000븉\x0001\x0000\xf000븁\x0000
