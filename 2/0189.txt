@@ -568,17 +568,17 @@ I've fought Pokémon with dad,\xfffebut that was a pretty good battle!
 チェックは パーフェクト！\xfffeまける ようそは ゼロだ！！\xf000븁\x0000
 まさか！ たたかいかたに\xfffeチェックもれが あったのか！？
 チェックのあとに また チェック！\xf000븁\x0000だいじょうぶ！ という\xfffeゆだんが じこのもと なんだ！
-ヒウンジムで くりひろげるのは！\xf000븁\x0000まるで げいじゅつの ように\xfffeうつくしい たたかい なのさ！！\xf000븁\x0000
-うつくしく ちる……\xfffeこれも げいじゅつ……
-スイッチを ２つ ふめば\xfffeランプも ２つ ともって\xf000븀\x0000もんが ひらく！\xf000븀\x0000これも また げいじゅつ なのさ！
-ミツのかべを くぐりぬける\xfffeかんしょくが だいすき でね……\xf000븀\x0000なんべんも とおっているのさ\xf000븁\x0000
-なんということだ\xfffeまた ミツのかべを とおろう
-ミツのかべ……\xfffeなにで できていると おもう？\xf000븁\x0000アーティさん ぜったいに\xfffeおしえてくれないのは あやしいよな？
-どうだい？ この ポケモンジム\xfffeなんというか ちょっと ありえない\xf000븀\x0000あやしげな みりょく たっぷりだろ\xf000븁\x0000
-きみも トレーナーとして\xfffeみりょく たっぷりだな！
-ボクは この……\xfffeアーティさんが みている けしきが\xf000븀\x0000げんじつに なった ジムがね\xf000븀\x0000だいすきで たまらないんだ！
-ゆかに かくれていたのは\xfffeまけるためじゃ ないのに！
-なにごとにも どうじない おまえの\xfffeタフな せいしんりょくに やぶれた！
+Hiun Gym slowly unfolds!\xf000븁\x0000Just like a beautiful art piece,\xfffeor a breathtaking battle!!\xf000븁\x0000
+A beautiful fight...\xfffe...But is it art?
+Press two switches, light two\xfffelamps, open a gate!\xf000븀\x0000This too is art!
+I love the feeling of\xfffepassing through the honey walls...\xf000븀\x0000I've done it countless times!\xf000븁\x0000
+Inexplicible...\xfffeIt's like passing through honey!
+The honey walls...\xfffeWhat are they really made of?\xf000븁\x0000Don't you find it suspicious\xfffethat Mr. Arty refuses to tell?
+How about it? This gym...\xfffeIt has a certain je ne sais quoi...\xf000븀\x0000A mysterious kind of charm, yes?\xf000븁\x0000
+You, too, have\xfffemuch charm as a trainer!
+Personally, I think...\xfffethis gym is one of Mr. Arty's visions\xf000븀\x0000made into reality...\xf000븀\x0000And I can't get enough of it!
+One who hides in the floor\xfffeshould not have to lose!
+I've been defeated by\xfffeyour peerlessly tough will!
 よぉーし チャレンジャー！\xfffeおっさんに かかってこぉーい！\xf000븁\x0000
 これは ひょっとして\xfffeおっちゃん まけたのか！？
 コンテナに のって\xfffeどんどん おりてゆけ！\xf000븁\x0000すすめるかぎり すすむのが\xfffeトレーナーの こころいき よ！
@@ -1654,9 +1654,9 @@ When I worry about them getting dirty,\xfffeI'm never happy with my boots.\xf000
 この あいさつは\xfffeあなたで ９９にんめ！\xf000븁\x0000ポケモン しよう！\xf000븁\x0000
 ありがとう！ これで あなたとは\xfffeもう ともだち だよね！
 せかいの どこででも\xfffeだれとでも ポケモン しよう！ で\xf000븀\x0000あいさつ できれば ステキよね！
-おれの ムーブに\xfffeパワーが とぼしいねー！
-ステップが ずれちゃったよ！\xfffeレッスン やりなおし！
-フットワークがね\xfffeいまいち キレてなかったなー
+My moves don't got\xfffenearly enough power in 'em!
+My steps are all off!\xfffeBetter redo my lessons!
+Man, my footwork...!\xfffeIt's the worst!
 PLASMAAAAA!\xfffeI fell in the Ancient Castle...
 The strengh that brought down\xfffeLord N... I feel it in my bones! Ow!
 So this is the trainer who protected\xfffeour world of coexisting with Pokémon...
