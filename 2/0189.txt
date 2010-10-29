@@ -519,33 +519,33 @@ I've never tried playing soccer\xfffeas a team with my Pokémon before...\xf000�
 Dad works in the gym!\xfffeI'm training hard here!!\xf000븁\x0000
 ...Dad...\xfffe...I couldn't win!
 I've fought Pokémon with dad,\xfffebut that was a pretty good battle!
-さぎょういんの おっさんは\xfffeポケモンと にもつを はこぶ！\xf000븁\x0000たんぱんの おいらは なかよく\xfffeポケモンと ちからを あわせる！\xf000븁\x0000
-うむむ！ おまえの ほうが\xfffeポケモンと なかよし だな！
-コンテナの まわりで\xfffeみつかる ポケモンって\xf000븀\x0000がいこくの ふねに のってきた……\xf000븁\x0000って そうぞう したりしない？
-ながーい くさむらに いるのは\xfffeつええ ポケモンばっかじゃ ねーぞ！\xf000븁\x0000
-つええーっ！\xfffeなんて トレーナーだ！！
-ながーい くさむらで\xfffeつええ ポケモンと たたかって\xf000븀\x0000もっともっと すごくなる！
-おっ！\xf000븁\x0000おお？\xf000븁\x0000なんだ！ ポケモンじゃなくて\xfffeふつーの トレーナーかよ！\xf000븁\x0000
-ふつーの トレーナーじゃなくて\xfffeつよーい トレーナーかよ！！
-ながい くさむらが ゆれるとき\xfffeちょっと めずらしい ポケモンが\xf000븀\x0000とびだすって ウワサ しってる？
-ついさっき つかまえた\xfffeとっておきの ポケモンだぜ！\xf000븁\x0000
-つかまえただけで\xfffeまだ そだててないんだ！
-よし！ ヤグルマのもりで\xfffeべつの ポケモン つかまえて\xf000븀\x0000なかまを ふやそうっと！
-よっしゃー きあいじゅうぶん！\xfffeさっそく はじめようぜ！！\xf000븁\x0000
-ぷしゅー！\xfffeきあいが ぬけていくー
-つよい おまえに おしえてやる！\xf000븁\x0000ためしのいわは いちにちに\xfffeいっかいだけ かけらが でる！
-かれいに みせるはずが\xfffeすべって ころんだ きもちさ！
-おおくの トレーナーを みてきた！\xf000븁\x0000てごわい トレーナーから かんじた\xfffeふんいきが きみから つたわってくる\xf000븁\x0000
-まさに！\xfffeかんじたとおり だったか！
-きみからは つよさは もちろん\xfffeあふれる やさしさも つたわってくる
-このあたりで いちばんの\xfffeわたしの あいてが できますか？\xf000븁\x0000
-さいのうと センス……\xfffeどちらも まぶしいぐらいよ
-あなたの つよさの ひみつは\xfffeその ひたむきさ かしらね
-わたくし ポケモンしょうぶが\xfffeとくいな ウエーターで ございます\xf000븁\x0000
-すばらしい しょうぶを\xfffeありがとうございます おきゃくさま！
-こちらの めいぶつは\xfffeポケモンしょうぶと なっております
-いらっしゃいませ ようこそ！\xf000븁\x0000ドリンクと いっしょに\xfffeポケモンしょうぶは いかがですか！\xf000븁\x0000
-すばらしい しょうぶ でした\xfffeおきゃくさま！ おみごとです
+This old worker\xfffetransports Pokémon and cargo!\xf000븁\x0000In my comfy shorts,\xfffeI'll join forces with my Pokémon!\xf000븁\x0000
+Hmm! You seem to be\xffffeeven better friends with Pokémon!
+The Pokémon around the containers\xfffecame on ships from foreign contries...\xf000븁\x0000Or so I like to imagine.
+The taaaaall grass is waaaaay filled\xfffewith nuttin' but strong Pokémon!\xf000븁\x0000
+Hot dang!\xfffeWhat a trainer!!
+Fightin' with Pokémon in the tall grass\xfffemakes ya more 'n' more awesome!
+Oh!\xf000븁\x0000Ohhh?\xf000븁\x0000Huh! It's not a Pokémon,\xfffeit's just a plain old trainer!\xf000븁\x0000
+It's not a plain old trainer,\xfffeit's a REALLY STRONG trainer!!
+Have you heard that when tall grass\xfffeshakes, a rare-ish Pokémon will come out?
+These are my best Pokémon!\xfffeFreshly caught!\xf000븁\x0000
+I just caught them...\xfffeI didn't train them yet!
+Alright! I'll catch more\xfffePokémon in Yaguruma Forest\xf000븀\x0000and get more allies!
+HIYAAAA! That's a good enough yell!\xfffeLet's get started already!!\xf000븁\x0000
+PCHOOOOOOOO!\xfffeThat's my spirit deflating!
+I'll tell you something, strong one!\xf000븁\x0000Rocks only need to be\xfffesmashed once per day!
+I should have been elegant,\xfffebut I feel like I've slipped and tumbled!
+I've seen many trainers!\xf000븁\x0000The air I feel from tough trainers...\xfffeI feel from you as well!\xf000븁\x0000
+Truly!\xfffeJust as felt!
+Of course I feel your strength,\xfffealong with overflowing kindness...
+Could you be my most\xfffepowerful opponent in the vincinity?\xf000븁\x0000
+Your talent and your sense...\xfffeThey're both dazzling!
+I wonder, could the secret of\xfffeyour strength be your devotion?
+I am a waiter skilled\xfffein Pokémon battling!\xf000븁\x0000
+Thank you, dear customer,\xfffefor the magnificent battle!
+Our specialty\xfffeis Pokémon battles!
+Welcome!\xf000븁\x0000Would you like a Pokémon battle\xfffewith your drink?!\xf000븁\x0000
+A fantastic battle, dear customer!\xfffeWhat a sight!
 しょうぶで ぐったりの ポケモンに\xfffeスッと さわやか サイコソーダ！\xf000븀\x0000じどうはんばいきで かえまーす！
 ネジやまは きせつで かわり\xfffeおっさんは しょうぶで かわる！\xf000븁\x0000
 ……おとなあいてに\xfffeてかげん してくれよな！？
