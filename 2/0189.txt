@@ -58,7 +58,7 @@ Whew, I broke a sweat...\xfffeWell, it's okay for athletes, too!
 I want a basketball-sized Pokéball!\xf000븁\x0000I mean, that'd make bigger Pokémon\xfffefeel more comfortable inside, right?!
 I'm a fascinating fishing hook,\xfffeand I've got you hook, line, and sinker!\xf000븁\x0000Lemme battle you with\xfffethe lively Pokémon I've caught!\xf000븁\x0000
 The one reeled in...\xfffeWas me?!
-I let Pokémon go right after catching them!\xfffeThat's called catch and release!\xf000븀\x0000And I say as I send them off...\xf000븁\x0000Goodbye, Pokémon!\xfffe'Twas a nice fight!!\xf000븁\x0000And to you, too!\xfffe'Twas a nice fight!!
+I let Pokémon go right after catching 'em!\xfffeThat's called catch and release!\xf000븀\x0000And I say as I send them off...\xf000븁\x0000Goodbye, Pokémon!\xfffe'Twas a nice fight!!\xf000븁\x0000And to you, too!\xfffe'Twas a nice fight!!
 Yeahhh!\xfffeI reeled in a biggun!\xf000븁\x0000Next I'll try to reel in\xfffethat trophy known as victory!\xf000븁\x0000
 Man, I let a huge\xfffevictory get away...
 I fish, I'm lured in, and I fish again...\xfffeLife is fishing!
@@ -248,7 +248,7 @@ To strengthen myself against the cold,\xfffeI'm building up warm fat!\xf000븁\x
 ... ... ...\xfffe... ...I'm sh-shivering...
 ... ... ...\xfffe... ...D-Did you know?\xf000븀\x0000... ...It's c-cold here.
 A journeying backpacker\xfffeand a journeying trainer... we match!\xf000븁\x0000
-Perhaps I set out on my journey\xffeto meet you? Hmm...
+Perhaps I set out on my journey\xfffeto meet you? Hmm...
 For the first time in my journey\xfffeI've realized something...\xf000븁\x0000Just going somewhere isn't a journey.\xfffeWho you meet... what you learn...\xf000븀\x0000That's all part of my journey.
 I wanted to go to the Tower of Heaven...\xfffeBut I'm lost, so I'm just sitting here.\xf000븁\x0000
 I see! Just sitting here\xfffewon't get me anywhere!
@@ -829,12 +829,12 @@ If I show the full power of my Pokémon,\xfffeI can still turn this around!
 I know full well the value\xfffeof getting the first strike!
 If I show the full power of my Pokémon,\xfffeI can still turn this around!
 ...Well done.\xfffeBut why can't I win?!
-えーっと こういうときは\xfffeポケモンしょうぶ しましょう！\xf000븁\x0000
-なるほど いまのが\xfffeきみの すきな ポケモン？
-せかいの どこに いっても\xfffeポケモンしょうぶ！\xf000븁\x0000すきな ポケモンを\xfffeしつもんすれば すぐに なかよしさ！
-いきざま\xfffeダイナミック！\xf000븁\x0000
-まけかたも\xfffeダイナミック！
-いつも ポケモンが いてくれる！\xfffeそりゃ ダイナミックに なる！
+Umm, at times like this,\xfffeone should Pokémon battle!\xf000븁\x0000
+I see... Was that\xfffeyour favorite Pokémon there?
+Pokémon battles can\xfffehappen anywhere in the world!\xf000븁\x0000Just ask someone their favorite\xfffePokémon and you'll get along!
+I live life\xfffeDYNAMICALLY!\xf000븁\x0000
+Even when I lose,\xfffeI'm DYNAMIC!
+Pokémon are always with me!\xfffeThat makes me so DYNAMIC!
 Temp Message
 ... ...What?
 Huh, it's over already?\xfffeI lost in the blink of an eye...

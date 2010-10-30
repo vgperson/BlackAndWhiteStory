@@ -749,16 +749,16 @@ The foe's \xf000Ă\x0001\x0000 is\xfffestoring energy!
 \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
 The wild \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
 The foe's \xf000Ă\x0001\x0000 unleashed\xfffeenergy!
-\xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
-The wild \xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
-The foe's \xf000Ă\x0001\x0000\xfffeThe foe's helped out the party!
-\xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-\xf000Ă\x0001\x0000 intercepted\xfffethe wild \xf000Ă\x0001\x0001's Attack!
-\xf000Ă\x0001\x0000 intercepted\xfffethe foe's \xf000Ă\x0001\x0001's Attack!
-The wild \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-The wild \xf000Ă\x0001\x0000 intercepted the wild \xf000븀\x0000\xf000Ă\x0001\x0001's Attack!
-The foe's \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's Attack!
-The foe's \xf000Ă\x0001\x0000 intercepted the foe's \xf000븀\x0000\xf000Ă\x0001\x0001's Attack!
+\xf000Ă\x0001\x0000\xfffehelped out the foe's party!
+The wild \xf000Ă\x0001\x0000\xfffehelped out the foe's party!
+The foe's \xf000Ă\x0001\x0000\xfffehelped out the foe's party!
+\xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's attack!
+\xf000Ă\x0001\x0000 intercepted\xfffethe wild \xf000Ă\x0001\x0001's attack!
+\xf000Ă\x0001\x0000 intercepted\xfffethe foe's \xf000Ă\x0001\x0001's attack!
+The wild \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's attack!
+The wild \xf000Ă\x0001\x0000 intercepted the wild \xf000븀\x0000\xf000Ă\x0001\x0001's attack!
+The foe's \xf000Ă\x0001\x0000 intercepted\xfffe\xf000Ă\x0001\x0001's attack!
+The foe's \xf000Ă\x0001\x0000 intercepted the foe's \xf000븀\x0000\xf000Ă\x0001\x0001's attack!
 \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
 The wild \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
 The foe's \xf000Ă\x0001\x0000 shrouded itself\xfffewith Magic Coat!
@@ -769,8 +769,8 @@ The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffebounced back!
 The wild \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 The foe's \xf000Ă\x0001\x0000 has\xfffeleft the battle!
 \xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0001!
-The wild \xf000Ă\x0001\x0000's \xf000Ā\x0001\x0001\xfffewent back to normal!
-The foe's \xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0002!
+The wild \xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000 went\xfffeback to \xf000Ā\x0001\x0001!
 \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The wild \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
 The foe's \xf000Ă\x0001\x0000 switched its\xfffeAttack and Defense!
