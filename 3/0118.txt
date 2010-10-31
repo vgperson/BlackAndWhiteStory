@@ -22,18 +22,18 @@ Cheren: I'm going too!\xf000븁\x0000Dragon-Helix Tower is\xfffenorth of here, r
 Belle: Whoa whoa whoa!\xfffeW-What... what do I do, huh?!\xf000븁\x0000F-For now, I guess I'll have to\xfffego to Dragon-Helix Tower...\xf000븀\x0000Umm, north from here, huh?\xf000븁\x0000
 Belle: Whoa whoa whoa!\xfffeW-What... what do I do, huh?!\xf000븁\x0000F-For now, I guess I'll have to\xfffego to Dragon-Helix Tower...\xf000븀\x0000Umm, north from here, huh?
 no data
-でんせつの ポケモン レシラムは\xfffeえいゆうに ちしきを あたえ\xf000븀\x0000てきには ひばしらで はむかう\xf000븁\x0000その えいゆうと ポケモンの\xfffeおやこの ような すがたに\xf000븁\x0000おおくの たみは あこがれ ひれふし\xfffeむかしの イッシュは はってんした……\xf000븀\x0000そう いわれているのよ
-でんせつの ポケモン ゼクロムは\xfffeえいゆうに ちしきを あたえ\xf000븀\x0000てきには いなびかりで はむかう\xf000븁\x0000その えいゆうと ポケモンの\xfffeおやこの ような すがたに\xf000븁\x0000おおくの たみは あこがれ ひれふし\xfffeむかしの イッシュは はってんした……\xf000븀\x0000そう いわれているのよ
-かぜや ゆきに さらされても\xfffeかわらず そびえる とう……\xf000븁\x0000\xfffeその そんざいは\xfffeひとに なにを つたえるのでしょう
-でんせつの ポケモンは\xfffeしんじつを もとめる えいゆうを\xf000븀\x0000たすけ くにを つくる……\xf000븁\x0000そして にくたいが ほろぶと\xfffeライトストーンと なり あらたな\xf000븀\x0000えいゆうの たんじょうを まつ……\xf000븁\x0000そんな はなしを\xfffeちいさいときに きいたことが あるよ
-でんせつの ポケモンは\xfffeりそうを もとめる えいゆうを\xf000븀\x0000たすけ くにを つくる……\xf000븁\x0000そして にくたいが ほろぶと\xfffeダークストーンと なり あらたな\xf000븀\x0000えいゆうの たんじょうを まつ……\xf000븁\x0000そんな はなしを\xfffeちいさいときに きいたことが あるよ
-ジムリーダー ハチクさまの\xfffeちんちゃくれいせい っぷり……\xf000븁\x0000\xfffeファイティング コンピュータとよぶ\xfffeひとが いるのも なっとくだよ
-おどれ！ おどれ！\xfffe２ひきの ドラゴン！
-まわる♪ まわる♪\xfffeまわって ねじれて♪
-ぐるぐる わかれて\xfffeぐるぐる まざって
-あさも よるも まざり\xfffeすべてが ゆるされる♪
-しっちを あるけば ビックリした\xfffeやせいの ポケモンが でてくるよ！
-しっちが こおって ツルツル……\xfffeしっちの ポケモン げんきかな？
+The legendary Pokémon Reshiram granted\xfffea hero wisdom, and downed enemies\xf000븀\x0000with great pillars of fire.\xf000븁\x0000The hero and the Pokémon had the\xffferesemblence of a father and son...\xf000븁\x0000And with adoration from all,\xfffethey united many nations\xf000븀\x0000to form the ancient Isshu...\xf000븀\x0000So it is said.
+The legendary Pokémon Zekrom granted\xfffea hero wisdom, and downed enemies\xf000븀\x0000with powerful lightning.\xf000븁\x0000The hero and the Pokémon had the\xffferesemblence of a father and son...\xf000븁\x0000And with adoration from all,\xfffethey united many nations\xf000븀\x0000to form the ancient Isshu...\xf000븀\x0000So it is said.
+Through wind and snow,\xfffethe looming tower is unchanging...\xf000븁\x0000\xfffeWhat could it be trying to\xfffecommunicate to people, I wonder?
+The legendary Pokémon created\xfffethe land with the aid of a hero\xf000븀\x0000in pursuit of the truth...\xf000븁\x0000And when its body perished,\xfffeit became the Light Stone,\xf000븀\x0000and awaits the birth of a new hero...\xf000븁\x0000It's what I've heard\xfffesince I was very little.
+The legendary Pokémon created\xfffethe land with the aid of a hero\xf000븀\x0000in pursuit of ideals...\xf000븁\x0000And when its body perished,\xfffeit became the Dark Stone,\xf000븀\x0000and awaits the birth of a new hero...\xf000븁\x0000It's what I've heard\xfffesince I was very little.
+The gym leader, Master Hachiku,\xfffeis so calm and collected...\xf000븁\x0000\xfffeSome people call him the\xfffe"Fighting Computer," and I'd agree!
+Lalalala! Dance, dance!\xfffeThe two dragons dance!
+Spinnarang! ♪ Spinnaroo! ♪\xfffeSpin together, make a screw! ♪
+Circle out, split all apart,\xfffethen circle in back to the start!
+Day and night together make\xfffea certain sign that all will shake! ♪
+I was walking in the wetlands, when...\xfffeYIKES! A wild Pokémon came out!
+The wetlands have frozen over...\xfffeWhere do the Pokémon go in the winter?
 Sekka City\xfffeThe sky's sparking snow flower!
 Loving all Pokémon!\xfffeThe Pokémon Fan Club
 no data
