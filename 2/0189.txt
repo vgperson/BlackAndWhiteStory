@@ -678,43 +678,43 @@ With this... my truth...\xfffePokémon's dreams... they have crumbled...
 Ha! \xfffeI have made ample preparation for THAT!
 ...Grumble...\xfffeWhat could this mean?!
 My scheme! My perfect scheme\xfffeto dominate the world!!
-わたしは ドクター！\xf000븁\x0000もちろん かいふく すべき\xfffeポケモンが いれば みる！\xf000븁\x0000さあ！ きみの ポケモンを\xfffeわたしに みせたまえ！\xf000븁\x0000
-きみの つよさは そこしれない！\xfffe……かなり かんどう したよ
-きみの ポケモンが\xfffeげんきだろうが そうでなかろうが\xf000븀\x0000わたしは かいふく させるぞ！\xf000븁\x0000
-わたしが めざすのは\xfffeせかいいちの ドクター！\xf000븁\x0000まずは トレーナーとして\xfffeせかいいちに なる つもりだ！
-ボクのような エリートには\xfffeプライドが あるから まけないんだ！\xf000븁\x0000
-プライドを まもれなかったか\xfffeむねん だ！
-プライドとは なにも\xfffeえらそうにする ことじゃない！\xf000븁\x0000じぶんが ながねん きずいたことに\xfffeたいする ほこりの ことなんだ！
-ポケモンに かたせてやるため\xfffeどうすればいいか かんがえ\xf000븀\x0000ようやく こたえが みえてきた！\xf000븁\x0000
-きみの やりたいことを\xfffeよみきれなかったか……
-あいての やりたいことを よむ\xf000븁\x0000ただし あいても にんげん\xfffeそのときどきで やりたいことは\xf000븀\x0000かわるから ようちゅうい だぜ！
-ポケモンリーグに いくまえの\xfffeうでだめし させてもらうわね！\xf000븁\x0000
-あたりまえ だけど\xfffeうえには うえが いるのね……
-ポケモンリーグにて ちょうせんを\xfffeまつと いう してんのう……\xf000븀\x0000どんな ひとたち かしら？
-まいったなあ……\xf000븁\x0000あのね あたしの ポケモンが\xfffeあたしのこと じまん したがってるの\xf000븁\x0000というわけで はじめましょ！\xf000븁\x0000
-あっちゃあ！\xfffeじまん できなかったね
-あいてを みとめるからこそ\xfffeかちたい！ と おもうの！\xf000븁\x0000だから あたしは かちたい！ と\xfffeおもわれるように なりたいの
-まよっているときに オレ\xfffeトレーナーに あう！\xf000븀\x0000そりゃ こぶし まじえるっしょ！\xf000븁\x0000
-ムムム…… まよったまま\xfffeたたかうのは よくないなあ
-ひとは まえに すすむかぎり\xfffeまよったり とまったりする……\xf000븁\x0000だが そのときは ポケモンが\xfffeまえにすすむ ゆうきを くれるっしょ
-ここを とおるものは じつに\xfffeさまざまな かおを しているな！\xf000븁\x0000それを ながめるのは たのしいし\xfffeたたかうのは もっと たのしい！\xf000븁\x0000
-むはは！\xfffeおもしろいぜ！！
-かつことは よいことだが\xfffeかつことだけが すべてではない……\xf000븀\x0000だいじな ものを みうしなうなよ！
-ちょっと！ そこの\xfffeヤングな トレーナー！\xf000븁\x0000アタシの ポケモンを みておゆき\xf000븁\x0000
-やるじゃん！\xfffeその つよさ きにいったよ
-ポケモンが そだつごとに\xfffeトレーナーとの きょりが ちぢまり\xf000븀\x0000むすびつきは つよくなるわ！
-ひがしに けわしい どうくつがあれば\xfffeいって ポケモンを きたえ\xf000븁\x0000にしに すごい トレーナーがいれば\xfffeいって たたかいを いどむ！\xf000븁\x0000
-きたえかたが\xfffeあっとうてきに たりてない！！
-ポケモンが ポケモンを きたえる……\xf000븁\x0000きびしい やせいに いきるのであれば\xfffeとうぜん ありうること だな
-あっ あなたが ここに くらす\xfffeでんせつの ポケモンなの！？\xf000븁\x0000
-おどろいた\xfffeあなた ひと よね
-わたしが しっている はなしでは\xfffeでんせつの ポケモンは\xf000븀\x0000でしの ポケモンを きたえていたそうよ
-おなじ ひに このよに うまれ\xfffeともに そだった ポケモンだぜ！\xf000븁\x0000
-おう！\xfffeやるじゃねーか！
-ポケモンと オレらの まいにちは\xfffeこれまでも しあわせに あふれ\xf000븀\x0000これからも よろこびに みちている！
-あなたが うれしいとき\xfffeとなりで よろこんでくれるのが\xf000븁\x0000どんな ポケモンか\xfffeわたしに おしえてよ！\xf000븁\x0000
-まあ！\xfffeおみごと！
-たのしいときも かなしいときも\xfffeとなりにいた ポケモンたち……\xf000븁\x0000これからも できるだけ ながく\xfffeいっしょに すごせるよう いのるの
+I'm a doctor!\xf000븁\x0000Of course, I'll look at\xfffeany Pokémon that need healing!\xf000븁\x0000So! Show your\xfffePokémon to me!\xf000븁\x0000
+Your strength is boundless!\xfffe...I'm rather moved.
+Even though your Pokémon\xfffeseem relatively healthy,\xf000븀\x0000I'll heal them for you!\xf000븁\x0000
+I'm looking to be\xfffethe world's best doctor!\xf000븁\x0000But I'm planning on being\xfffethe world's best trainer first!
+An ace like me has\xfffetoo much pride to lose!\xf000븁\x0000
+It's so shameful when\xfffeyou can't protect your pride!
+Pride doesn't come from just\xfffethinking you're high and mighty!\xf000븁\x0000You must pride yourself\xfffeon years of effort!
+I've been pondering\xfffehow I should fortify my Pokémon...\\xf000븀\x0000And I've finally found an answer!\xf000븁\x0000
+Was I unable to fully\xffferead your desires...?
+Read into what\xfffeyour foe wants to do!\xf000븁\x0000But a human opponent may often\xfffechange in that regard, so watch out!
+Before you go to the Pokémon League,\xfffelet me test your skill!\xf000븁\x0000
+It seems so obvious, but I see there\xfffeis something higher than the top...
+The Elite Four awaits challengers\xfffeto the Pokémon League...\xf000븀\x0000What kind of people might they be?
+I'm beat...\xf000븁\x0000Um, but my Pokémon\xfffeare proud of me,\xf000븁\x0000so let's get started!\xf000븁\x0000
+Oh nooo!\xfffeI couldn't show off to you...
+When looking for an opponent,\xfffeyou gotta think "I want to win!"\xf000븁\x0000So I want to be someone\xfffewho can think "I want to win!"
+When I'm lost,\xfffeI meet a trainer!\xf000븀\x0000Now let's trade blows!\xf000븁\x0000
+Mrmmm... I can't fight\xfffevery well when I'm lost...
+People go as far as they can,\xfffeget lost, and stop...\xf000븁\x0000But if a Pokémon can walk ahead,\xfffeit gives you courage!
+Those who pass through here\xfffehave a variety of expressions!\xf000븁\x0000It amuses me to see them...\xfffeand moreso to BATTLE THEM!\xf000븁\x0000
+Mwahahaaa!!\xfffeHow AMUSING!!
+Winning is good,\xfffebut winning isn't everything...\xf000븀\x0000Don't lose sight of what's important!
+Hold on!\xfffeYou there, young trainer!\xf000븁\x0000Take a look at my Pokémon!\xf000븁\x0000
+Not bad!\xfffeI quite like your strength!
+At Pokémon are trained,\xfffethey grow closer to their trainers.\xf000븀\x0000Their relationship grows stronger!
+If there's a cave to the east,\xfffeI'll go and train my Pokémon!\xf000븁\x0000If there's a trainer to the west,\xfffeI'll go and challenge them!\xf000븁\x0000
+Your training ways\xfffeoverwhelm me!!
+Pokémon training Pokémon...\xf000븁\x0000Living in the harsh wild,\xfffeit's of course a possibility.
+Ahhh! Are you the legendary\xfffePokémon that lives here?!\xf000븁\x0000
+You frightened me!\xfffeYou're just a person, though...
+According to what I've heard,\xfffethe legendary Pokémon\xf000븀\x0000trained a Pokémon as a pupil!
+As the sun rises into the world,\xfffeso do the Pokémon I've trained!\xf000븁\x0000
+Whoa!\xfffeYou're pretty good!
+For Pokémon and us, every day\xfffehas been filled with happiness!\xf000븀\x0000Here's to further joy!
+When you're happy,\xfffethe Pokémon by you delight...\xf000븁\x0000What Pokémon are they?\xfffeShow me!\xf000븁\x0000
+My land!\xfffeWhat a sight!
+In happy and sad times,\xfffePokémon are beside us...\xf000븁\x0000Let us pray that we can be\xfffetogether as long as is possible!
 The Tower of Heaven...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
 Truly heavenly!
 I nearly felt like\xfffeI was gonna be laid to rest here!
