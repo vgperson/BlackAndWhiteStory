@@ -675,7 +675,7 @@ Very well...\xfffeI understand it is my defeat.
 My final friend...\xfffeLend me your courage!
 Do you mean the world has\xfffechosen not me, but you?!
 With this... my truth...\xfffePokémon's dreams... they have crumbled...
-Ha! \xfffeI have made ample preparation for THAT!
+Ha!\xfffeI have made ample preparation for THAT!
 ...Grumble...\xfffeWhat could this mean?!
 My scheme! My perfect scheme\xfffeto dominate the world!!
 I'm a doctor!\xf000븁\x0000Of course, I'll look at\xfffeany Pokémon that need healing!\xf000븁\x0000So! Show your\xfffePokémon to me!\xf000븁\x0000
@@ -718,85 +718,85 @@ In happy and sad times,\xfffePokémon are beside us...\xf000븁\x0000Let us pray
 The Tower of Heaven...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
 Truly heavenly!
 I nearly felt like\xfffeI was gonna be laid to rest here!
-イッシュで そだった ポケモンも\xfffeほかで おおきくなった ポケモンも\xf000븀\x0000ここで しずかに ねむるのよ\xf000븁\x0000
-いきる エネルギーが\xfffeみなぎっているわね！
-イッシュで そだった ポケモンも\xfffeほかで おおきくなった ポケモンも\xf000븀\x0000みんな いとしい ポケモンたち……
-いまから アナタの\xfffeしょうたいを あててみせるわ……\xf000븁\x0000アナタは……\xf000븁\x0000ポケモントレーナーね！\xf000븁\x0000
-なんなのよう！\xfffeしょうたいは わかったのに
-あいての ことを りかいするのは\xfffeだれにでも できることよ
-ソウリュウの ドラゴンジムは\xfffeじぶんで みちを きりひらく\xf000븀\x0000タフな トレーナーを まつ！\xf000븁\x0000
-キミなら じぶんで\xfffeみちを きりひらけるだろう！
-ジムリーダーは もじどおり\xfffeジムで ちょうてんの そんざい！\xf000븁\x0000この ソウリュウジムの\xfffeいちばん たかい ところにいる！\xf000븁\x0000あいたいなら ドラゴンの せなかを\xfffeかけあがり うえのフロアを めざせ！
-ドラゴンの くびが\xfffeどう うごくか わかったか？\xf000븁\x0000
-つよいな！ それだけ ドラゴンの\xfffeくびについて しりたいか！
-ドラゴンの うでは\xfffeあがったり さがったり……\xf000븁\x0000それに あわせて ドラゴンの\xfffeくびは みぎや ひだり……\xf000븀\x0000うえにも したにも うごく\xf000븁\x0000いいか！ ヒントだ\xf000븁\x0000りょうほうの うでが さがると\xfffeドラゴンの くびも さがるぜ
-キミが！ どれだけ！\xfffeポケモンを しっているか ためす！\xf000븁\x0000
-ぞんぶんに ポケモンの\xfffeちからを ひきだしているな！
-トレーナーである じぶんが\xfffeつよくある ひつようは ない\xf000븁\x0000ポケモンが つよく たたかえるよう\xfffeサポートできれば いいんだ
-ひょっとして\xfffeどうすればいいか まよってる？\xf000븁\x0000
-なんでしょう\xfffeつよい じしんを かんじたわ
-この ジムの ドラゴンは\xfffeエレベータにも なるわ！
-わたしを うわまわる トレーナーに\xfffeジムの すすみかたを おしえるわ！\xf000븁\x0000
-うわ！ あなた\xfffeわたしを うわまわってる！
-さんかくけいの マークの\xfffeうえから とびおりなさい！\xf000븁\x0000うでの スイッチに のれば\xfffeドラゴンの くびが うごき\xf000븀\x0000さきに すすめるように なるから！
-ポケモンと いるだけで うれしい？\xfffeそれとも つよくないと イヤ？\xf000븀\x0000どっちの タイプか ためすわね！\xf000븁\x0000
-……あなたの ポケモン\xfffeあなたと いるだけで うれしそうね！
-ひとが ポケモンを どのように\xfffeあいするかは それぞれ……\xf000븁\x0000わたしは ともに つよくなる……\xfffeそんな あいしかたを えらんだの
-あなたは どんなことを してくる\xfffeトレーナー なのかしら！？\xf000븁\x0000
-あなた\xfffeすごいじゃない！！
-ポケモンしょうぶ だいすきよ！\xf000븁\x0000だって あいてが なにをするのか\xfffeワクワク しちゃうじゃない！\xf000븁\x0000かちまけは たのしんだあとの\xfffeけっか でしか ないもの！
-すきな ことばは チャレンジ！\xfffeあなたは チャレンジが すき？\xf000븁\x0000
-なんだか\xfffeチャレンジが すきそうね！
-チャレンジが すきな わけ……？\xf000븁\x0000チャレンジして やったことなら\xfffeいいこと さがしも できるけれど\xf000븁\x0000やってないことは やらなかった\xfffeいいわけ しか できないじゃん
-くぅ……\xfffeむねの おくが いたむぜ！
-もう １０ねんいじょう\xfffeたたかってきた あたしたち！\xf000븁\x0000ベテランの あじを\xfffeアンタたちに おしえてあげるよ！\xf000븁\x0000
-すごした じかんが\xfffeすべて じゃないね！
-つよくなる とは……\xf000븁\x0000どれだけ たたかいつづけても\xfffeおわることの ない\xf000븀\x0000みちを あゆむのと おなじこと……\xf000븁\x0000それが この ドラゴンジム\xfffeりゅうの せなかの いみ……
-オマエのことは きいている\xfffeポケモンを こきつかう ヤツとな！\xf000븁\x0000
-そして つよいヤツ とも\xfffeきいていたが そのとおり だぜ
-……おりるなら\xfffeりゅうさの まんなかで じっとしてな\xf000븁\x0000おっと！ これは やさしさ じゃない\xfffeなかまに たおしてもらう ためだぜ
-オマエ！ オレの ポケモンを\xfffeよろこばせるために まけろ！！\xf000븁\x0000
-なんという ヤツだ……
-オマエの せいで\xfffeオレの ポケモン まけたんだぞ！\xf000븀\x0000かわいそうだと おもうだろ！！\xf000븁\x0000……しかも その つよさ\xfffeポケモンに たよっているだけだろ！
-みなが ポケモンを てばなせば\xfffeかちまけを きめなくて いいよな！\xf000븁\x0000
-ポケモンを もっていなければ\xfffeこうやって まけることも ない！
-われわれの りそうを りかいせずに\xfffeジャマするとは なにごとだ！
-わかい おうさまの ために\xfffeたたかう…… ただ それだけだ！\xf000븁\x0000
-おうさま……\xfffeもうしわけ ありません
-かわらない ものなど ない\xfffeイッシュも うまれかわるのだ\xf000븀\x0000どうして それを みとめない？
-せかいを かえるには\xfffeいたみを ともなうのよ！\xf000븁\x0000
-アイタタタ……\xfffeいたいの すきじゃない
-だれも せかいを かえないから\xfffeあたしたちが がんばってるのに！\xf000븁\x0000そう！ あなたに\xfffeＮさまの きもち わかるの！？
-おろかな トレーナーどもが\xfffeすばらしい ポケモンを\xf000븀\x0000つかいこなすなんて ムリなのよ！\xf000븁\x0000
-まあ！\xfffeにくにくしい！！
-まけた あたしが\xfffeおろかな トレーナーって こと！？\xf000븁\x0000なによ！ この すなまみれ で\xfffeがんばってる あたしに まけなさい！
-あたしたちと ちがう\xfffeかんがえの もちぬしは ゆるさない！\xf000븁\x0000
-くう……\xfffeあんたのこと ゆるさない！
-くりかえす！ あたしたちと ちがう\xfffeかんがえの もちぬしは ゆるさない！\xf000븁\x0000……この したで\xfffeアンタの おなかまが おまちかねよ！
-いわに かこまれていると\xfffeテンション あがっちゃう！！\xf000븁\x0000
-まけると\xfffeテンション さがっちゃう……
-テンション あがったり さがったり\xfffeにぎやかなのが オレの いいところ！
-わがはいは なぜ あなをほるのか？\xfffeおぬしは なぜ たたかうのか\xf000븀\x0000それを たしかめようでは ないか\xf000븁\x0000
-おぬしの いままでの けいけん……\xfffeそれが つよさの みなもとか！
-たたかっただけ つよくなる\xfffeほっただけ あなが ひろがる……\xf000븀\x0000もくてきがあれば ムダなことはない！
-しごとのとき ベストをつくす\xfffeそれが オレの！ そして\xf000븀\x0000ポケモンたちの いきかた よ！\xf000븁\x0000
-ベストを つくして\xfffeこの けっか なのか！
-さてさて しごとに もどるかい\xf000븁\x0000オレの かわいい ポケモンたちは\xfffeしごとの ほうが とくい なんでね
-わしの だいこうぶつ は\xfffeやま！ ごはん！ ポケモン！\xf000븀\x0000そして たのしい しょうぶ！！\xf000븁\x0000
-ぶわははは！\xfffeやられたか！！
-きみの ポケモンは つよかった！\xf000븁\x0000だが わしの ポケモンも\xfffeなかなか たいした ものだったろ！
-ゆめを もとめ ここを さまよい\xfffeしょうりを もとめ たたかう！\xf000븁\x0000
-ゆめを みることは\xfffeかなわなかったか……！
-この ほらあなに ひそむという\xfffeでんせつの ポケモンを さがしている\xf000븁\x0000わはは！ そうよ おとこは\xfffeいくつになっても ロマンチストよ！
-この ほらあなの あちこちに ある\xfffeでんきを はっしている いわ！\xf000븀\x0000その でんきで げんきいっぱい！\xf000븁\x0000
-エレキテル！！
-わたしの エネルギーの みなもとは\xfffeいとしの ポケモンたちです！\xf000븀\x0000これは かがくてきに しょうめいずみ
-きみの ポケモンを サイエンス！\xf000븁\x0000
-はいぼくの あじを サイエンス……
-とにかく きみも サイエンスしなよ！
-あなたの つよさの ひみつ！\xfffeその メカニズムを ときあかすわ！\xf000븁\x0000
-……メカニズムが きになって\xfffeちゅういりょく さんまん だったわ
-あめが ふる メカニズムに\xfffeきせつが かわる しくみ……\xf000븀\x0000しぜんって おどろきに みちているわ
+Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
+You swell with\xfffethe energy of life!
+Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000All were beloved...
+Now I shall expose you\xfffefor your true colors...\xf000븁\x0000You are...\xf000븁\x0000A Pokémon trainer!\xf000븁\x0000
+How can this be?!\xfffeI knew your true colors!
+Understanding your foe\xfffeis something anyone can do...
+The dragon gym leader of Souryuu awaits\xfffetrainers who forge their own path!\xf000븁\x0000
+Perhaps you could\xfffeforge a path in this gym!
+A gym leader is, quite literally,\xfffethe one in the gym who's on top!\xf000븁\x0000So Souryuu's gym leader\xfffeis at the highest point!\xf000븁\x0000If you want to meet them, climb up\xfffethe dragon's back to the top floor!
+Have you figured out\xfffehow the dragon's neck moves?\xf000븁\x0000
+You're strong! Is the dragon's\xfffeneck all you want to know about?!
+The dragon's arms\xffferaise and lower...\xf000븁\x0000In accordance to them,\xfffethe neck moves right or left...\xf000븀\x0000and up or down!\xf000븁\x0000Got it?! Now here's a hint!\xf000븁\x0000If both arms are down,\xfffeso too will the dragon's neck go!
+HOW! MUCH!\xfffeDO YOU KNOW YOUR POKéMON?!\xf000븁\x0000
+You're showing as much of the\xfffepower of your Pokémon you can!
+As a trainer, I have no need\xfffeto become stronger.\xf000븁\x0000It's enough if my Pokémon are\xfffestrong enough to support me.
+Could you perhaps\xfffebe at a loss on what to do?\xf000븁\x0000
+I don't think so!\xfffeYou seem very self-confident!
+The dragon in this gym\xfffecan also be an elevator!
+I teach any trainers who surpass me\xfffehow to proceed in the gym!\xf000븁\x0000
+Whoa!\xfffeYou've surpassed me!
+Jump onto the the\xfffetriangular marks from above!\xf000븁\x0000Press the switch,\xfffeand the dragon's neck moves,\xf000븀\x0000allowing you to proceed onward!
+Are you happy simply being with Pokémon?\xfffeOr must you grow strong to be pleased?\xf000븀\x0000Let me see what type you are!\xf000븁\x0000
+...Well, your Pokémon certainly\xfffeseem happy to be with you!
+People love Pokémon\xfffein many different ways...\xf000븁\x0000I grow strong with them...\xfffeThat's how I choose to love them.
+What kinda stuff\xfffedo you do, trainer?!\xf000븁\x0000
+You're...\xfffepretty awesome, huh?!?
+I love Pokémon battles!\xf000븁\x0000It just excites me to think\xfffeabout what my opponent does!\xf000븁\x0000Win or lose, I enjoy it,\xfffeso it's all the same in the end!
+My favorite word is CHALLENGE!\xfffeDo you like CHALLENGE?\xf000븁\x0000
+I would say\xfffeyou like CHALLENGE!
+Why do I like CHALLENGE...?\xf000븁\x0000When you make a CHALLENGE,\xfffeyou can find something good...\xf000븁\x0000And if you don't, you're just\xfffemaking excuses for why you're not!
+Oof...\xfffeI'm deeply hurt!!
+We've been battling\xfffefor over ten years now!\xf000븁\x0000Let us show you\xfffethe ways of veterans!\xf000븁\x0000
+The time you've spent\xfffeisn't everything!
+Getting strong...\xf000븁\x0000No matter how much you fight,\xfffeit's like walking an unending road...\xf000븁\x0000That is the meaning of\xfffethe back of this gym's dragon...
+I've heard about you! You're the one\xfffewho overworks their Pokémon!\xf000븁\x0000
+I'd heard you were strong, too...\xfffeSo I guess I should've expected this!
+...If you're trying to fall down,\xfffestand in the center of the quicksand.\xf000븁\x0000NO, I'm NOT being nice!\xfffeIt's so the others can beat you!
+You! You should lose\xfffefor the sake of your Pokémon!!\xf000븁\x0000
+What a trainer you are...
+My Pokémon LOST\xfffeall thanks to you!\xf000븀\x0000Don't you think that's TRAGIC?!\xf000븁\x0000...Besides, that strength of yours\xfffejust comes from relying on Pokémon, hmph!
+If everyone just releases their Pokémon,\xfffethey won't have to fight!\xf000븁\x0000
+If neither of us had Pokémon,\xfffeI wouldn't be losing like this!
+What are you doing getting in our way\xfffewhen you don't know jack about our ideal?!
+I fight for the young king...\xfffeAnd that is all!\xf000븁\x0000
+My liege...\xfffeI can make no excuse.
+Nothing is changeless.\xfffeIsshu too shall be reborn.\xf000븀\x0000Why can't you SEE that?
+The changing of the world\xfffewill be accompanied by pain!\xf000븁\x0000
+Ow-ow-ow...\xfffeBut I don't like pain!
+But if no one will change the world,\xfffewe must do our best to try!\xf000븁\x0000Yes! Can't you understand\xfffehow Lord N feels?!
+Foolish trainers shall NOT reign\xfffeover Pokémon and their glory!\xf000븁\x0000
+Wow!\xfffeYou are just the WORST!
+So am I a foolish trainer\xfffefor losing to you?!\xf000븁\x0000Come on! I was trying so hard\xfffein this sand, why couldn't you LOSE?!
+Those who think unlike us\xfffeshall not be forgiven!\xf000븁\x0000
+Urgh...\xfffeI won't let you stand!
+I repeat! Those who think unlike us\xfffeshall not be forgiven!\xf000븁\x0000...One of your stupid friends\xfffeis waiting below!
+When I'm surrounded with rocks,\xfffeI start to get really tense!!\xf000븁\x0000
+When I lose,\xfffethe tension snaps...
+I consider my fluctuation of tension\xfffeto be one of my finer points!
+Why do I dig?\xfffeWhy do you fight?\xf000븀\x0000Why not battle and find out?\xf000븁\x0000
+All your experiences thus far...\xfffeSo they are the source of your strength!
+Fighting makes you stronger,\xfffedigging opens up holes...\xf000븀\x0000If you have a goal, just get to it!
+When I work,\xfffeI give it my all! That's me!\xf000븀\x0000And it's how my Pokémon live!\xf000븁\x0000
+Is this the result\xfffeof giving it my all?!
+Well, back to work, then?\xf000븁\x0000My cute little Pokémon\xfffeare proudest of our work...
+My favorite dishes are...\xfffeMountains! Rice! Pokémon!\xf000븀\x0000And a fun battle!!\xf000븁\x0000
+Bwahahaha!\xfffeYou got me!!
+Your Pokémon were tough!\xf000븁\x0000But my Pokémon were\xfffepretty impressive too, eh?!
+Looking for dreams? Wander here...\xfffeLooking for victory? Fight!\xf000븁\x0000
+I guess I wasn't\xfffeable to dream...!
+I'm looking for a legendary Pokémon\xfffesaid to lurk in this cave.\xf000븁\x0000Wahaha! Yep, I'm a romantic no matter\xfffehow many years I put on!
+Electricity runs in the rocks\xfffescattered around this cave!\xf000븀\x0000It amps up my batteries!\xf000븁\x0000
+ELECTRICAL!!
+My beloved Pokémon are\xfffethe source of my energy!\xf000븀\x0000This has been scientifically proven!
+Let me do SCIENCE with your Pokémon!\xf000븁\x0000
+What can SCIENCE do\xfffefor the taste of defeat...?
+Anyway, you should do SCIENCE too!
+I wish to detail the mechanics\xfffeof the secrets to your strength\xf000븁\x0000
+...I was too fixated on your mechanics\xfffeto be especially attentive there.
+The mechanics of rainfall\xfffeand the structure of seasons...\xf000븀\x0000Nature never ceases to amaze!
 I see! So you would\xfffechoose that move...
 You've come far,\xfffebut it's not over yet!
 ...!\xfffeStrong as ever!
