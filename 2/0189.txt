@@ -315,7 +315,7 @@ If you want me to,\xfffeI'll heal up your Pokémon!\xf000븁\x0000However! First
 What the?! The Pokémon who\xfffelost their fighting fitness... were mine?!
 Well then, as promised.\xfffeLet me heal your Pokémon!\xf000븁\x0000
 To truly make everyone healthy,\xfffea doctor must go everywhere.
-...Seeing you've come such a\xffelong way makes me a happy doctor.\xf000븁\x0000Battle me and win,\xfffeand I'll recover your Pokémon!\xf000븁\x0000
+...Seeing you've come such a\xfffelong way makes me a happy doctor.\xf000븁\x0000Battle me and win,\xfffeand I'll recover your Pokémon!\xf000븁\x0000
 Even if I didn't heal you,\xfffeyou'd be plenty energetic!
 After a Pokémon battle,\xfffemake sure to take it easy and heal.\xf000븁\x0000
 Health is top priority wherever you go!\xfffeReally, it's very important.
@@ -520,7 +520,7 @@ Dad works in the gym!\xfffeI'm training hard here!!\xf000븁\x0000
 ...Dad...\xfffe...I couldn't win!
 I've fought Pokémon with dad,\xfffebut that was a pretty good battle!
 This old worker\xfffetransports Pokémon and cargo!\xf000븁\x0000In my comfy shorts,\xfffeI'll join forces with my Pokémon!\xf000븁\x0000
-Hmm! You seem to be\xffffeeven better friends with Pokémon!
+Hmm! You seem to be\xfffeeven better friends with Pokémon!
 The Pokémon around the containers\xfffecame on ships from foreign contries...\xf000븁\x0000Or so I like to imagine.
 The taaaaall grass is waaaaay filled\xfffewith nuttin' but strong Pokémon!\xf000븁\x0000
 Hot dang!\xfffeWhat a trainer!!
@@ -843,7 +843,7 @@ Hahhh, hahhh, hahhh, hahhh...
 Temp Message
 Temp Message
 Temp Message
-The beauty of living things\xfffemoving with all their might!\xf000븁\x0000Ahhh!\xfffeLet me see it closer!\xf000븁\x0000
+The beauty of living things\xfffeworking with all their might!\xf000븁\x0000Ahhh!\xfffeLet me see it closer!\xf000븁\x0000
 Yes, I've seen it clearly!
 Ah... living things giving it their all\xfffewill always be too beautiful!
 Beat me, and I'll give you\xfffesomethin' good from my backpack!\xf000븁\x0000
@@ -854,117 +854,117 @@ I CAME HERE ON MY JOURNEY\xfffeBUT THIS PLACE IS VERY BUSY\xf000븁\x0000
 IS THERE A FESTIVAL\xfffeGOING ON HERE
 I FOUND THIS ON MY JOURNEY\xfffeI DON'T NEED IT YOU TAKE IT\xf000븁\x0000
 EVERYONE HAS SIMILAR FASHION HERE\xfffeIS THIS SOME KIND OF CEREMONY
-スポーツせんしゅ って\xfffeきっと まんぞく していないわよね\xf000븁\x0000おばさん しあいを みていて\xfffeそう かんじるんだよね\xf000븁\x0000りゆう？ おばさんに かてたら\xfffeはなしてあげるわよ！\xf000븁\x0000
-あなたは かって まんぞく？\xfffeそれとも なっとく してない？
-この モーモーミルクは\xfffeおいしいから だいまんぞく よ！\xf000븁\x0000
-どれだけ すごい プレイができても\xfffeもっと すごい プレイを したいはず\xf000븁\x0000おばさんも おいしい パンが\xfffeやけたとしても まんぞくできない\xf000븁\x0000だって つぎに やける パンは\xfffeもっともっと おいしくしたいもの！
-あつくなれる ばしょ！\xfffeそう きいて ここに きました！\xf000븀\x0000あつくして もらいましょうか！\xf000븁\x0000
-この あつい きもちが\xfffeわたしの みを こがす！
-ハートが バーニング！\xfffeあつい しょうぶを ありがとう！\xf000븁\x0000つぎは スポーツかんせんで\xfffeメラメラ もえちゃいます！
-ポケモンを げんきに そだてるコツ\xfffeしあいを みせて しげきを あたえる\xf000븀\x0000それと！ しょうぶを させること！\xf000븁\x0000
-まけて くやしー！\xfffeこれが だいじなんだ
-かって わかること より\xfffeまけて わかることが おおいの！\xf000븀\x0000スポーツも おなじだと おもうなー
-わたしの そだてた ポケモンだって\xfffeプロに まけないくらい すごいのよ！\xf000븁\x0000
-きみの そだてた\xfffeポケモンも すごいのね！
-ポケモンには ほんとに いろんな\xfffeそだてかたが あるのよねー 
-さぼってなんか いないぞ！\xf000븁\x0000
-こんな ことなら\xfffeまじめに はたらいてりゃ よかった
-うまく いきぬき するのも\xfffeしごとの うちなんだぜ！
-チケットを もらって きてみたが\xfffeしあいを やってないじゃないか！\xf000븁\x0000
-しごとが いそがしいのに おれは\xfffeここで なにを しているんだ
-オフの ひの スポーツせんしゅ など\xfffeやすみの ひの オッサンと かわらん
-わたしが ほいくえんで\xfffeおせわしてる こどもの なかにも\xf000븀\x0000いつか スターに なっちゃったりする\xf000븀\x0000すごい こが いるのかなー\xf000븁\x0000
-アナタも けっこう ひかってる けど\xfffeほんとうの スターって いいわよねー
-あなたも スターの そしつ ありそう\xfffeだから いまから わたしをよろしく\xf000븁\x0000
-スターに なりそうな こどもには\xfffeいまから サイン もらっとくべき？
-おじさんは サッカーと\xfffeポケモンを こよなく あいしてる\xf000븁\x0000どうだい？ そうじや とよばれた\xfffeおじさんの ポケモンは すごいぞ！\xf000븁\x0000
-きみの ポケモンの こうげき……\xfffeうけとめ きれなかったかあ
-おじさん もとは サッカーせんしゅ\xfffeポジションは スイーパー\xf000븁\x0000いまの おしごとも あるいみ\xfffeスイーパー なんだよね
-せんしゅの ポケモンは すごいなー！\xf000븁\x0000でも ぼくの\xfffeポケモンだって すごいぞー！\xf000븁\x0000
-きみの ポケモンも\xfffeこれまた すごいなー！
-じぶんの ポケモンも がんばって\xfffeあんなふうに そだてるぞー
-きょうの しあい みたーっ！？\xf000븁\x0000せんしゅと ポケモンの\xfffeおりなす ボールさばき！\xf000븁\x0000この こうふんを\xfffeしょうぶに ぶつけるわ！\xf000븁\x0000
-まけたけど まだまだ\xfffeこうふん さめやらないわ！
-スポーツを たのしむ\xfffeポケモンちゃんが みられるのは\xf000븀\x0000ライモンシティ だけ！
-ここに くると テンション あがるっ！\xfffeだから きみと しょーぶっ！\xf000븁\x0000
-そんな きみに アッサリ まけるっ！
-しあい みてると\xfffeテンション あがっちゃって！\xf000븀\x0000もう じっとなんか してらんねえっ！
-ドクター！ おきゃくさまの\xfffeなかに ドクターは いませんか？\xf000븁\x0000はい わたしが ドクターです\xfffeさっそく しょうぶと まいりましょう\xf000븁\x0000
-おお！ ポケモンの げんきが\xfffeなくなって しまった！
-ポケモンの げんきが なくなったら\xfffeげんきのかたまり！\xf000븀\x0000きみも １つ もっていきなさい\xf000븁\x0000
-しあいを みていても\xfffeせんしゅが ケガを しないか\xf000븀\x0000しんぱい してばかりだよ
-おおぜいの なかから\xfffeぼくに はなしかけた きみ！\xf000븀\x0000みる め あるじゃないか！\xf000븁\x0000
-すごい てごたえだ！
-きみの わざの つかいかた\xfffeはっきりいって ぼくの このみだよ！\xf000븁\x0000これ…… よかったら！\xf000븁\x0000
-ふふ\xf000븁\x0000ひとごみに いても ぼくが\xfffeつよそうだと ばれちゃうんだな
-ふだんは エリートらしく してるけど\xfffeここに いるときくらい ふつうの\xf000븀\x0000おんなのこで いたいの\xf000븁\x0000
-いまは あんま ポケモンの こと\xfffeかんがえたく ないんだけど！
-これ あげるからさ わるいけど\xfffeそっと しておいてくれる？\xf000븁\x0000
-エリートだって たまにはさ\xfffeふつうの おんなのこ してたいの！\xf000븁\x0000かっこいい せんしゅに キャーって\xfffeさわいだりして たのしみたいの
-つぎは どっちの チームが\xfffeゴールを きめるか！？\xf000븀\x0000オレに かてば おしえるよ！\xf000븁\x0000
-ピキーン！\xfffeつぎの ゴールは あっちの チーム！
-オレの ちょうのうりょく\xfffeボールが ゴールが きまる\xf000븀\x0000すんぜんにしか はたらかないよ
-うふふ……\xf000븁\x0000わたしが ねんじた チームが\xfffeかならず かつのよ！\xf000븁\x0000
-あれっ……？\xfffeまさか いままでのは ぐうぜん……？
-おうえんは きもちが だいじよね！\xfffeしんじれば かちそうなきが するもの！
-つりだって りっぱな スポーツ！\xfffeなぜ つりスタジアムが ないんだ！？\xf000븁\x0000
-……まぁ つりは しぜんのなかで\xfffeやるのが たのしいよね\xf000븁\x0000
-しずかな しぜんも すきだが\xfffeこういう にぎやかなとこも すきだな
-スポーツの おおくは\xfffeジェントルマンの あそびから\xf000븀\x0000うまれて いるのだよ！\xf000븁\x0000
-レディース アンド ジェントルマン！\xfffeしあいは おわりましたー！
-ジェントルマンだからね\xfffeきまえよく プレゼントだよ！\xf000븁\x0000
-ポケモンしょうぶは ひとと\xfffeポケモンが なかよくなり\xf000븀\x0000しぜんに うまれた あそびだね
-なあなあ ちょっと\xfffeオメー みた！？\xf000븁\x0000スゲーよ！ ここ いつも テレビに\xfffeでている ゆうめいな ひとが\xf000븀\x0000たっくさん いるんだよー！\xf000븁\x0000
-スポーツせんしゅは みんな\xfffeかっこいいぜ あこがれるよー
-もー オレ なんで カメラとか\xfffeサインしきし もってきてないのー
-おきゃくを たのしませる ところは\xfffeスポーツも ジャグリングも おなじ！\xf000븀\x0000れんしゅうの せいかを みせるよ\xf000븁\x0000
-ポケモンしょうぶを しながら\xfffe１０この ボールを キャッチ！
-テクニックは ついたが\xfffeその いかしかたが わからん！\xf000븀\x0000やはり じっせん あるのみ！
-どハデな ドームに あたりから\xfffeキャーキャーとびかう かんせい……\xf000븁\x0000うう……\xfffeオラ うらやましいっスっ！\xf000븁\x0000
-スポーツせんしゅの なにがいいんスか\xfffeからてかの なにが ダメなんスか
-オンボロ どうじょうで あたりからは\xfffeオスや ウスの かけごえ のみ……\xf000븀\x0000こんなことなら スポーツせんしゅに\xf000븀\x0000なれば よかったっス……
-ぼく おおきくなったら\xfffeぷろの せんしゅに なるんだぞ！\xf000븁\x0000
-うわーん！\xfffeもう さいん あげないもん！
-ぷろに なったときの さいん\xfffeれんしゅう しておこっと！
-わたしの パパ\xfffeここの せんしゅ なの！\xf000븁\x0000
-うえーん パパーっ
-……やっぱり なかない\xfffeパパと やくそくしたもん
-マダムだって スポーツを たのしむわ\xfffeそれこそ おじょうひんに ね！\xf000븁\x0000ポケモンしょうぶも\xfffeある いみでは スポーツよね！\xf000븀\x0000おじょうひんに たのしみましょう！\xf000븁\x0000
-おーほっほっほ！\xfffeおじょうひんに まけましたわ
-アタクシ ボールと まちがえ これを\xfffeとりよせましたけれど あげますわ\xf000븁\x0000
-スポーツも ポケモンしょうぶも\xfffeまずは たのしまなくちゃ！\xf000븁\x0000かちまけに こだわりすぎると\xfffeたいせつな ものを みうしなうわね
-わたし ポケモンしょうぶ つよくなって\xfffeプロせんしゅと けっこん するの！\xf000븁\x0000
-ああっ\xfffeみちのりは とおいっ！？
-キミの ポケモン つよいのね\xfffeつよいひとには いいもの あげちゃうっ\xf000븁\x0000
-つよいひとって なんだか\xfffeむじょうけんで みりょくてきよねぇ
-やまおとこ スポーツマン\xfffeそして ポケモントレーナー\xf000븀\x0000なにが だいじか わかるか？\xf000븁\x0000
-むぎゅう！\xfffeおまえは わかっているな！
-ばっちり じゅんびを することだ\xfffeじゅんびぶそくだと なにも できんぞ！
-スターの オレに\xfffeだれも きづかない なんてっ……！\xf000븁\x0000
-まけた オレを みるな！
-だれの サイン もらいにきたの？\xfffeオレのは いらない？
-あなた げんきー！\xf000븁\x0000げんきの ないコは\xfffeあたしが おしおき しちゃうわよ！\xf000븁\x0000
-スタミナ ありあまっているわね！\xfffeもう げんき びんびん じゃない！
-よーし！ げんきな トレーナー！\xfffeこれも もらっていきなさい！\xf000븁\x0000
-ナースも スタミナしょうぶ なの！\xfffeあさも ひるも よるもね！
-ダーリンがね ここで はたらいてるの\xfffeどう？ うらやましいでしょ？\xf000븁\x0000
-アタシの ダーリンてば マジさいこう\xfffeスポーツせんしゅなんか めじゃないし
-アタシの ダーリンは せいそういん！\xfffeこの おっきな マウンド ぜんぶを\xf000븀\x0000まいにちひとりで そうじしてるんだ\xf000븀\x0000イケてるっしょ？ マネできないよ！
-あめの なかでの スポーツって\xfffeたいへんそうよね！\xf000븁\x0000あめの なかでの\xfffeポケモン しょうぶは どうかしら？\xf000븁\x0000
-まぁ ここは インドアだから\xfffeあめは ふらないのよね
-スタジアムに やねが あると\xfffeいつでも しあいが できちゃうわね！
-まいど！ ワシや ワシや！\xfffeイッシュいちの パイロットや！\xf000븁\x0000
-きさま！ エエこんじょう しとる！\xfffeワシの でしに なれい！
-じんせい いちどは とんだらんかい！\xfffeとんで とんで とびまくって みい！
-ＶＩＰせきが どんなもんか\xfffeしりたいかい？\xf000븁\x0000ぼくに かったら\xfffeおしえて あげるよ！\xf000븁\x0000
-ＶＩＰせきからは\xfffeせんしゅが とおいっ！
-しあいは よくみえたけど せんしゅが\xfffeこめつぶ みたいに みえたよ
-あなた……！\xfffeあの ひとの ファンなのね\xf000븁\x0000わたしには わかる！ だけど\xfffeあの ひとは わたさないわ！\xf000븁\x0000
-ヨヨヨ……\xfffeごめんなさい あの ひと……
-よくよく かんがえたら\xfffeおうえん する ひとが おおいほうが\xf000븀\x0000あの ひとも およろこびに なるわね\xf000븁\x0000あなた！ おうえん しなさい！\xfffeこえが かれて うでが もげるまで！
-しあい みてたら\xfffeからだを うごかしたく なるな！\xf000븁\x0000
-いい あせ かいたな！
-ドームも いいけど\xf000븁\x0000やっぱ だいしぜんの なかで\xfffeスポーツ したいよな
+There's no satisfying\xfffean athlete!\xf000븁\x0000That's what I've gathered\xfffefrom watching a few games.\xf000븁\x0000Why do I say that?\xfffeBeat me and I'll tell you!\xf000븁\x0000
+Are you satisfied by your victory?\xfffeOr do you just accept it?
+This Moomoo Milk is delicious!\xfffeThat's true satisfaction!\xf000븁\x0000
+However well they play,\xfffethey'll always want to play better!\xf000븁\x0000I'm not quite satisfied\xfffewith my bread-baking, either...\xf000븁\x0000So I'll try to make the\xfffenext batch even tastier!
+Things get heated here!\xfffeI came 'cause I heard that!\xf000븀\x0000Will you heat things up?!\xf000븁\x0000
+My burning feelings\xfffeare scorching me up!
+My heart is on FIRE!\xfffeThanks for the blazing battle!\xf000븁\x0000Now to get worked up\xfffewatching some sports!
+I've raised my Pokémon healthily,\xfffeand been stimulated by the games...\xf000븀\x0000Now! To put it into battle!\xf000븁\x0000
+Losing is painful!\xfffeThat's important to remember!
+I know more about losing\xfffethan about winning!\xf000븀\x0000And I'm the same way with sports...
+My trained Pokémon are too good\xfffeto be beaten, not even by the pros!\xf000븁\x0000
+Your trained Pokémon\xfffeare just as amazing!
+Seems there sure are\xfffea lot of ways to train Pokémon...
+There's no time to waste!\xf000븁\x0000
+When it comes to this,\xfffeit's fine as long as I worked hard!
+Even finding time to catch\xfffeyour breath is part of the job!
+I got my ticket and came,\xfffebut are they not playing any games?!\xf000븁\x0000
+Things are busy at work!\xfffeWhat am I DOING here?!
+Athletes get their off days just like\xfffeold men like me get vacation!
+Some of the kids at the daycare\xfffeI work at might be stars someday!\xf000븀\x0000Any good kids here?\xf000븁\x0000
+You're shining, I suppose,\xfffebut I want a real star!
+You've got star material!\xfffeMy regards for the future!\xf000븁\x0000
+Should I start getting signatures now\xfffefrom kids who'll probably be stars?
+I love soccer and\xfffePokémon the best!\xf000븁\x0000So? Having said that,\xfffeof course my Pokémon are good!\xf000븁\x0000
+Your Pokémon's attacks...\xfffeThey were just too much!
+I used to be a soccer player,\xfffeand my position was sweeper!\xf000븁\x0000I'm a sweeper in a way\xfffeat my current job, too...
+The players' Pokémon are the best!\xf000븁\x0000But my Pokémon\xfffeare totally awesome too!\xf000븁\x0000
+And your Pokémon\xfffeare even AWESOMER!
+Your Pokémon gotta try hard too!\xfffeThat how I train mine!
+Did you see today's game?!\xf000븁\x0000The players and the Pokémon\xfffewere handing off balls to each other!\xf000븁\x0000I've gotta let out\xfffemy excitement in a battle!\xf000븁\x0000
+I lost, but man,\xfffeI'm still so pumped!
+The only place to see\xfffePokémon enjoying sports\xf000븀\x0000is Raimon City!
+Just coming here makes you tense!\xfffeSo I'mma battle you!\xf000븁\x0000
+I lost to you so QUICK!
+Watching the games\xfffegets me riled up!\xf000븀\x0000I can't even sit still!
+"Doctor!\xfffeIs there a doctor on board?"\xf000븁\x0000"Yes, I'm a doctor."\xfffe"Then quickly, begin the battle!"\xf000븁\x0000
+Oh! My Pokémon\xfffelost their fighting fitness!
+When your Pokémon faint,\xfffeget them a Revive!\xf000븀\x0000You should have one!\xf000븁\x0000
+Even when I'm watching the game,\xfffeI wonder, "what if a player gets injured?"\xf000븀\x0000I always worry about these things...
+Of all the people in the crowd,\xfffeyou talked to me!\xf000븀\x0000You've got a discerning eye!\xf000븁\x0000
+What a response!
+My favorite part is how\xfffedecisively you use moves!\xf000븁\x0000Take this... if you want!\xf000븁\x0000
+Heh heh!\xf000븁\x0000Even though I'm in a crowd,\xfffemy strength has been exposed...
+I'm typically an ace of sorts, but here,\xfffeI just wanna be an ordinary girl!\xf000븁\x0000
+I don't really want to think\xfffeabout Pokémon right now, okay?!
+Sorry, but can I just\xfffequietly give you this?\xf000븁\x0000
+Being an ace, sometimes\xfffeI just want to be a regular girl!\xf000븁\x0000I want to have fun screaming\xfffemy head off for the stylish players!
+Which team will\xfffescore a goal next?!\xf000븀\x0000Beat me and I'll tell you!\xf000븁\x0000
+FWEEEEET!\xfffeThe next goal will go to... THAT TEAM!
+My psychic powers let me\xfffedirect the ball into the goal!\xf000븀\x0000But only just before it goes in...
+Ohoho...\xf000븁\x0000My precious team\xfffealways wins!\xf000븁\x0000
+Huh...?\xfffeMy streak... it couldn't have been...
+You must put feeling into your cheers!\xfffeIf you believe, they'll ring victoriously!
+Fishing is a fine sport!\xfffeWhy isn't there a Fishing Stadium?!\xf000븁\x0000
+...Well, fishing among nature\xfffeis kinda part of the fun.\xf000븁\x0000
+I like the quiet of nature,\xfffebut I like this kind of bustle too!
+Many sports originated from\xfffethe games of gentlemen!\xf000븁\x0000
+LADIEEEEES AND GENTLEMEEEEEN!\xfffeThe game is concluded!
+A gentleman always\xfffegives a parting gift!\xf000븁\x0000
+Pokémon battles are a game born\xfffefrom the friendship of man and Pokémon!
+Hey, didya see?!\xf000븁\x0000Daaang, man! There's so many\xfffefamous faces from TV here!\xf000븁\x0000
+The players are all so rad!\xfffeThey're like my heroes, man!
+Maaan, why didn't I bring\xfffea camera or something to get signed...?
+What delights guests is the same\xfffein both sports and juggling!\xf000븀\x0000See the results of my practice!\xf000븁\x0000
+I can juggle ten of these balls\xfffewhile I'm Pokémon battling!
+I have the technique,\xfffebut I dunno how to use it!\xf000븀\x0000It must be put into practice!
+I can hear screaming fans\xfffecheering from that flashy dome...\xf000븁\x0000Man...\xfffeI'm SO jealous!\xf000븁\x0000
+What's so good about athletes?\xfffeWhat's so bad about karate?
+I hear nothing but "ha!"s and "hoo!"s\xfffecoming from the dilapidated dojo...\xf000븀\x0000Maybe I should just\xf000븀\x0000become an athlete, then...
+When I grow up,\xfffeI'm gonna be a pro player!\xf000븁\x0000
+Waaah!\xfffeI haven't given you my signychure!
+When I'm a pro, I'll hafta\xfffepractice my signychure!
+My daddy's a player here!\xf000븁\x0000
+Wheeeeeh...\xfffeDaddyyy!
+...Sniff... nah, I won't cry...\xfffeI promised daddy I wouldn't cry...
+As a lady, I enjoy sports!\xfffeIn a most refined manner, of course!\xf000븁\x0000Pokémon battles are\xfffesports too, in a way!\xf000븀\x0000Let us elegantly delight in one!\xf000븁\x0000
+Oh-hoh-hoh-hoh-hoh!\xfffeIt's called falling with grace...
+I mistakenly ordered one of these\xfffeinstead of a ball, so you may have it.\xf000븁\x0000
+Sports and Pokémon battles\xfffeare to be firstmost enjoyed!\xf000븁\x0000Fuss too much over victory and loss,\xfffeand you come to miss the point!
+I'm gonna get good at Pokémon battles\xfffeand marry a professional player!\xf000븁\x0000
+Ahhh!\xfffeHave I so far to go?!
+Your Pokémon are strong!\xfffeI've got to give strong people good things!\xf000븁\x0000
+Strong people are charming,\xfffeand unconditionally so!
+Hikers, sportsmen,\xfffeand Pokémon trainers!\xf000븀\x0000Do you know what's important?\xf000븁\x0000
+Mooogh!\xfffeYou certainly understand!
+It's being absolutely prepared!\xfffeCan't do a thing without preparation!
+I'm a star!\xfffeWhy isn't anyone noticing... ah!\xf000븁\x0000
+I lost! Don't look at me!
+Did you come for somebody's signature?\xfffeBut not mine, huh...?
+You look energetic!\xf000븁\x0000I PUNISH those\xfffewho aren't energetic!\xf000븁\x0000
+You've got lots of stamina!\xfffeYou're a bottle of energy!
+Alright, energetic trainer!\xfffeTake this with you!\xf000븁\x0000
+Nursing is a battle of stamina, too!\xfffeMorning, noon, and night!
+My darlin' works here!\xfffeSo? You jealous?\xf000븁\x0000
+My darlin' isn't actually\xfffean athlete, per se...
+My darlin's a janitor!\xfffeHe sweeps up all the mounds\xf000븀\x0000on his own every day.\xf000븀\x0000Classy, eh? Bet YOU can't do that!
+Sports in the rain\xfffeseem like such a pain!\xf000븁\x0000What about a Pokémon battle\xfffein the rain, though?\xf000븁\x0000
+Well, it's indoors,\xfffeso it doesn't rain in here...
+The stadium has roofs\xfffeso there can be games anytime!
+Hey! It's me! It's me!\xfffeIt's Isshu's top pilot!\xf000븁\x0000
+You! You've got guts!\xfffeBe my apprentice!
+You ever flown in your life?!\xfffeFly, fly, fly your heart out!
+Wanna know what\xfffethe VIP seats are like?\xf000븁\x0000Beat me and I'll\xfffetell you about them!\xf000븁\x0000
+The VIP seats...\xfffeare really far from the players!
+You can see the game well,\xfffebut the players look like ants!
+You...!\xfffeYou must be a fan of HIM!\xf000븁\x0000I understand! But...\xfffeI'll never hand him over!\xf000븁\x0000
+Oyoyoyo...\xfffeI'm so sorry, for his sake...
+I thought over it a lot, and\xfffeI realized the size of the crowd\xf000븀\x0000brings him all the more joy!\xf000븁\x0000You! Give him your cheers!\xfffeScream until your arms fall off!
+When I watch a game,\xfffeI want to get my body moving!\xf000븁\x0000
+I worked up a good sweat!
+The dome is nice, but...\xf000븁\x0000I'd really like to play\xfffesome sports in the great outdoors!
 ここにいる やつらを しょっぴいて\xfffeレンジャーに にゅうたい させたいわ\xf000븁\x0000
 あんっ！ しびれるー！\xfffeアナタも グーッドね！
 アンタ レンジャーに なりなさいよ！\xfffeハードに しごいて きたえてあげる！
@@ -1214,33 +1214,33 @@ Game SET!
 ポケモンに きょうれつな サーブを\xfffeうってもらって れんしゅう してるの
 My Pokémon\xfffewere sooooo cute!
 Pokémon listen to me\xfffeand fight for me!
-オマエ…… だれかに\xfffeあやつられて ここに きただろう\xf000븁\x0000オレに かてたら\xfffeその ひみつ おしえてやるよ\xf000븁\x0000
-チェッ！ まさか\xfffeまけてしまうとはな……
-われらの おうさまを サポートする\xfffeしちけんじんの ゲーチスさま\xf000븁\x0000ゲーチスさまには ３にんの\xfffeぶかが いるのだ……\xf000븀\x0000そのなも ダークトリニティ！
-オレが かてば\xfffeおまえの ポケモンを ときはなて！\xf000븁\x0000
-プラーズマー！\xfffeむねん……だ！
-……なぜだ？ おまえの ポケモンは\xfffeおまえの となりで うれしそうだな
-この でんきいしの ほらあなで\xfffeくらす ポケモンは うつくしいわ\xf000븀\x0000だって ひとから じゆう だもの\xf000븁\x0000
-いやーん！ じゃなくて\xfffeプラーズマー！
-あなたたち ふつうの トレーナーが\xfffeポケモンを つかうのは わるいこと\xf000븁\x0000わたしたち プラズマだんが\xfffeポケモンを つかうのは いいこと！
-ほこりたかき プラズマだんの\xfffeいちいんである わたしが あいてだ\xf000븁\x0000
-ほこりたかき プラズマだんの\xfffeいちいんである わたしが……
-おまえは なんのために たたかう？\xfffeいや なんのために いきる？
-ポケモンを つかう トレーナー\xfffeおまえの つよさ みせてみろ！\xf000븁\x0000
-……なるほど\xfffeよく ポケモンを つかいやがる
-ひとが ポケモンを つかうことで\xfffeつよい よわいの きょうそうが\xf000븀\x0000うまれてしまう…… それでいいのか？\xf000븀\x0000ポケモンは トレーナーの どうぐか？
-プラズマだんの ねがいは！\xf000븁\x0000って あなたには\xfffeかんけい ないわね\xf000븁\x0000
-ちょっと！ なんなの！\xfffeつよすぎるのよ！ ぷんぷん！
-プラズマだんの ねがいは！\xf000븁\x0000おうさまが うえにたち\xfffeポケモンを ときはなつこと！\xf000븁\x0000あなた！ ポケモンを にがして\xfffeトレーナーを やめなさいよ！
-リュウラセンのとうに きて\xfffeテンション マックスの\xf000븀\x0000おれさまに まけてしまえ！\xf000븁\x0000
-あーあーあー\xfffeもりさがってきたぞ
-……それにしても すごい とう\xf000븁\x0000れきしは もちろん\xfffeこうごうしい パワーを かんじるぜ
-ハチクとか チェレンとか……\xfffeちょこまかと うるさい やつらめ\xf000븁\x0000
-わからん……\xfffeオマエらのことが わからん……
-オマエや ジムリーダーは\xfffeなぜ われわれに はむかうのだ？\xf000븀\x0000まったくもって りかい できん
-どうせ キミも\xfffeじぶんが つよい！ かてる！ と\xf000븀\x0000おもって ここまで きたんだろ？\xf000븁\x0000
-ふん……\xfffeおもいどおり ってわけだ！
-われら プラズマだんの おうさまが\xfffeせかいを ひとつに まとめれば\xf000븁\x0000トレーナーは いなくなり\xfffeあらそいは なくなるのだ！
+You... you had to be\xfffemanipulated to get here!\xf000븁\x0000Beat me and I'll\xfffetell you the secret!\xf000븁\x0000
+Pheh!\xfffeCan't believe I lost...
+Lord Getis is one of the Seven Sages\xfffein support of our king.\xf000븁\x0000And Lord Getis has\xfffethree of his own underlings...\xf000븀\x0000The Dark Trinity!
+If I win, I'm gonna\xffferelease your Pokémon!\xf000븁\x0000
+PLASMAAA!\xfffeRegret... ful!
+...Why? Your Pokémon look\xfffeso happy beside you...
+The Pokémon living in Thunderstone Cave\xfffeare so beautiful...\xf000븀\x0000We need to free them from people!\xf000븁\x0000
+NOOO! I mean,\xfffePLASMAAA!
+When regular trainers\xfffeuse Pokémon, it's bad!\xf000븁\x0000When we of Team Plasma\xfffeuse Pokémon, it's good!
+I, one of the proud Team Plasma,\xfffeam your opponent!\xf000븁\x0000
+I, one of the proud Team Plasma...\xfffeam, er...
+What are you fighting for?\xfffeActually... what are you living for?
+Show me your strength,\xfffePokémon-abusing trainer!\xf000븁\x0000
+...I see...\xfffeYou sure can, uh, abuse Pokémon!
+When people use Pokémon, it becomes\xfffea competition of the strong and the weak...\xf000븀\x0000Is that acceptable?\xf000븀\x0000Are Pokémon trainers' tools?
+These are Team Plasma's wishes!\xf000븁\x0000And you have\xfffeno part in them!\xf000븁\x0000
+Wait! What! You're!\xfffeToo! Strong! Hrnnngh!
+These are Team Plasma's wishes!\xf000븁\x0000Our king will stand above all\xfffeand release all Pokémon!\xf000븁\x0000And you! Let your Pokémon run!\xfffeStop being a trainer!
+I've reached peak tension\xfffehere at Dragon-Helix Tower!\xf000븀\x0000Hurry up and lose to me!\xf000븁\x0000
+Ahhh! Ahhh! Ahhh!\xfffeIt's going down now!
+...I gotta say, though, what a tower!\xf000븁\x0000With so much history to it, I can't\xfffehelp but feel a sublime power!
+Hachiku, Cheren, who cares....\xfffeThey're just annoyances to me!\xf000븁\x0000
+I don't get it...\xfffeI don't get ANY of you...
+Why do you and the\xfffegym leaders defy us?\xf000븀\x0000It's like you don't even understand!
+I'm sooo strong!\xfffeI'm gonna beat everybody!\xf000븀\x0000That's what you came in thinking, huh?\xf000븁\x0000
+Hm...\xfffeOkay, so it went like you thought!
+Once the king of Team Plasma\xfffeorders the world into union...\xf000븁\x0000Trainers will vanish,\xfffeand so will all strife!
 We exist for\xfffethe sake of Lord N!\xf000븁\x0000
 Ah!\xfffeLord N...!
 Since there is night,\xfffethe sun is beautiful.\xf000븁\x0000Since there is us,\xfffeour king must shine...!
