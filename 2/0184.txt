@@ -73,7 +73,7 @@ Tohohoho...
 I'm your kindergartener opponent!\xfffePleased to meet you!
 I'm a kindergartener winner!\xfffeThank you very much!
 I'm a kindergartener loser!\xfffeThank you very much!
-I am a kingergartener genius!\xfffeI'm already applying to colleges!
+I am a kindergartener genius!\xfffeI'm already applying to colleges!
 Losing to a kindergartener...\xfffeHow old are you, anyway?
 I'm proud of my studies,\xfffebut I'm still a kid in Pokémon...
 I am a HEROMAN!\xfffeI cannot lose!
@@ -130,78 +130,78 @@ Here you are! The glory\xfffeof a Pokémon battle!
 Mew-mew! It's a meowttle!\xfffe(I sound like such an idiot...)
 Mewray! Purrfect victory!\xfffe(I hate this job...)
 Meowww! I'm a sore mewser!\xfffe(This is doubly embarrassing...)
-ポケモンあいだったら まけないの\xfffeあいが あれば なんでも できるの
-この しろぼしは つまり ボクの\xfffeポケモンあいの あかしなの
-あいが あれば なんでもできるはず\xfffeあいさえ あれば かてるはずでは？
-おお あんたも ワシ ごじまんの\xfffeポケモンちゃんが みたいのかね？
-どうじゃ？ ワシのポケモンちゃんは！\xfffeなんとも ごりっぱ じゃろー？
-アフウ！！ なんてこったい！！\xfffeワシの ポケモンちゃんがぁー
-しぶちょうの めいよを かけて\xfffeいざ！ じんじょうに まいるぞっ！！
-だいすきクラブ しぶちょうの\xfffeこのワシが うちとったぞーっ！
-クッ ひとまず たいさんじゃ！\xfffeこどもよ！ おぼえておれぇ！！
-ウチは ポケモンが すきすぎて\xfffeたくさんの ものを うしなった……
-じんせいを ポケモンに ささげたんや\xfffeアンタとは かくごが ちがうんやで
-じんせいを かけても かてない！\xfffeウチは どうすりゃええのっ！
-きいてよ アタシね ポケモンが\xfffeすきで すきで しかたないのよ
-アタシって うまれかわったら\xfffeぜったいに ポケモンに なるわ
-あなたの ポケモンも すてき！\xfffeちょっと さわらせなさいよ！
-しょうぶは とくいでは ありませんが\xfffeこれも だいすきクラブの つとめ！
-これで だいすきクラブの めいよは\xfffeまもられましたわ フホホッ
-だいすきクラブ バンザーイ！！\xfffeだいすきクラブよ えいえんなれ！！
-ハイキングの はずが でんしゃを\xfffeまちがえてしまったで ゴワス
-まあ ここは ここで\xfffeおもしろいで ゴワスな
-ああ やまが…… やまが\xfffeおいどんを よんでるので ゴワス
-ワシを やまおとことは しつれいな\xfffeアルピニストと よびたまえ
-ワシくらいの やまマニアに なると\xfffeアルピニストと よばれるわけだ
-やまの スペシャリスト\xfffeそれが アルピニスト
-つりびとだからよ こういうばしょでも\xfffeサオもってるけどさ じゃまだわなコレ
-しょうぶにゃ かったが このサオは\xfffeぜんぜん ひつよう なかったよな
-あーもー じゃまくさいな このサオ！\xfffeもう オレ つりびと やめちゃお！
-おやおや おめさんは\xfffeおおものの よかんが すド
-やはり おめさんは\xfffeおおもの だったべ
-あーあ にがした えものは\xfffeなんとも おおきいだス
-かさが ないと パラソルおねえさんって\xfffeいえないからさ しかたなく さしてんの
-へやの なかで かさ さしてるなんて\xfffeヘンなひと みたいって おもうけどね
-かさがっ かさが おれちゃったっ！\xfffeただの おねえさんに なっちゃう！
-とある あめの ひに フラれました\xfffeうっぷんばらしに やつあたりします
-フラれた からだに ふる あめは\xfffeうがたれるほどに ささるのです
-やまない あめは ないと いいますが\xfffeこころに ふる あめは あがりますか
-ウチ あんはん みたいな おひとを\xfffeずっと ずーっと まってたんや
-やっぱ あんはんは さいこうやね\xfffeもう あんはんのこと はなしまへん
-あんはんのことが きにいったんや\xfffeともだちになって おくんなはれ
-ガキだからって てぬきしねえぞ！\xfffeガッツ いれて かかってこいや！
-ヘッ まけることに ビビッてたらよ\xfffeしょうぶなんか できねえって
-ケッ…… まだまだ よえーな オレは\xfffeポケモンたちに もうしわけねえよ……
-ぼくは ほんとうに ワルでバカだけど\xfffeポケモンだけは マジでやってるんだ
-ポケモンと いるときだけ ぼくは\xfffeおだやかな きもちに なるんだ
-アンタも マジに なれるものを\xfffeみつけられると いいな
-ツルツルヘアーは わたくしの\xfffeポリシーなので ございます
-そりあげた かみの かずだけ\xfffeわたしは つよくなれるのです
-きみが もっとつよくなる そのために\xfffeツルツルヘアーを おススメします
-こんなところまで バイクで くる\xfffeオレを あなたは わらうのだろう
-オレは じんせいを バイクの うえで\xfffeすごす そう きめているのだ
-オレは バイクなしでは そとにも\xfffeでられない おくびょうものなのさ
-オイラ オイラだけの ゴールを\xfffeめざして だいばくそうちゅうさ
-またいっぽ めざす ゴールに\xfffeちかづいた かんじなんだぜ
-オメーも テメーの ゴールは\xfffeテメーで きめなきゃ ダメだぜ！
-I'm a biker, but\xfffeI've not yet ridden on this.
+If you love Pokémon, you can't lose!\xfffeWith love, you can do anything!
+This victory is clear proof\xfffeof my love for Pokémon!
+With love, I can do anything...\xfffeSo shouldn't I have won with love?
+Oh, you want to see\xfffemy spectacular Pokémon, too?
+How do you like them Pokémon?!\xfffeSplendid, aren't they?
+Waaah!! What in BLAZES?!?\xfffeMy dear Pokémooooon...!
+With my honor as head of the\xfffeFan Club... Come, commoner!!
+Face defeat at the hands of\xfffethe head of the Pokémon Fan Club!
+Ack! Disperse for now!\xfffeYou runt! You'll regret this!!
+I love Pokémon so much,\xfffeit's made me lose a lot of things...
+I dedicate my life to Pokémon!\xfffeYou weren't nearly as prepared!
+I gave it my life, and I didn't win!\xfffeWhat am I supposed to DO?!
+Listen, I can't help it if\xfffeI really really really love Pokémon!
+If I could be reborn,\xfffeit'd definitely be as a Pokémon!
+Your Pokémon are fantastic!\xfffeLET ME TOUCH THEM!!
+I'm not particularly good at battling,\xfffebut I'm just serving the Fan Club!
+I've protected the honor\xfffeof the Fan Club! Hoohoho!
+Long live the Fan Club!!\xfffeThe Fan Club is eternal!!
+I should be hiking! How did I\xfffend up on a train instead? HOW?
+Well, either way, this is\xfffean interesting place, yes, yes!
+Ah, the mountains...!\xfffeThe mountains beckon, yes, yes!
+A "hiker?" How rude!\xfffeCall me an alpinist!
+You should call me an alpinist\xfffebecause I'm such a mountain maniac!
+A mountain specialist is\xfffean alpinist! Remember it!
+I'm a fisherman, so I take my rod\xfffeeverywhere! But it gets in the way!
+I didn't need this rod at all\xfffeto win that battle!
+Ah, geez, you stupid rod!\xfffeThat's it, I quit! Fishing! Forever!
+Hm, I get the feeling\xfffeyou think you're big game!
+I was right,\xfffeyou were big game!
+Ahhh! That fish I let\xfffeloose was SO HUGE!
+A Parasol Lady without a parasol\xfffeis absurdity, so I must have one!
+I'm sure people think I'm weird\xfffefor opening an umbrella indoors, but...
+My... my parasol! It's broken!\xfffeNow I'm just a plain old LADY!
+I'll take my anger over being rejected\xfffeon a rainy day out on you!
+The rain falling on me seems to\xfffepierce my already-broken heart...
+They say it's an endless rain,\xfffebut isn't it only in my heart?
+I've been waiting verrrrry long\xfffefor someone like you!
+Huh, not what I was expecting...\xfffeNot interested anymore!
+Whatever you are, I think I like you!\xfffeWe should be friends!
+Don't slack off, twerp!\xfffeGive it all your guts!
+Heh, surprised you lost?!\xfffeYou don't got what it takes!
+Geh... I'm still too weak...\xfffeCan't apologize enough, Pokémon...
+I'm really clumsy in almost everything,\xfffebut I'm serious about Pokémon!
+Having Pokémon with me\xfffemakes me feel calm...
+I hope you find something\xfffeyou can be serious about too!
+My policy is\xfffealways having slicked-back hair!
+My stylish hair alone\xfffemakes me stronger!
+If you want to get even stronger,\xfffeI recommend slicked-back hair!
+I came here on my bike!\xfffeHEY! You laughin' at me?!
+I'm gonna spend my\xfffewhole life on a bike!
+Without my bike, I'd be such\xfffea coward, I wouldn't even go out...
+That loud roar you're hearing is\xfffeme aiming for my own goals!
+I think I've taken\xfffeanother step toward my goals!
+You gotta decide\xfffeyour goals too, OR ELSE!
+I'm a biker, but\xfffeI've not yet ridden one.
 I'm a biker, but\xfffeI still lack friends.
 I'm a biker, but\xfffeI've not yet won.
-あたいのポケモンは げんきパンパン！\xfffeとくせいの パンで そだてたからさ！
-あたいの とくせいパンを たべれば\xfffeあんたも やたら げんきに なるよ
-つよいねぇ あんたも あたいの\xfffeとくせいパン たべてるのかい？
-１きん ２きん ３きん ４きん……\xfffeなんど かぞえても １きん たりない
-ああ パンが １きん たりない……\xfffeだんなさまに しかられる……
-ああ うらめしや うらめしや……\xfffeだいじな パンは どこいった……
-ちょっと アンタ！ まいにち\xfffeきちんと あさゴハン たべてるかい？
-あさゴハンを かかさない わたしは\xfffeげんきで ムッチムチなんだよ！
-けんこうの だいいっぽは まいにち\xfffeちゃんと あさゴハンを たべることさ
-さぼってないのでー ありますっ！\xfffeパトロールなのでー ありますっ！
-ここは きけんなのでー ありますっ！\xfffeたのしすぎるのでー ありますっ！
-キミ ようちゅういでー ありますっ！\xfffeマークしちゃうでー ありますっ！
-ボクは おまわり なんだよ！！\xfffeつまり ボクは ジャスティスだよ！
-ジャスティスは かならず かつのだ！\xfffeだから ボクが かったんだよ！
-ボクはっ ボクは おまわりだぞぉ！！\xfffeジャスティス なのにーっ！！
+My Pokémon are healthy as bread!\xfffeThat's what I raised them on!
+If you ate my special bread,\xfffeyou'd feel good in a flash too!
+You're strong... have you\xfffebeen eating my special braead?
+One, two, three, four loaves...\xfffeNope, still missing a loaf...
+Ahhh, I'm out a loaf of bread...\xfffeMy husband will scold me...
+Oh, curse ye, curse ye...\xfffeWhere did my bread get to...?
+Hey, you! Are you eating\xfffebreakfast every day?
+I skipped breakfast today,\xfffebut I guess I'm energetic enough!
+Always eating breakfast gives you\xfffea healthy first step to the day!
+Don't LET YOUR GUARD DOWN!\xfffeI am ON PATROL!
+It's DANGEROUS HERE!\xfffeBut ALL TOO MUCH FUN!
+You're WORTH LOOKING OUT FOR!\xfffeI'll keep MY EYE ON YOU!
+I'm a policeman!\xfffeIn short, I AM THE JUSTICE!!
+Justice always wins!\xfffeAND I AM JUSTICE!!
+But, but I am a policeman!!\xfffeBut, but I am JUSTICE!!
 うえに おこられて やるきしねーし\xfffeここで ウサでも はらすかな……
 へへへっ ほらなぁー ここだったら\xfffeオレも デキる おとこ なのによぉ
 あー もう なんだよー オレ\xfffeここでも つかえない おとこかよぉ
@@ -304,9 +304,9 @@ I'm a biker, but\xfffeI've not yet won.
 あなたと あなたの ポケモン\xfffeおげんき ですかー！？
 あたしの げんきを キミに\xfffeちゅうにゅう しちゃうぞ！
 にんげん げんきが あれば\xfffeなにかと できますよー！
-しんしたるもの しょうぶのひとつも\xfffeたしなむようで なければいかんね
-しんしたるもの しょうりのよいんに\xfffeじょうひんに よわねばいかんね
-しんしたるもの しょうぶの けっかは\xfffeじっと うけとめねば いかんかね
+It's unbefitting of a gentleman to\xfffetake too much delight in a battle.
+It's unbefitting of a gentleman to\xfffedwell too much on victory.
+It's unbefitting of a gentleman to\xfffebe distraught by a battle's result.
 きみの おてなみ わたくしが\xfffeはかって さしあげましょう
 ン…… トレーナーで たとえるなら\xfffeえんじ という ところ ですなァ
 ム…… トレーナーで たとえるなら\xfffeだいすきクラブ ですかなァ
@@ -325,24 +325,24 @@ I'm a biker, but\xfffeI've not yet won.
 ポケモンは うらぎらないからね\xfffeささげた あいじょうは かえってくる
 わたしの あいじょうが ポケモンに\xfffeとどいてる しょうこ だわね
 そろそろ ひとに あいじょうを\xfffeそそぎたいんだけどね……
-いいポケモンを そだてるコツを\xfffeキミに おしえてあげようかな
-いいポケモンを そだてるコツは\xfffeいいポケモンを つかまえることだ
-いいポケモンを そだてるコツなんて\xfffeキミには ひつようないんじゃない？
+Let me tell you what it takes\xfffeto train good Pokémon!
+Training good Pokémon takes\xfffecatching good Pokémon!
+Training good Pokémon takes...\xfffeWell, you don't need to know, huh?
 よくきたな！ こっから さきは\xfffeひとすじなわじゃ いかないぞ！
 ふふっ ほーらね！\xfffeきみには まだ はやかったよ
 さっきは いきおいで いったけど\xfffeひとすじなわ って どんな なわ？
-パパモ ママモ エリートダカラ\xfffeボクモ オソラク エリートデス
-ボクノ モクヒョウハ パパヤ ママト\xfffeオナジ エリートニ ナルコトデス
-エリートノ イデンシト ナナヒカリガ\xfffeボクニハ ツイテイル ハズナノニ……
+MY MOTHER AND FATHER ARE ACES\xfffeSO PERHAPS I TOO AM AN ACE
+MY OBJECTIVE IS TO BECOME\xfffeAN ACE ALIKE MOTHER AND FATHER
+THE GENES OF ACES SHOULD\xfffeHAVE ASSISTED ME DOT DOT DOT
 どこ みてたって いいけどさ\xfffeまけちゃっても しらないよー
 もー ほらー しゅうちゅうしないから\xfffeまけちゃうんだってー
 もー いいでしょー おわったんだから\xfffeじろじろ こっち みないでよー
 Daddy... mommy...\xfffeI'm gonna do it, so watch...
 Daddy... mommy... did you see?\xfffeI did it... I did it...!
 Daddy... mommy...\xfffeWhat should I do...?
-ジュケンベンキョウニ ツカレテ\xfffeココマデ ニゲテキタンダ……
-ボクハ マケラレナインダヨ……\xfffeモウ ベンキョウハ シタクナインダ
-ヤダヨ！ カエリタクナイヨ！\xfffeベンキョウ シタクナインダ！
+I WAS TIRED OF STUDYING FOR\xfffeEXAMS, SO I RAN AWAY HERE...
+I WILL NOT LOSE...\xfffeI DON'T WANT TO STUDY ANYMORE...
+NO! I DON'T WANT TO GO BACK!\xfffeI DO NOT WANT TO STUDY!
 しょうらいは とにかく しゅっせして\xfffeおかねもちに なりたいんだぜ
 おれっちの ゆめは とにかく\xfffeおかねもちに なることなんだぜ
 いつか おかねもちに なって\xfffeおまえを みかえしてやるんだぜ
@@ -373,9 +373,9 @@ Daddy... mommy...\xfffeWhat should I do...?
 はじみてぃやーさい！\xfffeゆたしく うにげー さびらね！
 ポケモンは たのしいさー\xfffeトレーナーさん にふぇーでーびる！
 まけても なんくるないさー\xfffeトレーナーさん んじちゃーびら！
-パパも ママも パソコンに むかって\xfffeつぶやいてばっか！ つまんない！
-パパも ママも パソコンも きらい！\xfffeポケモンだけ いれば いいもん！
-パソコンに つぶやくより わたしと\xfffeおしゃべりすれば いいのにな……
+My dad and mom just stare at their\xfffecomputers and tweet! So boring!
+I hate dad, mom, and computers!\xfffeI just like Pokémon!
+I'd like it better if they talked to me\xfffeinstead of tweeting on the computer...
 せかいを またに かける わかき\xfffeぼうけんかとは オレの こった
 せかいの ポケモンを みてまわるのが\xfffeオレの たびの もくてき なんだべ
 ぼうけんが オレを よんでるぜ\xfffeでは さらばだ！ またあおうっ！
@@ -424,12 +424,12 @@ Here's something important! Remember it!\xfffePeople aren't as they seem!
 ほんとうは いっしょう つりして\xfffeおだやかに くらしたいんだがな
 ああ つりばかりして くらしたい\xfffeかったり まけたりには あきたわ
 このくらいの としに なるとなあ\xfffeかとうが まけようが かわらんのよ
-もしもしー？ あたしー え いま？\xfffeいまから しょうぶ なんだー
-ね もしもし？ きこえるー？\xfffeいま しょうぶ かったからさー
-ああ もしもしー？ きこえてるー？\xfffeもー きいてー まけちゃったのよー
-かれに キミ スコールみたいだ って\xfffeいわれたんだけど スコールってなに？
-ウ ウ ウワーン！ ウワーンッ！！\xfffeうれしくって なみだが でちゃうのー
-ウ ウ ウワーン！ ウワーンッ！！\xfffeウワーンッ！！ ウワーンッ！！
+*click*! Hello? I'm... uh? NOW?\xfffeYou want to battle NOW?
+Hey? Hello? Can you hear me?\xfffeI SAID, I just WON the BATTLE!
+Um, hello? Can you hear me?\xfffeUm... listen... I looost...
+He said he wanted to "score"\xfffewith me... um, what's that mean?
+W-W-W-Waaaagh! WAAAAAGH!!\xfffeI'm crying tears of joy, here!!
+W-W-W-Waaaagh! WAAAAAGH!!\xfffeWAAAAAGH!! WAAAAAGH!!
 これから たたかう あいてにさ\xfffeおしゃべりなんて いらないでしょ？
 じんせい まけたら オシマイよ\xfffeだから あたしは ふんばるの
 みじめな あたしを みないで！\xfffeほら さっさと いきなさいっ！
@@ -445,9 +445,9 @@ Here's something important! Remember it!\xfffePeople aren't as they seem!
 ほしクズに なっちまった あいぼうの\xfffeポケモンが オレの パートナーよ
 オイ みてるかよ？ あいぼう……\xfffeオレたち なかよくやってるぜ……
 クズだった アイツも そらにのぼれば\xfffeほしクズさ…… なあ あいぼう……
-おで しゃべるの とても にがて……\xfffeだから バイク かわり しゃべる……
-パラリラー！ パラリラ パラリラー！！\xfffeパラリラー！ パラリラ パラリラー！
-ブォン！！ ブォン ブォン！！\xfffeブオォォーンッ！！ ブォン！！
+I don't like talking at all...\xfffeI'll let my bike speak instead...
+Vrooooom! Vroom VROOM!!\xfffeVrrrrrooooom! VRRRRRRRRRR!
+Sputter!! Sponk, spittle!!\xfffeSkreeeee!! PLUNK!!
 おんしゃー かくごは できとるんか？\xfffeぼうそうぞく なめたら いかんぜよ！
 ぼうそうぞく やき スピードへの\xfffeこだわりが ちがうわっ！！
 ボクらぁー ほんまは まじめです！\xfffeちっくとも わるいこと せんです！
@@ -511,9 +511,9 @@ Here's something important! Remember it!\xfffePeople aren't as they seem!
 それでは しょうかい しようか\xfffeこれが オレの ハニーたちさ
 どうだい？ オレのハニーたちはさ\xfffeとってもタフ かつ キュートだろ
 ヒューッ！ アンタの ハニーたちも\xfffeなかなか イケてるじゃないのさ！
-キコ キコ キコ キコ
-チリーン！ チリンチリーン！
-ガシャンッ！！
+Pedal-pedal-pedal-pedal...
+Ring! Ringading-ding!
+SCREEEEECH!!
 こちらはですね さいしんモデル かつ\xfffeげんていせいさんの じてんしゃですの
 よい どうぐを もちますと じぶんの\xfffeグレードも あがった きが しますわ
 やめてえ じてんしゃに さわらないで\xfffeしもんで ベトベトに なっちゃうよお
@@ -523,9 +523,9 @@ Here's something important! Remember it!\xfffePeople aren't as they seem!
 あー チミチミ！ もってる ポケモン\xfffeぜーんぶ ここに だしたまえ！
 ン？ これで ポケモンは ぜんぶか？\xfffeほかにも かくしてるんじゃないか？
 ンー チミも チミの ポケモンにも\xfffeあやしいところは ないようだな！
-わたしは わたしの へいわを まもる
-わたしの へいわは まもられた
-わたしの へいわを みださないで
+I protect my peace.
+I protected my peace.
+Don't disrupt my peace.
 はたらくために うまれて きたんだぜ\xfffeそれは ぼくの うんめいなんだぜ
 はたらいて はたらいて はたらくぜ\xfffeはたらいてるときだけが しあわせだぜ
 こんなとこで しょうぶ しているのも\xfffeじつは これが しごとだから なんだぜ
@@ -622,9 +622,9 @@ Nooo! My FAMILY!!\xfffeWhat have you DONE?!?
 ひとは なぜ きそい あらそうのか？\xfffeそれが けんきゅうの テーマなんです
 かったところで あいての きもちを\xfffeきずつけることが あるというのに
 まけて しまえば あいてへの\xfffeうらみが わくことも あるのに
-ハイッ！！ しゅうちゅうッ！！
-フォーーッ！！
-フギャンッ！！
+HELLO!! Let us CONCENTRATE!!
+FWOOOOOAAAAA!!
+FGYAAAAAHHHHH!!
 きれいごとなど ざれごとに ひとしい\xfffeことばは たたかいを けがすだけ……
 スポーツかんかくで しょうぶする\xfffeトレーナーなど ふかいの きわみ……
 はいぼくには いっぺんの かちもない\xfffeはいしゃに ことばなど ふよう……
@@ -739,9 +739,9 @@ Huh? It's not "do-re-mi's," it's "ABC's"?\xfffeHa, haha... I knew that!
 あての ポケモン さいきょう じゃき\xfffeおまんにゃ まけるきが しやーせん
 そげん やわな ポケモンで\xfffeあてに かてると おもっちょうか？
 あーあ きっついのお\xfffeまけるのは くやしいぜよ
-ポケモンの ための レストランが\xfffeあったら たのしいと おもわない？
-ポケモンの ための フルコースが\xfffeあったら みんな よろこばないかな
-ポケモンの ための レストランだよ！\xfffeポケモンの レストラン じゃない！
+Don't you think a restaurant\xfffefor Pokémon would be fun?
+Wouldn't everyone delight in\xfffea full course for Pokémon?
+A restaurant FOR Pokémon!\xfffeNOT a Pokémon restaurant!
 PAGOOO!! PAGOOO!!
 PAGOOO!!
 PAGORAAAAAHHH!!
@@ -892,12 +892,12 @@ PAGORAAAAAHHH!!
 おそざきにして くるいざき！\xfffeさかせて みせます あでやかに！
 まって さいて さきほこれ！\xfffeおんなの しょうりの たいりんよ！ 
 つぼみの ままで かれゆくよりも\xfffeひとはな さかせて ちりたいの
-まいど！ ワシや ワシや！\xfffeせかいいちの パイロットや！
-あかん！ ぜんぜん あかん！\xfffeそんなことでは トップに なれんで
-ええ こんじょうしとるな きさま！\xfffeこんどワシの セスナに のせたる！
-まいど！ オウ！ ワシや！\xfffeせかいいちの パイロットや！
-ええか？ トレーナーたるもの\xfffeいっちゃくを とりや！ いじょう！
-きさま エエうで しとる！\xfffeワシの でしに なれ！
+Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
+No good! No good at all!\xfffeYou'll never be on top!
+You! You've got guts!\xfffeYou can fly with me next time!
+Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
+Got me? A trainer must\xfffetake first! Then take FIRSTER!
+You're a skillful one!\xfffeBe my apprentice!
 DUMMY
 DUMMY
 DUMMY
@@ -916,9 +916,9 @@ DUMMY
 DUMMY
 DUMMY
 DUMMY
-ほんじつは バトルサブウェイ\xfffeごじょうしゃ ありがとうございます\xf000븁\x0000わたくし サブウェイマスターの\xfffeノボリ と もうします！\xf000븁\x0000さて つぎの もくてきち ですが\xfffeあなたさまの じつりょくで\xf000븀\x0000きめたいと かんがえております\xf000븁\x0000ポケモンの ことを\xfffeよく りかい なさっているか\xf000븁\x0000どんな あいてにも\xfffeじぶんを つらぬけるか……\xf000븁\x0000しょうり もしくは はいぼく\xfffeどちらに むかうのか……\xf000븀\x0000では しゅっぱつ しんこうーッ！！
-……あなたさまの たたかいぶり\xfffeけっして わるくは ありませんでした\xf000븁\x0000ただ わずかながら わたくしたちが\xfffeあなたさまを うわまわったようです\xf000븁\x0000ただ わたくしとしては\xfffeもういちど おてあわせ ねがいたい！\xf000븁\x0000ぜひ！ ぜひ！ またの\xfffeごじょうしゃを おまちしております！
-ブラボー！！\xf000븁\x0000あなたさまは その じつりょくで\xfffeしょうり という もくてきちに\xf000븀\x0000みごと とうちゃく なさいました！\xf000븁\x0000ですが\xfffeじんせいは まだまだ おわりません！\xf000븁\x0000つぎの もくてきちが きまりましたら\xfffeそこに むかって ぜんりょくで\xf000븀\x0000ひたはしって くださいまし！
+Thank you for riding\xfffethe Battle Subway today.\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Consider your next destination\xfffedependent on your ability!\xf000븁\x0000Do you fully understand\xfffeyour Pokémon?\xf000븁\x0000What kind of foes\xfffehave you gone through...?\xf000븁\x0000Victory or defeat...\xfffeTorward which are you headed...?\xf000븀\x0000Prepare for departure!!
+...Your battle was\xfffecertainly not lacking.\xf000븁\x0000But, if only by a little,\xfffeit seems I surpassed you.\xf000븁\x0000I hope that you desire to challenge\xfffeme to a bout once more!\xf000븁\x0000Certainly! Certainly!\xfffeWe await your riding again!
+Bravo!!\xf000븁\x0000The victory you have achieved\xfffewith your impressive ability\xf000븀\x0000results in a splendid arrive!\xf000븁\x0000However,\xfffelife goes on still!\xf000븁\x0000When you decide your next destination,\xfffeyou must make your way there\xf000븀\x0000with all that you can muster!
 ようこそ おまちしておりました！\xf000븁\x0000あらためて じこしょうかいを……\xf000븁\x0000わたくし サブウェイマスターの\xfffeノボリ と もうします！\xf000븁\x0000かって かって かちまくり\xfffeそのさきに なにが みえるのか？\xf000븀\x0000もくてきちは どこなのか\xf000븁\x0000かんがえ つづけて\xfffeひとつ わかりました\xf000븁\x0000かったさきの ことは\xfffeかたねば わからない ということです\xf000븁\x0000ですので こんかいも\xfffeぜんりょくで おあいて いたします\xf000븀\x0000では しゅっぱつ しんこうーッ！！
 たまたま わたくしが かてましたが\xfffeあなたさまの じつりょくは たかい！\xf000븁\x0000かけひき…… よみ……\xfffeすばらしい ものを おもちです\xf000븁\x0000そうです！ わたくしとしては\xfffeなんどでも おてあわせ ねがいたい！\xf000븁\x0000ぜひ！ ぜひ！ またの\xfffeごじょうしゃを おまちしております！
 ブラボー！！\xfffeスーパー ブラボー！！\xf000븁\x0000あなたさまの ような\xfffeすばらしい ポケモントレーナーに\xf000븁\x0000たいして ぜんりょくを だせたこと\xfffeひじょうに うれしく おもいます\xf000븁\x0000そうです！\xfffeつよい あいてに むかっていってこそ\xf000븀\x0000じぶんも つよくなれるという もの\xf000븁\x0000さらに しょうじんを かさね\xfffeたかみ という もくてきちを めざし\xf000븀\x0000ひたはしって くださいませ！！
