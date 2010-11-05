@@ -325,7 +325,7 @@ Well, I'm not giving in...\xf000븁\x0000I'll just get stronger with my partners
 I've found a thus-far consistent\xfffepattern to victory! Take THIS!\xf000븁\x0000
 Huh...\xfffeWell, that sucks.
 The sadness of loss is only momentary!\xf000븁\x0000If I, the trainer, give up,\xfffemy Pokémon can't do anything!
-Do you have the potential to look\xfffetoward the Pokémon League? Let me see!\xf000븁\x0000
+Do you have the potential to aim\xfffefor the Pokémon League? Let me see!\xf000븁\x0000
 Aha! Aha aha!\xfffeAha-aha-aha-aha-aha! I see!
 I hear there's a powerful\xfffeChampion at the Pokémon League.\xf000븁\x0000I hope that I, too, will someday be\xfffeable to challenge the Pokémon League!
 I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Isshu!\xf000븁\x0000
@@ -1214,7 +1214,7 @@ Game SET!
 ポケモンに きょうれつな サーブを\xfffeうってもらって れんしゅう してるの
 My Pokémon\xfffewere sooooo cute!
 Pokémon listen to me\xfffeand fight for me!
-You... you had to be\xfffemanipulated to get here!\xf000븁\x0000Beat me and I'll\xfffetell you the secret!\xf000븁\x0000
+You... you were brought\xfffehere by someone's manipulation!\xf000븁\x0000Beat me and I'll\xfffetell you their secret!\xf000븁\x0000
 Pheh!\xfffeCan't believe I lost...
 Lord Getis is one of the Seven Sages\xfffein support of our king.\xf000븁\x0000And Lord Getis has\xfffethree of his own underlings...\xf000븀\x0000The Dark Trinity!
 If I win, I'm gonna\xffferelease your Pokémon!\xf000븁\x0000
@@ -1228,7 +1228,7 @@ I, one of the proud Team Plasma...\xfffeam, er...
 What are you fighting for?\xfffeActually... what are you living for?
 Show me your strength,\xfffePokémon-abusing trainer!\xf000븁\x0000
 ...I see...\xfffeYou sure can, uh, abuse Pokémon!
-When people use Pokémon, it becomes\xfffea competition of the strong and the weak...\xf000븀\x0000Is that acceptable?\xf000븀\x0000Are Pokémon trainers' tools?
+When people use Pokémon, it becomes\xfffea competition, strong versus weak...\xf000븀\x0000Is that acceptable?\xf000븀\x0000Are Pokémon trainers' tools?
 These are Team Plasma's wishes!\xf000븁\x0000And you have\xfffeno part in them!\xf000븁\x0000
 Wait! What! You're!\xfffeToo! Strong! Hrnnngh!
 These are Team Plasma's wishes!\xf000븁\x0000Our king will stand above all\xfffeand release all Pokémon!\xf000븁\x0000And you! Let your Pokémon run!\xfffeStop being a trainer!
@@ -1526,8 +1526,8 @@ La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffe
 あなたたちの たくましさに\xfffeけいいを ひょうして これを！\xf000븁\x0000
 ポケシフターで やってきた\xfffeべつの ちほうの ポケモンが\xf000븀\x0000にげだしていないか みているの
 This place isn't in the guidebook...\xfffeI like to search places like that!\xf000븁\x0000
-Your strength...!\xfffeIt want it in the guidebook!
-A journey of new discoveries!\xfffeThat's my theme.\xf000븁\x0000For example, see that big rock!\xfffeYou can push it with Strength!
+Your strength...!\xfffeI want it in the guidebook!
+A journey of new discoveries!\xfffeThat's my theme.\xf000븁\x0000For example, see that big rock?\xfffeYou can push it with Strength!
 So there's a peaceful place here,\xfffeside-by-side with a big city...\xf000븁\x0000Whoa! But somehow, it stirs me\xfffeinto a battling mood!\xf000븁\x0000
 Whew...\xfffeI've calmed down now.
 Pokémon are calmed\xfffeby nature too, surely?\xf000븁\x0000Or do they actually prefer\xfffethe flashiness of the city?
@@ -1711,9 +1711,9 @@ Thanks for being my opponent!\xfffeYeah! It worked out as a study session!
 なれない ルールで\xfffeかんがえすぎたか？
 ３びきの バランス……\xfffeそれぞれの やくわり……\xf000븀\x0000まだまだ けんきゅう だな
 ローテーションバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000３びきは たたかえる\xfffeポケモンが いないと できないよ
-ローテーションバトルは\xfffeポジションが つねにかわる\xf000븀\x0000あたらしい ポケモンしょうぶ\xf000븁\x0000きみが とまどっている あいだに\xfffeおしきらせて いただこう！\xf000븁\x0000
-なれない ルールで\xfffeかんがえすぎたか？
-３びきの バランス……\xfffeそれぞれの やくわり……\xf000븀\x0000まだまだ けんきゅう だな
+A Rotation Battle is a new battle\xffffewhere positions are always changing!\xf000븁\x0000I'll take advantage of you\xfffewhile you're still confused!\xf000븁\x0000
+Was I overthinking the rules\xfffeI wasn't familiar with...?
+The balance of three...\xfffeIndividual duties...\xf000븀\x0000I still needs study!
 トリプルバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
 どう たたかえば こうかてきか\xfffeためさせて いただくわね！\xf000븁\x0000
 ひょっとして あなた\xfffeトリプルバトルの てんさい！？
@@ -1723,8 +1723,8 @@ Thanks for being my opponent!\xfffeYeah! It worked out as a study session!
 ひょっとして あなた\xfffeローテーションバトルの てんさい！？
 よければ おともだちとも\xfffeローテーションバトルを してみてね
 You're such a figurative thorn in our\xfffemagnificent plan's metaphorical side!
-So you're...\xfffethe trainer Lord N was smitten with!\xf000븁\x0000
-Aren't you the same\xfffeas that other trainer?
+So you're... the trainer\xfffeLord N was smitten with!\xf000븁\x0000
+How are you any different\xfffefrom all the other trainers?
 Lord N was raised\xfffetogether with Pokémon...\xf000븁\x0000He puts Pokémon in his thoughts\xfffemore than anybody, period!
 Those who oppose Team Plasma\xfffeget shown a world of pain!\xf000븁\x0000
 Owww, OWWW!\xfffeMy Pokémon are in pain!

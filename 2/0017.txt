@@ -174,8 +174,8 @@ Wetlands extended out\xfffearound your team!
 Wetlands extended out\xfffearound the enemy team!
 The wetlands around\xfffeyour team disappeared!
 The wetlands around\xfffethe enemy team disappeared!
-Your team was too nervous\xfffeto eat the berry!
-The enemy team was too nervous\xfffeto eat the berry!
+Your team was made\xfffetoo nervous to eat berries!
+The enemy team was made\xfffetoo nervous to eat berries!
 An area that reverses Defense\xfffeand Sp. Defense was created!
 Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
 An area that removes the effect\xfffeof held items was created!
