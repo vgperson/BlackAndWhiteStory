@@ -157,7 +157,7 @@ Wash Rotom
 Frost Rotom
 Fan Rotom
 Mow Rotom
-\xf000ā\x0001\x0000のすがた
+\xf000ā\x0001\x0000's Form
 Normal
 Sunny Form
 Rainy Form
@@ -186,7 +186,7 @@ Forms Seen:
 Different Forms:
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
- 
+(Shiny)
 \xf000ā\x0001\x0000's location(s)
 Spring
 Summer
