@@ -1,4 +1,4 @@
-
+﻿
 For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
 When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
 After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
@@ -251,7 +251,7 @@ It sleeps in a deep-sea trench.\xfffeIf it flaps its wings, it is said to\xfffec
 Its feathers are in seven colors.\xfffeIt is said that anyone seeing it is\xfffepromised eternal happiness.
 It has the power to travel across\xfffetime, but it is said to appear only\xfffein peaceful times.
 The soles of its feet are covered\xfffeby countless tiny spikes, enabling\xfffeit to walk on walls and ceilings.
-It lives in dense jungles. While \xfffeclosing in on its prey, it leaps\xfffefrom branch to branch.
+It lives in dense jungles. While\xfffeclosing in on its prey, it leaps\xfffefrom branch to branch.
 The leaves that grow on its arms\xfffecan slice down thick trees. It is\xfffewithout peer in jungle combat.
 A fire burns inside, so it feels\xfffevery warm to hug. It launches\xfffefireballs of 1,800 degrees F.
 Its kicking mastery lets it loose\xfffe10 kicks per second. It emits\xfffesharp cries to intimidate foes.
@@ -492,20 +492,20 @@ It is born with a wondrous power\xfffethat lets it bond with any kind of\xfffePo
 To protect itself, it afflicts those\xfffearound it with nightmares. However,\xfffeit means no harm.
 The flowers all over its body burst\xfffeinto bloom if it is lovingly hugged\xfffeand senses gratitude.
 It is said to have emerged from an\xfffeegg in a place where there was\xfffenothing, then shaped the world.
-A Pokémon that brings about victory. \xfffe it’s said that a Trainer partnered with \xfffe VICTINI can win any battle.
-It has high intelligence and a cool \xfffe demeanor. When it’s bathed in sunlight, \xfffe its movements are sharpened.
-It runs as if it were gliding. After\xfffe confusing its enemies with quick speed, \xfffe it takes them down with Vine Whip.
-It stops enemies in their tracks with \xfffe only a glance. It amplifies solar energy\xfffe inside its body.
-It nimbly avoids enemy attacks, and \xfffe shoots fireballs from its nose. It cooks \xfffe berries with its flames and eats them.
-When the flame inside its body flares up, \xfffe the speed and sharpness of its movements \xfffe increases. In a pinch, it blows out smoke.
-It ignites its fists with flames on its \xfffechin and unleashes Fire Punches. A \xfffePokémon that deeply cares for comrades.
+A Pokémon that brings about victory.\xfffeit’s said that a Trainer partnered with\xfffeVICTINI can win any battle.
+It has high intelligence and a cool\xfffedemeanor. When it’s bathed in sunlight,\xfffeits movements are sharpened.
+It runs as if it were gliding. After\xfffeconfusing its enemies with quick speed,\xfffeit takes them down with Vine Whip.
+It stops enemies in their tracks with\xfffeonly a glance. It amplifies solar energy\xfffeinside its body.
+It nimbly avoids enemy attacks, and\xfffeshoots fireballs from its nose. It cooks\xfffeberries with its flames and eats them.
+When the flame inside its body flares up,\xfffethe speed and sharpness of its movements\xfffeincreases. In a pinch, it blows out smoke.
+It ignites its fists with flames on its\xfffechin and unleashes Fire Punches. A\xfffePokémon that deeply cares for comrades.
 It fights with the shell on its\xfffestomach, using it to block\xfffeattacks and immediately slash back.
 It smoothly wields 2 shells as\xfffeswords, and trains strictly to\xfffelearn techniques.
 It downs opponents with one swing\xfffeof the sword that’s stored\xfffein its armor. It silences enemies\xfffewith one glance.
 It stores food in its cheek\xfffepouches and continuously stands\xfffewatch for days at a time. It uses\xfffeits tail to communicate with its friends.
 It fires the berry seeds that are\xfffestored in its cheek pouches\xfffeto attack. When it detects an\xfffeenemy, its tail goes erect.
 A smart Pokémon that bravely\xfffefaces even strong opponents, but\xfffeavoids unfavorable battles.
-The cape-like black fur that\xfffecovers its body is very tough.\xfffeIt reduces the damage it \xfffereceives.
+The cape-like black fur that\xfffecovers its body is very tough.\xfffeIt reduces the damage it\xfffereceives.
 It rescues people who are lost in\xfffemountains made impassable\xfffeby blizzard. Its long fur wards\xfffeoff the cold.
 It steals people’s belongings for\xfffefun. Even the people it\xfffestole from quickly forgive its\xfffeadorable antics.
 An elusive Pokémon. Its beautiful\xfffestyle and fur charm many\xfffeTrainers.
@@ -635,16 +635,16 @@ Its behavior is to bite everything.\xfffeAs far as food, it eats\xfffeanything. 
 Once it eats all the prey in its\xfffeterritory, it moves on to a\xfffedifferent area. The 2 heads don’t\xfffeget along.
 A brutal Pokémon that flies\xfffecontinuously through the sky on its\xfffe6 wings, marking everything that moves\xfffeas an enemy and attacking.
 People have come to believe that\xfffethis Pokémon was born from the\xfffesun. When it evolves, its entire\xfffebody is wrapped in flames.
-It’s said that when the surface was \xfffeblackened by volcanic ash, URUGAMOTH’s \xfffeflame became a substitute for the sun.
-A legendary Pokémon that fights humans \xfffein order to protect Pokémon. It has \xfffea serene nature.
-It battles humans in order to protect \xfffePokémon that lost their habitats \xfffedue to human wars.
+It’s said that when the surface was\xfffeblackened by volcanic ash, URUGAMOTH’s\xfffeflame became a substitute for the sun.
+A legendary Pokémon that fights humans\xfffein order to protect Pokémon. It has\xfffea serene nature.
+It battles humans in order to protect\xfffePokémon that lost their habitats\xfffedue to human wars.
 A Pokémon that challenges humans\xfffeto battle in order to protect\xfffeits comrades. Its legend has been\xfffepassed down for generations.
-Its lower half is wrapped in a cloud \xfffelike body of energy. It flies \xfffethrough the sky at 300 km/h.
-The lands BORUTOROSU passes through are \xfffeleft with countless scars and scorch \xfffemarks from the fallen thunder.
-A Pokémon that appears in myths. It spouts\xfffe flames from its tail, scorching \xfffe everything.
+Its lower half is wrapped in a cloud\xfffelike body of energy. It flies\xfffethrough the sky at 300 km/h.
+The lands Voltoros passes through are\xfffeleft with countless scars and scorch\xfffemarks from the fallen thunder.
+A Pokémon that appears in myths.\xfffeIt spouts flames from its tail,\xfffescorching everything.
 Its tail produces electricity.\xfffeIt conceals its body in a thunder\xfffecloud and flies through the\xfffeskies of the Isshu Region.
-Since the lands that RANDORUSU visits \xfffebear large harvests of crops, it’s \xfffecalled the god of agriculture.
-It produces powerful freezing energy \xfffeinside its body, but its body is frozen \xfffeby the chill that seeps out.
-Spouting water from its hooves, it glides \xfffe across the water's surface. It fights \xfffewith special foot techniques.
-It sings with a unique vocalization, and \xfffe freely manipulates the emotions of \xfffe creatures who hear its melody.
-300,000,000 years ago it was feared as\xfffe the ultimate hunter. Team Plasma modified \xfffe it.
+Since the lands that RANDORUSU visits\xfffebear large harvests of crops, it’s\xfffecalled the god of agriculture.
+It produces powerful freezing energy\xfffeinside its body, but its body is frozen\xfffeby the chill that seeps out.
+Spouting water from its hooves, it glides\xfffeacross the water's surface. It fights\xfffewith special foot techniques.
+It sings with a unique vocalization, and\xfffefreely manipulates the emotions of\xfffecreatures who hear its melody.
+300,000,000 years ago it was feared as\xfffethe ultimate hunter. Team Plasma modified\xfffeit.

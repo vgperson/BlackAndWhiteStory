@@ -660,11 +660,11 @@ Whenever anyone wins,\xfffeanother must lose.\xf000븁\x0000That is the essence 
 ...Such strength!\xfffeYou're making my heart leap!
 My last Pokémon!\xfffePut all your strength into this!
 ...Might this be the end?\xfffeI'll put my all into the next attack!
-There's no ultimate Pokémon.\xfffeNo combination was ever the best...\xf000븁\x0000That's why continuous\xfffevictory is so difficult.\xf000븁\x0000But a heart that seeks strength wants to\xfffeknow what it is to be the strongest...\xf000븀\x0000I feel that is precious.\xf000븁\x0000And I respect you,\xfffe for you possess it.
+There's no ultimate Pokémon.\xfffeNo best combination ever was...\xf000븁\x0000That's why continuous\xfffevictory is so difficult.\xf000븁\x0000But a heart that seeks strength wants to\xfffeknow what it is to be the strongest...\xf000븀\x0000I feel that is precious.\xf000븁\x0000And I respect you,\xfffefor you possess it.
 This is looking to be a wonderful time...\xfffeI'm getting a bit excited, actually.
 Even now, I won't be confused,\xfffeand I won't clamor...
 I shall not give up, for my Pokémon\xfffefight with their belief placed in me.
-You're a most elegant and\xfffeexcellent trainer, you are.\xf000븁\x0000Your Pokémon carry such dignity\xf000븀\x0000that it was a joy to face them.
+You're a most elegant and\xfffeexcellent trainer, you are.\xf000븁\x0000Your Pokémon carry such dignity\xfffethat it was a joy to face them.
 Do you believe we come to mutual\xfffeunderstanding through Pokémon battles?
 I overflow with a love for my friends\xfffefrom my ancestors! Let me show you!
 My friends are wounded...\xfffeThis is what a Pokémon battle does!
@@ -691,7 +691,7 @@ Read into what\xfffeyour foe wants to do!\xf000븁\x0000But a human opponent may
 Before you go to the Pokémon League,\xfffelet me test your skill!\xf000븁\x0000
 It seems so obvious, but I see there\xfffeis something higher than the top...
 The Elite Four awaits challengers\xfffeto the Pokémon League...\xf000븀\x0000What kind of people might they be?
-I'm beat...\xf000븁\x0000Um, but my Pokémon\xfffeare proud of me,\xf000븁\x0000so let's get started!\xf000븁\x0000
+I'm beat...\xf000븁\x0000Um, but my Pokémon\xfffeare really proud of me,\xf000븀\x0000so let's get started!\xf000븁\x0000
 Oh nooo!\xfffeI couldn't show off to you...
 When looking for an opponent,\xfffeyou gotta think "I want to win!"\xf000븁\x0000So I want to be someone\xfffewho can think "I want to win!"
 When I'm lost,\xfffeI meet a trainer!\xf000븀\x0000Now let's trade blows!\xf000븁\x0000
@@ -738,7 +738,7 @@ I don't think so!\xfffeYou seem very self-confident!
 The dragon in this gym\xfffecan also be an elevator!
 I teach any trainers who surpass me\xfffehow to proceed in the gym!\xf000븁\x0000
 Whoa!\xfffeYou've surpassed me!
-Jump onto the the\xfffetriangular marks from above!\xf000븁\x0000Press the switch,\xfffeand the dragon's neck moves,\xf000븀\x0000allowing you to proceed onward!
+Jump down off the\xfffetriangular marks!\xf000븁\x0000Press the switch below,\xfffeand the dragon's neck moves,\xf000븀\x0000allowing you to proceed onward!
 Are you happy simply being with Pokémon?\xfffeOr must you grow strong to be pleased?\xf000븀\x0000Let me see what type you are!\xf000븁\x0000
 ...Well, your Pokémon certainly\xfffeseem happy to be with you!
 People love Pokémon\xfffein many different ways...\xf000븁\x0000I grow strong with them...\xfffeThat's how I choose to love them.
