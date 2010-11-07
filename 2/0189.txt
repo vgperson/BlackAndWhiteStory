@@ -62,7 +62,7 @@ I let Pokémon go right after catching 'em!\xfffeThat's called catch and release
 Yeahhh!\xfffeI reeled in a biggun!\xf000븁\x0000Next I'll try to reel in\xfffethat trophy known as victory!\xf000븁\x0000
 Man, I let a huge\xfffevictory get away...
 I fish, I'm lured in, and I fish again...\xfffeLife is fishing!
-Diggadiggadugga! We're under construction,\xfffebut I'll still battle a trainer!\xf000븁\x0000
+Diggadiggadugga! Under construction!\xfffeBut I'll still battle a trainer!\xf000븁\x0000
 Diggaduggadigga...\xfffeDiggadugga... I dig-dug myself into a hole...
 If you use the move Dig,\xfffeyou can get out of caves in a jiffy!
 I'm a macho, macho workman!\xfffeI'll beat you up! With my MUSCLES!\xf000븁\x0000
@@ -459,7 +459,7 @@ I'm splashing about with my Pokémon!\xfffeThere's nothing so pleasant as that!\
 Splish, splash!\xfffeThat's what your footsteps sound like!\xf000븀\x0000Aw, that's adorable!\xf000븁\x0000
 Okay, I think you're kinda\xfffetoo strong to be cute!
 I divine from the sound of your steps...\xf000븁\x0000That you, splish-splashing trainer,\xfffeare quite adored by Pokémon!
-Spinng my parasol around,\xfffelike a flower blooming in the rain!\xf000븁\x0000
+Spinning my parasol around,\xfffelike a flower blooming in the rain!\xf000븁\x0000
 Uh...\xfffeWHAT!!
 On rainy days, you can carry an\xfffeumbrella, wear a coat, or get soaked...\xf000븀\x0000Anything, so long as you like it!
 I am a privileged youth, thus...\xfffeI have Pokémon of the highest quality!\xf000븁\x0000
@@ -488,7 +488,7 @@ Time for us to debut with our\xfffeharmonious style of nature and Pokémon!\xf00
 Our style didn't catch on?!
 What's your style when it comes\xfffeto giving Pokémon items to hold?\xf000븁\x0000
 You have to make up\xfffeyour own style first thing!\xf000븁\x0000It's handy for making do\xfffewith your surroundings!
-Lurking among the plants,\xfffewe displays our power...\xf000븀\x0000See the magnificence of Pokémon!\xf000븁\x0000
+Lurking among the plants,\xfffewe display our power...\xf000븀\x0000See the magnificence of Pokémon!\xf000븁\x0000
 It wasn't YOUR magnificence\xfffeI was planning to see...
 Pokémon love this...\xfffeYou should have it!\xf000븁\x0000
 It's wonderful how both nature and cities\xfffehave all sorts of their own things!\xf000븁\x0000Pokémon and people can\xfffechoose their preferred places!
@@ -604,7 +604,7 @@ Di...\xfffeDizzzzzy...
 I've noticed from my travels...\xf000븁\x0000Through our Pokémon,\xfffewe exchange our thoughts!\xf000븁\x0000
 Yes, I do believe I've\xfffereceived a message from you!
 I've noticed from my travels...\xf000븁\x0000A journey is a metamorphosis!\xfffeAnd you can't fear change!
-Countless thoughts\xffferemain in these ruins!\xf000븁\x0000It's fun to guess what they are!\xfffeSo! How about yours?\xf000븁\x0000
+Countless thoughts\xffferemain in the ruins!\xf000븁\x0000It's fun to guess what they are!\xfffeSo! How about yours?\xf000븁\x0000
 My thoughts...?\xfffeIt REALLY sucks when I don't win!!
 People and Pokémon vary,\xfffeand their thoughts change likewise.\xf000븁\x0000And in their own ways, I'm sure\xfffeevery single one of them is right!
 You look like you're having fun!\xfffeCertainly it must be your Pokémon!\xf000븁\x0000
@@ -1601,20 +1601,20 @@ My heart is racing\xfffeafter having experienced\xf000븀\x0000such a tempestuou
 I just bought some new boots,\xfffeso I'm getting them dirty on purpose!\xf000븁\x0000Oh, hey! If I battle you,\xfffethey might get even dirtier!\xf000븁\x0000
 Whew! That furious battle\xfffegot me totally soaked!!
 When I worry about them getting dirty,\xfffeI'm never happy with my boots.\xf000븁\x0000Aren't Pokémon the same way?\xfffeYou feel bad that they get hurt,\xf000븀\x0000but it helps them get stronger.
-トレーナーが いれば\xfffeとにかく しょうぶを する\xf000븁\x0000だって ぼくが みたことのない\xfffeみずタイプの ポケモンを\xf000븀\x0000みせてくれるかも しれないからね\xf000븁\x0000
-そんな つよい トレーナー\xfffeみたことがない！
-みずがあれば つりいとを たらす\xf000븁\x0000たとえ それが みずたまりでも\xfffeもしかしたら みたことのない\xf000븀\x0000ポケモンが いるかも しれないからね
-じぶんをしり あいてをしり\xfffeまわりを しる……\xf000븀\x0000そうしてこそ レンジャーなのさ！\xf000븁\x0000
-まだまだ しらないことが\xfffeたくさん あるんだな！
-そなえ あれば\xfffeうれい なし さ！\xf000븁\x0000
-このあたりに どんな ポケモンが\xfffeいるのか ちょうさ してたのさ\xf000븁\x0000そうすれば じぶんは\xfffeどんな ポケモンを つれてあるくか\xf000븀\x0000たいさくを きめやすくなるよね
-ポケモントレーナーは しょうぶで\xfffeゆうじょうを はぐくむもの！\xf000븁\x0000
-この まけた きもち……\xfffeまるで そこなしぬま……
-あなたとの ゆうじょうの あかしに\xfffeこの オボンのみ もらってよ！\xf000븁\x0000
-じっと みみを すませて\xfffeポケモンの なきごえや あしおと……\xfffeきぎや ぬまの こきゅうを きくのよ
-いつも おなじ あいてとの\xfffeポケモンしょうぶも あきちゃったし\xf000븀\x0000あなたと おてあわせ したいな！\xf000븁\x0000
-へえ！ ビックリ！\xfffeいまのわざ すごいよ！
-ミノムッチって ポケモン！\xfffeたたかった ばしょで\xf000븀\x0000いろんな すがたに かわるの！\xf000븀\x0000すごくない？ すごくない？
+If there's a trainer,\xfffeyou battle them!\xf000븁\x0000So, maybe I can show you\xfffesome water-type Pokémon\xf000븀\x0000you've never seen before!\xf000븁\x0000
+I've never seen\xfffesuch a powerful trainer!
+Where there's water,\xfffeI'll plop down my line.\xf000븁\x0000Even in puddles, there could be\xfffewater Pokémon I've never seen!
+Know yourself, know your foe,\xfffeknow your surroundings...\xf000븀\x0000That makes you a Ranger!\xf000븁\x0000
+But there's still\xfffea lot I don't know!
+If you're so prepared,\xfffeI can't be too gloomy!\xf000븁\x0000
+I was looking into what\xfffePokémon are in this area.\xf000븁\x0000It makes it easier to decide what\xfffePokémon I should counter with!
+Pokémon trainers build\xfffefriendships through battle!\xf000븁\x0000
+This loss...\xfffeIt's bottomlessly meaningful...
+Take this Sitrus Berry\xfffeas proof of our friendship!\xf000븁\x0000
+If you listen closely, you hear\xfffePokémon cries, footsteps...\xf000븀\x0000and the breath of trees!
+I'm tired of always battling\xfffethe same people!\xf000븀\x0000I wanna challenge you!\xf000븁\x0000
+Whoa! I'm astonished!\xfffeThat move was INTENSE!
+The Pokémon Burmy!\xfffeIt changes form depending\xf000븀\x0000on where it fights!\xf000븀\x0000Isn't that cool? Isn't that cool?
 キャッ！！\xf000븁\x0000ちょっとー いきなり うしろから\xfffeおどろかさないでよっ！！\xf000븁\x0000
 もお まけちゃったじゃん\xfffeちょっと かなしーじゃん
 かべに いろいろ かいていたの\xf000븁\x0000あー ぜったいに みせないから！\xfffe……あたしだけの ヒミツだもん！
