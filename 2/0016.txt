@@ -397,7 +397,7 @@ The foe's \xf000Ă\x0001\x0000\xffferestored all of their moves' PP!
 \xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
 The wild \xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
 The foe \xf000Ă\x0001\x0000 is buffeted\xfffeby the sandstorm!
-\xf000Ă\x0001\x0000is buffeted\xfffeby the hail!
+\xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
 The wild \xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
 The foe's \xf000Ă\x0001\x0000 is buffeted\xfffeby the hail!
 \xf000Ă\x0001\x0000\xfffetook damage!
@@ -636,9 +636,9 @@ The foe's \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
 \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
 The wild \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
 The foe's \xf000Ă\x0001\x0000's \xf000ć\x0001\x0001\xfffewas reduced to 0 PP by a grudge!
-\xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
-The wild \xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
-The foe's \xf000Ă\x0001\x0000 slept\xfffeand was made healthy!
+\xf000Ă\x0001\x0000 slept\xfffeand recovered health!
+The wild \xf000Ă\x0001\x0000 slept\xfffeand recovered health!
+The foe's \xf000Ă\x0001\x0000 slept\xfffeand recovered health!
 It reduced the PP of\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
 It reduced the PP of the wild\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
 It reduced the PP of the foe's\xfffe\xf000Ă\x0001\x0000's \xf000ć\x0001\x0001 by \xf000Ȁ\x0001\x0002!
@@ -1078,9 +1078,9 @@ The foe's \xf000Ă\x0001\x0000\xfffeforesaw an attack!
 \xf000Ă\x0001\x0000\xfffechose Doom Desire as its destiny!
 The wild \xf000Ă\x0001\x0000\xfffechose Doom Desire as its destiny!
 The foe's \xf000Ă\x0001\x0000\xfffechose Doom Desire as its destiny!
-\xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
-The wild \xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
-The foe's \xf000Ă\x0001\x0000\xfffetook the\xf000ć\x0001\x0001attack!
+\xf000Ă\x0001\x0000\xfffetook the \xf000ć\x0001\x0001 attack!
+The wild \xf000Ă\x0001\x0000\xfffetook the \xf000ć\x0001\x0001 attack!
+The foe's \xf000Ă\x0001\x0000\xfffetook the \xf000ć\x0001\x0001 attack!
 \xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!
 The wild \xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!
 The foe's \xf000Ă\x0001\x0000's ability\xfffemade you unable to stay in the air!

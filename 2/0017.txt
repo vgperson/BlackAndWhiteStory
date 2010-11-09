@@ -72,7 +72,7 @@ What will \xf000Ā\x0001\x0000 do?
 \xf000븉\x0001<But it failed!
 Got away safely!
 Couldn't run!
-Can’t escape!
+Can't escape!
 The wild \xf000Ă\x0001\x0000\xffferan away!
 No! There’s no running\xfffefrom a Trainer battle!
 Do you want to give up?
