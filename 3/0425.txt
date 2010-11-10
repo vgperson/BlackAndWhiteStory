@@ -24,17 +24,17 @@ Delete the move\xfffe\xf000ć\x0001\x0000?
 フム……\xf000븁\x0000タマゴに わざを おぼえさせるのは\xfffeわたしにも むずかしいな
 ふむ…… その ポケモンは\xfffeすでに \xf000ć\x0001\x0000を おぼえているが
 シャガ『りゅうせいぐんの いりょくは\xfffeすさまじいが つかうと じぶんの\xf000븀\x0000とくしゅこうげきも さげてしまうぞ
-つよさを もとめて\xfffeこんなところまで きおったか\xf000븁\x0000……よろしい\xf000븁\x0000その ねついに こたえて\xfffeこれぞ！ という わざを おしえよう\xf000븁\x0000きゅうきょくの わざ！\xfffeおぬしの ポケモンに おしえるのか？
-きゅうきょくの わざ！\xfffeおぬしの ポケモンに おしえるのか？
-おぬしの つれている\xfffeポケモンでは おぼえられんぞ！\xf000븁\x0000ばあさんに きくのじゃ！ カッ！！
-ふむう それも よかろう……\xfffeきがむけば また あしを はこべよ
-では どの ポケモンに\xfffeわざを おぼえさせるのじゃ？\xf000븁\x0000
-その ポケモンでは おぼえられんぞ！\xfffeばあさんに きくのじゃ！ カッ！！
-タマゴに わざを おしえることは\xfffeわしとて ふかのうじゃ！ カッ！！
-おぬしと ポケモンの きずなが\xfffeたりておらぬぞ！ カッ！！
-その ポケモンは すでに\xfffeわざを おぼえているぞ カッ！！
-\xf000ā\x0001\x0000に \xf000ć\x0001\x0001を\xfffeおぼえさせるのじゃな！ カッ！！
-ここに しるした ポケモンに\xfffeきゅうきょくの わざを おしえる！\xf000븁\x0000もえる ほのおの ポケモン\xfffe リザードン バクフーン\xf000븀\x0000 バシャーモ ゴウカザル\xf000븀\x0000 エンブオー\xf000븁\x0000たゆたう みずの ポケモン\xfffe カメックス オーダイル\xf000븀\x0000 ラグラージ エンペルト\xf000븀\x0000 ダイケンキ\xf000븁\x0000しずかな くさの ポケモン\xfffe フシギバナ メガニウム\xf000븀\x0000 ジュカイン ドダイトス\xf000븀\x0000 ジャローダ
+You've come this far\xfffein pursuit of strength?\xf000븁\x0000...Very well.\xf000븁\x0000I respond to that zeal with...\xfffeThis! Teaching you a move!\xf000븁\x0000The ultimate moves!\xfffeWhich Pokémon shall I teach?
+The ultimate moves!\xfffeWhich Pokémon shall I teach?
+None of your Pokémon\xfffecan be taught any moves!\xf000븁\x0000Hear out the old lady there! HAH!!
+Hmph, very well...\xfffeChange your mind, and I will await!
+Then which Pokémon\xfffeshall I teach?\xf000븁\x0000
+That Pokémon cannot\xfffebe taught any moves!\xf000븁\x0000Hear out the old lady there! HAH!!
+I lack the ability to\xfffeteach a move to an egg! HAH!!
+You and your Pokémon must\xfffedevelop a bond! HAH!!
+That Pokémon already\xfffeknows its ultimate move, HAH!!
+Then I shall teach\xfffe\xf000ć\x0001\x0001 to \xf000ā\x0001\x0000! HAH!!
+Allow me to recite the Pokémon who\xfffecan be taught the ultimate moves!\xf000븁\x0000The blazing fire Pokémon...\xfffeCharizard, Typhlosion,\xf000븀\x0000Blaziken, Infernape,\xf000븀\x0000and Emboar!\xf000븁\x0000The restless water Pokémon...\xfffeBlastoise, Feraligatr,\xf000븀\x0000Swampert, Empoleon,\xf000븀\x0000and Daikenki!\xf000븁\x0000And the quiet grass Pokémon...\xfffeVenusaur, Meganium,\xf000븀\x0000Sceptile, Torterra,\xf000븀\x0000and Jalorda!
 You there, you there!\xf000븁\x0000Do you have the Pokémon\xfffeyou got from the Professor?\xf000븁\x0000Whatever stage of evolution it's in,\xfffeif it's attached enough to you...\xf000븁\x0000I can teach it a special move...\xfffeShall I teach it a combination move?
 I can teach a special move...\xfffeShall I teach a combination move?
 You don't seem to have\xfffeany Pokémon I can teach with you!

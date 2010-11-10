@@ -621,7 +621,7 @@ TM94
 TM95
 Live Caster
 God Stone
-DeliveredGoods1
-DeliveredGoods2
-DeliveredGoods3
+Delivery1
+Delivery2
+Delivery3
 Live Caster

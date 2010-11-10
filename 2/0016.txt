@@ -624,12 +624,12 @@ The wild \xf000Ă\x0001\x0000 copied\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x
 The wild \xf000Ă\x0001\x0000 copied\xfffethe wild \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000copied\xfffe\xf000Ă\x0001\x0001's\xfffe\xf000Ć\x0001\x0002 stat changes!
 The foe's \xf000Ă\x0001\x0000  copied\xfffethe foe's \xf000Ă\x0001\x0001's\xf000븀\x0000\xf000Ć\x0001\x0002 stat changes!
-\xf000Ă\x0001\x0000 is trying\xfffeto make the foe a companion!
-The wild \xf000Ă\x0001\x0000 is trying\xfffeto make the foe a companion!
-The foe's \xf000Ă\x0001\x0000 is trying\xfffeto make the foe a companion!
-\xf000Ă\x0001\x0000\xfffemade the foe its companion!
-The wild \xf000Ă\x0001\x0000\xfffemade the foe its companion!
-The foe's \xf000Ă\x0001\x0000\xfffemade the foe its companion!
+\xf000Ă\x0001\x0000 is trying\xfffeto take its foe along with it!
+The wild \xf000Ă\x0001\x0000 is trying\xfffeto take its foe along with it!
+The foe's \xf000Ă\x0001\x0000 is trying\xfffeto take its foe along with it!
+\xf000Ă\x0001\x0000\xfffetook its foe along with it!
+The wild \xf000Ă\x0001\x0000\xfffetook its foe along with it!
+The foe's \xf000Ă\x0001\x0000\xfffetook its foe along with it!
 \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
 The wild \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
 The foe's \xf000Ă\x0001\x0000 is trying\xfffeto change the season!
