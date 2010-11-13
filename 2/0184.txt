@@ -247,12 +247,12 @@ Hnnngh! You're ADORABLE!\xfffeI wish I could lub you all I wanted!
 We've trained at crime scenes!\xfffeNow to show you our power!
 How are they?! My Pokémon!\xfffePowerful strong, aren't they?!
 A strange occurence! Why lose\xfffewhen we're too powerful to lose?
-おう！ いきが よさそうじゃねえか！\xfffeよっしゃ！ いっちょう やったるか！
-あーらよっと！ いっちょあがり！\xfffeどうでえ！ おいらの あいぼうは！
-おうおう イイねー わかいねえー！\xfffeおいらの あいぼうが こてんこてんか！
-しごとあがりの ポケモンしょうぶが\xfffeこどくなオレの ゆいいつの ごらく
-プハーッ！！ これだから\xfffeポケモンは やめられねぇぜ
-フゥー！ ズキズキ くるねぇーっ！\xfffeひとりみの オレには こたえるなぁ
+Oh! Y'look lively!\xfffeRighty then! Let's do it!
+Ohhh, yes! We did it!\xfffeHow're thems?! Good work, pal!
+Ohhh! Good one, young'n!\xfffeY'showed my pal what for!
+I'm so lonely... An after-work\xfffePokémon battle is my only joy...
+Phaha-HAH!! And this is\xfffewhy I'm never giving up Pokémon!
+Oof! You broke my heeeart!\xfffeI'm used to being lonely, I'll deal...
 Pokémon is even popular at work!\xfffeI'm clamoring for it!
 For something I do in between work,\xfffeI didn't do bad, eh?
 Can old men and runts\xfffeenjoy Pokémon just as much...?
@@ -358,9 +358,9 @@ I'm rich, so who cares?\xfffeIt wouldn't've made me that happy...
 Yes! I am Rich Boy!
 Okay! Good bye!\xfffeI was Rich Boy!
 Thank you! Arigato!\xfffeI was Rich Boy!
-しゅみで たしなむ ていどですが\xfffeがんばらせて いただきますわ
-まあまあ たまたま ですから\xfffeあまり おきに なさらないで
-あそびで やってるうちが はな\xfffeガチンコと なると なかなか……
+I only enjoy it as a hobby,\xfffebut I shall do my best!
+Ah, it happens every so often.\xfffeDon't get too worked up about it.
+As I'm playing games, a passing\xfffepetal acts unexpectedly... not bad...
 Party yesterday, Pokémon today!\xfffeThat's the lifestyle of the rich!
 I don't even need to work!\xfffeBecause I'm RICH!
 All play and no work is no good\xfffeOf course I know that!
@@ -370,36 +370,36 @@ Don't cry... put up with it...\xfffe'Cause we'll win someday!
 I came here to fill in for my\xfffebig brother who won't go outside!
 I worked hard in place of my\xfffebig brother who won't go outside!
 I'd like it if my brother could\xfffecome out of his room and play...
-はじみてぃやーさい！\xfffeゆたしく うにげー さびらね！
-ポケモンは たのしいさー\xfffeトレーナーさん にふぇーでーびる！
-まけても なんくるないさー\xfffeトレーナーさん んじちゃーびら！
+HEYYY there, trainah!\xfffeLez get BATTLIN' an'... an' snruff...!
+Man, Pekémon's so FUN!\xfffeTrainer, work on yer... yer... snrk...
+Aah couldn't care iffah lose...\xfffeTrainer, yer one heckuva... hrp!
 My dad and mom just stare at their\xfffecomputers and tweet! So boring!
 I hate dad, mom, and computers!\xfffeI just like Pokémon!
 I'd like it better if they talked to me\xfffeinstead of tweeting on the computer...
-せかいを またに かける わかき\xfffeぼうけんかとは オレの こった
-せかいの ポケモンを みてまわるのが\xfffeオレの たびの もくてき なんだべ
-ぼうけんが オレを よんでるぜ\xfffeでは さらばだ！ またあおうっ！
-まあ きらくに やろうじゃないの\xfffeじんせいも ポケモンもさー
-がむしゃらに がんばるのも\xfffeいいけれど よゆうが ないとね
-まあ だいじょぶ だいじょぶ\xfffeきっと つぎが あるさー
-ダーリン さがして さんぜんり！\xfffeあては なくとも たびは つづくわ
-リッチか おかねもちか ゆうふくな\xfffeとのがたが いたら おしえてよ！
-ゴールは ウエディングロード……\xfffeでも それってホントに ユートピア？
+Youths just wander the world...\xfffeI'm a bona-fide adventurer!
+The goal of my journey is\xfffeto see the Pokémon of the world!
+Adventure calls!\xfffeWell, so long! 'Til we meet again!
+Well, it can't always be easy...\xfffeIn life, or in Pokémon!
+Being reckless is acceptable,\xfffebut you need to have some restraint!
+Ah, I'll be fine, I'll be fine...\xfffeThere's always a next time...
+I search far and wide for my darlin'!\xfffeOut there or not, I journey on!
+If you're rich, wealthy, affluent,\xfffeor anything like that, tell me!
+The goal is a winding road...\xfffeBut is this truly utopia?
 Games are life,\xfffebut life isn't a game!
 I'm always serious! I can't win\xfffeif I'm treating things like a game!
 Toss your games and set out!\xfffeIt's better for you!
-すきなことして いきていたいのだ\xfffeだからぼく ずっとバイトで いいのだ
-じんせいは いちどきり なのだ\xfffeきみは すきなこと してるか？
-めんどうな ことに しばられず\xfffeずっと ここで あそんでたいのだ
-ボク だれかの えがおが みたくて\xfffeいまの しごとを はじめたんだぜ！
-そんな めで みないでくれよ\xfffeさあ スマイル！ スマイル！
-くやしいけれど キミの えがおが\xfffeみられたから よかったかもな
-いいから さっさと はじめよ！\xfffeほら じかん もったいないよー
-エー？ もう おわちゃったの？\xfffeまだじかん いっぱい のこってるよ！
-ちょっと もー じかんですー\xfffeえんちょうは できませーん！
-はたらいてる おみせの えいぎょうで\xfffeここで しょうぶ してまーす
-あなた あんまり つよくないから\xfffeわたしの みせには むいてないね
-きゃーん！ つよい トレーナーさん！\xfffeこんどは おみせで あいましょ ネ？
+I want to live doing what I like.\xfffeSo I'm fine working part-time forever!
+You only live once!\xfffeAre you doing what you want?
+I wish I could play here without\xfffebeing bound to tedious work...
+I now start my work with the hope\xfffeof seeing people's smiles!
+Don't LOOK at me like that!\xfffeTurn that frown upside down!
+I'm distraught, but I think your smile\xfffehas made it all worth it...
+We're ready! Quickly, we begin!\xfffeWe're RUNNING OUT OF TIME!
+Huhhh? It's over already?\xfffeBut we still have plenty of time!
+Wait, it's time already?\xfffeYou can't give an extension?!
+I battle here as part of\xfffemy business at the shop!
+You're not all that strong...\xfffeMy shop isn't really aimed at you.
+Yeee! What a strong trainer!\xfffeTeehee... See you at the shop, I hope?
 Go on, join the Fan Club!\xfffeYour life will be made HAPPY!
 If you join the Fan Club,\xfffeyou'll be strong like me!
 Joining the Fan Club\xfffewill save your LIFE!
@@ -418,12 +418,12 @@ Oogh... my victory went\xfffeflying off into a crevasse...
 Hiii! Kept - me - WAIT-ING!\xfffeI'm a hiker aiming to be a pop idol!
 Oooh? Done already?\xfffeHiker says BO-RING!!
 Here's something important! Remember it!\xfffePeople aren't as they seem!
-こうみえて わし そしきの ボスなの\xfffeみんなには ないしょに してよな？
-わしが ここで あそんどることは\xfffeだれにも しゃべっちゃ いかんぞい
-ボスには じゆうが ないんじゃ\xfffeつられた ポケモンと おなじじゃ
-ほんとうは いっしょう つりして\xfffeおだやかに くらしたいんだがな
-ああ つりばかりして くらしたい\xfffeかったり まけたりには あきたわ
-このくらいの としに なるとなあ\xfffeかとうが まけようが かわらんのよ
+As you can see, I'm a boss.\xfffeIt's a secret to everybody, alright?
+It'd be bad news if word got out\xfffethat I was playing games here!
+A boss doesn't have any freedom.\xfffeJust like a caught Pokémon...
+I really wish I could live my\xfffewhole life peacefully fishing...
+Ah, all I want to do is fish!\xfffeWinning and losing makes me tired...
+Around my age, you pretty much\xfffestop caring when you lose...
 *click*! Hello? I'm... uh? NOW?\xfffeYou want to battle NOW?
 Hey? Hello? Can you hear me?\xfffeI SAID, I just WON the BATTLE!
 Um, hello? Can you hear me?\xfffeUm... listen... I looost...
@@ -436,9 +436,9 @@ Don't look at me!\xfffeGo on, get out of here!
 You have your path!\xfffeI have I's path!
 I go on I's path!\xfffeThat's the only path for me!
 Your path is too high up for me!\xfffeI'll give you bedrock support!
-おんどりゃー！ ワル なめっとったら\xfffeポケモン わやくそに しちゃるぞ！
-もっと たいぎいかと おもったが\xfffeまー さえん こうげきじゃのぉ！
-あがーな わざに やられるんか！\xfffeあー ぶち はがえぇのうーー！
+Hoo-yah! Mess with the bad,\xfffeand your Pokémon get... sad!
+I thought you'd be a bigger deal,\xfffebut your attacks were wack!
+Them's some sweet moves!\xfffeNo wonder I got SQUAAASHED!
 My mom and dad are Veterans,\xfffebut I'm just... there...
 Are mom and dad disappointed\xfffewhen they look at me, the Cue Ball...?
 If I can't be like my mom and dad,\xfffeI just have to live as a Cue Ball!
@@ -451,138 +451,138 @@ Sputter!! Sponk, spittle!!\xfffeSkreeeee!! PLUNK!!
 Pardon me... you prepared?\xfffeDon't mess with a biker!
 A biker's speed ain't the\xfffeonly thing to worry about!!
 We're actually really honest!\xfffeWe haven't done anything bad!
-はっこうする パンきじの ように\xfffeねばりづよい わたしの ポケモン！
-わたしの ポケモンの ねばりづよさ\xfffeあんたも おもいしったろ？
-ヘエ あんたの ポケモンも なかなか\xfffeモチッとした コシが あるねえ
-パンを やきあげるように アンタの\xfffeポケモンも やきあげてしまおうか
-ありゃまあ アンタの ポケモン\xfffeくろコゲの パンみたいだね
-ああ くやしいねぇ むねんだねぇ\xfffeあたしの おもいは くろコゲさ
-パンを こねるように あなたを\xfffeこねくりまわして あげちゃおう
-もっと こねくりまわされたいの？\xfffeそれとも パンで サンドしようか？
-グギギーッ！！ おぼえてらっしゃい！\xfffeいつか パンで はさんでやるから！
-わらうと げんきになる らしい\xfffeかがくてきこんきょも あるっぽい！
-あーっはっはっは！ ん？\xfffeどうしたの？ わらおうよ！
-さあ きみにまけた あわれなボクを\xfffeわらうがいいさ けんこうになれるぞ
+My Pokémon are as tenacious\xfffeas fermented bread!
+Now you know how tenacious\xfffemy Pokémon are, don'tcha?
+Hey, your Pokémon are made out of\xfffesome pretty perseverant stuff too, huh?
+I'll bake your Pokémon\xfffelike I bake my bread!
+My, my! Your Pokémon\xfffelook like burnt bread!
+Well, burn my bread! Sheesh!\xfffeMy hopes got burnt black...
+Just like I knead bread,\xfffeI'll see if I can knead you!
+Want to be kneaded more?\xfffeOr should I make you a sandwich?
+Gwaaaaargh! Remember this!\xfffeI'll sandwich you in someday!
+Laughing makes you healthy!\xfffeThat's so... scientific!
+AHAHAHA! Hm?\xfffeWhat's wrong? Laugh it up!
+Haha! I lost to you! You can laugh\xfffeat me, it'll make you feel good!
 YOU THINK YOU CAN BEAT ME?\xfffeARE YOU SURE ABOUT THAT?
 YOU CAN'T LOOK DOWN\xfffeON A CLOWN...
 A MOST UNBELIEVABLE EVENT...\xfffeYOU ARE CLEARLY NOT ORDINARY
-わっちの じまんの ポケモンてじな！\xfffeじーっくり ごらんくだせえ！
-てじな やから タネも しかけも\xfffeたくさん あるんや
-てじなの タネは めしの タネ\xfffeクラウンの ざいさんやよ
+My Pokémon juggling is the BEST!\xfffeTake a goooood look!
+The things I juggle are\xfffemore than meets the eye!
+Balls to juggle and food...\xfffeThose are a clown's assets.
 NO SMALL TALK...\xfffeONLY DESTRUCTION...
 HUH... BROKEN ALREADY...
 GEE-HEEHEEHEE...
-わたし じぶんに じしんないから\xfffeだれかに めいれいされるの すき
-あなた ごしゅじんさまじゃないし\xfffeよわくても しかたないですよね
-あなたのこと ごしゅじんさま って\xfffeよばせていただいて よろしいですか
-このふく せいふくじゃなくて しゅみ\xfffeあたしが じぶんで ぬったんです
-アニメに でてくる せいふくだよ！\xfffeかわいいでしょ？ にあってるでしょ？
-ゲームやアニメや まんがの せかいで\xfffeずっと いきていけたら いいのにな
-ふつうの しごとに むいてないから\xfffeげいじゅつで たべているんでゲス
-ポケモンは きらくで いいでゲス\xfffeワシ ポケモンに なりたいでゲス
-ふつうの しごとが できるなら\xfffeげいじゅつなんて やめるでゲス
-ポケモンが わざを つかうたび！\xfffeこころが プルリと ふるえるのだ！
-ポケモンの わざほど たましいを\xfffeプルプルと させるものは ないな
-はああぁぁ！ きぜつするほど\xfffeポケモンの わざは うつくしい……
-あきらめを しらない きさまに\xfffeかなしみを プレゼントしよう
-ふかい かなしみに つつまれ\xfffeなやめるさまも アートだな
-やがて きさまも しるだろう\xfffeはいぼくと かなしみの かちを
-じつは ウチらの しごと ってさぁ\xfffeにくたいろうどうでね たいへんなの
-しごとの せいで こんなに\xfffeムキムキに なっちゃったし
-ちいさい こどもの ちからってさぁ\xfffeあなどれないんだよ キミみたいにね
-ポケモンを そだてるのも こどもを\xfffeそだてるのも とっても たいへんだわ
-こうして がんばってくれるとさ\xfffeふだんの くろうも わすれちゃうよ
-てしおに かけて そだてても\xfffeトレーナーが わたしじゃね……
-ね！ そこのキミ！ おねーさんが\xfffeやさしーく ほいく しちゃうゾ！
-ウフフ…… これから おねーさんが\xfffeやさしーく ほいくして あ・げ・る
-おとなにだって ほいく されたい\xfffeきぶんの ときも あるんだゾ！
-げんばは なかなかデンジャラスですが\xfffeポケモンと がんばるしかないんです
-こうやって ポケモンを きたえて\xfffeげんばに レッツラ ゴーなんです
-ハワワ こんなに ケガしちゃ あすは\xfffeメイク マネ マネ できないです
-らっしゃーい！！
-しょうぶに かった ものだけーっ！！\xfffeよろこぶことが できるので ございます
-ええのや…… もう ええのや……
-まいにち たんじゅんな しごとばかり\xfffeわしゃ かいしゃの はぐるま かいな
-わしは すりきれて ツルツルさ\xfffeもう なーんも ひっかからんわ
-しゃかいの はぐるまにも なれんより\xfffeしあわせ なんかな わしは……
-よ！ チビっこ！ オマエしんいりか？\xfffeオイラが ウワサの さぎょういんだ
-オイラを しらなきゃ モグリだぜ！\xfffeあばよ さぎょういんは かえるぞ
-チビっこ よーく おぼえときな！\xfffeオイラが ウワサの さぎょういんだ
-それでは しょうかい しようか\xfffeこれが オレの ハニーたちさ
-どうだい？ オレのハニーたちはさ\xfffeとってもタフ かつ キュートだろ
-ヒューッ！ アンタの ハニーたちも\xfffeなかなか イケてるじゃないのさ！
+I don't have any self-confidence...\xfffeSo I like people ordering me around...
+You're couldn't be my Master...\xfffeI guess there's no helping weakness...
+Would you be alright with it\xfffeif I were to call you my Master?
+This isn't my uniform! I sewed\xfffethese clothes myself! It's a hobby!
+It's a uniform like in my animes!\xfffeCute, huh? Looks good on me?
+I wish I could live in a game,\xfffeor an anime, or a manga, or a...
+I'm not fit for a normal job,\xfffeso art puts food on the table...
+Pokémon are so at ease.\xffffeI wish I could be a Pokémon...
+If I could do a normal job,\xfffeI would just give up the arts...
+Every time my Pokémon use a move!\xfffeMy heart shudders a little!
+Nothing shakes the soul\xfffequite like a Pokémon move!
+HAHHHHH! Your Pokémon's moves are\xfffebeautiful enough to make me swoon...
+Don't know what it means to give up?\xfffeThen here's a present of sorrow!
+Sending people into deep depression...\xfffeThis too is art!
+At last you know...\xfffeBoth defeat and sorrowful victory!
+My job involves heavy physical labor,\xfffeand honestly, it's rough!
+It's 'cause of my job\xfffethat I'm this buff!
+This is the strength of a little kid...\xfffeWell, I sure won't make light of you!
+Raising children that raise\xfffePokémon is a real burden!
+Giving it my all like this makes me\xfffeforget my endless hardships!
+So I'm the trainer\xfffethat's sprinkled with salt...
+Hey! You there!\xfffeBig sis'll raise you real nice!
+Teehee... Now big sis'll\xffferaise you reeeeeal nice...
+As an adult, sometimes I have\xfffea desire to raise a child!
+The scene of the crime is danger-esque,\xfffebut Pokémon must do their best now!
+Training Pokémon here, then\xfffeit's the crime scene a-go-go!
+Hawawa! So wounded! I can't\xfffemake money money tomorrow!
+WELCOME!!
+I won the battle!!\xfffeThankya for the JOY!!
+Alright, uh... that works...
+Working the same simple work daily...\xfffeAm I a cog in the corporate machine?
+I'm all worn smooth...\xfffeI can't mesh with anything...
+I'm just happy that I'm\xfffenot a cog in society...
+Yo! Shorty! You a newbie?\xfffeI'm a gossiping worker!
+You ain't qualified if you don't know me!\xfffeSmell ya later! Worker out!
+I'll remember ya, shorty!\xfffeI'm a gossiping worker!
+Well, shall we do introductions?\xfffeThese are my honeys!
+So? What of my honeys?\xfffeTough? Victorious? Cutey-pies?
+WHOO! Your honeys\xfffeare stylish too, aren't they?!
 Pedal-pedal-pedal-pedal...
 Ring! Ringading-ding!
 SCREEEEECH!!
-こちらはですね さいしんモデル かつ\xfffeげんていせいさんの じてんしゃですの
-よい どうぐを もちますと じぶんの\xfffeグレードも あがった きが しますわ
-やめてえ じてんしゃに さわらないで\xfffeしもんで ベトベトに なっちゃうよお
-スピードこそ しょうぶの かなめ！\xfffeダッシュ！ ダッシュ！ ダッシュ！
-いまの きぶんは レースだったら\xfffeゴールイン って かんじかな？
-もう アナタには ついていけません！\xfffeじっかに かえらせて もらいます！
+Oh, this? It's just a limited-production,\xfffetop-model bicycle, nothing special!
+Having good tools accentuates\xfffeyour own greatness!
+Stooop! Don't touch my bicycle!\xfffeYour fingerprints will dirty it!
+Speed is a vital part of battle!\xfffeDASH! DASH! DAAASH!
+If this were a race,\xfffewould I be at the finish line?
+I can't even associate with you!\xfffeI'm going back to my mom's house!
 Ah, you there!\xfffeShow me all your Pokémon!
 Hm? That's all your Pokémon?\xfffeYou aren't hiding any others?
 Hmm, I don't see anything suspicious\xfffeabout you or your Pokémon!
 I protect my peace.
 I protected my peace.
 Don't disrupt my peace.
-はたらくために うまれて きたんだぜ\xfffeそれは ぼくの うんめいなんだぜ
-はたらいて はたらいて はたらくぜ\xfffeはたらいてるときだけが しあわせだぜ
-こんなとこで しょうぶ しているのも\xfffeじつは これが しごとだから なんだぜ
-いまは しょぼい ペーペーやけど\xfffeいつかは てっぺん とったるで！
-わいは ビジネスの せかいの\xfffeいちばんぼしを めざしとんのや！
-おほしさまの ごとき さいのうやで！\xfffeまけへん まけへん まけへんで！
-わたしには やぼうが あるっ！\xfffeそれは かいしゃを のっとることっ！
-すべては わが やぼうの ためにっ！\xfffeこのしょうりも その いっぽさ！
-わたしは やぼうに とりつかれたの！\xfffeギラギラと かがやく やぼうにね！
-オフィスでは アイドルあつかいなの\xfffeみんな チヤホヤしてくるのよねー
-しごとも みんなが やってくれるから\xfffeあたしには なにも することが ないの
-ほんとうは はみがきや おふろが\xfffeきらいだけど みんなにはナイショね
-なんだか アンタ ほこりっぽいのぉ\xfffeワシが ゴシゴシして やろうっ！
-よしよし これで ちょっとは\xfffeきれいに なったと おもうぞい！
-コリャー！！ にげるんじゃない！\xfffeもっと ゴシゴシが ひつようじゃ！
-がんこジジイが がんこに がんこに\xfffeそだてた がんこの けっしょうじゃ
-がんこジジイが そだてたんじゃぞ\xfffeわかいもんとは こだわりが ちがうわ
-こだわりと がんこは かみひとえ\xfffeわしも そろそろ いんたいか……
-ウンテン スルノハ トクイダケド\xfffeポケモンヲ アヤツルノハ ニガテ
-オー イガイニ ウマク イッタゾ\xfffeオレッテ ジツハ テクニシャン？
-イキテル ポケモンニ イウコトヲ\xfffeキイテ モラウノハ ムズカシイナ
-うまれてから いちども ここを\xfffeはなれたことが ないのです
-ボクは このさきも ずっと\xfffeここに いるのだろうか……
-いつまで ここに いるのだろうか\xfffeそとの せかいには なにがあるのか
-ドクターとして いわせて いただく \xfffeまず おかねを たいせつに したまえ
-けんこうは おかねで かえないがな\xfffeびんぼうでは けんこうに なれぬよ
-おかねがないと ごはんもたべられず\xfffeびょういんにも いけないのだからな
-みてのとおり ドクター だけどさ\xfffeまだ しんさつしたことも ないの
-ドクターに なってみたものの\xfffeちを みると たおれちゃうんだよね
-ペーパードライバー ならぬ\xfffeペーパードクターですよ ぼくは
-いりょうに たずさわるものに\xfffeひつようなことが わかるか？
-いしに たいせつなのは ラブなのだ\xfffeわけへだてなく あふれでる ラブだ
-いりょう それは すなわち ラブだ\xfffeきみは ドクターに なれるか？
-だれかに ひつようと されたくて\xfffeいまの しごとを えらんだんだ
-しごとは たいへんだけど だれかの\xfffeやくに たてるのって シアワセ
-かんじゃさんが たいいんすると\xfffeうれしくて ちょっと さみしいよ
-おとなには いろんな しゅみがあるの\xfffeあたいは じつは せいふくマニアさ
-あたい ナースじゃ ないからさ\xfffeコレ しゅみで きてる ふだんぎさ
-にせものの ナースで わるかったね！\xfffeどーせ あたいは ただの マニアさ
-けがしても なおして あげるから\xfffeおもいっきり たたかいましょ！
-ごめーん！ ちょっとやりすぎたー\xfffeきんきゅうにゅういん しよっか？
-ちょっと やりすぎ だってば！\xfffeちりょうひ せいきゅう しちゃうぞ！
-ひみつの ほうほうで そだてあげた\xfffeとっても スペシャルな ポケモンだ
-そだてかた しだいで ポケモンは\xfffeつよくも よわくも なるのだ
-うーん…… こんな はずでは……\xfffeエキスの はいごうを まちがえたか？
-バツグンのポケモンを そだてるコツを\xfffeキミだけに おしえて あげましょうか
-ポケモンを そだてるコツを かいた\xfffeぼくのほんを かえば かんぺきさ！
-ポケモンを そだてるコツを えがいた\xfffeぼくのＤＶＤを かえば バッチリさ！
+I was born to work.\xfffeThat is my fate!
+I work, work, work, and work!\xfffeThat's the only time I'm happy!
+Even when I'm battling like this,\xfffeit's really part of my work!
+Right now I'm a shabby subordinate,\xfffebut someday I'll be at the tip-top!
+I'm looking to be the shining star\xfffeof the business world!
+Your talent rivals the stars!\xfffeDon't lose, don't lose, don't lose!
+I have AMBITIONS!\xfffeThat is why I joined my company!
+Everything goes toward my ambitions!\xfffeThis victory is just one small step!
+I am obsessed with my ambitions!\xfffeMy glimmering, shining ambitions!
+I'm an idol at the office!\xfffeEveryone pampers me!
+Everyone does my work for me!\xfffeI don't have to do anything!
+I actually hate brushing my teeth\xfffeand bathing... keep it secret?
+Well, don't you look proud...\xfffeI'll scrub you!!
+Yes, yes! I think things look\xfffea little bit cleaner around here!
+GRAAAH! You won't escape!\xfffeI still need to scrub you more!
+A stubborn old man is the result\xfffeof stubborn people's stubborn raising!
+Raising a stubborn old man is\xfffedifferent from being fussy about youth...
+There's a fine line between stubborn\xfffeand fussy... am I on it...?
+I AM SKILLED AT DRIVING\xfffeBUT BAD AT CONTROLLING POKéMON
+THAT WENT SURPRISINGLY WELL\xfffeMAYBE I'M ACTUALLY A TECHNICIAN?
+GETTING POKéMON TO LISTEN\xfffeTO YOU IS DIFFICULT
+I've never left here once,\xfffenot since I was born!
+And I'll keep\xfffebeing here, too...
+How long will I be here?\xfffeWhat's the outside world like?
+Let me speak as a doctor...\xfffeFirstly, treasure your money!
+Money can't buy health, but\xfffeyou can't be healthy if you're poor!
+Without money, you can't eat,\xfffeor even go to the hospital...
+As you can see, I'm a doctor.\xfffeBut I haven't actually practiced yet...
+I tried becoming a doctor,\xfffebut I faint at the sight of blood...
+I've got no experience...\xfffeI'm a doctor in name alone!
+You know people to administer medical\xfffetreatment are a necessity, don't you?
+Physicians need love!\xfffePlentiful, unconditional love!
+Medical treatment is practically love.\xfffeWould you be a doctor, too?
+I chose my professsion because\xfffeI wanted somebody to rely on me!
+My work is difficult, but it\xfffemakes me happy to know I help!
+I'm glad to get my patients out of\xfffethe hospital, but a little sad, too...
+Adults have a WIDE variety of interests!\xfffeFor example, I'm nuts about uniforms!
+I'm not actually a nurse...\xfffeBut this is what I always wear!
+Sorry for being a fake nurse!\xfffeDon't mind me, I'm just nuts!
+Even if we're hurt, I can fix it,\xfffeso let's fight our best!
+Sooorry! I went a little too far...\xfffeNeed to go to the emergency room?
+I think you went a BIT too far!\xfffeI'm going to have to bill you!
+These are very special Pokémon\xfffetrained by very secret methods!
+Pokémon are weak or strong\xfffeall depending on how they're trained!
+Hmm... this shouldn't have...\xfffeDid I mix extracts incorrectly?
+Shall I tell you how to\xffferaise super-effective Pokémon?
+Buy my book on Pokémon raising\xfffeand you'll be set!
+Buy my DVD on Pokémon raising\xfffeand you'll be unstoppable!
 Pokémon are my FAMILY!!\xfffeWe'll show you our family's unity!
 We did it, brother! We did it, sister!\xfffeA family together is undefeatable!
 Nooo! My FAMILY!!\xfffeWhat have you DONE?!?
-すきなこと と とくいなことは\xfffeちがう ってか かんけいないよね
-わたし しょうぶは とくいだけどさ\xfffeべつに そんなに すきじゃないし
-とくいなことを しごとにしてると\xfffeそれはそれで じゅうじつするよね
-まっ そうろんで いうと キミは\xfffeオレには かてないねー
-な かてるわけないやろー\xfffeだっておまえ ぜんぜん よわいもん
-うーん ええんちゃう？\xfffeキミ かなり ええんちゃう？
+Do your preferences and your\xfffeskills differ? It doesn't matter!
+I'm skilled at battling,\xfffebut I don't like it that much...
+I work according to my skills,\xfffeand that's enough for me!
+As a general statement,\xfffeyou AIN'T beatin' me, pal!
+See? No way you'd win!\xfffeWhacked 'cause you're WEAK!
+Hmm, pretty good?\xfffeDare I say you're pretty good?
 おいぼれと おもって みくびるなかれ\xfffeかいしゅんの いちげきを くれてやる
 おいてなお ますます さかん！\xfffeかいご なんぞ のー さんきゅう！
 いたいけな じじいを あいてに\xfffeなんたる むごい しうち じゃ！
@@ -592,9 +592,9 @@ Nooo! My FAMILY!!\xfffeWhat have you DONE?!?
 あなたみたいに わかく かがやいてる\xfffeこどもを みてると かなしくなるの
 はじける わかさの かがやき……\xfffeいまの わたしには まぶしい……
 ひとみの かがやき はだの はり\xfffeあのころは もう もどってこない
-まいど！ ワシや ワシや！！\xfffeせかいいちの パイロットや！
-どや！ ブッチギリやで！！
-きさま だれや！！ ワシを だれか\xfffeしっての ろうぜきか コラ！！
+Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
+How's that! Flying colors!!
+And who are YOU?!\xfffeSomebody who made me ANGRY!!
 いっちゃくや！ おとこたるもの\xfffeつねに いっちゃくを めざすんや！
 おぼえとかんかい！ ワシの\xfffeすきな ことばは いっちゃくや！
 きさま やるやないか！\xfffeまたな！ おぼえとくぞ！
@@ -604,15 +604,15 @@ Nooo! My FAMILY!!\xfffeWhat have you DONE?!?
 オレは できる！ なんでも できる！\xfffeやってやる！ やってやるんだぞ！！
 やった！ やったぞ！ おれはできる！\xfffeできる！ できるんだぞーーーっ！！
 せんせいの いいはなしを きいたんだ\xfffeまけるはずない まけるはずないんだ！
-ボクノ ケンキュウガ セカイヲ\xfffeヘイワト シアワセニ ミチビクノデス
-テンサイノ ボクガ セカイノ\xfffeミライヲ ニギルノデス！
-ボクハ テンサイ ナンダ……\xfffeコンナ アイテニ マケルハズ……
-オレのじんせい けんきゅう しかない\xfffeかぞくも ともも すてたのだ
-じんせいの すべてを けんきゅうに\xfffeささげるのも わるくないだろ？
-うちこむものが あるということは\xfffeときとして こどくを まねくのだ
-ふひゃひゃひゃ…… ちょっと\xfffeじっけんに つきあってくれズラ
-ふひゃひゃひゃ…… やったズラ\xfffeじっけん だいせいこうだズラ！
-オロロ…… これじゃ ダメだズラ……\xfffeこの じっけんは しっぱいズラ……
+MY RESEARCH SHALL BRING PEACE\xfffeAND HAPPINESS TO THE WORLD
+GENIUS THAT I AM,\xfffeI SHALL SHAPE THE FUTURE!
+I AM A GENIUS...\xfffeHOW COULD I LOSE TO SUCH A FOE...
+My life is nothing but research.\xfffeI've left my family, too!
+There's nothing wrong with giving\xfffeyour life for research, right?
+Devotion to some things\xfffesometimes leads to loneliness...
+Fyahaha...\xfffeHelp me out with an experient!
+Fyahaha... Success!\xfffeThe experiment was a huge success!
+Ohyohyo... This won't work...\xfffeThe experiment was a failure...
 バッキバキに パワーアップさせた\xfffeアタシの ポケモンが おあいてよん
 まあ とうぜんの けっかだわね\xfffeかがくの ちからって スゲーのよ
 かがくの ちからより スゲーちからを\xfffeもってんのね あんたの ポケモン
@@ -628,15 +628,15 @@ FGYAAAAAHHHHH!!
 きれいごとなど ざれごとに ひとしい\xfffeことばは たたかいを けがすだけ……
 スポーツかんかくで しょうぶする\xfffeトレーナーなど ふかいの きわみ……
 はいぼくには いっぺんの かちもない\xfffeはいしゃに ことばなど ふよう……
-イヒ イヒヒヒ ぼくに まけたら\xfffeキミを ポケモンに かえてやるぞ
-イヒ イヒヒヒ さあ きょうから\xfffeキミは もう ポケモンさ！
-つぎに あったら ぼくの パワーで\xfffeポケモンに かえちゃうからな
-うう…… あたまが いたい……\xfffeあたまが いたいよぉ……
-ちょうのうりょく なんか いらない\xfffeこの ずつう だれか とめて……
-しょうぶで パワー つかってないと\xfffeずつうが おさまらないの……
-サイキッカー って いってるけど\xfffeのうりょくなんて つかえないのね
-エスパーぽい ファッションで\xfffeなんとなく ごまかしてるのね
-エスパーぽくなるため マジックの\xfffeきょうしつに かよってるのね
+Ehee! Eheehee! If you lose,\xfffeI'll turn you into a Pokémon!
+Ehee! Eheehee!\xfffeYou're already a Pokémon!
+When we next meet, my powers\xfffemay have turned me into a Pokémon...
+Oogh... my head hurts....\xffeMy head huuuuurts...
+I don't need psychic powers...\xfffeSomebody just stop the headaches...
+I have to use my power in battle,\xfffeor the headaches get even worse...
+People call me a psychic,\xfffebut I can't use any powers...
+Following psychic fashion\xfffemakes me look mystical, though!
+To seem more like a psychic,\xfffeI take classes in magic!
 ……ブツブツ…… キヨェーッ！！\xfffeあくりょうめっ！ たいさんせよっ！
 よしっ！ あなたに とりついた\xfffeあくりょうは きえさったぞ！
 おのれー！ あくりょうめーっ！！\xfffeそのトレーナーから でていけえ！
@@ -703,9 +703,9 @@ Tess!
 Don't know the do-re-mi's of battle,\xfffeand you'll get beat like a brat!
 Beating amateurs is just too easy!\xfffe(W-whoa... t-that was a close one...)
 Huh? It's not "do-re-mi's," it's "ABC's"?\xfffeHa, haha... I knew that!
-あー ゴホゴホ ちょうしが わるいの\xfffeちょっとは いたわって ほしいのー
-ちょうし わるいとか ウソじゃー！\xfffeベテランは しゅだんを えらばん！
-わたしの おしばいに だまされんとは\xfffeおぬし なかなか きれものじゃな
+Ooh! Cough, cough, I feel awful!\xfffePlease have pity on me!
+My feeling awful was a LIE!\xfffeA Veteran has crafty techniques!
+You're pretty sharp for seeing\xfffethrough my cunning ruse...
 ベテランならではの ポケモンのあじを\xfffeたっぷり ごちそうして あげるわ
 いかが？ ベテランの ポケモンは？\xfffeホロにがくて クセに なるでしょ？
 はいぼくだって じんせいの スパイス\xfffeあなた ピリッと してるじゃない
