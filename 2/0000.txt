@@ -36,13 +36,13 @@ Sweet
 Spicy
 Sour
 Bitter
-Interesting
+Funny
 Cool
 Nice
 Rich
-Battle
-Collect
-Story
+Battling
+Collecting
+Storyline
 Pokémon
 Language
 Math
@@ -53,13 +53,13 @@ Math
 Science
 Social Studies
 Trainer
-Pokémon Professor
-Team Plasma
+Professor
+Plasma Grunt
 Pokémon
 Play Outside
-Shop
-Read
-Game
+Go Shopping
+Read Books
+Play Games
 Sleep
 Pop
 Rock
