@@ -1,7 +1,7 @@
 ﻿ー
 Kenta
-Mari
-Aru
+Mary
+Al
 Sawako
 Elena
 Dan
@@ -26,7 +26,7 @@ Yacon
 Flo
 Morito
 Yasuko
-Migeru
+Miguel
 Kiri
 Osamu
 Milli
@@ -73,7 +73,7 @@ Yoshiaki
 Katsuji
 Genta
 Issac
-Lian
+Ryan
 Norihiro
 Eddy
 Matthew
@@ -357,7 +357,7 @@ Manabu
 Kozue
 Lucy
 Tatsuya
-Alen
+Allen
 Sayuri
 Hiroyuki
 Ikue
@@ -425,7 +425,7 @@ Tatsumi
 Nozomu
 Yuan
 Toshie
-Gem
+Jem
 Ann
 Akihiro
 Takato
