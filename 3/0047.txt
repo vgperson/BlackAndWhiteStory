@@ -370,7 +370,7 @@ When you want to know\xfffeyour own surveying progress,\xf000븀\x0000check the 
 たいちょうの ちょうさいらいって\xfffeたいへん ですね\xf000븁\x0000だんだん むずかしい\xfffeちょうさいらいが ふえてきたし……
 どうも！ おつかれさまです\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000たいちょうの いらいは\xfffeぜんぶ たっせい しましたか？\xf000븁\x0000いらいを ぜんぶ たっせいすると\xfffeいいものが もらえるらしいですよ！
 あ \xf000Ā\x0001\x0001たいいん！\xfffeおあいできて こうえいです！\xf000븁\x0000どうしよう～\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000はなしかけられちゃった！
-たいいん ぼしゅうちゅう！\xfffeしょうさいは たいちょうまで！
+Recruiting surveyers!\xfffeSee the leader for details!
 \xf000Ā\x0001\x0000\xfffeRank C Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
 \xf000Ā\x0001\x0000\xfffeRank B Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
 \xf000Ā\x0001\x0000\xfffeRank A Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
