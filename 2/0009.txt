@@ -1,5 +1,5 @@
 ﻿しょていの いちに ついて\xfffeたいせんを はじめてください
-Please wait.\xfffe...B Button to Cancel
+Please wait.\xfffe(B to cancel)
 それでは さんかする ポケモンを\xfffe３ひき えらんで ください\xf000븁\x0000
 それでは さんかする ポケモンを\xfffe４ひき えらんで ください\xf000븁\x0000
 それでは さんかする ポケモンを\xfffe６ひき えらんで ください\xf000븁\x0000
