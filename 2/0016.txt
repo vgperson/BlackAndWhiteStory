@@ -4,9 +4,9 @@ The foe's \xf000Ă\x0001\x0000 fainted!
 \xf000Ă\x0001\x0000\xffferegained health!
 The wild \xf000Ă\x0001\x0000\xffferegained health!
 The foe's \xf000Ă\x0001\x0000\xffferegained health!
-It's super effective against \xf000Ă\x0001\x0000!
-It's super effective against the wild \xf000Ă\x0001\x0000!
-It's super effective against the foe's \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst the wild \xf000Ă\x0001\x0000!
+It's super effective\xfffeagainst the foe's \xf000Ă\x0001\x0000!
 It's super effective against\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
 It's super effective against\xfffethe wild\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
 It's super effective against\xfffethe foe's\xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
