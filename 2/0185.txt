@@ -20,7 +20,7 @@ Pokémon Center
 Survey HQ
 Name Rater
 Pokémon Massage
-Royal Isshu
+Royal Unova
 A lively city full of amusement\xfffeand lined with theme parks.
 Raimon Gym
 Pokémon Center
@@ -28,7 +28,7 @@ Musical Hall
 Battle Subway
 Big Stadium
 Little Court
-Known as the Gateway to Isshu.\xfffeA port city that trades many goods.
+Known as the Gateway to Unova.\xfffeA port city that trades many goods.
 Hodomoe Gym
 Pokémon Center
 Hodomoe Market
@@ -67,7 +67,7 @@ The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
 Many gathered goods are preserved\xfffeat a fixed temperature here.
 A cave where the repelling of\xfffeelectrified rocks causes them to float.
 Highly popular as a mine where\xfffehigh-quality ore can be extracted.
-The oldest tower in Isshu, though who\xfffebuilt it and when are a mystery.
+The oldest tower in Unova, though who\xfffebuilt it and when are a mystery.
 Its steep slopes make the final barrier\xfffebefore the Pokémon League.
 A massive hole which is said\xfffeto bring calamity when approached.
 An island that prays for a world where\xfffePokémon and people freely live together.
@@ -98,10 +98,10 @@ The rugged cliffs can be walked,\xfffebut the route is still rough.
 Many people visiting Raimon City\xfffeon foot stop to rest here.
 Currents caused by the terrain\xfffemake it impossible to advance freely.
 There are researches who point out\xfffeits former connection to Resort Desert.
-Isshu's oldest bridge, supported\xfffeby four main towers.
+Unova's oldest bridge, supported\xfffeby four main towers.
 A drawbridge designed to raise\xfffeand lower with the moving of ships.
 A town of steel, undaunted by\xfffethe subway running through.
-An old town where Isshu's\xfffepioneers first settled.
+An old town where Unova's\xfffepioneers first settled.
 A cutting-edge bridge designed\xfffeto withstand any attack.
-A place in the middle of Isshu\xfffethat houses a mysterious power.
+A place in the middle of Unova\xfffethat houses a mysterious power.
 Trainers looking for more strength\xfffecome regardless of the danger.

@@ -16,7 +16,7 @@
 ◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
 ◇"The stairway to stardom begins here!" Raimon City Musical Hall
 ◇"Here come your items, over the wind and waves to you!" Hodomoe Market
-◇"We've got it all at Isshu's biggest shopping district!" Shopping Mall R9
+◇"We've got it all at Unova's biggest shopping district!" Shopping Mall R9
 ◇From Sanyou City, you can smell the refreshing breeze of the forest!
 ◇The stairs leading into the gate prevent snow from piling in.
 ◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
@@ -40,7 +40,7 @@
 ◇Even compared against the bustle of Hiun City, the gym is still surprising...?
 ◇The central fountain is said to be a place for people to connect!
 ◇Artists the world over display galleries in Hiun City!
-◇In terms of buildings, shops, and population, Hiun City is number one in Isshu!
+◇In terms of buildings, shops, and population, Hiun City is number one in Unova!
 ◇The streets of Hiun City are a totally different spectacle at night and in day!
 ◇Hiun City is a boiling pot of cultures and foods from various lands!
 ◇There's a place investigating the way people happen upon other people!
@@ -126,14 +126,14 @@
 ◇White Forest is a town where nature can be found everywhere.
 ◇The townspeople love and always live in touch with nature.
 ◇Black City is a cultured city with lined-up buildings.
-◇People aim to make the city the most developed in Isshu.
+◇People aim to make the city the most developed in Unova.
 ◇Black City develops daily as more and more people gather.
 ◇Many trainers filled with competitive spirit live here.
 ◇Plans to create a large market in the city are in progress.
 ◇People gather to change circulation and exchange goods.
 ◇As more people want to live in town, the population grows more diverse.
 ◇Black City is a cultured city with lined-up buildings.
-◇People aim to make the city the most developed in Isshu.
+◇People aim to make the city the most developed in Unova.
 ◇The ruins of the Ancient Castle are a major tourist spot.
 ◇The desert is large and harsh. Please be sure to make preparations.
 ◇Please be wary of the desert-wide sandstorms.

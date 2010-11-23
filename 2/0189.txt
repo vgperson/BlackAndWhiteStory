@@ -79,7 +79,7 @@ I feel I am all out\xfffeof white paint...
 This world has white, black,\xfffered, green, blue, yellow...\xf000븀\x0000and countless other colors.\xf000븁\x0000And so, to mix them all\xfffeand bring forth a new color...!\xf000븁\x0000Sha-ZAM!!
 I'm in the mood, the wind is blowing, and\xfffeyou come into sight... it must be fate!\xf000븁\x0000
 Ooh...\xfffeThe headwind blew me over...
-I want to soar around the Isshu region\xfffewith the wind blowing at my back!
+I want to soar around the Unova region\xfffewith the wind blowing at my back!
 There's... something inside this big bag...\xfffeWhat do you think it could be?\xf000븁\x0000
 I may have lost,\xfffebut my bag continues to grow...
 That which nearly overflows from my bag...\xfffeIt's the memories of my journey!\xf000븁\x0000Even invisible things can have\xfffeprofound weight to them!
@@ -120,7 +120,7 @@ More! Let me hear more\xfffefrom your Pokémon!
 There are Pokémon who would\xfffesay such things...?!
 My psychic Pokémon\xfffeseem somehow alarmed...\xf000븁\x0000Is it because we're in a ruin,\xfffeor are you the cause?\xf000븁\x0000
 ...Such power!\xfffeJust what are you?!
-As many long years\xfffepassed over these ruins...\xf000븁\x0000People and Pokémon have\xfffegrown in number around Isshu.
+As many long years\xfffepassed over these ruins...\xf000븁\x0000People and Pokémon have\xfffegrown in number around Unova.
 A mysterious power\xfffeis gathering here...\xf000븁\x0000
 You, too, are full of\xfffethis mysterious power...
 A mystical energy remains\xfffein historical locations...\xf000븁\x0000This I know.\xfffeThe many sorrows and joys...
@@ -328,9 +328,9 @@ The sadness of loss is only momentary!\xf000븁\x0000If I, the trainer, give up,
 Do you have the potential to aim\xfffefor the Pokémon League? Let me see!\xf000븁\x0000
 Aha! Aha aha!\xfffeAha-aha-aha-aha-aha! I see!
 I hear there's a powerful\xfffeChampion at the Pokémon League.\xf000븁\x0000I hope that I, too, will someday be\xfffeable to challenge the Pokémon League!
-I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Isshu!\xf000븁\x0000
+I am an Ace Trainer!\xfffeThat said, yes, I'm very strong.\xf000븁\x0000If you were to beat me,\xfffeit would shake all of Unova!\xf000븁\x0000
 ...The value of my being is\xfffereally starting to shake down!
-Your very existence will soon\xfffemake all of Isshu shake!\xf000븁\x0000Even if I lost, at least I got to\xfffeshow off while fighting you!
+Your very existence will soon\xfffemake all of Unova shake!\xf000븁\x0000Even if I lost, at least I got to\xfffeshow off while fighting you!
 Heyyy! My Pokémon rock!\xfffeLookit 'em!!\xf000븁\x0000
 Waaaugh!!
 People call me an "ace," but\xfffethat doesn't seem... right, y'know?\xf000븁\x0000I just wanna be strong\xfffe'cause I like Pokémon!
@@ -718,9 +718,9 @@ In happy and sad times,\xfffePokémon are beside us...\xf000븁\x0000Let us pray
 The Tower of Heaven...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
 Truly heavenly!
 I nearly felt like\xfffeI was gonna be laid to rest here!
-Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
+Pokémon trained in Unova\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
 You swell with\xfffethe energy of life!
-Pokémon trained in Isshu\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000All were beloved...
+Pokémon trained in Unova\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000All were beloved...
 Now I shall expose you\xfffefor your true colors...\xf000븁\x0000You are...\xf000븁\x0000A Pokémon trainer!\xf000븁\x0000
 How can this be?!\xfffeI knew your true colors!
 Understanding your foe\xfffeis something anyone can do...
@@ -763,7 +763,7 @@ If neither of us had Pokémon,\xfffeI wouldn't be losing like this!
 What are you doing getting in our way\xfffewhen you don't know jack about our ideal?!
 I fight for the young king...\xfffeAnd that is all!\xf000븁\x0000
 My liege...\xfffeI can make no excuse.
-Nothing is changeless.\xfffeIsshu too shall be reborn.\xf000븀\x0000Why can't you SEE that?
+Nothing is changeless.\xfffeUnova too shall be reborn.\xf000븀\x0000Why can't you SEE that?
 The changing of the world\xfffewill be accompanied by pain!\xf000븁\x0000
 Ow-ow-ow...\xfffeBut I don't like pain!
 But if no one will change the world,\xfffewe must do our best to try!\xf000븁\x0000Yes! Can't you understand\xfffehow Lord N feels?!
@@ -953,7 +953,7 @@ My darlin's a janitor!\xfffeHe sweeps up all the mounds\xf000븀\x0000on his own
 Sports in the rain\xfffeseem like such a pain!\xf000븁\x0000What about a Pokémon battle\xfffein the rain, though?\xf000븁\x0000
 Well, it's indoors,\xfffeso it doesn't rain in here...
 The stadium has roofs\xfffeso there can be games anytime!
-Hey! It's me! It's me!\xfffeIt's Isshu's top pilot!\xf000븁\x0000
+Hey! It's me! It's me!\xfffeIt's Unova's top pilot!\xf000븁\x0000
 You! You've got guts!\xfffeBe my apprentice!
 You ever flown in your life?!\xfffeFly, fly, fly your heart out!
 Wanna know what\xfffethe VIP seats are like?\xf000븁\x0000Beat me and I'll\xfffetell you about them!\xf000븁\x0000
@@ -1244,7 +1244,7 @@ Once the king of Team Plasma\xfffeorders the world into union...\xf000븁\x0000T
 We exist for\xfffethe sake of Lord N!\xf000븁\x0000
 Ah!\xfffeLord N...!
 Since there is night,\xfffethe sun is beautiful.\xf000븁\x0000Since there is us,\xfffeour king must shine...!
-Isshu's new dawn\xfffeis growing distant...
+Unova's new dawn\xfffeis growing distant...
 Stooop! Er, but like I said,\xfffeyou won't stop US!
 What?!\xfffeYou're still fighting fit!
 Even if I lost, I'll say it anyway!\xfffePLAS-MA! PLAS-MA!
@@ -1448,7 +1448,7 @@ To fight a Double Battle well,\xfffeyou have to know the moves\xf000븀\x0000you
 We fight as a duo,\xfffeso you need two Pokémon!
 I was lookng into the\xfffePokémon around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat deeply interesting Pokémon!
-In Isshu and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
+In Unova and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
 I was lookng into the\xfffeterrain around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat a deeply interesting trainer!
 The ruggedness of this terrain...\xfffeI estimate this undulation is a result\xf000븀\x0000of the flow of a river.
@@ -1457,7 +1457,7 @@ Could I even see\xfffethat strength...?!
 Artists can be classified\xfffeinto two types...\xf000븁\x0000Those who make the visible,\xfffeand those that make the invisible!
 I'm a fantastic fisherman\xfffewho loves everything!\xf000븁\x0000As such a fisherman, I must\xfffefight with fantastic Pokémon!!\xf000븁\x0000
 I lost!\xfffeI love you all!
-I want to set out on the\xfffeS.S. Royal Isshu from Hiun City\xf000븀\x0000and try some sea fishing!
+I want to set out on the\xfffeS.S. Royal Unova from Hiun City\xf000븀\x0000and try some sea fishing!
 Don't get overwhelmed\xfffeby my Pokémon!\xf000븁\x0000
 I'm too overwhelmed\xfffeto speak...!
 Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having all the same Pokémon?
