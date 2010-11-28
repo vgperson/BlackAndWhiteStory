@@ -471,7 +471,7 @@ It protects all its teammates from attacks\xfffefor one turn. May fail if used i
 With psychic abilities it adds together the\xfffeDefence and Sp. Def of it and the foe\xfffeand then divides them in half.
 With psychic abilities it adds together the\xfffeAttack and Sp. Atk of it and  the foe\xfffeand then divides them in half.
 It creates a mysterious atmosphere.\xfffeAll Pokémon have their defence and\xfffeSp. Atk switched for 5 Turns.
-It makes its mysterious brain waves real and\xfffeattacks the opponents. It deals Physical damage.
+It makes its mysterious brain waves real and\xfffeattacks the opponents.\xfffeIt deals Physical damage.
 It hurls a special poison. Its power doubles\xfffeif it hits an opponent with Poison status.
 It cuts off useless parts of its body.\xfffeIt sharply raises its speed and makes its\xfffeweight lighter.
 It sprinkles itself with a powder that\xfffecauses frustration to call attention\xfffeto self. All the foes attacks aim towards it.
