@@ -578,12 +578,12 @@ The foe's \xf000Ă\x0001\x0000's\xffferage has subsided!
 \xf000Ă\x0001\x0000 was subjected\xfffeto Torment!
 The wild \xf000Ă\x0001\x0000 was subjected\xfffeto Torment!
 The foe's \xf000Ă\x0001\x0000 was subjected\xfffeto Torment!
-\xf000Ă\x0001\x0000 can’t use the same\xfffemove twice in a row due to the torment!
-The wild \xf000Ă\x0001\x0000 can’t use the same\xfffemove twice in a row due to the torment!
-The foe's \xf000Ă\x0001\x0000 can’t use the same\xfffemove twice in a row due to the torment!
-\xf000Ă\x0001\x0000’s status\xfffereturned to normal!
-The wild \xf000Ă\x0001\x0000’s status\xfffereturned to normal!
-The foe's \xf000Ă\x0001\x0000’s status\xfffereturned to normal!
+\xf000Ă\x0001\x0000 can't use the same\xfffemove twice in a row due to the torment!
+The wild \xf000Ă\x0001\x0000 can't use the same\xfffemove twice in a row due to the torment!
+The foe's \xf000Ă\x0001\x0000 can't use the same\xfffemove twice in a row due to the torment!
+\xf000Ă\x0001\x0000's status\xfffereturned to normal!
+The wild \xf000Ă\x0001\x0000's status\xfffereturned to normal!
+The foe's \xf000Ă\x0001\x0000's status\xfffereturned to normal!
 \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
 The wild \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
 The foe's \xf000Ă\x0001\x0000\xfffehas sealed its opponent's move!
@@ -858,9 +858,9 @@ The foe's \xf000Ă\x0001\x0000 was\xfffedug into by sharp rocks!
 \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
 The wild \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
 The foe's \xf000Ă\x0001\x0000 has\xfffetwisted the dimension!
-\xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
-The wild \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
-The foe's \xf000Ă\x0001\x0000’s perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
+\xf000Ă\x0001\x0000's perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
+The wild \xf000Ă\x0001\x0000's perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
+The foe's \xf000Ă\x0001\x0000's perish countdown\xfffefell to \xf000Ȁ\x0001\x0001!
 \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!
 The wild \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!
 The foe's \xf000Ă\x0001\x0000 is\xfffewrapped in a cool light!

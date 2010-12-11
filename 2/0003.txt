@@ -20,7 +20,7 @@ SELECT TIME
 Previous Record
 Single Coliseum\xfffeUnrestricted
 Single Coliseum\xfffeFlat
-Single coliseum\xfffeUnrestricted Shooting
+Single Coliseum\xfffeUnrestricted Shooting
 Single Coliseum\xfffeRestricted Shooting
 Double Coliseum\xfffeUnrestricted
 Double Coliseum\xfffeFlat

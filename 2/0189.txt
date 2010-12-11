@@ -1361,17 +1361,17 @@ Which Pokémon\xfffegoes in the center...?\xf000븀\x0000I'm still thinking abou
 My...!\xfffeMy special Emonga...?!
 Fishermen watch the flow of the water!\xfffeI'll try watching the flow of battle!\xf000븁\x0000
 The flow of battle...\xfffeIt's too much! I can't keep track!
-The current on Waterway 17\xfffeis intense!\xf000븁\x0000If you can't ride it well,\xfffeyou won't get where you want to!
-My specialties are... breaststroke!\xfffeFoward crawl, butterfly...\xf000븀\x0000And of course, Pokémon battle!\xf000븁\x0000
+The current on Waterway 17\xfffeis intense!\xf000븁\x0000If you can't ride it like a pro,\xfffeyou won't get anywhere!
+My specialties are... breaststroke!\xfffeForward crawl, butterfly...\xf000븀\x0000And of course, Pokémon battle!\xf000븁\x0000
 I lost at one of\xfffemy specialities?
-Work on my swimming?\xfffeOr train my Pokémon?\xf000븁\x0000Hmm... I don't know,\xfffeso I just swim with my Pokémon!
+Work on my swimming?\xfffeOr train my Pokémon?\xf000븁\x0000Hmm... I can't seem to decide,\xfffeso I just swim with my Pokémon!
 A Pokémon rides the waves,\xfffeand you ride the Pokémon...\xf000븀\x0000Does that mean you're dual-riding?\xf000븁\x0000
 A big wave's passed now...\xfffeNow my heart can calm down...
-Trainer! Ride the\xffferaging waves of life!\xf000븁\x0000...That was a good line,\xfffebut it sounded so ordinary...
+Trainer! Ride the\xffferaging waves of life!\xf000븁\x0000...That seemed good in my head,\xfffebut it sounded so lame...
 By swimming with my Pokémon,\xfffeI've learned EVERYTHING that's great\xf000븀\x0000about my Mamanbou!\xf000븀\x0000I'll show you its strength!\xf000븁\x0000
-What a sprayful trainer!\xfffeI mean, playful! So lively!!
+What a sprayful trainer!\xfffeI mean, playful! You're oh-so-lively!
 If I'm wearing a bikini...\xfffewhere do I put my Pokéballs?\xf000븀\x0000Teehee... woman's secret!
-I was taking a short break,\xfffebut Pokémon battles, different story!\xf000븀\x0000BA-BAM! Let's enjoy this!\xf000븁\x0000
+I was taking a short break,\xfffebut a Pokémon battle? Different story!\xf000븀\x0000BA-BAM! Let's enjoy this!\xf000븁\x0000
 BA-BAM!\xfffeDA-DANG!!
 I'll tell you why I was\xfffetaking a break...\xf000븁\x0000It's sorta problematic\xfffeif your bikini gets swept away...
 Did you get here by looking\xfffeat the Town Map, too?\xf000븁\x0000Maps are great!\xfffeThey tell you so much!\xf000븁\x0000
@@ -1403,17 +1403,17 @@ Was I standing\xfffein the wrong spot?!
 In reality, everyone has\xfffesome Dream Smoke!\xf000븁\x0000When you realize your dreams,\xfffeisn't that just like Dream Smoke?!
 Yipe! I was trying to\xfffepredict your movement and run...!\xf000븁\x0000
 Yipe! I was trying to\xfffepredict your thoughts, but I lost!
-When your dreams seem unattainable,\xfffeto try to run away...\xf000븁\x0000If you don't hold onto\xfffewhat's important, it'll leave you!
+When your dreams seem unattainable,\xfffeyou try to run away...\xf000븁\x0000If you don't hold onto\xfffewhat's important, it'll leave you!
 In studying Pokémon...\xfffethese wondrous creatures...\xf000븁\x0000Battling can also be\xfffea good method!\xf000븁\x0000
 Why did I lose?\xfffeI can't help but wonder!
 As much research is done and compiled,\xfffethere's always new Pokémon discoveries!
 I've been working on\xfffemy research and skipping sleep...\xf000븀\x0000Are you a dream?\xf000븁\x0000
 Logically improbable!\xfffeSurely this is a dream...?
 Speaking of dreams,\xfffeMiss Makomo's Dream World studies!\xf000븀\x0000It's some amazing research!\xf000븀\x0000Have you tried Game Syncing?
-If I'm to study dreams,\xfffeI simply must investigate yours!\xf000븁\x0000
+If I'm to study dreams,\xfffeI simply must look into yours!\xf000븁\x0000
 No! I can't see any dreams\xfffefrom the pits of defeat!
-The Dream Smoke\xfffefrom the Pokémon Musharna...\xf000븁\x0000Its secrets haven't been fully revealed,\xfffebut it's definitely amazingly powerful!
-I want to explain the\xfffemysterious powers of psychics!\xf000븁\x0000
+The Dream Smoke from\xfffethe Pokémon Musharna...\xf000븁\x0000Its secrets haven't been fully revealed,\xfffebut it's definitely amazingly powerful!
+I want to scientifically explain the\xfffemysterious powers of psychics!\xf000븁\x0000
 But I fought in such\xfffea logical manner!
 Only about half of the world\xfffecan be explained through logic...\xf000븁\x0000The rest is feeling!\xfffeWhich is why it's so full of mystery...
 Boku no kokoro ni boku-tachi no\xfffedeai wo kizamu tame ni\xf000븀\x0000anata to shoubu wo morau kudasai.\xf000븁\x0000
@@ -1437,7 +1437,7 @@ The daycare on Route 3!\xf000븁\x0000If you leave two Pokémon there...\xf000�
 Look at this beautiful plain,\xfffewide open for a healthy run...\xf000븀\x0000Now look at my Pokémon!\xf000븁\x0000
 But I was feeling so vigorous\xfffeuntil a while ago!
 I'll share this berry\xfffewith your Pokémon as well!\xf000븁\x0000
-I vigorously ran so much,\xfffeit just wore me out...\xf000븀\x0000Don't you think that's cute?!
+I ran so vigorously,\xfffeit just wore me out...\xf000븀\x0000Don't you think that's cute?!
 Sometimes, you're on a picnic!\xfffeSometimes, you battle!\xf000븁\x0000
 Haru: Your Pokémon look like\xfffegreat friends to have!\xf000븁\x0000Chika: While I was thinking about what\xfffemy partner was doing, it was over...
 I was just thinking...\xfffeWhen you have Pokémon in balls...\xf000븁\x0000You absolutely have to\xfffeshow them your feelings!
@@ -1446,10 +1446,10 @@ With our perfect combination,\xfffewe'll sweep you off your feet!\xf000븁\x0000
 While I was thinking about what\xfffemy partner was doing, it was over...
 To fight a Double Battle well,\xfffeyou have to know the moves\xf000븀\x0000your partner's Pokémon will use!
 We fight as a duo,\xfffeso you need two Pokémon!
-I was lookng into the\xfffePokémon around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
+I was looking into the\xfffePokémon around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat deeply interesting Pokémon!
 In Unova and in other regions,\xfffePokémon that look similar...\xf000븁\x0000They can have different\xfffenatures or appearances!
-I was lookng into the\xfffeterrain around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
+I was looking into the\xfffeterrain around here, but...\xf000븀\x0000I'm interested in you, too!\xf000븁\x0000
 Why...!\xfffeWhat a deeply interesting trainer!
 The ruggedness of this terrain...\xfffeI estimate this undulation is a result\xf000븀\x0000of the flow of a river.
 In art, I'm looking for two things:\xfffefeeling and logic!\xf000븁\x0000And a beautiful battle, too,\xfffewill have both feeling and logic!\xf000븁\x0000
@@ -1457,7 +1457,7 @@ Could I even see\xfffethat strength...?!
 Artists can be classified\xfffeinto two types...\xf000븁\x0000Those who make the visible,\xfffeand those that make the invisible!
 I'm a fantastic fisherman\xfffewho loves everything!\xf000븁\x0000As such a fisherman, I must\xfffefight with fantastic Pokémon!!\xf000븁\x0000
 I lost!\xfffeI love you all!
-I want to set out on the\xfffeS.S. Royal Unova from Hiun City\xf000븀\x0000and try some sea fishing!
+I want to set out on the\xfffeRoyal Unova from Hiun City\xf000븀\x0000and try some sea fishing!
 Don't get overwhelmed\xfffeby my Pokémon!\xf000븁\x0000
 I'm too overwhelmed\xfffeto speak...!
 Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having all the same Pokémon?
@@ -1501,7 +1501,7 @@ The sorrow of my loss\xfffeis split with my Pokémon...
 Our joy is doubled,\xfffeand our sorrow is halved...\xf000븀\x0000That's why we're with Pokémon.
 To be a fishing master,\xfffeyou need to perfectly bring together\xf000븀\x0000a number of different rhythms!\xf000븁\x0000
 Um! I didn't get my\xfffetiming quite right there!
-You! It's super that\xfffeyou have a Super Rod!\xf000븁\x0000Right! I'm sure you know,\xfffebut here's how to use it!\xf000븁\x0000First, face the water,\xfffeand use the Super Rod!\xf000븁\x0000Next, concentrate!\xf000븁\x0000When a Pokémon bites,\xfffea "!" will appear,\xf000븀\x0000so pull the Rod back fast!
+You! It's quite super that\xfffeyou have a Super Rod!\xf000븁\x0000Right! I'm sure you know,\xfffebut here's how to use it!\xf000븁\x0000First, face the water,\xfffeand use the Super Rod!\xf000븁\x0000Next, concentrate!\xf000븁\x0000When a Pokémon bites,\xfffea "!" will appear,\xf000븀\x0000so pull the Rod back fast!
 On a bridge!\xfffeTrainers fighting!\xf000븀\x0000It's a picture-perfect moment!\xf000븁\x0000
 I didn't lose because I was weak,\xfffeyou won because you're way too strong!
 On a bridge!\xfffeTrainer walking into the sunset!\xf000븀\x0000This is even more picture-perfect!

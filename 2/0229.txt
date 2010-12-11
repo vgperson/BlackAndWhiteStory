@@ -1,4 +1,4 @@
-None
+﻿None
 Afghanistan
 Albania
 Algeria
@@ -49,7 +49,7 @@ Democratic Republic of the Congo
 Congo
 Cook Islands
 Costa Rica
-Cote d’Ivoire
+Cote d'Ivoire
 Croatia
 Cuba
 Cyprus
@@ -111,7 +111,7 @@ D.P. Republic of Korea
 Republic of Korea
 Kuwait
 Kyrgyzstan
-Lao People’s Democratic Republic
+Lao People's Democratic Republic
 Latvia
 Lebanon
 Lesotho

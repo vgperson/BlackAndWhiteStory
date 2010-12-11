@@ -219,7 +219,7 @@ Quick Claw
 Soothe Bell
 Mental Herb
 Choice Band
-King’s Rock
+King's Rock
 SilverPowder
 Amulet Coin
 Cleanse Tag
@@ -450,7 +450,7 @@ Sprayduck
 Poffin Case
 Bicycle
 Suite Key
-Oak’s Letter
+Oak's Letter
 Lunar Wing
 Member Card
 Azure Flute

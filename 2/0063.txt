@@ -1,49 +1,49 @@
-Basic information
-How to do a battle?
-C-Gear information
-About the menu
-About battles
-About statistics
-About controls
-Saving your game
-Deleting your save
+﻿Title Menu
+PokéCenter Info
+C-Gear Info
+About the Menu
+About Battles
+Pokémon Statistics
+Other
+Continuing the Game
+Starting From the Beginning
 Mystery Gift
-Battle tournament
+Battle Tournament
 Pokémon Global Link
-Game Sync
+Game Sync Settings
 Wi-Fi Settings
 Microphone Test
-Pokémon
+PokéCenters
 The Pokémon PC
 Battle Box
-Trading Pokémon basics
-Trading Pokémon guide
-Single battle
-Double battle
-Tripple battle
-Rotation battle
-Mirakurushuta
+Link Trade Basics
+Link Battle Basics
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Miracle Shooter
 Union Room
 Wi-Fi Club
 Global Terminal
 Friend Codes
 C-Gear
 C-Gear Log
-C-Gear Building
-C-Gear Questionaire
-C-Gear はじめる
-C-Gear ほうこく
+C-Gear Surveys
+Taking C-Gear Surveys
+Starting C-Gear Surveys
+C-Gear Survey Reports
 IR (Infrared) Connection
 Game Sync
-High Link
-Deku Power
-Derudama
-The "Bag"
-The "Trainer card"
-The "Pokédex"
+High-Link
+Exit Power
+Exit Ball
+The Bag
+The Trainer Card
+The Pokédex
 Catching Pokémon
-Type matchup
-"Psycical" "Normal" "Special"
+Type Matchups
+Physical, Normal, Special
 Fainted
 Poisoned
 Paralysis
@@ -51,23 +51,23 @@ Asleep
 Frozen
 Burned
 Confused
-Infituated
+Infatuated
 Experience Points
 Evolving
-"Boosted" and "Lowered"
+"Nature" and "Personality"
 Pokérus
-Canceling
-Hidden items
+Running
+Dowsing Machine
 Live Caster
-Gym badges
-Y-Button info
-Pokéshifter setup
-Pokéshifter minigames
-It's always a good thing to save.\xfffePress the X-Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffePlease remember: Do not turn the\xfffeDS off, because if you do,\xfffeyour "Save data" might get\xfffecorrupted. That would be bad!
-When you want to delete your\xfffesaved game data, press the\xfffeB + UP + SELECT Buttons.\xfffe\xfffePlease remember that this can't be undone.\xfffe\xfffeThink about deleting your game\xfffebefore you do it!
-When you are in the main menu,\xfffeselect the 3rd option and press\xfffethe A Button to go to Mystery Gift.\xfffe・You can recieve gifts via IR\xfffe・You can recieve gifts via Wi-Fi\xfffe・You can recieve gifts via Wireless\xfffe\xfffeTry this out and maybe will\xfffesomething be added to your game!
-When you recieved a gift, you\xfffecan go pick it up at any Pokémon-\xfffecenter building in any town.\xfffeTalk to the person with\xfffethe circle around him (Top Screen)\xfffeto recieve your gift.\xfffe\xfffeMake sure to save when you\xfffehave recieved your gift!
-Also, you can hold up to 12\xfffeMystery Wonder Cards.\xfffe\xfffeTo view all the cards you\xfffehave recieved by tapping\xfffethe second option in the menu.\xfffeYou can sort, organize, delete\xfffeand view your cards there.
+Gym Badges
+The Handy Button
+Transferring Pokémon by PokéShifter
+Catching Pokémon by PokéShifter
+When you begin your adventure,\xfffepress the X Button to open the\xfffemenu and tap "Save" to save.\xfffe\xfffeOnce you have saved,\xfffeyou can turn off the power\xfffeand resume your adventure later\xfffeby choosing "Continue" on the title menu.
+When you want to delete\xfffeall your saved game data\xfffeand start your adventure anew,\xfffepress the B, Up, and Select buttons\xfffesimultaneously on the title menu.
+When at some form of event,\xfffeyou can receive a special present\xfffein one of three ways:\xfffe- By wireless communication\xfffe- By Wi-Fi\xfffe- By infrared communication\xfffe\xfffeCertain events may operate\xfffedifferently, so take notice.
+When you receive a Wonder Card\xfffethat gives you a special\xfffePokémon or item, visit\xfffethe deliveryman in the blue hat\xfffeat the nearby Pokémon Center.\xfffe\xfffeTalk to the deliveryman\xfffeto receive your Pokémon or item.
+You can hold up to\xfffetwelve Wonder Cards.\xfffe\xfffeWhen you are full on cards\xfffeand wish to receive another,\xfffego to the "See Card Album" menu\xfffeand delete cards for which\xfffeyou have already received the gift.
 Ｗｉ－Ｆｉや イベントかいじょうで\xfffeおこなわれる ポケモンしょうぶの\xfffeたいかいに さんかします。\xfffe\xfffeバトルたいかいについて くわしくは\xfffeタイトルメニューの\xfffe「バトルたいかい」にある\xfffe「せつめいを きく」を\xfffeかくにん してください。
 ユーザーとうろくの ほうほうや\xfffeバトルたいかいへの さんかのしかた\xfffeルールのかくにんなど\xfffeバトルたいかいについて くわしいことは\xfffe\xfffeインターネットこうしきサイト\xfffe「ポケモングローバルリンク」か\xfffe「ポケットモンスターオフィシャルサイト」で\xfffeかくにん してください。
 バトルたいかいには\xfffeゲームのなかの パソコンにある\xfffe「バトルボックス」に とうろくされている\xfffeポケモンが さんかします。\xfffe\xfffeいちど とうろくすると たいかいちゅうは\xfffeバトルボックスを へんこうできませんので\xfffeとうろくするまえに じっくりかんがえて\xfffeポケモンを えらんで ください。

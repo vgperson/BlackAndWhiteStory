@@ -1,4 +1,4 @@
-None
+﻿None
 Abruzzo
 Basilicata
 Calabria
@@ -17,5 +17,5 @@ Sicilia
 Toscana
 Trentino-Alto Adige
 Umbria
-Valle d’Aosta
+Valle d'Aosta
 Veneto

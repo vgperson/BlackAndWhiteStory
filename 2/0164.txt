@@ -20,7 +20,7 @@ Survey asking people what they\xfffedo for fun and their favorite sport.
 Survey specifically asking people\xfffetheir thoughts on Pokémon.
 ・Black or White?
 ・Boy or girl?
-・Battling or tradiing?
+・Battling or trading?
 ・Urban or rural?
 ・Who would you choose?
 ・Which do you want?

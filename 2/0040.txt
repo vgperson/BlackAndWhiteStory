@@ -41,7 +41,7 @@ Trading begins!
 \xf000봃\x0001\x0001 Trade Count
 Location
 Disconnecting from Wi-Fi.\xfffeIs this okay?
-Tradiing requires at least\xfffetwo Pokémon on hand.
+Trading requires at least\xfffetwo Pokémon on hand.
 Appointment with All
 Make appointment with\xfffeprevious trade partner?
 Delete

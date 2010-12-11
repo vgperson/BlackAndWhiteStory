@@ -34,7 +34,7 @@ Use
 ×\xf000Ȃ\x0001\x0000
 It won't do any good to use that!
 The area was wrapped in white fog!\xfffe
-\xf000Ă\x0001\x0000 \xfffeis getting pumped!
+\xf000Ă\x0001\x0000\xfffeis getting pumped!
 \xf000Ă\x0001\x0000's\xfffeAttack rose!
 \xf000Ă\x0001\x0000's\xfffeSpecial Attack rose!
 \xf000Ă\x0001\x0000's\xfffeSpeed rose!
@@ -45,8 +45,8 @@ Used \xf000ĉ\x0001\x0000!
 No! You can't aim\xfffeat two Pokémon...!
 There's no room in the PC!
 \xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
-No good! You can’t aim at\xfffea Pokémon that's not in sight!
-No good! You can’t aim at\xfffea Pokémon that's not in sight!
+No good! You can't aim at\xfffea Pokémon that's not in sight!
+No good! You can't aim at\xfffea Pokémon that's not in sight!
 Not enough energy.
 Araragi's words echoed...\xfffeThere's a time and place\xf000븀\x0000for everything! But not now.
 You can't throw the ball\xfffewithout concentrating!
