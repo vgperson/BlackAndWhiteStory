@@ -8,7 +8,7 @@ ZERO?!\xf000븁\x0000You haven't traded with ANYONE?!\xfffeBroaden your horizons
 Wow!\xfffe\xf000Ȁ\x0001\x0000 Pokémon!\xf000븁\x0000
 Wow! Nice!\xfffeYou've traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
 Wow! Perfect!\xfffeYou've traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
-Wow! Exhilirating!\xfffeYou've traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
+Wow! Exhilarating!\xfffeYou've traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
 Wow! Shocking!\xfffeYou've traded with \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
 Wow! Wonderful!\xfffeYou've traded with over \xf000Ȁ\x0001\x0000 people!\xf000븁\x0000
 I'm impressed!\xfffeI present you with this!\xf000븁\x0000
