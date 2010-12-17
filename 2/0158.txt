@@ -30,7 +30,7 @@ Yes
 No
 Your PC's Mailbox is full.
 Mail was taken from the\xfffePokémon.
-\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001. \xf000븁\x0000However \xf000Ă\x0001\x0000 already\xfffeknows 4 moves. \xf000븁\x0000Should a move be deleted and be\xfffereplaced with \xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows 4 moves.\xf000븁\x0000\xfffeReplace a move with\xfffe\xf000ć\x0001\x0001?
 Yes
 No
 Stop trying to teach\xfffe\xf000ć\x0001\x0001?
@@ -63,10 +63,10 @@ No
 Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
 The Bag is full.
 The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
-さんかを やめますか？
+Stop entering?
 Yes
 No
-ちょうせんを やめますか？
+Quit the challenge?
 Yes
 No
 \xf000Ă\x0001\x0000\xfffewoke up.
@@ -81,9 +81,9 @@ You're already surfing.
 You can't use that here.
 It won't have any effect.
 Two Pokémon are needed.
-\xf000Ă\x0001\x0000は\xfffeちょっと なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった！
-\xf000Ă\x0001\x0000は\xfffeさいこうに なついていてる！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントが さがった！
-\xf000Ă\x0001\x0000は\xfffeちょっと なついた！\xf000븁\x0000\xfffe\xf000č\x0001\x0001の\xfffeきそポイントは もうさがらない！
+\xf000Ă\x0001\x0000 became\xfffea little more attached!\xf000븁\x0000\xfffe\xf000č\x0001\x0001's\xfffeEffort Values decreased!
+\xf000Ă\x0001\x0000 became\xfffeincredibly attached!\xf000븁\x0000\xfffe\xf000č\x0001\x0001's\xfffeEffort Values decreased!
+\xf000Ă\x0001\x0000 became\xfffea little more attached!\xf000븁\x0000\xfffe\xf000č\x0001\x0001's\xfffeEffort Values can't go lower!
 \xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
 Choose a Pokémon.
 Two Pokémon are needed.
@@ -99,10 +99,10 @@ No more than five Pokémon\xfffemay enter.
 Mail was transferred from\xfffethe Mailbox.
 This Pokémon is holding an item.\xfffeIt cannot hold Mail.
 This can't be used on\xfffethat Pokémon.
-ここを だっしゅつして\xfffe\xf000ą\x0001\x0000に もどる？
+Escape from here\xfffeand return to \xf000ą\x0001\x0000?
 Yes
 No
-さいごに やすんだ\xfffe\xf000ą\x0001\x0000に もどる？
+Return to \xf000ą\x0001\x0000,\xfffewhere you last rested?
 Yes
 No
 Not enough HP...
@@ -146,7 +146,7 @@ Identical Pokémon are not permitted.
 Some Pokémon are holding identical\xfffeitems.
 The total of all party members'\xfffelevels has gone over \xf000Ȃ\x0001\x0000.
 There are three or more\xfffelegendary Pokémon.
-さんか しなければ ならない\xfffeポケモンが えらばれて いません
+You have not chosen\xfffeenough Pokémon to participate.
 Max HP
 Attack
 Defense
@@ -162,19 +162,19 @@ This isn't the place for that!
 \xf000ĉ\x0001\x0001
 What will you do\xfffewith the Egg?
 Please select an Egg.
-ぐるぐるこうかんを\xfffeやめますか？
+Quit Spin Trade?
 Confirm
 \xf000ā\x0001\x0000 changed Form!
 \xf000Ă\x0001\x0000 cannot hold\xfffe\xf000ĉ\x0001\x0001.
 The \xf000ĉ\x0001\x0000 cannot be\xfffegiven here.
-\xf000Ā\x0001\x0000は たいきちゅう
-ひとり たいきちゅう
-ふたり たいきちゅう
-さんにん たいきちゅう
+Waiting for \xf000Ā\x0001\x0000
+Waiting for one
+Waiting for two
+Waiting for three
 SELECT TIME
 \xf000ȁ\x0001\x0000：\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-つうしんたいきちゅう
+Communicating
 Yes
 No
 \xf000ĉ\x0001\x0000 disappeared.

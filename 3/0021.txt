@@ -18,8 +18,8 @@ Cheren: ...Is there a problem, \xf000Ā\x0001\x0000?\xf000븁\x0000
 Aloe: What's all this, then?\xfffeThese kids...\xf000븀\x0000they friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Belle and Cheren...\xfffealright, you must be trainers!\xf000븁\x0000Then let's split the work!\xfffeI'll go this way...\xf000븁\x0000
 Next, you kids!\xf000븁\x0000Cheren and Belle,\xfffewatch the museum for me!\xf000븁\x0000
 Then Arty and \xf000Ā\x0001\x0000'll go\xfffesearch Yaguruma Forest!\xf000븁\x0000Alright? Arty,\xfffeyou lead the way.\xf000븁\x0000I'm beggin' you all!\xf000븁\x0000
-Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
-Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
+Arty: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
+Arty: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
 Belle: Oh, \xf000Ā\x0001\x0000!\xfffeTake this with you!\xf000븁\x0000It's a Dowsing Machine\xfffeMakomo left with me!\xf000븁\x0000
 Using the Dowsing Machine\xfffewon't let you see invisible items, but\xf000븀\x0000it will let you see their locations!\xf000븁\x0000
 Cheren: Is it really... I don't know, safe\xfffeto leave us protecting the museum\xf000븀\x0000for the time being...?\xf000븁\x0000

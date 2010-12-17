@@ -89,7 +89,7 @@ Quit
 Quit
 Change\xfffeBox
 Change\xfffeWallpaper
-Store\xfffePokemon
+Store\xfffePokémon
 To bag
 Hold
 Move
