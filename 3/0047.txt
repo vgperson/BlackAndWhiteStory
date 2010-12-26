@@ -338,8 +338,8 @@ Hello!
 Well, see you later!\xf000븁\x0000And always give\xfffean enthusiastic greeting!
 Right! A great greeting!\xfffeFull of energy!\xf000븁\x0000Greet me cheerfully again!\xfffeI'll be waiting!
 Good day!\xfffeYou don't forget to show people\xf000븀\x0000when you're thankful, right?\xf000븁\x0000
-Oops, you dropped a Pokéball!\xfffeRight, here you are!\xf000븁\x0000
-\xf000Ā\x0001\x0001 took\xfffethe dropped Pokéball.\xf000븁\x0000
+Oops, you dropped a Poké Ball!\xfffeRight, here you are!\xf000븁\x0000
+\xf000Ā\x0001\x0001 took\xfffethe dropped Poké Ball.\xf000븁\x0000
 ... ...\xfffe... ...\xf000븁\x0000Hey! Wait!\xf000븁\x0000You should thank people\xfffewho help you!\xf000븁\x0000It's kind of a trivial thing,\xfffebut it's important!\xf000븁\x0000So, will you tell me\xfffehow you say thanks?
 Would you tell me\xfffehow you say thanks?ex
 
