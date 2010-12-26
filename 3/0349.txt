@@ -12,21 +12,21 @@ Belle: Wait a second!\xf000븁\x0000\xfffeHeyyy! \xfffe\xf000Ā\x0001\x0000, Che
 Cheren: Well, should we go?\xfffeThe Professor's waiting, remember.\xf000븁\x0000
 Belle: Would you LISTEN\xfffewhen I'm talking?!\xf000븁\x0000How about we have\xfffea Pokémon catching competition?\xf000븁\x0000And the Pokémon we got\xfffefrom Professor Araragi count!\xf000븁\x0000The one with the most Pokémon wins!\xf000븁\x0000
 Cheren: I see...\xfffeThat could be fun, for sure.\xf000븁\x0000\xfffeAnd it'd fill the pages of the Pokédex too,\xfffeso the Professor would be delighted.\xf000븁\x0000\xfffeOh, by the way,\xfffeuntil we reach Karakusa Town,\xf000븀\x0000\xfffefeel free to go back home\xf000븀\x0000\xfffeto recover your Pokémon.\xf000븁\x0000
-Belle: Me and \xfffe\xf000ā\x0001\x0000 are an unbeatable team!\xf000븀\x0000\xfffeWe're gonna come in first,\xf000븀\x0000\xfffeI'm already sure of it!\xf000븁\x0000
+Belle: Me and \xf000ā\x0001\x0000\xfffeare an unbeatable team!\xf000븀\x0000\xfffeWe're gonna come in first,\xf000븀\x0000\xfffeI'm already sure of it!\xf000븁\x0000
 Cheren: \xf000Ā\x0001\x0000, would you\xfffecompare with Belle?\xf000븁\x0000Belle and I are both tied\xfffeat two Pokémon right now.
 Belle: Well, \xf000Ā\x0001\x0000?\xf000븁\x0000Should we compare\xfffewho has more Pokémon?
 Belle: Hmm...\xfffeWell, I'll be waiting here.\xf000븁\x0000
 Belle: You got \xf000Ȁ\x0001\x0000?!\xf000븁\x0000Oh man! Oh, MAAAN!!\xfffeSeeing that many Pokémon at once\xf000븀\x0000gives me butterfrees in my stomach!\xf000븁\x0000
-Belle: \xf000Ā\x0001\x0000,\xffferight now you've caught...\xf000븁\x0000Two Pokémon!\xfffeNeat! We're all matching!\xf000븁\x0000
+Belle: \xf000Ā\x0001\x0000,\xffferight now you've caught...\xf000븁\x0000Two Pokémon!\xfffeNeat! We all match!\xf000븁\x0000
 Belle: Say WHAAA?!\xfffeStill just your \xf000ā\x0001\x0000?!\xf000븁\x0000...Seriously, you gotta catch some others.\xfffeThink, won't \xf000ā\x0001\x0000 be lonely?\xf000븁\x0000
-Cheren: By the way,\xfffeif you check the Pokédex,\xf000븁\x0000it'll tell you how many Pokémon\xfffeyou've seen and caught so far.\xf000븁\x0000Well, to Karakusa Town!\xfffeThe Professor's waiting!\xf000븁\x0000
+Cheren: By the way,\xfffeif you check the Pokédex...\xf000븁\x0000It'll tell you how many Pokémon\xfffeyou've seen and caught so far.\xf000븁\x0000Well, to Karakusa Town!\xfffeThe Professor's waiting!\xf000븁\x0000
 no data
 The Live Caster is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
 Cheren: ...Meaning we just need to\xfffego a little further ahead.\xf000븁\x0000
-Are your Pokémon adequately healthy?\xf000븁\x0000\xfffeIt's not good if your Pokémon\xffferuns low on health on the road,\xf000븀\x0000\xfffeso I'll give you this.\xf000븁\x0000\xfffeKeep this one in your bag's\xfffeMedicine pocket!\xf000븁\x0000
-When your Pokémon's health is too low,\xfffethey'll lose their fighting fitness.\xf000븁\x0000\xfffeDon't push your Pokémon too hard,\xfffeand make sure they get to rest!
+Are your Pokémon\xfffehealthy enough?\xf000븁\x0000\xfffeIt's not good for a Pokémon\xfffeto run low on health on the road,\xf000븀\x0000\xfffeso I'll give you this.\xf000븁\x0000\xfffeKeep this one in your bag's\xfffeMedicine pocket!\xf000븁\x0000
+If a Pokémon's health is too low,\xfffethey won't be fit to fight.\xf000븁\x0000\xfffeDon't push your Pokémon too hard,\xfffeand make sure they get to rest!
 Wild Pokémon lurk in tall grass...\xf000븁\x0000\xfffeThat said, of course...\xf000븁\x0000\xfffeWhen you want to fight wild Pokémon,\xfffeor maybe even to catch one,\xf000븀\x0000\xfffethen you WANT to go into the grass!
 Route 1
 Route 1
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou came all this way,\xfffeso talk to everyone!\xf000븁\x0000\xfffeThey're sure to tell you\xfffehelpful information!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeIf you're out and about, you might\xfffeas well talk to everyone!\xf000븁\x0000\xfffeYou're sure to find somebody\xfffewith some helpful information!

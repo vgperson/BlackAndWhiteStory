@@ -25,10 +25,10 @@ Okay?
 \xf000Ā\x0001\x0000 won\xfffeagainst \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
 \xf000Ā\x0001\x0000 began\xfffebattling a gym leader!
 \xf000Ā\x0001\x0000 won\xfffeagainst a gym leader!
-\xf000Ā\x0001\x0000 began\xfffebattling a special trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special trainer!
-\xf000Ā\x0001\x0000 began\xfffebattling a special trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special trainer!
+\xf000Ā\x0001\x0000 began\xfffebattling a special Trainer!
+\xf000Ā\x0001\x0000 won\xfffeagainst a special Trainer!
+\xf000Ā\x0001\x0000 began\xfffebattling a special Trainer!
+\xf000Ā\x0001\x0000 won\xfffeagainst a special Trainer!
 \xf000Ā\x0001\x0000 caught\xfffea wild \xf000ā\x0001\x0001!
 \xf000Ā\x0001\x0000 caught\xfffea special Pokémon!
 \xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffejust leveled up!

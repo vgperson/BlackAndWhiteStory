@@ -1,6 +1,6 @@
-﻿???: Hmph! You the trainers\xfffeCamille was talkin' about?\xf000븁\x0000\xfffeI'm Yacon, gym leader\xfffeof this here town!\xf000븁\x0000\xfffeGuess I gotta welcome ya.\xf000븁\x0000\xfffeAny rate, thanks ta lowerin' the bridge,\xfffesome Plasma grunts we'd caught\xf000븀\x0000fled into town!\xf000븁\x0000
+﻿???: Hmph! You the Trainers\xfffeCamille was talkin' about?\xf000븁\x0000\xfffeI'm Yacon, gym leader\xfffeof this here town!\xf000븁\x0000\xfffeGuess I gotta welcome ya.\xf000븁\x0000\xfffeAny rate, thanks ta lowerin' the bridge,\xfffesome Plasma grunts we'd caught\xf000븀\x0000fled into town!\xf000븁\x0000
 Cheren: ...What a pain.\xf000븁\x0000Well, I'm thankful you\xfffelet the bridge down for us...\xf000븀\x0000er, but that's unrelated, isn't it?\xf000븁\x0000
-Yacon: No way, son.\xf000븁\x0000\xfffeIt was important that ya came here...\xfffesure, it meant lettin' Team Plasma\xf000븀\x0000into town, but so be it.\xf000븁\x0000\xfffeI was just thinkin' this to myself,\xfffebut y'oughta search out Plasma too.\xf000븀\x0000\xfffeYer real go-getter trainers, ain't ya?\xf000븁\x0000
+Yacon: No way, son.\xf000븁\x0000\xfffeIt was important that ya came here...\xfffesure, it meant lettin' Team Plasma\xf000븀\x0000into town, but so be it.\xf000븁\x0000\xfffeI was just thinkin' this to myself,\xfffebut y'oughta search out Plasma too.\xf000븀\x0000\xfffeYer real go-getter Trainers, ain't ya?\xf000븁\x0000
 Right...\xf000븁\x0000\xfffeOnce ya find Team Plasma,\xfffecome challenge me at the gym!\xf000븀\x0000\xfffeLife's a give and take!\xf000븁\x0000
 Cheren: Understood.\xf000븁\x0000He didn't have to tell us so,\xfffebut we'll search for Team Plasma.\xf000븁\x0000They're a tedious lot to beat\xfffeagain and again, but at least\xf000븀\x0000it makes us stronger, I suppose...\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xfffeI'll go on ahead.\xf000븁\x0000
@@ -20,11 +20,11 @@ Mr. Yacon is the gym leader,\xfffebut he's in the midst of business.\xf000븀\x0
 Belle: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
 Belle: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
 Um, did you maybe\xfffego to the gym?\xf000븁\x0000Whoooooa!\xfffeThat's the Hodomoe gym badge!\xf000븀\x0000Niceness! That's so awesome!!\xf000븁\x0000
-Oh, no, no!\xfffeI'm just admiring!\xf000븁\x0000I'm a trainer too, you know!\xfffeAnd at times like this, we battle!\xf000븁\x0000
+Oh, no, no!\xfffeI'm just admiring!\xf000븁\x0000I'm a Trainer too, you know!\xfffeAnd at times like this, we battle!\xf000븁\x0000
 Belle: It's been a while since I had a\xfffePokémon battle with you, \xf000Ā\x0001\x0000,\xf000븀\x0000but you've gotten REALLY strong!\xf000븁\x0000I'm still not that strong, so I can't\xfffeput it into words all that well, but...\xf000븁\x0000I think you really understand the\xfffefeelings of your Pokémon, \xf000Ā\x0001\x0000!\xf000븁\x0000Oh yeah! You should\xfffehave this HM, too!\xf000븁\x0000
 Belle: Dad gave me that after...\xfffeyou know!\xf000븁\x0000So I'll always be able to come\xfffeback right away and whenever!\xf000븀\x0000Or so he said, anyway...\xf000븁\x0000Oh yeah, I guess I'll have to\xfffegive it to Cheren too...\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xfffeBye-bye!!\xf000븁\x0000
 What do you think of\xfffethe town's famous drawbridge?\xf000븁\x0000\xfffeIt's also known as Charizard Bridge\xfffefor its beautiful figure.
-Hey, trainer!\xf000븁\x0000\xfffeHave you fought the\xfffePokémon League's Elite Four?\xf000븁\x0000You can't fight them unless\xfffeyou have eight gym badges, right?
+Hey, Trainer!\xf000븁\x0000\xfffeHave you fought the\xfffePokémon League's Elite Four?\xf000븁\x0000You can't fight them unless\xfffeyou have eight gym badges, right?
 By way of the sea...\xf000븁\x0000\xfffeMight the tears I shed here\xfffeflow all the way to Olivine City...?
 I was forced to battle Team Plasma,\xfffeI lost, and they stole my Pokémon...
 When you win, it's thanks to Pokémon...\xfffeWhen you lose, it's your own fault...\xf000븁\x0000Always thinking that way\xfffeis sure to turn ugly fast!
@@ -37,7 +37,7 @@ Bridges are marvels!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Triple Battle!\xfffeWant to know about it?
 ...Very well! It's truly difficult\xfffemaking an opponent swoon...
 A Triple Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000The rules are simple!\xf000븁\x0000Just make all the\xfffeopponent's Pokémon faint...\xf000븁\x0000That's all there really is\xfffeto Triple Battles, roughly!\xf000븁\x0000
-I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Triple Battle, I mean?!
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, Trainer! You wanna do it?\xfffe...Uh! A Triple Battle, I mean?!
 You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
 Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Triple Battle needs three\xfffePokémon that can fight!
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!
@@ -46,7 +46,7 @@ I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a b
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Rotation Battle!\xfffeWant to know about it?
 ...Very well! It's truly difficult\xfffemaking an opponent swoon...
 A Rotation Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000And there's one set into the\xfffefront position, and two in the back!\xf000븁\x0000Their positions can be changed\xfffeat the cost of a turn...\xf000븁\x0000That's all there really is\xfffeto Rotation Battles, roughly!\xf000븁\x0000
-I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Rotation Battle, I mean?!
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, Trainer! You wanna do it?\xfffe...Uh! A Rotation Battle, I mean?!
 You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
 Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Rotation Battle needs three\xfffePokémon that can fight!
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!

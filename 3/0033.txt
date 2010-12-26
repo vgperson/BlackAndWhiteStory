@@ -4,12 +4,12 @@ no data
 When work's finally over...\xf000븁\x0000When the Pokéball I threw\xfffemakes its third wobble...\xf000븁\x0000My life is full\xfffeof all sorts of joys!
 I'm a fighting businessman!\xfffe...But my Pokémon are weak.
 Busy, busy, busy!\xf000븁\x0000I'm thinking about lunch\xfffeas I eat breakfast!\xf000븁\x0000I'm worrying about dinner\xfffeafter I eat lunch!\xf000븁\x0000Day after day after day...\xfffeI just can't catch a break!
-Hey, trainer!\xfffeYour Pokémon healthy?\xf000븁\x0000Health is top priority!\xfffeYou're healthy, you can do anything!
+Hey, Trainer!\xfffeYour Pokémon healthy?\xf000븁\x0000Health is top priority!\xfffeYou're healthy, you can do anything!
 ...Grumble, moan...\xf000븁\x0000...Change my Pokémon's moves?\xfffeOr just change my Pokémon?\xf000븁\x0000...Grumble, hm...
 Hiun City is packed\xfffewith people, eh?\xf000븁\x0000Sometimes you'll run into people\xfffewho only care about themselves.
 I take my lunch break to\xfffewatch the ships on the dock!
 Working women are wonderful...\xfffeAnd fighting Pokémon are fantastic!
-The Battle Company welcomes\xfffetrainers proud of their skills!
+The Battle Company welcomes\xfffeTrainers proud of their skills!
 Next on the list!\xfffeI wanna have summa that Hiun Ice!
 Hiun City\xfffeCity of soaring, joyful clouds!
 Hiun City\xfffeCity of soaring, joyful clouds!
@@ -18,4 +18,4 @@ Ahead: Maude Street\xfffeBack: Prime Pier
 Ahead: Slim Street\xfffeBack: United Pier
 Ahead: Pokémon Gym\xfffeBack: Liberty Pier
 Chance-Upon Survey HQ\xfffe...People walk, and chance upon others
-Battle Company\xfffeWelcome, confident trainers!
+Battle Company\xfffeWelcome, confident Trainers!

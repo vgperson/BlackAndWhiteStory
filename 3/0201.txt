@@ -18,7 +18,7 @@ Grunt: ...Yawn... why am I\xfffefeeling kinda sleepy?
 Grunt: ...Yawn... why am I\xfffefeeling kinda sleepy?\xf000븁\x0000
 Grunt: A-CHOO!\xfffeUh... as in, I'm sneezing AT YOU, foe!
 Grunt: The difference between a\xffferegular container and a freezer is...\xf000븀\x0000pretty significant when you're running.
-Grunt: ...! Am I really losing\xfffeto a trainer like THIS?!
+Grunt: ...! Am I really losing\xfffeto a Trainer like THIS?!
 Grunt: Ashooooo!\xfffeWomen aren't built for this cold...
 Yacon: Whoa there!\xf000븁\x0000So you were hidin' out in\xfffethis freezin' place, eh?\xf000븁\x0000
 Take these Pokémon\xfffethieves away, boys!\xf000븁\x0000
@@ -28,7 +28,7 @@ Eeeek!
 Hweeeh!
 Yacon: Not bad, you two.\xf000븁\x0000Well, a promise's a promise!\xfffeC'mon and challenge me\xf000븀\x0000at my gym!\xf000븁\x0000
 Cheren: Whew...\xfffeTeam Plasma's logic, I tell you...\xf000븁\x0000They want to separate\xfffepeople from Pokémon...\xf000븁\x0000Is that really any different from just\xffferidding the world of Pokémon entirely...?\xf000븀\x0000What an annoying bunch.\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeIt's cold. Let's get outside.\xf000븁\x0000
-Vio: ...You came back here?\xfffeWhat a curious trainer.\xf000븁\x0000Depending on exactly how curious,\xfffeperhaps I should talk a little?\xf000븁\x0000
+Vio: ...You came back here?\xfffeWhat a curious Trainer.\xf000븁\x0000Depending on exactly how curious,\xfffeperhaps I should talk a little?\xf000븁\x0000
 ...I breathe,\xfffeand my heart beats.\xf000븁\x0000...Is that really\xfffeall there is to life?\xf000븁\x0000I do not feel those actions\xfffealone to be living.\xf000븁\x0000
 Feeling that you are alive\xfffethrough both joyous times\xf000븀\x0000and painful times is valuable.\xf000븁\x0000Lord Getis gave me\xfffethat perspective on living...\xf000븁\x0000What did I want?\xfffeSuch things did not matter.\xf000븁\x0000
 I've been living here\xfffeand shivering away...\xf000븁\x0000

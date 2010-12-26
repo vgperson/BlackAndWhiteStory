@@ -8,8 +8,8 @@ Huh?\xfffeDo you not have time after all...?
 Ahhh!\xfffeIt huuurts! I feel... awfuuul!\xf000븁\x0000
 Well, aren't YOU something!\xfffeThanks for showing me your stuff!
 You look like you're having fun!\xf000븁\x0000
-How do you do, trainer?\xf000븁\x0000Father's villa is\xfffesuch a bore!\xf000븀\x0000Would you get along with me?\xf000븁\x0000
-How do you do, trainer?\xfffeI shall not lose today!\xf000븁\x0000
+How do you do, Trainer?\xf000븁\x0000Father's villa is\xfffesuch a bore!\xf000븀\x0000Would you get along with me?\xf000븁\x0000
+How do you do, Trainer?\xfffeI shall not lose today!\xf000븁\x0000
 I find myself at a loss for how\xfffeto spend time at Father's villa.\xf000븁\x0000Please do visit me again tomorrow,\xfffeand we shall face off.\xf000븁\x0000
 I find myself at a loss for how\xfffeto spend time at Father's villa.\xf000븁\x0000Please do visit me again tomorrow,\xfffeand we shall face off.
 You are as strong as ever!\xfffeBut how shall it go next time?\xf000븁\x0000
@@ -22,7 +22,7 @@ Sazanami Town is a place\xfffewhere you can come to relax.\xf000븁\x0000...But 
 Sazanami Town is a very carefree\xfffeplace where you can feel good.\xf000븁\x0000...But my grandkids\xfffeseem pretty bored.\xf000븁\x0000If you came tomorrow, I bet\xfffeit'd make my grandkids' day too.
 Hohoho, such pure strength!\xfffeYou show promise!\xf000븁\x0000
 Oh, welcome!\xfffeMy grandkids are itching to battle you!
-My kid has been quite strong\xfffein Pokémon battling as of late...\xf000븁\x0000Hohoho, might my grandkids\xfffegrow up into trainers like you?
+My kid has been quite strong\xfffein Pokémon battling as of late...\xf000븁\x0000Hohoho, might my grandkids\xfffegrow up into Trainers like you?
 Hoh-hoh-hoh!\xfffeThat battle really brings me back!\xf000븁\x0000
 My blood boils!\xfffe...Battle me, please?\xf000븁\x0000
 My blood boils!\xfffeBattle me again today, please!\xf000븁\x0000
@@ -45,4 +45,4 @@ Try as you may, it will be the same!\xfffeYou cannot defeat I, Miles!\xf000븁\x
 You may come again tomorrow.\xf000븁\x0000But bearing the name\xfffeof the Bourgeois family,\xf000븀\x0000I have every intent to protect it.
 You came!\xf000븁\x0000If you can defeat the family,\xfffeshall I be your opponent?
 ... ... ...\xfffe... ... ...\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000...Hah.\xf000븁\x0000Is it... too soon to call myself\xfffethe head of the family?
-... ... ...\xfffe... ... ...\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000...Hah.\xf000븁\x0000Is it... too soon to call myself\xfffethe head of the family?\xf000븁\x0000The traditional trainer family\xfffeof the Bourgeois...\xf000븁\x0000You should pride yourself\xfffeon your victory over us!\xf000븁\x0000
+... ... ...\xfffe... ... ...\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000...Hah.\xf000븁\x0000Is it... too soon to call myself\xfffethe head of the family?\xf000븁\x0000The traditional Trainer family\xfffeof the Bourgeois...\xf000븁\x0000You should pride yourself\xfffeon your victory over us!\xf000븁\x0000

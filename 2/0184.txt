@@ -34,9 +34,9 @@ My Pokémon lost already...\xfffeShould I keep to studying?
 When I grow up, I wanna be\xfffea Pokémon researcher guy!
 I wonder if Pokémon research\xfffeinvolves dissections and stuff...?
 I battle hard so I can\xfffeknow more about Pokémon!
-Ah... a strong-looking trainer.\xfffeWill I hold up, I wonder...?
+Ah... a strong-looking Trainer.\xfffeWill I hold up, I wonder...?
 Oh-la-la? A surprising result...\xfffeYou can't judge a book by its cover...
-Yes, you are a strong trainer!\xfffePeople truly are their appearances.
+Yes, you are a strong Trainer!\xfffePeople truly are their appearances.
 Always at the top of the charts!\xfffeAlways shooting for number one!
 Win! Win! Win!\xfffe'Cause that makes you number one!
 I can't be number one\xfffeif I'm losing this badly!
@@ -58,12 +58,12 @@ I lost... but I'm not\xfffegiving you my allowance!
 I got these Pokémon from my mommy!\xfffeNot even thinking about losing!
 Look, mommy!\xfffeIf you can hear me, I'm okay!
 Mommy! MOMMYYY! Where are you?!\xfffeMake me feel betteeeeer!
-Suddenly! A fanciful trainer!\xfffeAnd if the battle is fanciful too...
+Suddenly! A fanciful Trainer!\xfffeAnd if the battle is fanciful too...
 You lost... to me...?\xfffeNot quite what I hoped for...
 Oh, the battle was fanciful...\xfffeI got swept up in it too...
 What Pokémon do you prefer?\xfffeHey, go on and show me!
 Your Pokémon tastes are good...\xfffeToo bad about the training part!
-Your Pokémon tastes aren't great,\xfffebut you're a first-class trainer!
+Your Pokémon tastes aren't great,\xfffebut you're a first-class Trainer!
 Sorry if I tell any lies.\xfffeAhem! I am NOT a prestigious lady!
 When I pretend to be a lady,\xfffeI always get pampered!
 I'm actually just an underling,\xfffea businessman's daughter...
@@ -123,7 +123,7 @@ So? How 'bout my Pokémon?!\xfffeThey're way fresher than yours!
 Thank ya, come again!\xfffeHow were they? Y'know, my Pokémon?!
 Didja come ta\xfffedominate in Pokémon battles?
 Don't give up if yer scurred!\xfffeTry yer best ta win!
-Yerra strong trainer!\xfffeFuhgive me!
+Yerra strong Trainer!\xfffeFuhgive me!
 Hello, and welcome!\xfffeWhat will your order be?
 Here you are! The disgrace\xfffeof a Pokémon battle!
 Here you are! The glory\xfffeof a Pokémon battle!
@@ -308,8 +308,8 @@ It's unbefitting of a gentleman to\xfffetake too much delight in a battle.
 It's unbefitting of a gentleman to\xfffedwell too much on victory.
 It's unbefitting of a gentleman to\xfffebe distraught by a battle's result.
 Allow me to evaluate\xfffeyour ability!
-Yes... your trainer type\xfffemust surely be Kindergartener...
-Hm... is your trainer type\xfffethat of a Pokémon Fan Clubber...?
+Yes... your Trainer type\xfffemust surely be Kindergartener...
+Hm... is your Trainer type\xfffethat of a Pokémon Fan Clubber...?
 How about trying an elderly lady?\xfffeMy Pokémon are VERY juicy!
 Oho... were you done in\xfffeby my sweet, aged poison?
 Are a weak woman's Pokémon\xfffelittle more than a snack for you?
@@ -399,7 +399,7 @@ Huhhh? It's over already?\xfffeBut we still have plenty of time!
 Wait, it's time already?\xfffeYou can't give an extension?!
 I battle here as part of\xfffemy business at the shop!
 You're not all that strong...\xfffeMy shop isn't really aimed at you.
-Yeee! What a strong trainer!\xfffeTeehee... See you at the shop, I hope?
+Yeee! What a strong Trainer!\xfffeTeehee... See you at the shop, I hope?
 Go on, join the Fan Club!\xfffeYour life will be made HAPPY!
 If you join the Fan Club,\xfffeyou'll be strong like me!
 Joining the Fan Club\xfffewill save your LIFE!
@@ -492,7 +492,7 @@ It's 'cause of my job\xfffethat I'm this buff!
 This is the strength of a little kid...\xfffeWell, I sure won't make light of you!
 Raising children that raise\xfffePokémon is a real burden!
 Giving it my all like this makes me\xfffeforget my endless hardships!
-So I'm the trainer\xfffethat's sprinkled with salt...
+So I'm the Trainer\xfffethat's sprinkled with salt...
 Hey! You there!\xfffeBig sis'll raise you real nice!
 Teehee... Now big sis'll\xffferaise you reeeeeal nice...
 As an adult, sometimes I have\xfffea desire to raise a child!
@@ -626,7 +626,7 @@ HELLO!! Let us CONCENTRATE!!
 FWOOOOOAAAAA!!
 FGYAAAAAHHHHH!!
 Fighting with pretty words and wit\xfffedisgraces the art of battle...
-Fighting as a sport\xfffebrings out a trainer's best...
+Fighting as a sport\xfffebrings out a Trainer's best...
 Loss has not a speck of worth.\xfffeA loser need not speak...
 Ehee! Eheehee! If you lose,\xfffeI'll turn you into a Pokémon!
 Ehee! Eheehee!\xfffeYou're already a Pokémon!
@@ -639,7 +639,7 @@ Following psychic fashion\xfffemakes me look mystical, though!
 To seem more like a psychic,\xfffeI take classes in magic!
 ...Mumble, hmph... YAAAAH!!\xfffeIt's an evil spirit! HAVE AT YOU!
 Yesss! The evil spirit\xfffevanished before my might!
-Grrr! Cursed evil spirit!!\xfffeGet out of that trainer this instant!
+Grrr! Cursed evil spirit!!\xfffeGet out of that Trainer this instant!
 You must be confident to challenge\xfffeme and my Milky Way Kick!
 Haha... I didn't even have to\xfffeuse my Milky Way Kick!
 Ah... only my Pokémon were fighting.\xfffeMy kick had nothing to do with it...
@@ -680,7 +680,7 @@ You look so full of yourself!\xfffeLet me rain on your parade!
 I put my very soul\xfffeinto my Pokémon battles!
 WAAAUGH! AAAHHHHH!!\xfffeI won't do it anymore! I'M SORRYYYYY!
 Just hollerin' your head off\xfffeain't strength at all!
-Either I'mma strong trainer,\xfffeor I'm just real lucky!
+Either I'mma strong Trainer,\xfffeor I'm just real lucky!
 What?! So even a battlin' genius\xfffelike myself can lose?!
 All I wanted was to be popular,\xfffebut I ended up becoming an Ace!
 You can get strong with a goal in mind!\xfffeThat's how it goes for everyone, right?
@@ -692,12 +692,12 @@ I ONLY WANT TO USE\xfffePOWERFUL POKéMON
 AND I WAS JUST PLAYING!\xfffeNOW OUT OF MY SIGHT!
 HO HO HO! YOU ARE NOT BAD!\xfffeI AM RATHER PLEASED!
 Fight, fight, fight for all etenity...\xfffeThat's an Ace for you!
-No number of battles is enough!\xfffeIsn't that the mark of a true trainer?
+No number of battles is enough!\xfffeIsn't that the mark of a true Trainer?
 I'm familiar with your fighting form...\xfffeYou could be an Ace Trainer, too!
 I see despair in your eyes!\xfffeNow, have at you!
 Just a waste of time after all...\xfffeTrain again from the start!
 ...Because I underestimated you?\xfffe...Or because of your sheer ability?
-Hey, shorty trainer!\xfffeAren't I such a dandy?
+Hey, shorty Trainer!\xfffeAren't I such a dandy?
 As a dandy, I must say\xfffethat I was stunning...
 Grief ruins my face...\xfffeMaybe I'm too much of a dandy...
 Don't know the do-re-mi's of battle,\xfffeand you'll get beat like a brat!
@@ -762,7 +762,7 @@ Sure, I'm a Parasol Lady, but\xfffeI don't put all my money into them!
 Umbrellas are just ordinary, aren't they?\xfffeBut they're good in the rain!
 With Pokémon, nobody'll\xfffetalk smack to you!
 Somebody gets mad anywhere,\xfffePokémon are the best for it!
-Yer a good brawler too!\xfffeI like ya! Good trainer! Best friend!
+Yer a good brawler too!\xfffeI like ya! Good Trainer! Best friend!
 If my online friends knew I looked\xfffelike this, they wouldn't mess with me!
 I won, but that was scary as heck...\xfffeThis place really isn't "for" me...
 Eeeee... I ought to just\xfffestay in my room on the PC...
@@ -896,7 +896,7 @@ Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
 No good! No good at all!\xfffeYou'll never be on top!
 You! You've got guts!\xfffeYou can fly with me next time!
 Hey! It's me! It's me!\xfffeIt's the world's greatest pilot!
-Got me? A trainer must\xfffetake first! Then take FIRSTER!
+Got me? A Trainer must\xfffetake first! Then take FIRSTER!
 You're a skillful one!\xfffeBe my apprentice!
 DUMMY
 DUMMY
@@ -921,19 +921,19 @@ Thank you for riding\xfffethe Battle Subway today.\xf000븁\x0000I am the Subway
 Bravo!!\xf000븁\x0000The victory you have achieved\xfffewith your impressive ability\xf000븀\x0000results in a splendid arrival!\xf000븁\x0000However,\xfffelife goes on still!\xf000븁\x0000When you decide your next destination,\xfffeyou must make your way there\xf000븀\x0000with all that you can muster!
 Welcome! I've been waiting!\xf000븁\x0000Let me introduce myself...\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000Winning, winning, winning...\xfffeAnd what do you see ahead?\xf000븀\x0000What is your destination?\xf000븁\x0000Thinking it over,\xfffeyou realize something...\xf000븁\x0000Only winning means you don't know\xfffehow to handle not winning.\xf000븁\x0000So, once more,\xfffechallenge me with your best.\xf000븀\x0000Prepare for departure!!
 It seems I was victorious,\xfffebut you are skilled indeed!\xf000븁\x0000Tactics... reading your opponent...\xfffeYou possess fantastic skills.\xf000븁\x0000Yes! I would desire to\xfffechallenge you again anytime!\xf000븁\x0000Certainly! Certainly!\xfffeWe await your riding again!
-Bravo!!\xfffeSUPER bravo!!\xf000븁\x0000For such a fantastic\xfffePokémon trainer as you...\xf000븁\x0000Seeing you put in all your might\xfffehas made me very happy!\xf000븁\x0000Yes!\xfffeIn facing strong opponents,\xf000븀\x0000you become stronger yourself.\xf000븁\x0000Please, devote yourself further still,\xfffeand aim for higher destinations!!
+Bravo!!\xfffeSUPER bravo!!\xf000븁\x0000For such a fantastic\xfffePokémon Trainer as you...\xf000븁\x0000Seeing you put in all your might\xfffehas made me very happy!\xf000븁\x0000Yes!\xfffeIn facing strong opponents,\xf000븀\x0000you become stronger yourself.\xf000븁\x0000Please, devote yourself further still,\xfffeand aim for higher destinations!!
 I'm Kudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000Now for a wonderful battle,\xfffefilled with varieties of Pokémon\xf000븀\x0000using a variety of moves...
-I'm Kudari.\xf000븁\x0000I beat you.\xf000븁\x0000But today's victory\xfffewas a stroke of luck.\xf000븁\x0000Change one part of a Double Battle,\xfffeand it all unfolds differently.\xf000븁\x0000Um.\xfffeDefeat twenty trainers\xf000븀\x0000and fight me again!
-I'm Kudari.\xf000븁\x0000You beat me.\xf000븁\x0000You're the strongest trainer\xfffeof all our recent challengers!\xf000븀\x0000An incredible trainer!\xf000븁\x0000Yes! It was fun!\xfffeIf you would, ride this train again,\xf000븀\x0000or ride another train!
+I'm Kudari.\xf000븁\x0000I beat you.\xf000븁\x0000But today's victory\xfffewas a stroke of luck.\xf000븁\x0000Change one part of a Double Battle,\xfffeand it all unfolds differently.\xf000븁\x0000Um.\xfffeDefeat twenty Trainers\xf000븀\x0000and fight me again!
+I'm Kudari.\xf000븁\x0000You beat me.\xf000븁\x0000You're the strongest Trainer\xfffeof all our recent challengers!\xf000븀\x0000An incredible Trainer!\xf000븁\x0000Yes! It was fun!\xfffeIf you would, ride this train again,\xf000븀\x0000or ride another train!
 Remember me?\xfffeI'm Kudari.\xf000븁\x0000I'm a Subway Master.\xf000븁\x0000I like Double Battles.\xf000븁\x0000I like combinations\xfffeof two Pokémon.\xf000븁\x0000And I love victory\xfffeabove all else.\xf000븁\x0000I'll be very serious this time.\xfffeSerious through and through.\xf000븁\x0000Pokémon battles must be serious\xfffeor else they're a bore.
 I'm Kudari.\xf000븁\x0000I beat you.\xfffeBut this isn't the end.\xf000븁\x0000I'm sure you'll come\xfffebefore me again.\xf000븁\x0000I'll wait for that to happen,\xfffethen beat you again.\xf000븁\x0000Because I am\xfffeSubway Master Kudari.
 I'm Kudari.\xf000븁\x0000I'm a Subway Master,\xfffebut you beat me again.\xf000븁\x0000But it was refreshing,\xfffeand extremely fun!\xf000븁\x0000Your desire to win,\xfffemy desire not to lose...\xf000븀\x0000They were both very real.\xf000븁\x0000When very real things collide,\xfffeit makes my heart pitter-patter!
 I am the Subway Master\xfffeNobori!\xf000븁\x0000And to my side\xfffeis Subway Master Kudari.\xf000븁\x0000So, on the Multi Train...\xf000븁\x0000Do you merely cover for\xfffeeach other's weaknesses?\xf000븁\x0000Or can you display\xfffeoverwhelming power together?\xf000븁\x0000How do you fight?\xfffeI'm excited to know, but...\xf000븁\x0000If you are not in sync\xfffewith your partner,\xf000븀\x0000victory will be difficult, won't it?\xf000븁\x0000So, Kudari!\xfffeDo what must be done!
 The combination of I, Nobori,\xfffeand Kudari...\xf000븁\x0000Today, it seems we were able\xfffeto push forward into victory.\xf000븁\x0000But you two are\xfffemost adept challengers!
-Bravo!!\xf000븁\x0000You have shown us a gleaming\xfffeexample of trainer unity!\xf000븁\x0000But let me say\xfffejust one thing!\xf000븁\x0000Your victory over us\xfffewas just a tunnel of life...\xf000븁\x0000You should surely aim to\xfffegreater and greater heights!\xf000븁\x0000Steam onward toward\xfffea still-greater objective!
+Bravo!!\xf000븁\x0000You have shown us a gleaming\xfffeexample of Trainer unity!\xf000븁\x0000But let me say\xfffejust one thing!\xf000븁\x0000Your victory over us\xfffewas just a tunnel of life...\xf000븁\x0000You should surely aim to\xfffegreater and greater heights!\xf000븁\x0000Steam onward toward\xfffea still-greater objective!
 Obey the rules,\xfffeand driving goes safely!\xf000븁\x0000Obey the schedule,\xfffeand everyone smiles!\xf000븁\x0000Wait for the signal,\xfffeand preparations are made!\xf000븁\x0000Your goal is victory!\xfffeNow, we depart!
 I'm Kudari.\xf000븁\x0000I won with Nobori.\xf000븁\x0000But I have no idea how\xfffethings might go next time.\xf000븁\x0000So we wait.\xfffeWait for you two to return!
-I'm Kudari.\xf000븁\x0000I lost with Nobori.\xf000븁\x0000Your teamwork is\xfffeextremely effective!\xf000븀\x0000You're amazingly strong trainers!\xf000븁\x0000Yes! That was most amusing!
+I'm Kudari.\xf000븁\x0000I lost with Nobori.\xf000븁\x0000Your teamwork is\xfffeextremely effective!\xf000븀\x0000You're amazingly strong Trainers!\xf000븁\x0000Yes! That was most amusing!
 Let me greet you again!\xf000븁\x0000I am the Subway Master\xfffeNobori!\xf000븁\x0000At this point, given that\xfffeyou have come this far,\xf000븀\x0000I have nothing to say.\xf000븁\x0000Now we shall begin a battle\xfffegreater than any before it!\xf000븁\x0000So, Kudari!\xfffeDo what must be done!
 The combination of I, Nobori,\xfffeand Kudari...\xf000븁\x0000Today, it seems we were able\xfffeto push forward into victory.\xf000븁\x0000So, will this be the end?\xfffeOr will you try again?\xf000븁\x0000That is up to you,\xfffebut let me say this...\xf000븁\x0000In life, the last stop may yet\xfffebe followed by many more!
 Bravo!!\xfffeA true bravo!!\xf000븁\x0000You and your Pokémon displayed\xfffeunbeatable teamwork!\xf000븀\x0000Extraordinarily fantastic!\xf000븁\x0000Yes! When one and\xfffeanother combine...\xf000븁\x0000Power that one does not\xfffenormally possess comes forth!\xf000븀\x0000The ultimate engine!\xf000븁\x0000If you would, I ask you to\xfffechallenge us with new combinations!

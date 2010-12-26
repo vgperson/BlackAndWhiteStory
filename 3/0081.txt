@@ -1,8 +1,8 @@
 ﻿\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001 Battle Points!
 Saving results.\xfffePlease wait.
 The game must be saved\xfffebefore being led back.
-Congratulations!\xfffeYou beat seven trainers in a row!\xf000븁\x0000\xfffeAnd for beating seven,\xfffeyou'll be awarded Battle Points!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeYou beat seven trainers in a row\xfffeand even a Subway Master,\xf000븀\x0000\xfffeso you'll be awarded Battle Points!\xf000븁\x0000
+Congratulations!\xfffeYou beat seven Trainers in a row!\xf000븁\x0000\xfffeAnd for beating seven,\xfffeyou'll be awarded Battle Points!\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffeYou beat seven Trainers in a row\xfffeand even a Subway Master,\xf000븀\x0000\xfffeso you'll be awarded Battle Points!\xf000븁\x0000
 And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Single Train!\xf000븁\x0000
 And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Double Train!\xf000븁\x0000
 And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Multi Train!\xf000븁\x0000
@@ -32,11 +32,11 @@ This will be the Wi-Fi\xfffeTrain's last stop.\xf000븁\x0000\xfffeWhen you want
 チャレンジを ちゅうだん しました
 Battles in succession are stressful...\xfffeIt's nice to rest for a bit here.
 もっと バトルポイントを ためて\xfffeポケモンたちに どうぐを\xf000븀\x0000もたせて あげるんだ
-Fighting seven fights in a row\xfffemakes trainers and Pokémon\xf000븀\x0000stronger and more resistant!
+Fighting seven fights in a row\xfffemakes Trainers and Pokémon\xf000븀\x0000stronger and more resistant!
 ウチ かわいい ポケモンしか\xfffeつかわんって きめてんの！\xf000븁\x0000アンタは そういう じぶんだけの\xfffeこだわりって もってる？
 All RIGHT! All set!\xfffeLet's go on a battling adventure!
 はあ…… つかれたなあ……\xf000븁\x0000こっちの トレーナーは つよいよお\xfffeぼくの うでで どこまで いけるやら
-You know the Subway Masters?\xf000븁\x0000They only appear to challenge\xfffestrong trainers to a battle.\xf000븀\x0000They're the bosses of the Subway!
+You know the Subway Masters?\xf000븁\x0000They only appear to challenge\xfffestrong Trainers to a battle.\xf000븀\x0000They're the bosses of the Subway!
 That last battle was painful...\xf000븁\x0000I should trade my BP\xfffefor some better items!
 My trip goes ooon, for Pokémooon!\xfffeSo long as I wiiin, I ride the... wiiind!
 Gotta keep my spirits up!\xfffeYou do your best!

@@ -21,7 +21,7 @@
 ◇The stairs leading into the gate prevent snow from piling in.
 ◇Sanyou Gym is a restaurant where you can enjoy both fighting and dining!
 ◇Lushgreen Park will warm your heart!
-◇Many trainers visit the daycare next to the city.
+◇Many Trainers visit the daycare next to the city.
 ◇Study Pokémon from the basics at the Trainer's School!
 ◇From Sanyou City, you can smell the refreshing breeze of the forest!
 ◇The stairs leading into the gate prevent snow from piling in.
@@ -128,7 +128,7 @@
 ◇Black City is a cultured city with lined-up buildings.
 ◇People aim to make the city the most developed in Unova.
 ◇Black City develops daily as more and more people gather.
-◇Many trainers filled with competitive spirit live here.
+◇Many Trainers filled with competitive spirit live here.
 ◇Plans to create a large market in the city are in progress.
 ◇People gather to change circulation and exchange goods.
 ◇As more people want to live in town, the population grows more diverse.

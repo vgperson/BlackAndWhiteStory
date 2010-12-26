@@ -15,14 +15,14 @@ A Pokédex is...!\xf000븁\x0000A high-tech device that will automatically\xfffe
 Now then, listen to me...\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeCheren! Belle!\xf000븁\x0000Go, and embark on a journey\xfffeto complete the Pokédex!
 Araragi: Why, I never!\xf000븁\x0000What I WANTED to hear\xfffewas that you'll scour the world!\xf000븁\x0000Have some courage! They're just words!!\xf000븁\x0000Seeing as \xf000Ā\x0001\x0000 and you two\xfffeare going to a great many places,\xf000븀\x0000I want you to see all the Pokémon\xf000븀\x0000throughout the Unova region!\xf000븁\x0000
 Belle: YESSSSS!\xf000븁\x0000I mean, yes, ma'am!\xf000븁\x0000
-Cheren: Thank you very much!\xf000븁\x0000It's all thanks to you that I could become\xfffea Pokémon trainer like I always dreamed.\xf000븁\x0000
+Cheren: Thank you very much!\xf000븁\x0000It's all thanks to you that I could become\xfffea Pokémon Trainer like I always dreamed.\xf000븁\x0000
 Araragi: Thanks, everyone!\xfffeThat's the best reply I could expect!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
 Araragi: Now, the next step.\xf000븁\x0000I'll tell you how you can find Pokémon,\xfffeso come onto Route 1!\xf000븁\x0000
 Belle: Well, if the Professor asked us...\xfffeI guess it's okay to go adventuring?\xf000븁\x0000And... it'll be okay to search for what\xfffeto do with our lives along the way, right?\xf000븁\x0000
 Cheren: Yeah.\xf000븁\x0000As we go along completing our Pokédex,\xfffewe can wander however we see fit.
 Belle: I'm getting kinda nervous...\xf000븁\x0000Hey, \xf000Ā\x0001\x0000, what are you gonna do\xfffewith your \xf000ā\x0001\x0001?
-Cheren: ...I've finally become\xfffea Pokémon trainer.\xf000븁\x0000And I'll fight other trainers\xfffeto get stronger, I will!
+Cheren: ...I've finally become\xfffea Pokémon Trainer.\xf000븁\x0000And I'll fight other Trainers\xfffeto get stronger, I will!
 Araragi: Hiiiii there, \xf000Ā\x0001\x0000!\xfffeHow you been feeling lately?\xf000븁\x0000
 Araragi's Dad: Ho there, \xf000Ā\x0001\x0000!\xfffeFinding Pokémon out there?\xf000븁\x0000Unova... why, of course, the whole\xfffeworld has so many Pokémon in it!
 no data
@@ -44,8 +44,8 @@ Belle: Oh, \xf000Ā\x0001\x0000!\xf000븁\x0000You wanna have a Pokémon\xfffeba
 Belle: Alright! \xf000Ā\x0001\x0000!\xf000븁\x0000We're battling indoors,\xfffeso don't you get too excited!\xf000븁\x0000
 Belle: HUHHHHH?!\xf000븁\x0000Hold on a... oooh, man,\xfffetalk about a letdown...
 Belle: Called it! You wanna\xfffehave a Pokémon battle, eh?
-Belle: Whewww!\xf000븁\x0000Man, \xf000Ā\x0001\x0000, you are just SUCH\xfffea super strong trainer, you know?!\xf000븁\x0000I love the Pokémon battles\xfffeyou fight, \xf000Ā\x0001\x0000!\xf000븁\x0000I mean, even your Pokémon\xfffelook really happy!
-Professor Araragi and... who...?\xfffeThere's a man smiling beside her.
+Belle: Whewww!\xf000븁\x0000Man, \xf000Ā\x0001\x0000, you are just SUCH\xfffea super strong Trainer, you know?!\xf000븁\x0000I love the Pokémon battles\xfffeyou fight, \xf000Ā\x0001\x0000!\xf000븁\x0000I mean, even your Pokémon\xfffelook really happy!
+Professor Araragi and... someone...\xfffeThere's a man smiling beside her.
 Father and daughter...\xfffeA photo of the two Professor Araragis.
 Adventure Rule No. 1:\xfffeOpen the menu with X!
 Adventure Rule No. 2:\xfffeSave your game with "Save"!

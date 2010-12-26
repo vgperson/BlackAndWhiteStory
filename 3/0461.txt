@@ -3,7 +3,7 @@ Master!! Will you\xfffechallenge the Battle Evaluator?
 I'm sorry...\xf000븁\x0000I think it's too soon for you\xfffeto try the Battle Evaluator.\xf000븁\x0000Finish everything up,\xfffeget stronger,\xf000븀\x0000and please come again!
 Well, see you!
 Will you take the challenge\xfffewith Single or Double Battles?
-Then let us begin immediately!\xf000븁\x0000You will challenge five trainers\xfffein a row without a break,\xf000븀\x0000so be careful!\xf000븁\x0000Now then, choose the\xfffePokémon you wish to enter!\xf000븁\x0000
+Then let us begin immediately!\xf000븁\x0000You will challenge five Trainers\xfffein a row without a break,\xf000븀\x0000so be careful!\xf000븁\x0000Now then, choose the\xfffePokémon you wish to enter!\xf000븁\x0000
 Saving the game.\xfffePlease wait.
 Now the Battle Evaluation begins!\xfffeCome inside!\xf000븁\x0000
 Well done!\xf000븁\x0000Now, let me quickly tell you\xfffethe results of your evaluation.\xf000븁\x0000Let's see here...\xf000븁\x0000
@@ -21,7 +21,7 @@ A special Single Battle Evaluation\xfffehas been downloaded!\xf000븁\x0000You'l
 A special Double Battle Evaluation\xfffehas been downloaded!\xf000븁\x0000You'll only get one attempt,\xfffeso please fight to the end\xf000븀\x0000without turning off the power!\xf000븁\x0000
 Challenge it now?
 Well, I'll wait for you\xfffeto come later!
-In a Single Battle Evaluation,\xfffeyou enter three Pokémon,\xf000븀\x0000and in a Double, four Pokémon.\xf000븁\x0000The Pokémon you enter\xfffemust all be different.\xf000븁\x0000The items they hold must\xfffebe different, if they have any.\xf000븁\x0000Also, all Pokémon in this\xfffefacility fight at Level 50.\xf000븁\x0000Fight five trainers in a row,\xfffeand a diagnosis will be made\xf000븀\x0000from the results of the battles!\xf000븁\x0000How about it?
+In a Single Battle Evaluation,\xfffeyou enter three Pokémon,\xf000븀\x0000and in a Double, four Pokémon.\xf000븁\x0000The Pokémon you enter\xfffemust all be different.\xf000븁\x0000The items they hold must\xfffebe different, if they have any.\xf000븁\x0000Also, all Pokémon in this\xfffefacility fight at Level 50.\xf000븁\x0000Fight five Trainers in a row,\xfffeand a diagnosis will be made\xf000븀\x0000from the results of the battles!\xf000븁\x0000How about it?
 Next is opponent \xf000Ȁ\x0001\x0000!\xfffeGood luck!\xf000븁\x0000
 Thanks for waiting!\xf000븁\x0000Will you challenge the downloaded\xfffeDouble Battle Evaluation?
 It seems you've already challenged\xfffethe Battle Evaluation which is\xf000븀\x0000currently available for download.\xf000븁\x0000What will you do?
