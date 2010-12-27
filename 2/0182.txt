@@ -123,7 +123,7 @@ Multitype
 Flower Gift
 Bad Dreams
 Wicked Trick
-Encourage
+Sheer Force
 Perversity
 Tension
 Competitive Spirit
@@ -143,7 +143,7 @@ Inconsistent
 Dust-proof
 Poisoned Hand
 Regeneration
-Pigeon Heart
+Big Pecks
 Sand Throw
 Miracle Skin
 Analyze
@@ -151,7 +151,7 @@ Illusion
 Eccentric
 Slip Through
 Mummy
-Overconfidence
+Moxie
 Heart of Justice
 Self-Conscious
 Magic Mirror

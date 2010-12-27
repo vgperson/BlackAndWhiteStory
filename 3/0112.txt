@@ -1,18 +1,18 @@
 ﻿Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
 Can I take a quick look\xfffeat your Pokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
-Oh! And you've found Giaru?!\xfffeYou're quite the Trainer!\xf000븁\x0000
-Hrm...\xfffeYou haven't found Giaru yet...\xf000븁\x0000\xfffeBut still, that's quite a Pokédex!\xf000븁\x0000
-Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Araragi!\xf000븁\x0000That's right! My daughter is the\xfffeone who made your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts\xfffeof things about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
+Oh! And you've found Klink?!\xfffeYou're quite the Trainer!\xf000븁\x0000
+Hrm...\xfffeYou haven't found Klink yet...\xf000븁\x0000\xfffeBut still, that's quite a Pokédex!\xf000븁\x0000
+Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Juniper!\xf000븁\x0000That's right! My daughter is the\xfffeone who made your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts\xfffeof things about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
 So in commemoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
 \xf000Ā\x0001\x0000's Pokédex was upgraded!
-Araragi: There are some Pokémon that\xfffeare of the same species,\xf000븀\x0000but have different forms.\xf000븁\x0000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it easier\xf000븀\x0000to search for Pokémon!\xf000븁\x0000
-???: Professor Araragi,\xfffewho's this Trainer?\xf000븁\x0000
-Araragi: Oh! ...Oh!\xfffeSorry, I'm sorry.\xf000븁\x0000\xfffeFlo, this is \xf000Ā\x0001\x0000,\xfffean acquaintance of my daughter!\xf000븁\x0000\xf000Ā\x0001\x0000's journeying through Unova,\xfffeaiming to complete the Pokédex.\xf000븁\x0000
+Juniper: There are some Pokémon that\xfffeare of the same species,\xf000븀\x0000but have different forms.\xf000븁\x0000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it easier\xf000븀\x0000to search for Pokémon!\xf000븁\x0000
+???: Professor Juniper,\xfffewho's this Trainer?\xf000븁\x0000
+Juniper: Oh! ...Oh!\xfffeSorry, I'm sorry.\xf000븁\x0000\xfffeFlo, this is \xf000Ā\x0001\x0000,\xfffean acquaintance of my daughter!\xf000븁\x0000\xf000Ā\x0001\x0000's journeying through Unova,\xfffeaiming to complete the Pokédex.\xf000븁\x0000
 Flo: I see! Then you'll probably\xfffechallenge the gym here, right?\xf000븀\x0000\xfffeWow! I'm looking forward to it!\xf000븁\x0000
-Araragi: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\xf000븁\x0000I'm sure you'll just soar right\xfffethrough the gym here!\xf000븁\x0000
+Juniper: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\xf000븁\x0000I'm sure you'll just soar right\xfffethrough the gym here!\xf000븁\x0000
 Well, Flo, if anything comes up\xfffeagain, I'm counting on you!\xf000븁\x0000
 Flo: ...Professor, my plane's\xfffea cargo plane!\xf000븁\x0000It carries luggage, not people.\xf000븁\x0000...Not to mention places like Kanto\xfffeand Sinnoh aren't easy destinations!\xf000븁\x0000
-Araragi: Hey, now, don't be\xfffeso harsh while you're making\xf000븀\x0000\xfffesuch a cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two,\xfffehope we meet again!\xf000븁\x0000
+Juniper: Hey, now, don't be\xfffeso harsh while you're making\xf000븀\x0000\xfffesuch a cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two,\xfffehope we meet again!\xf000븁\x0000
 Flo: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-renowned\xfffePokémon professor!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
 Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to\xf000븀\x0000challenge my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
 Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to\xf000븀\x0000challenge my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000

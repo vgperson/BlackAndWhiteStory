@@ -65,7 +65,7 @@ Pokémon Type: ???\xfffeYou've beaten this leader!
 Second badge.\xfffeShippo City Gym
 Leader: Aloe
 Pokémon Type: Normal\xfffeYou've beaten this leader!
-Third badge.\xfffeHiun City Gym
+Third badge.\xfffeCastelia City Gym
 Leader: Arty
 Pokémon Type: Bug\xfffeYou've beaten this leader!
 Fourth badge.\xfffeRaimon City Gym

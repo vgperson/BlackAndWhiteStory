@@ -3,7 +3,7 @@
 
 ◇Trainer from Kanoko Town is victorious over Sanyou Gym Leaders Corn, Pod, and Dent!
 ◇Trainer from Kanoko Town is victorious over Shippo Gym Leader Aloe!
-◇Trainer from Kanoko Town is victorious over Hiun Gym Leader Arty!
+◇Trainer from Kanoko Town is victorious over Castelia Gym Leader Arty!
 ◇Trainer from Kanoko Town is victorious over Raimon Gym Leader Camille!
 ◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Yacon!
 ◇Trainer from Kanoko Town is victorious over Fukiyose Gym Leader Flo!
@@ -11,8 +11,8 @@
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Iris!
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Shaga!
 ◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
-◇"Discover the future told by your names!" Hiun City Name Rater
-◇"What're they up to? Let's survey!" Hiun City Chance-Upon Survey
+◇"Discover the future told by your names!" Castelia City Name Rater
+◇"What're they up to? Let's survey!" Castelia City Chance-Upon Survey
 ◇"Ride and fight on! This train never stops!" Raimon City Battle Subway
 ◇"The stairway to stardom begins here!" Raimon City Musical Hall
 ◇"Here come your items, over the wind and waves to you!" Hodomoe Market
@@ -35,14 +35,14 @@
 ◇A town where appreciators of the fine arts gather!
 ◇The museum is themed around the comparison of civilization and nature!
 ◇Many famous artists were born in Shippo City!
-◇The obscure specialty Hiun Ice is becoming majorly popular!
-◇The ships taking off from Hiun City's piers have a variety of destinations!
-◇Even compared against the bustle of Hiun City, the gym is still surprising...?
+◇The obscure specialty Castelia Ice is becoming majorly popular!
+◇The ships taking off from Castelia City's piers have a variety of destinations!
+◇Even compared against the bustle of Castelia City, the gym is still surprising...?
 ◇The central fountain is said to be a place for people to connect!
-◇Artists the world over display galleries in Hiun City!
-◇In terms of buildings, shops, and population, Hiun City is number one in Unova!
-◇The streets of Hiun City are a totally different spectacle at night and in day!
-◇Hiun City is a boiling pot of cultures and foods from various lands!
+◇Artists the world over display galleries in Castelia City!
+◇In terms of buildings, shops, and population, Castelia City is number one in Unova!
+◇The streets of Castelia City are a totally different spectacle at night and in day!
+◇Castelia City is a boiling pot of cultures and foods from various lands!
 ◇There's a place investigating the way people happen upon other people!
 ◇Raimon City is said to be a source of many excitement-packed battles.
 ◇Tempestuous tennis and burning basketball! The lively Little Court!
@@ -90,7 +90,7 @@
 ◇Souryuu City's ancient technology still serves it today.
 ◇Many archaeologists are born in the town every year.
 ◇In the town, you can hear music with countless centuries of history behind it.
-◇Souryuu City develops the cutting-edge in PokéB alls.
+◇Souryuu City develops the cutting-edge in Poké Balls.
 ◇The city's buildings are built with the newest and best materials.
 ◇Souryuu City is famous for its security-ensured safety.
 ◇Networks allow for a very convenient lifestyle.

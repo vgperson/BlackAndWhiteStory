@@ -572,7 +572,7 @@ An item to be used by a Pokémon.\xfffeThis special Wing boosts one\xfffePokémo
 A very ordinary Wing that is\xfffesimply beautiful, but has no effect.\xfffe
 A fossil of an ancient Pokémon.\xfffeIt appears that it lived\xfffedeep in the ocean long ago.
 A fossil of an ancient Pokémon.\xfffeIt appears that it lived\xfffehigh in the sky long ago.
-A special ticket needed to go\xfffeto Liberty Garden Island. You\xfffecan catch a ship at Hiun City.
+A special ticket needed to go\xfffeto Liberty Garden Island. You\xfffecan catch a ship at Castelia City.
 A mysterious ball enclosed\xfffewith the power of Unova.\xfffeUsed to activate Exit Power.
 A dream ball that suddenly appeared\xfffein your bag in the High-Link forest.\xfffeIt can catch any kind of Pokémon.
 A toy that attracts Pokémon.\xfffeUse it to flee from any battle with\xfffea wild Pokémon.
@@ -589,7 +589,7 @@ A vase that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt ca
 A bracelet that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
 A statue that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
 A crown that was made by an old\xfffecivilization some 3000 years ago.\xfffeIt can be sold at a high price.
-A specialty of Hiun City.\xfffeIf used, it restores all status\xfffeproblems of a single Pokémon.
+A specialty of Castelia City.\xfffeIf used, it restores all status\xfffeproblems of a single Pokémon.
 An item that raises the critical-hit\xffferatio of a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
 An item that raises the Speed stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.
 An item that raises the Sp. Atk stat\xfffeof a Pokémon in battle. It wears\xfffeoff if the Pokémon is withdrawn.

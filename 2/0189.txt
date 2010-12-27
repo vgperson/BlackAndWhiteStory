@@ -49,7 +49,7 @@ Whoa! You, Trainer,\xfffeare THE BEST IN THE WORLD!\xf000븀\x0000...Maybe.
 If you have Pokémon with you, you can\xfffebattle Trainers anywhere in the world!\xf000븁\x0000The world is huge! MAN!\xfffeI've got so much to look forward to!
 Where did you come from?\xf000븁\x0000As for me... beat me in a battle,\xfffeand I'll tell you!\xf000븁\x0000
 Well, uh...\xfffeI lost my first battle...
-I actually set out from\xfffeHiun City just yesterday.\xf000븀\x0000That was my first Pokémon battle, too...
+I actually set out from\xfffeCastelia City just yesterday.\xf000븀\x0000That was my first Pokémon battle, too...
 I'm still just a rookie,\xfffebut someday I'll be a super player!\xf000븁\x0000So I'm gonna keep on challenging\xfffepeople to Pokémon battles!\xf000븁\x0000
 Gyack!\xfffeTriple failure, all the way!
 It's NOT okay even if I lose!\xf000븁\x0000If I have time to lose, I'm better off\xfffeusing it to try to get better!
@@ -255,7 +255,7 @@ I see! Just sitting here\xfffewon't get me anywhere!
 To reach the Tower of Heaven...\xf000븁\x0000Just walk along the path!\xf000븁\x0000Right! Just keep walking, and\xfffeone day, you'll arrive at your goal!
 Oh! A Pokédex!\xf000븁\x0000I see... so that's\xfffethe reason for your journey!\xf000븁\x0000
 Impressive!\xfffeBut of course, you DO have a Pokédex!
-Actually, I heard a rumor that\xfffefather and daughter Professor Araragi\xf000븀\x0000were backpackers in their youth...
+Actually, I heard a rumor that\xfffefather and daughter Professor Juniper\xf000븀\x0000were backpackers in their youth...
 Who's traveling with me?\xfffeWhy, the Pokémon recommended by\xf000븀\x0000this popular guidebook!\xf000븁\x0000
 Well, the guidebook\xfffedoesn't tell you how to win...
 According to this guidebook,\xfffeRaimon City is a town full of amusement!\xf000븀\x0000I'm sure it's loaded with fun times!
@@ -568,7 +568,7 @@ Trainer! Remember what\xfffeyou were told at the start?\xf000븁\x0000"You can s
 Checks are all clear!\xfffeChances of loss are at zero!!\xf000븁\x0000
 No way! I DID run a check\xfffeon fighting style, right?!
 Check once, then check again!\xf000븁\x0000Fooling yourself into thinking\xfffeeverything's fine only leads to disaster!
-Hiun Gym slowly unfolds!\xf000븁\x0000Just like a beautiful art piece,\xfffeor a breathtaking battle!!\xf000븁\x0000
+Castelia Gym slowly unfolds!\xf000븁\x0000Just like a beautiful art piece,\xfffeor a breathtaking battle!!\xf000븁\x0000
 A beautiful fight...\xfffe...But is it art?
 Press two switches, light two\xfffelamps, open a gate!\xf000븀\x0000This too is art!
 I love the feeling of\xfffepassing through the honey walls...\xf000븀\x0000I've done it countless times!\xf000븁\x0000
@@ -1457,7 +1457,7 @@ Could I even see\xfffethat strength...?!
 Artists can be classified\xfffeinto two types...\xf000븁\x0000Those who make the visible,\xfffeand those that make the invisible!
 I'm a fantastic fisherman\xfffewho loves everything!\xf000븁\x0000As such a fisherman, I must\xfffefight with fantastic Pokémon!!\xf000븁\x0000
 I lost!\xfffeI love you all!
-I want to set out on the\xfffeRoyal Unova from Hiun City\xf000븀\x0000and try some sea fishing!
+I want to set out on the\xfffeRoyal Unova from Castelia City\xf000븀\x0000and try some sea fishing!
 Don't get overwhelmed\xfffeby my Pokémon!\xf000븁\x0000
 I'm too overwhelmed\xfffeto speak...!
 Is it my rod?\xfffeOr is it my own fault?\xf000븀\x0000...Or is it having all the same Pokémon?
@@ -1644,7 +1644,7 @@ Your fighting style is\xfffemuch wilder, but still impressive!
 Floating on the waves feels great!\xfffeBeing with Pokémon feels great!
 After much study, I've learned that\xfffethe night is still full of mystery!\xf000븁\x0000
 Do I need to get along with my\xfffePokémon better? It is a mystery!
-I've been reading some of\xfffeProfessor Araragi's books lately.\xf000븁\x0000The origins of Pokémon\xfffeare still a mystery...
+I've been reading some of\xfffeProfessor Juniper's books lately.\xf000븁\x0000The origins of Pokémon\xfffeare still a mystery...
 I'm studying up on\xfffeVillage Bridge, but...\xf000븀\x0000It's important to take a breather!\xf000븁\x0000
 You and your Pokémon...\xfffeWhat admirable support you provide!
 Village Bridge is supported by\xfffecountless bricks so it won't collapse.\xf000븁\x0000And for a hundred years,\xfffeit's been kept that way!

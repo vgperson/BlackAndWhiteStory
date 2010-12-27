@@ -6,7 +6,7 @@ Kanoko Town
 Karakusa Town
 Sanyou City
 Shippo City
-Hiun City
+Castelia City
 Raimon City
 Hodomoe City
 Fukiyose City
@@ -107,7 +107,7 @@ Sazanami Town
 Karakusa Gate
 Sazanami Gate
 Shippo Gate
-Hiun Gate
+Castelia Gate
 Raimon Gate
 Souryuu Gate
 Black Gate
