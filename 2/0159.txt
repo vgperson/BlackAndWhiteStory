@@ -157,11 +157,11 @@ Confirm
 HM moves can't be\xfffeforgotten now.
 Performance
 Details
-けってい
+Confirm
 Appeal Points
 Back
-もどります
-けってい
+Return
+Confirm
 Back
 Fav. Food
 \xf000\xff00\x0001\x0002 likes \xf000\xff00\x0001\x0000 Spicy
@@ -169,14 +169,14 @@ Fav. Food
 \xf000\xff00\x0001\x0002 likes \xf000\xff00\x0001\x0000 Sweet
 \xf000\xff00\x0001\x0002 likes \xf000\xff00\x0001\x0000 Bitter
 \xf000\xff00\x0001\x0002 likes \xf000\xff00\x0001\x0000 Sour
-すききらいなし
+No preferences
 かっこよさに みがきが かかった！
 たくましさに みがきが かかった！
 うつくしさに みがきが かかった！
 かわいさに みがきが かかった！
 かしこさに みがきが かかった！
 なにも かわらなかった！
-もう これいじょう たべない みたい
+It can't eat any more.
 Ribbons
 Details
 Back

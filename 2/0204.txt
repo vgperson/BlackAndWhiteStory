@@ -526,7 +526,7 @@ Ice Breath
 Dragon Tail
 Cheer Up
 Electra Net
-Wild Bolt
+Wild Charge
 Drill Liner
 Double Chop
 Heart Stamp
@@ -539,7 +539,7 @@ Hard Roller
 Cotton Guard
 Night Burst
 Psycho Break
-Sweep Slap
+Tail Slap
 Gale
 Afro Break
 Gear Saucer
