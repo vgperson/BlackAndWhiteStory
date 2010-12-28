@@ -1,10 +1,10 @@
- 
+﻿ 
 Au matin de sa vie, la graine sur\xfffeson dos lui fournit les éléments\xfffedont il a besoin pour grandir.
 Lorsque le bourgeon sur son dos\xfffeéclot, il répand un doux parfum\xfffepour célébrer sa floraison.
 Le parfum de sa fleur se fait plus\xfffepénétrant les lendemains de pluie.\xfffeCela appâte les autres Pokémon.
 La flamme de sa queue symbolise sa\xfffevitalité. Elle est intense quand il\xfffeest en bonne santé.
-La nuit, la queue ardente du\xfffeREPTINCEL brille comme une étoile\xfffedans son repaire montagneux.
-On raconte que la flamme du\xfffeDRACAUFEU s'intensifie après\xfffeun combat difficile.
+La nuit, la queue ardente du\xfffeReptincel brille comme une étoile\xfffedans son repaire montagneux.
+On raconte que la flamme du\xfffeDracaufeu s'intensifie après\xfffeun combat difficile.
 Il se réfugie dans sa carapace\xfffeet réplique en éclaboussant\xfffel'ennemi à la première occasion.
 On prétend qu'il vit 10 000 ans.\xfffeSa queue duveteuse est un\xfffesymbole de longévité populaire.
 Les trombes d'eau projetées par\xfffeles canons de sa carapace peuvent\xfffepercer le métal le plus résistant.
@@ -16,24 +16,24 @@ Il se cache sous les feuilles et les\xfffebranches pour fuir les prédateurs\xff
 Il virevolte rapidement autour de\xfffel'ennemi et frappe de son dard\xfffeempoisonné avant de décamper.
 Ce Pokémon docile préfère éviter\xfffele combat. Toutefois, il se montre\xfffetrès féroce quand on l'agresse.
 Il survole son vaste territoire en\xfffequête d'une proie avant de fondre\xfffesur elle toutes griffes en avant.
-En battant des ailes de toutes ses\xfffeforces, ROUCARNAGE génère une\xffferafale à en déraciner les arbres.
+En battant des ailes de toutes ses\xfffeforces, Roucarnage génère une\xffferafale à en déraciner les arbres.
 D'une prudence extrême, sa nature\xffferobuste lui permet de s'adapter\xfffeà tous les terrains.
 Il grignote sans cesse pour apaiser\xfffela poussée de ses crocs. Il peut\xfffetranspercer un mur de parpaings.
 Il fait battre vigoureusement ses\xfffepetites ailes pour voler et cherche\xfffeà manger dans l'herbe avec le bec.
 Il a assez d'énergie pour voler \xfffetoute la journée avec ses grandes \xfffeailes. Il frappe de son bec acéré.
 Il se faufile dans l'herbe sans un\xfffebruit et frappe dans le dos quand\xfffesa proie s'y attend le moins. 
 Il utilise la marque sur son ventre\xfffepour intimider l'ennemi. Il étouffe\xfffel'ennemi pétrifié par la peur.
-Il lui arrive de remettre d'aplomb\xfffeun PIKACHU allié en lui envoyant\xfffeune décharge électrique.
+Il lui arrive de remettre d'aplomb\xfffeun Pikachu allié en lui envoyant\xfffeune décharge électrique.
 Il se protège des décharges grâce\xfffeà sa queue qui dissipe l'électricité\xfffedans le sol.
 Il vit sur des terres arides\xfffeépargnées par la pluie. Il se roule\xfffeen boule pour se protéger.
 Il se met en boule pour percuter\xfffel'ennemi. Ses épines aiguisées\xfffefont beaucoup de dégâts.
 Bien qu'il rechigne à se battre,\xfffeune goutte du poison sécrété par\xfffeses piquants peut s'avérer fatale.
-Ce Pokémon dresse ses piquants\xfffeen cas de danger. Ils poussent\xfffemoins vite que ceux de NIDORINO.
+Ce Pokémon dresse ses piquants\xfffeen cas de danger. Ils poussent\xfffemoins vite que ceux de Nidorino.
 Son corps est recouvert d'écailles\xfffesolides. Il donnera sa vie pour\xfffesecourir les petits de son terrier. 
 Il jauge le terrain en laissant\xfffeses oreilles dépasser de l'herbe.\xfffeIl se défend avec sa corne toxique.
 D'un tempérament violent, il\xfffeempale l'ennemi sur sa corne qui\xfffedistille un poison puissant.
 Un coup de sa puissante queue\xfffepeut briser un poteau téléphonique\xfffecomme une allumette.
-On dit que ceux qui voient danser\xfffeun groupe de MELOFEE sous la pleine\xfffelune connaîtront un grand bonheur.
+On dit que ceux qui voient danser\xfffeun groupe de Melofee sous la pleine\xfffelune connaîtront un grand bonheur.
 Il est très farouche et se laisse\xffferarement approcher. De plus, il\xfffedétecte les sons à plus d'1 km.
 Il envoie des boules de feu. Avec\xfffel'âge, ses six queues en forment de\xfffenouvelles. 
 On raconte que ses neuf queues\xfffedétiennent un pouvoir mystique.\xfffeIl peut vivre pendant mille ans.
@@ -44,8 +44,8 @@ Ses crocs acérés et creux peuvent\xfffepénétrer la plus épaisse des peaux\x
 En journée, il plante ses pieds-\xffferacines dans le sol. La nuit, il se \xfffepromène en semant des graines.
 L'odeur du nectar de sa bouche \xfffeest si répugnante qu'elle agresse\xfffeles narines à deux kilomètres.
 Ses pétales sont les plus grands\xfffedu monde. Il marche en répandant\xfffeun pollen extrêmement allergène.
-Des champignons appelés\xfffe“tochukaso" poussent sur son dos.\xfffeIls évoluent avec le PARAS hôte.
-Un champignon parasite plus gros\xfffeque PARASECT contrôle son corps.\xfffeIl répand des spores empoisonnées.
+Des champignons appelés\xfffe“tochukaso" poussent sur son dos.\xfffeIls évoluent avec le Paras hôte.
+Un champignon parasite plus gros\xfffeque Parasect contrôle son corps.\xfffeIl répand des spores empoisonnées.
 Ses grands yeux sont en fait\xfffedes amas d'yeux minuscules. La\xfffenuit, il est attiré par la lumière.
 Il répand ses écailles poudreuses\xfffeen battant des ailes. Elles sont\xfffetoxiques au toucher.
 Un Pokémon qui vit sous terre.\xfffeHabitué aux souterrains, il fuit la\xfffelumière du jour.
@@ -54,7 +54,7 @@ Son regard s'anime à la vue\xfffed'un objet brillant. C'est un\xfffePokémon no
 Un Pokémon très snob. La taille du\xfffejoyau qui orne son front alimente\xfffebien des débats parmi ses fans.
 Ses pouvoirs déconcertants et\xfffemystérieux lui font subir de\xfffeconstantes migraines.
 Ses membres palmés et son corps\xfffeparfaitement adapté font de lui\xfffeun nageur exceptionnel.
-Ils vivent en colonies sylvestres.\xfffeQuand un FEROSINGE s'énerve,\xfffetoute la colonie suit son exemple.
+Ils vivent en colonies sylvestres.\xfffeQuand un Ferosinge s'énerve,\xfffetoute la colonie suit son exemple.
 Il grogne quand on le toise,\xffferugit quand on s'enfuit et devient\xfffefou de rage quand on le frappe.
 Un Pokémon très loyal. Il\xffferestera immobile jusqu'à ce que\xfffeson Dresseur lui donne un ordre.
 Son port altier et son attitude \xfffefière ont depuis longtemps conquis\xfffele cœur des hommes.
@@ -64,7 +64,7 @@ Il possède de sacrés biscoteaux.\xfffeIl peut parcourir sans relâche\xfffel'O
 L'utilisation de ses pouvoirs\xfffementaux le fatigue tellement\xfffequ'il dort 18 heures par jour.
 Il fixe sa cuillère d'argent afin de\xfffeconcentrer son esprit et d'émettre\xfffeun maximum d'ondes alpha.
 On dit que les cuillères qu'il tient\xfffeen permanence ont été créées\xfffepar la puissance de son esprit.
-Malgré sa petite taille, sa force lui\xfffepermet de soulever plusieurs\xfffeRACAILLOU à la fois.
+Malgré sa petite taille, sa force lui\xfffepermet de soulever plusieurs\xfffeRacaillou à la fois.
 Il soulève les plus lourdes charges\xfffeavec plaisir et facilité. Il donne un\xfffecoup de main tout en s'entraînant!
 La puissance et la rapidité de ses\xfffequatre bras puissants font des\xffferavages sur ses adversaires.
 Il préfère les climats chauds et\xfffehumides. Ses lianes peuvent\xfffecapturer une proie en un clin d'œil.
@@ -78,12 +78,12 @@ Aucun explosif ne pourrait entamer\xfffesa carapace de pierre. Il mue une\xfffef
 Chancelantes à la naissance, ses\xfffepattes deviennent très vite sûres\xfffeet solides à force de galoper.
 Au grand galop, sa crinière de feu\xfffedisperse au vent une myriade\xfffed'étincelles ardentes.
 Bien que lent, c'est un pêcheur\xfffeadroit qui utilise sa queue. Elle\xfffeest insensible aux morsures.
-Ce grand benêt connaît des éclairs\xfffede lucidité lorsque le KOKIYAS de sa\xfffequeue se met à mordre.
+Ce grand benêt connaît des éclairs\xfffede lucidité lorsque le Kokiyas de sa\xfffequeue se met à mordre.
 Plus la rotation de ses extrémités\xfffeest rapide, plus la force du champ\xfffemagnétique qu'il génère est grande.
 Des groupes apparaissent si des\xfffetaches solaires couvrent le soleil.\xfffeIls brouillent les télévisions.
 Il ne peut pas vivre sans son\xfffelégume, c'est pourquoi il le\xfffeprotégera au péril de sa vie.
 Ses deux cerveaux semblent\xfffecommuniquer leurs émotions\xfffegrâce à un lien télépathique.
-Quand DODUO connaît cette étrange\xfffeévolution, l'une de ses têtes se \xfffedédouble. Il atteint les 60 km/h.
+Quand Doduo connaît cette étrange\xfffeévolution, l'une de ses têtes se \xfffedédouble. Il atteint les 60 km/h.
 Un habitant des icebergs. \xfffeEn mer, il utilise la corne sur \xfffesa tête pour briser la banquise.
 Son corps est couvert d'un grand\xfffemanteau blanc qui, dans la neige, le\xfffedissimule aux yeux des prédateurs.
 Il est né d'un torrent de boue\xfffeexposé aux rayons X de la lune.\xfffeIl vit dans les ordures.
@@ -92,7 +92,7 @@ Il nage à reculons en ouvrant et en\xffferefermant ses deux coquilles. Il\xfffe
 Il se défend en fermant sa coquille\xfffeet projette des piquants qui\xffferepoussent ses agresseurs.
 Son corps composé de gaz toxique\xfffepourrait asphyxier n'importe qui\xfffeen quelques secondes.
 Il adore se tapir dans l'ombre et\xfffefaire frissonner ses proies en leur\xfffetouchant l'épaule.
-Si vous croisez un regard\xfffeinquiétant qui perce la nuit,\xfffec'est sûrement un ECTOPLASMA.
+Si vous croisez un regard\xfffeinquiétant qui perce la nuit,\xfffec'est sûrement un Ectoplasma.
 Il se nourrit des pierres qu'il\xffferencontre en creusant le sol.\xfffeIl peut creuser à 80 km/h!
 Son grand nez lui permet de lire\xfffeles rêves d'autrui. Il adore les\xfffesonges amusants.
 La vue de son pendule oscillant\xfffeendort en trois secondes, même\xfffequand on vient de se réveiller. 
@@ -101,7 +101,7 @@ Sa grande pince possède une\xfffepuissance de 10 000 chevaux. Son\xfffepoids la
 Il ressemble à une Poké Ball. Ce\xfffePokémon dangereux peut exploser\xfffeou s'électrifier au toucher.
 Il se laisse porter par les vents\xfffelorsque son corps est gonflé\xfffed'électricité à en éclater.
 Ces six œufs communiquent par\xfffetélépathie. Ils peuvent se réunir\xffferapidement si on les sépare.
-On l'appelle “jungle sur pattes".\xfffeSi une tête devient trop grosse,\xfffeelle tombe et produit un NOEUNOEUF.
+On l'appelle “jungle sur pattes".\xfffeSi une tête devient trop grosse,\xfffeelle tombe et produit un Noeunoeuf.
 Il pleure en pensant à sa mère\xfffedisparue, et ses larmes résonnent\xfffedans son crâne creux.
 Ce Pokémon sauvage possède des os\xfffedepuis sa naissance. Il s'en sert\xfffepour combattre avec dextérité.
 Ses pattes élastiques s'allongent,\xfffece qui ne manque jamais de\xfffesurprendre au premier combat.
@@ -127,7 +127,7 @@ Il fait tournoyer ses bras pour\xfffedonner de la force à ses coups.\xfffeProfi
 Quand il respire profondément, des\xfffevagues de chaleur émanent de son\xfffecorps et le rendent difficile à voir.
 Il serre les proies dans ses pinces\xfffepour les trancher en deux. S'il n'y\xfffearrive pas, il les jette au loin.
 Après avoir choisi sa cible, il fonce\xfffedessus tête baissée. Il est réputé\xfffepour sa nature violente.
-Un vénérable MAGICARPE peut\xfffefranchir une montagne en utilisant\xfffeTrempette. Mais c'est tout...
+Un vénérable Magicarpe peut\xfffefranchir une montagne en utilisant\xfffeTrempette. Mais c'est tout...
 Quand il se laisse emporter par la\xffferage, il ne se calme qu'après avoir\xfffedétruit tout ce qui l'entoure.
 Il aime naviguer en portant des\xfffehumains et des Pokémon sur son\xfffedos. Il comprend le langage humain.
 Il a la capacité de modifier sa\xfffestructure cellulaire pour prendre\xfffel'apparence de ce qu'il voit.
@@ -148,7 +148,7 @@ L'un des Pokémon Oiseaux\xfffelégendaires. On dit que sa venue\xfffeannonce l'
 On l'appelle “Pokémon mirage"\xfffeen raison de sa rareté. On a\xfffedécouvert sa mue.
 La météo change brusquement quand\xfffeil est entouré d'une aura. On dit\xfffequ'il peuple les mers et les lacs.
 On raconte qu'il vit quelque part\xfffeen mer. Il guide les équipages\xfffenaufragés jusqu'à la terre ferme.
-Un Pokémon conçu en réorganisant\xfffeles gènes de MEW. On raconte qu'il\xfffes'agit du Pokémon le plus féroce.
+Un Pokémon conçu en réorganisant\xfffeles gènes de Mew. On raconte qu'il\xfffes'agit du Pokémon le plus féroce.
 Nombre de scientifiques voient en\xfffelui l'ancêtre des Pokémon car il\xfffemaîtrise toutes leurs capacités.
 Il jauge la température et\xfffel'humidité grâce à la feuille sur sa\xfffetête. Il raffole des bains de soleil.
 Le collier de bourgeons à son cou\xffferépand un arôme épicé qui vous\xfffedonne du tonus.
@@ -169,7 +169,7 @@ Il tisse une toile fine mais solide\xfffepour poser des pièges et se poste\xfff
 Il attache un fil à sa proie avant\xfffede la libérer. Il s'en servira pour\xfffela retrouver, elle et ses amis.
 La transformation de ses pattes en\xfffeailes a certes amélioré sa capacité\xfffeà voler, mais pas à marcher.
 Il envoie des décharges électriques\xfffepositives et négatives du bout des\xfffeantennes pour paralyser sa proie.
-La lumière de LANTURN surgit des\xfffeprofondeurs. On le surnomme\xfffe“étoile des profondeurs".
+La lumière de Lanturn surgit des\xfffeprofondeurs. On le surnomme\xfffe“étoile des profondeurs".
 Les poches électriques de ses\xfffejoues sont encore petites, mais\xffferisquent de l'électrocuter.
 On dit qu'il se déplace à dos\xfffed'étoile filante. Il se montre\xfffesouvent quand on en voit.
 Son corps est doux et élastique.\xfffeQuand il commence à rebondir,\xfffeon ne peut plus l'arrêter.
@@ -184,7 +184,7 @@ A la fin de la saison des pluies,\xfffeil sort danser en plein air,\xfffeattiré
 Sa queue à l'extrémité remplie\xfffed'huile fait office de flotteur et\xfffelui permet de ne pas couler.
 Ses poumons peuvent contenir\xfffeassez d'air pour lui permettre de\xfffepasser une journée sous l'eau.
 Il prend l'apparence d'un arbre\xfffepour éviter les attaques, mais il\xfffedéteste l'eau et fuit la pluie.
-Il rassemble ses pairs pour les\xfffecommander. Il utilise son cri \xfffepour diriger PTITARD.
+Il rassemble ses pairs pour les\xfffecommander. Il utilise son cri \xfffepour diriger Ptitard.
 Il dérive avec le vent. Sa présence\xfffeen nombre dans les champs et les\xfffemontagnes annonce le printemps.
 Il fleurit lorsque les températures\xffferemontent. Il flotte dans le ciel \xfffepour absorber les rayons du soleil.
 Poussé par les vents saisonniers,\xfffeil fait le tour du globe en semant\xfffedes spores de coton.
@@ -197,7 +197,7 @@ De nature placide, il a tendance à\xfffese cogner la tête contre les récifs\x
 Sa fourrure est si sensible qu'il\xfffepeut détecter les vibrations de\xfffel'air et prédire le temps qu'il fera.
 Quand il s'expose à la lumière de la\xfffelune, ses anneaux brillent et il\xfffeobtient un mystérieux pouvoir.
 Quand il est en danger, il tente de\xfffesemer ses poursuivants dans les\xfffechemins montagneux.
-La morsure de KOKIYAS a fait\xfffede lui un génie dont l'intelligence\xffferivalise avec celle d'un prix Nobel.
+La morsure de Kokiyas a fait\xfffede lui un génie dont l'intelligence\xffferivalise avec celle d'un prix Nobel.
 Il fait peur aux aventuriers en\xfffepleine nuit et se nourrit de leur\xfffefrayeur.
 Quand il est seul, il ne se passe\xffferien... Mais en groupe, il semble\xfffehabité par un mystérieux pouvoir.
 Il cherche désespérément à cacher\xfffesa queue noire. Certains pensent\xfffequ'elle renferme un secret. 
@@ -224,7 +224,7 @@ On en trouve beaucoup dans les\xfffemers claires du sud. On dirait qu'il\xfffene
 Son puissant jet d'eau ne manque\xfffejamais sa cible, même quand il est\xfffeau fond de l'eau.
 Il adore se cacher dans les\xfffefissures de la roche. Il crache\xfffeparfois de l'encre sur ses proies.
 Il dépose sa nourriture dans sa\xfffequeue enroulée. Il l'offre souvent\xfffeaux gens égarés en montagne.
-Il ignore royalement les REMORAID\xfffequi s'accrochent à ses nageoires\xfffepour manger les restes qu'il sème.
+Il ignore royalement les Remoraid\xfffequi s'accrochent à ses nageoires\xfffepour manger les restes qu'il sème.
 Son corps est prisonnier d'une\xfffearmure dure comme l'acier, mais il\xfffevole à plus de 300 km/h.
 Il est assez évolué pour chasser\xfffeen meute et communiquer par\xfffedes séries de cris modulés.
 En colère, il crache des flammes\xfffecontenant une toxine qui peut\xfffecauser des dégâts irréversibles.
@@ -239,8 +239,8 @@ Il combat en tournoyant comme une\xfffetoupie. La force centrifuge décuple\xfff
 Il goûte à tout du bout des lèvres.\xfffeElles gardent en mémoire ses\xfffegoûts et ses dégoûts.
 Un faible courant électrique circule\xfffeentre ses cornes. Attention à ne\xfffepas y mettre la main!
 Son sang est chaud comme du magma\xfffeet la température de son corps\xfffepeut atteindre 600 °C.
-On raconte que les enfants élevés\xfffeau lait d'ECREMEUH deviennent des\xfffeadultes braves et robustes.
-Les œufs que pond LEUPHORIE sont\xfffeun concentré de bonheur dont une\xfffebouchée suffit à apporter la joie.
+On raconte que les enfants élevés\xfffeau lait d'Ecremeuh deviennent des\xfffeadultes braves et robustes.
+Les œufs que pond Leuphorie sont\xfffeun concentré de bonheur dont une\xfffebouchée suffit à apporter la joie.
 On prétend qu'il est tombé avec la\xfffefoudre. Il peut lancer des éclairs\xfffegrâce aux nuages sur son dos.
 On raconte qu'à chaque fois qu'il\xffferugit, un volcan entre en éruption\xfffequelque part.
 Il parcourt le vaste monde pour\xfffepurifier les eaux polluées. Il\xfffeaccompagne le vent du nord.
@@ -311,9 +311,9 @@ Il améliore ses réflexes en\xfffestimulant ses muscles grâce à \xfffel'élec
 Il libère l'électricité par sa\xfffecrinière. Il crée un nuage d'orage\xfffepour appeler la foudre.
 Il absorbe l'énergie des poteaux\xfffeélectriques et encourage ses amis\xfffeavec des pompons d'étincelles. 
 Il encourage ses amis. Son corps\xfffeproduit plus d'étincelles quand il\xfffeest en mauvaise posture.
-Il communique avec ses pairs en\xfffeallumant son postérieur la nuit. Il\xfffeadore le doux parfum de LUMIVOLE.
-Il utilise son doux parfum pour\xfffeaider MUCIOLE à décrire des\xfffearabesques dans le ciel nocturne.
-Plus le ROSELIA est en bonne santé\xfffeet plus son parfum est agréable et\xffferelaxant pour son entourage.
+Il communique avec ses pairs en\xfffeallumant son postérieur la nuit. Il\xfffeadore le doux parfum de Lumivole.
+Il utilise son doux parfum pour\xfffeaider Muciole à décrire des\xfffearabesques dans le ciel nocturne.
+Plus le Roselia est en bonne santé\xfffeet plus son parfum est agréable et\xffferelaxant pour son entourage.
 Il est principalement composé d'un\xfffeestomac dont les sucs digestifs\xfffedissolvent tout ce qu'il avale.
 Il avale tout en une bouchée. Ses\xfffefollicules sécrètent des fluides\xfffetoxiques qui endorment l'ennemi.
 Il attaque en banc quand on\xfffemenace son territoire. Ses dents\xfffeaiguisées peuvent couler un navire.
@@ -325,7 +325,7 @@ Il porte des volcans sur son dos.\xfffeQuand le magma remonte, il\xfffefrissonne
 Il tire son énergie du charbon qu'il\xfffebrûle dans sa carapace et crache\xfffede la suie noire en cas de danger.
 Il utilise sa queue comme un \xffferessort et bondit partout. Chaque\xfffenouveau choc fait battre son cœur.
 Les perles noires amplifient ses \xfffepouvoirs psy. Sa danse étrange lui\xfffepermet de contrôler ses ennemis.
-Les motifs sur leur fourrure sont\xfffepropres à chaque SPINDA. Son pas\xfffechancelant le rend difficile à viser.
+Les motifs sur leur fourrure sont\xfffepropres à chaque Spinda. Son pas\xfffechancelant le rend difficile à viser.
 Il creuse un trou conique dans le\xfffesable du désert et se terre en\xfffeattendant qu'une proie trébuche.
 Ses violents battements d'ailes\xfffegénèrent des vagues d'ultrasons\xfffequi donnent mal au crâne.
 Son puissant battement d'ailes\xfffeprovoque des tempêtes de sable.\xfffeOn l'appelle “esprit du désert".
@@ -333,8 +333,8 @@ En stockant l'eau dans son corps,\xfffecet habitant du désert peut \xfffesurviv
 Il sort la nuit pour chasser. Il\xfffetraque les proies épuisées après\xfffeune journée dans le désert.
 Il ne se sent à l'aise que dans un\xfffemilieu propre et repousse la\xfffepoussière avec ses ailes.
 Il aime enlacer ses amis dans ses\xfffeailes cotonneuses et ronronner.
-C'est le rival de SEVIPER depuis\xfffedes générations. Ses griffes\xfffeaiguisées sont son meilleur atout.
-Le rival historique de MANGRIFF.\xfffeIl affûte la lame de sa queue \xfffesur les rochers avant le combat.
+C'est le rival de Seviper depuis\xfffedes générations. Ses griffes\xfffeaiguisées sont son meilleur atout.
+Le rival historique de Mangriff.\xfffeIl affûte la lame de sa queue \xfffesur les rochers avant le combat.
 On suppose qu'il est lié au cycle\xfffelunaire, car il ne sort que les\xfffesoirs de pleine lune.
 Le bruit court que cette nouvelle\xfffeespèce vient du soleil. Il produit\xfffede la lumière en tournoyant.
 Son corps glissant est difficile à\xfffeattraper. On dit qu'il a été créé\xfffedans de la boue solidifiée.
@@ -359,7 +359,7 @@ A force de toujours manger le même\xfffefruit succulent, il en pousse à la\xff
 Ses cris se répercutent dans son\xfffecorps creux avant d'exploser en\xfffenotes mélodieuses et saisissantes.
 La capacité de sa corne à sentir\xfffeles catastrophes ayant trop attiré\xfffel'attention sur lui, il vit reclus.
 Il se muscle en bousculant ses\xfffesemblables lors de mêlées. Il\xffferaffole des fruits sucrés.
-On dit que des groupes entiers de\xfffeSTALGAMIN vivent en harmonie\xfffesous des feuilles gigantesques.
+On dit que des groupes entiers de\xfffeStalgamin vivent en harmonie\xfffesous des feuilles gigantesques.
 Il empêche ses proies de prendre\xfffela fuite en gelant instantanément\xfffel'humidité de l'air.
 Il gagne la côte en roulant sur les\xfffeblocs de glace car sa morphologie\xfffen'est pas adaptée à la nage.
 Il fait souvent tourner des objets\xfffesur son museau pour connaître\xfffeleur odeur et leur texture.
@@ -373,15 +373,15 @@ Il rêve de pouvoir voler un jour. \xfffePour l'heure, il s'entraîne en\xfffesa
 Ses cellules ont commencé à\xfffechanger dans sa robuste coquille.\xfffeIl la perd en évoluant.
 A force de rêver de pouvoir voler,\xfffesa structure cellulaire a évolué\xfffeet il s'est vu pousser des ailes.
 Il dialogue avec les siens par \xfffeimpulsions magnétiques. En bande,\xfffeils se déplacent à l'unisson.
-Il est formé de deux TERHAL\xfffesoudés. Son corps de fer résiste à\xfffeun choc avec un avion à réaction.
-Il est né de la fusion de plusieurs\xfffeMETANG. Ses quatre cerveaux en\xfffefont l'égal d'un superordinateur.
+Il est formé de deux Terhal\xfffesoudés. Son corps de fer résiste à\xfffeun choc avec un avion à réaction.
+Il est né de la fusion de plusieurs\xfffeMetang. Ses quatre cerveaux en\xfffefont l'égal d'un superordinateur.
 Tout son corps est fait de roche.\xfffeS'il s'ébrèche au combat, il utilise\xfffedes pierres pour le réparer.
 Son corps est fait de glace datant\xfffede l'ère glaciaire. Il contrôle un\xfffeair gelé de -200 °C.
 Son corps invulnérable fut forgé\xfffepar la pression souterraine durant\xfffedes dizaines de milliers d'années.
 Son corps est recouvert d'un \xfffeduvet qui reflète la lumière\xfffeet le rend invisible.
 Un Pokémon très intelligent. Il\xfffepeut voler plus vite qu'un avion à\xffferéaction en repliant ses ailes.
 On dit qu'il a fait monter les eaux\xfffeen causant des pluies diluviennes.\xfffeIl somnolait dans une fosse marine.
-Il dormait dans le magma souterrain\xfffedepuis sa lutte féroce contre\xfffeKYOGRE, il y a longtemps de cela.
+Il dormait dans le magma souterrain\xfffedepuis sa lutte féroce contre\xfffeKyogre, il y a longtemps de cela.
 Il vit dans la couche d'ozone, au\xfffedessus des nuages. Il est invisible\xfffedepuis le sol.
 On raconte qu'une fois tous les\xfffemille ans, il a la capacité d'exaucer\xfffetous les vœux durant une semaine.
 Il vient d'un virus extraterrestre\xfffearrivé avec une météorite et ayant\xfffesubi une mutation génétique.
@@ -392,12 +392,12 @@ Il est très agile. Il fait toujours\xfffeattention d'éteindre la flamme de\xff
 Il contrôle habilement l'intensité\xfffede la flamme de sa queue pour tenir\xfffeses adversaires à distance.
 Ses techniques de combat inédites\xfffeà base de pieds et poings enflammés\xfffesont redoutables.
 Malgré sa démarche maladroite\xfffeet ses pertes d'équilibre, il bombe\xfffetoujours fièrement le torse.
-La fierté du PRINPLOUF est si\xfffegrande qu'il lui est impossible\xfffede vivre en groupe.
+La fierté du Prinplouf est si\xfffegrande qu'il lui est impossible\xfffede vivre en groupe.
 S'il voit son honneur bafoué, il\xfffeest capable de faire des ravages\xfffeavec ses ailes tranchantes.
-La faiblesse des ETOURMI les force\xfffeà vivre en groupe, mais ils se\xfffechamaillent souvent.
+La faiblesse des Etourmi les force\xfffeà vivre en groupe, mais ils se\xfffechamaillent souvent.
 Conscient de sa propre faiblesse,\xfffeil vit toujours en groupe, piaillant\xfffebruyamment quand il est seul.
 Il combattra sans relâche, même\xfffeblessé. Il prend grand soin de sa\xfffemèche.
-Une étude a montré que les dents\xfffedu KEUNOTOR poussaient aussi\xfffevite que celles du RATTATA.
+Une étude a montré que les dents\xfffedu Keunotor poussaient aussi\xfffevite que celles du Rattata.
 Les digues insubmersibles qu'il\xfffeconstruit font le bonheur des\xfffehabitants proches.
 Quand il tombe du haut de ses\xfffepetites pattes, ses antennes\xfffefont un bruit de xylophone.
 Ses cris sont tellement variés qu'il\xfffeexiste un village où on organise\xfffedes concours en leur honneur.
@@ -407,28 +407,28 @@ Il est capable de voir à travers\xfffeles murs pour chasser des proies\xfffeou 
 Il est sensible aux variations de\xfffetempérature et on dit qu'il fleurit\xfffequand il sent la chaleur du soleil.
 Ses mains contenant chacune des\xfffetoxines différentes sont capables\xfffed'asséner de puissants coups.
 Il vivait dans la jungle il y a\xfffe100 millions d'années. Il abat\xfffeun arbre d'un coup de tête.
-Quand deux CHARKOS se rentrent\xfffededans, leur crâne extrêmement\xfffeépais les empêche de s'assommer.
+Quand deux Charkos se rentrent\xfffededans, leur crâne extrêmement\xfffeépais les empêche de s'assommer.
 Il est si bien protégé qu'il peut\xfffedéguster Baies et herbe fraîche\xfffesans craindre de prédateurs.
 En groupe, ils protègent leurs\xfffepetits en formant autour d'eux\xfffeune impénétrable muraille.
 Nul ne sait comment il y parvient,\xfffemais il arrive toujours à se former\xfffeune cape, où qu'il soit.
 A l'évolution, son corps absorbe\xfffeles matériaux à proximité et peut\xfffeainsi présenter divers aspects.
-Il adore le nectar des fleurs mais\xfffen'en récolte pas lui-même.\xfffeIl préfère en voler à un APITRINI.
-Ce trio inséparable depuis la\xfffenaissance récolte du miel\xfffepour satisfaire APIREINE.
+Il adore le nectar des fleurs mais\xfffen'en récolte pas lui-même.\xfffeIl préfère en voler à un Apitrini.
+Ce trio inséparable depuis la\xfffenaissance récolte du miel\xfffepour satisfaire Apireine.
 Ce Pokémon utilise des phéromones\xfffepour donner des ordres de combat\xfffeaux larves dans son abdomen.
-Il arrive que deux PACHIRISU se\xfffefrottent les joues pour partager\xfffel'électricité qu'ils ont accumulée.
+Il arrive que deux Pachirisu se\xfffefrottent les joues pour partager\xfffel'électricité qu'ils ont accumulée.
 Il utilise ses deux queues comme\xfffeune hélice pour se propulser sous\xfffel'eau et trancher les algues.
 Il chasse souvent près des ports\xfffede pêche où il sauve parfois les\xfffegens tombés à la mer.
-Sa petite boule rose est nutritive\xfffeet délicieuse. Les ETOURMI en\xffferaffolent.
+Sa petite boule rose est nutritive\xfffeet délicieuse. Les Etourmi en\xffferaffolent.
 Sous un grand soleil, il ouvre\xfffeses pétales pour en absorber\xfffeles rayons.
 Un étrange liquide mauve s'échappe\xfffede son corps, ne lui appuyez pas\xfffedessus.
 Ses gènes ont démontré qu'il avait\xfffejadis une carapace couvrant la\xfffetotalité de son dos.
 Ses queues jumelles sont si agiles\xfffeet efficaces qu'il ne se sert que\xfffetrès rarement de ses bras.
 Sa façon de flotter sans but au\xfffegré du vent lui a valu le surnom\xfffede “bouée des esprits égarés".
-Des nuées de GRODRIVE dérivent\xfffedans le ciel au crépuscule. Ils\xfffedisparaissent dès qu'on les voit.
+Des nuées de Grodrive dérivent\xfffedans le ciel au crépuscule. Ils\xfffedisparaissent dès qu'on les voit.
 Ses oreilles repliées se déroulent\xfffeavec une force capable de briser\xfffeun gros rocher.
 Il est capable de décocher de\xfffepuissants coups de pied si on\xfffetouche à ses délicates oreilles.
 Pareil à une incantation magique,\xfffeson cri n'est que très rarement\xfffesource de joie.
-Son cri profond peut invoquer une\xfffemeute de CORNEBRE. On l'appelle\xfffe“le crieur de mauvais augure".
+Son cri profond peut invoquer une\xfffemeute de Cornebre. On l'appelle\xfffe“le crieur de mauvais augure".
 Il a tendance à planter ses griffes\xfffedans le nez de son Dresseur s'il\xfffen'a pas été nourri à temps.
 Il plaque ses queues contre son\xfffedos pour paraître plus grand.\xfffeIl soutient un regard des heures.
 Quand il sautille, l'orbe qu'il a\xfffedans la bouche s'agite et tinte\xfffecomme une cloche.
@@ -455,12 +455,12 @@ Son instinct de survie le pousse à\xfffene pas se battre dans les règles.\xfff
 Quand il coasse, le poison stocké\xfffesous sa gorge est secoué, le\xffferendant ainsi plus efficace.
 Il s'accroche aux arbres des\xfffemarais et attire ses proies avec\xfffesa salive à l'odeur enivrante.
 La ligne qui fait le tour de son\xfffecorps stocke l'énergie solaire\xfffeet brille dans la nuit.
-Il rampe au fond de l'océan grâce\xfffeaux nageoires de son torse.\xfffeLe LANTURN est son rival.
-On organise des excursions pour le\xfffevoir surfer sur les vagues au côté\xfffedes REMORAID.
+Il rampe au fond de l'océan grâce\xfffeaux nageoires de son torse.\xfffeLe Lanturn est son rival.
+On organise des excursions pour le\xfffevoir surfer sur les vagues au côté\xfffedes Remoraid.
 Curieux de rencontrer des gens, ils\xfffese rassemblent autour des traces\xfffede pas trouvées dans la montagne.
 Il apparaît quand les fleurs des\xfffeterres enneigées fleurissent et\xfffese retire quand elles se fanent.
 L'évolution l'a rendu encore plus\xffferetors. Il communique en griffant\xfffedes signes dans les pierres.
-Des scientifiques ont essayé de\xfffefaire évoluer un MAGNEZONE en\xfffelaboratoire, mais ce fut un échec.
+Des scientifiques ont essayé de\xfffefaire évoluer un Magnezone en\xfffelaboratoire, mais ce fut un échec.
 Sa longue langue est couverte en\xfffepermanence d'une épaisse couche\xfffede bave anesthésiante.
 Il peut lancer des pierres à une\xfffevitesse saisissante en bandant et\xffferelâchant ses muscles en un éclair.
 Ses bras sont en fait des plantes\xfffequi s'attachent à tout ce qu'elles\xfffetouchent et peuvent repousser.
@@ -476,7 +476,7 @@ Il a été modifié pour être capable\xfffede travailler dans des dimensions\xf
 Toujours prêt à protéger son\xfffeprochain, il se bat férocement\xfffeavec ses coudes en forme d'épées.
 Il utilise sa force magnétique pour\xfffediriger trois petites unités\xfffeappelées Mini-nez.
 Son corps se replie sur lui-même\xfffepour emprisonner les esprits\xfffeperdus et les ramener chez eux.
-On dit que MOMARTIK gèle ses proies\xfffegrâce à son souffle à -50 °C avant\xfffede les exposer dans sa tanière.
+On dit que Momartik gèle ses proies\xfffegrâce à son souffle à -50 °C avant\xfffede les exposer dans sa tanière.
 Son corps parcouru d'électricité\xfffelui permet de prendre le contrôle\xfffede certains appareils ménagers.
 Quand il prit son envol, les\xfffehommes apprirent à résoudre les\xfffeproblèmes. Le savoir était né.
 Quand il prit son envol, les hommes\xfffeapprirent à ressentir la joie et la\xfffepeine. L'émotion était née.

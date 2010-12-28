@@ -2,9 +2,9 @@
 Después de nacer, crece\xfffealimentándose de las semillas\xfffede su lomo.
 Cuando el bulbo de su lomo se\xfffehincha, desprende un dulce aroma\xfffepara indicar el florecimiento.
 Después de un día de lluvia, la flor\xfffede su lomo tiene un aroma más\xfffepotente y atrae a otros Pokémon.
-La llama de la punta de su cola\xfffeindica su salud. Si CHARMANDER\xfffeestá sano, arderá con más fuerza.
-En las montañas rocosas donde\xfffeviven los CHARMELEON, sus colas\xfffeardientes brillan como estrellas.
-Se dice que el fuego de CHARIZARD\xfffearde con más fuerza si ha vivido\xfffeduras batallas.
+La llama de la punta de su cola\xfffeindica su salud. Si Charmander\xfffeestá sano, arderá con más fuerza.
+En las montañas rocosas donde\xfffeviven los Charmeleon, sus colas\xfffeardientes brillan como estrellas.
+Se dice que el fuego de Charizard\xfffearde con más fuerza si ha vivido\xfffeduras batallas.
 Se protege con su caparazón y\xfffeluego contraataca lanzando agua a\xfffepresión cuando tiene oportunidad.
 Se dice que vive 10000 años.\xfffeSu peluda cola es un símbolo de\xfffelongevidad.
 Los chorros de agua que lanza\xfffepor los tubos de su caparazón\xfffepueden atravesar el acero.
@@ -16,24 +16,24 @@ Se esconde de sus atacantes\xfffeentre las ramas de los árboles\xfffemientras e
 Atacan volando alrededor del\xfffeobjetivo y usando su aguijón\xfffevenenoso antes de huir.
 Es manso y prefiere evitar los\xfffeproblemas. Sin embargo, si le\xfffemolestan atacará ferozmente.
 Sobrevuela su extenso territorio\xfffeen busca de presas y ataca con\xfffesus poderosas garras.
-Aleteando con toda su fuerza,\xfffePIDGEOT crea corrientes de aire\xfffecapaces de doblar grandes árboles.
+Aleteando con toda su fuerza,\xfffePidgeot crea corrientes de aire\xfffecapaces de doblar grandes árboles.
 Su capacidad de adaptación le\xfffepermite vivir en cualquier lugar.\xfffeEs tremendamente cauteloso.
 Lima sus colmillos royendo objetos\xfffeduros. Con ellos puede destruir\xfffeincluso paredes de hormigón.
 Agita continuamente sus alitas\xfffepara volar. Busca presas entre\xfffela hierba con su pico.
 Tiene energía para volar todo el\xfffedía con sus grandes alas. Lucha\xfffecon su afilado pico.
 Se mueve por la hierba en silencio\xfffey sorprende a sus presas atacando\xfffepor detrás.
-ARBOK intimida a sus presas con el\xfffedibujo de su panza y luego las\xfffeasfixia con su cuerpo.
-A veces utiliza la electricidad de\xfffesus mejillas para recargar a un\xfffePIKACHU amigo que esté débil.
+Arbok intimida a sus presas con el\xfffedibujo de su panza y luego las\xfffeasfixia con su cuerpo.
+A veces utiliza la electricidad de\xfffesus mejillas para recargar a un\xfffePikachu amigo que esté débil.
 Su cola descarga electricidad al\xfffesuelo y eso le protege de los\xfffecalambrazos.
 Vive en zonas áridas donde casi\xfffeno llueve. Se enrosca formando\xfffeuna bola para defenderse.
 Se hace una bola y se lanza\xffferodando hacia los enemigos para\xfffeclavarles sus afiladas púas.
 Aunque no le gusta luchar, una\xfffesola gota del veneno de sus púas\xfffepuede resultar fatal.
-Saca las púas de su cuerpo si\xfffesiente peligro. Sus púas crecen\xfffemás despacio que las de NIDORINO.
+Saca las púas de su cuerpo si\xfffesiente peligro. Sus púas crecen\xfffemás despacio que las de Nidorino.
 Tiene el cuerpo cubierto de duras\xfffeescamas. Protege a su cría con\xfffetoda su fuerza.
 Saca las orejas por encima de la\xfffehierba para explorar el territorio.\xfffeLe protege su cuerno venenoso.
 Se muestra violento y ataca\xfffea los enemigos con un cuerno\xfffeque desprende veneno.
 Un golpe de su poderosa cola\xfffepuede partir un poste de teléfono\xfffecomo si fuese una cerilla.
-Se dice que la felicidad llegará a\xfffequien vea a un grupo de CLEFAIRY\xfffebailando a la luz de la luna llena.
+Se dice que la felicidad llegará a\xfffequien vea a un grupo de Clefairy\xfffebailando a la luz de la luna llena.
 Es muy prudente y rara vez se deja\xfffever. Su oído es tan fino que puede\xfffeoír caer una aguja a 1 km.
 Controla bolas de fuego. A medida\xfffeque crece, sus seis colas se\xfffemultiplican.
 Se dice que sus nueve colas están\xffferevestidas de poder místico.\xfffePuede vivir mil años.
@@ -44,8 +44,8 @@ Sus afilados colmillos atraviesan\xfffelas pieles más duras y tienen\xfffeorifi
 Suele plantarse en el suelo\xfffedurante el día. Por la noche se\xfffedesplaza esparciendo semillas.
 La miel que emana de su boca\xfffeposee un hedor capaz de derribar\xfffeenemigos a 2 km de distancia.
 Sus pétalos son los más grandes\xfffedel mundo. Cuando anda desprende\xfffeun terrible polen alergénico.
-En el lomo de PARAS crecen\xfffeunas setas parasitarias llamadas\xfffetochukaso.
-PARASECT está dominado por un\xfffehongo parásito mayor que él.\xfffeDispersa esporas venenosas.
+En el lomo de Paras crecen\xfffeunas setas parasitarias llamadas\xfffetochukaso.
+Parasect está dominado por un\xfffehongo parásito mayor que él.\xfffeDispersa esporas venenosas.
 Sus grandes ojos son en realidad\xfffegrupos de ojos diminutos. Por la\xfffenoche se siente atraído por la luz.
 Agita las alas para dispersar\xfffeun polvillo de escamas que\xfffelibera toxinas si toca la piel.
 Este Pokémon vive a oscuras\xfffebajo tierra, por lo que la luz solar\xfffele espanta.
@@ -64,7 +64,7 @@ Tiene músculos muy desarrollados.\xfffeEs capaz de nadar en el océano\xfffesin
 Sus poderes psíquicos causan un\xfffedesgaste tan grande para su mente\xfffeque precisa dormir 18 horas al día.
 Mira su cuchara de plata fijamente\xfffepara concentrarse. Mientras lo\xfffehace, emite más ondas alfa.
 Se dice que creó las cucharas que\xfffelleva en las manos con sus poderes\xfffepsíquicos.
-No alcanza mucha altura, pero tiene\xfffefuerza suficiente para levantar y\xfffederribar a varios GEODUDE a la vez.
+No alcanza mucha altura, pero tiene\xfffefuerza suficiente para levantar y\xfffederribar a varios Geodude a la vez.
 Levanta pesos descomunales para\xfffemantenerse en forma y usa su\xfffefuerza para ayudar a las personas.
 Tiene cuatro musculosos brazos con\xfffelos que golpea y destroza al\xfffeenemigo a una velocidad increíble.
 Prefiere los lugares cálidos y\xfffehúmedos. Captura presas con sus \xffferápidas lianas.
@@ -78,12 +78,12 @@ Ni siquiera la dinamita puede dañar\xfffesu cuerpo rocoso. Muda la piel una\xff
 Cuando nace, apenas puede tenerse\xfffeen pie. Pero va fortaleciendo las\xfffepatas en cuanto empieza a galopar.
 Cuando galopa, su ardiente crin\xfffecentellea y le da un aspecto aún\xfffemás impresionante.
 A pesar de su lentitud, tiene una\xfffegran habilidad para pescar con la\xfffecola, que es insensible al dolor.
-Normalmente se muestra torpe,\xfffeaunque espabila si el SHELLDER de\xfffesu cola le muerde.
+Normalmente se muestra torpe,\xfffeaunque espabila si el Shellder de\xfffesu cola le muerde.
 Cuanto más rápido rotan las\xfffeunidades laterales, mayor fuerza\xfffemagnética generan.
 Surgen cuando aparecen manchas\xfffeen el sol. Los televisores no\xfffefuncionan bien en su presencia.
 No puede vivir sin el palo que lleva.\xfffePor eso lo protege de sus\xfffeatacantes con todas sus fuerzas.
 Parece que los cerebros de sus\xfffedos cabezas se comunican por\xfffetelepatía.
-Cuando un DODUO evoluciona, una de\xfffesus cabezas se divide en dos.\xfffeCorre a unos 60 km por hora.
+Cuando un Doduo evoluciona, una de\xfffesus cabezas se divide en dos.\xfffeCorre a unos 60 km por hora.
 Este Pokémon vive en icebergs.\xfffeNada en el mar y usa el cuerno de\xfffesu cabeza para romper el hielo.
 Está cubierto de un luminoso\xfffepelaje blanco que lo camufla\xfffeen la nieve.
 Emergió del lodo que se formó en\xfffeagua contaminada expuesta a los\xffferayos X lunares. Vive en la basura.
@@ -92,7 +92,7 @@ Nada hacia atrás abriendo y\xfffecerrando su concha. Su gran\xfffelengua siempr
 En la lucha se protege cerrando\xfffesu concha y lanzando pinchos\xfffea sus oponentes.
 Nació a partir de gases venenosos\xfffeque asfixiarían a cualquiera que\xfffese viera envuelto en ellos.
 Le gusta acechar en la oscuridad y\xfffetocar el hombro a sus víctimas, que\xfffese quedan temblando para siempre.
-Esa mirada fija que flota en la\xfffeoscuridad es de algún GENGAR que\xfffedisfruta maldiciendo a la gente.
+Esa mirada fija que flota en la\xfffeoscuridad es de algún Gengar que\xfffedisfruta maldiciendo a la gente.
 Se desplaza excavando en la tierra\xfffea 80 km por hora a la vez que\xfffese alimenta de rocas.
 Puede oler los sueños de la\xfffegente con su gran nariz. Le\xfffeencantan los sueños divertidos.
 Mirar su péndulo puede inducir al\xfffesueño en tres segundos, incluso\xfffesi acabas de despertarte.
@@ -101,7 +101,7 @@ La pinza mayor tiene 10000\xfffecaballos de potencia, pero es tan\xfffegrande qu
 Parece una Poké Ball. Es muy\xfffepeligroso, ya que puede lanzar\xfffedescargas o explotar si se toca.
 Se lo lleva el viento si se hincha\xfffecon la electricidad que almacena.
 Estos seis huevos se comunican por\xfffetelepatía. Si se separan se pueden\xfffereunir rápidamente.
-Se le llama la “selva andante".\xfffeSi una cabeza crece demasiado,\xfffese cae y forma un EXEGGCUTE.
+Se le llama la “selva andante".\xfffeSi una cabeza crece demasiado,\xfffese cae y forma un Exeggcute.
 Llora cuando se acuerda de su\xfffemadre fallecida. Cuando lo hace,\xfffesus llantos resuenan en su cráneo.
 Este Pokémon salvaje maneja\xfffehuesos constantemente desde su\xfffenacimiento y los usa como armas.
 Sus piernas se extienden hasta\xfffedoblar su longitud para sorprender\xfffea enemigos desprevenidos.
@@ -148,7 +148,7 @@ Uno de los legendarios Pokémon\xfffepájaro. Dicen que su presencia\xfffeanunci
 Se le llama el “Pokémon espejismo"\xfffeporque son muy pocos los que lo\xfffehan visto. Se encontró su muda.
 Si su cuerpo está rodeado de un\xfffeaura, el tiempo cambia de repente.\xfffeSe dice que vive en mares y lagos.
 Se dice que vive en algún lugar\xfffedel mar. Guía a las tripulaciones\xfffede los barcos hundidos a la costa.
-Pokémon creado por recombinación\xfffegenética de MEW. Se dice que es el\xfffemás salvaje de los Pokémon.
+Pokémon creado por recombinación\xfffegenética de Mew. Se dice que es el\xfffemás salvaje de los Pokémon.
 Varios científicos lo consideran el\xfffeantecesor de los Pokémon porque\xfffeusa todo tipo de movimientos. 
 Con la hoja de su cabeza puede\xfffemedir la temperatura y la humedad.\xfffeLe encanta tomar el sol.
 Su cuello desprende un dulce\xfffearoma que anima a quien lo\xfffehuele.
@@ -169,7 +169,7 @@ Pone trampas tejiendo una red\xfffede seda fina y resistente y luego\xfffeespera
 Pega hilos de seda a sus presas y\xfffelas libera para seguirlas más tarde\xfffey localizar también a sus amigos.
 La transformación de sus patas\xfffetraseras en alas mejoró su vuelo,\xfffepero anda muy mal.
 Libera cargas eléctricas positivas\xfffey negativas con sus antenas para\xfffeaturdir a sus enemigos.
-La luz de LANTURN se puede ver\xfffedesde lo más profundo. Se le\xfffellama la “estrella de alta mar".
+La luz de Lanturn se puede ver\xfffedesde lo más profundo. Se le\xfffellama la “estrella de alta mar".
 Las bolsas de electricidad de sus\xfffemejillas son muy pequeñas. La mínima\xfffefuga le provoca una descarga.
 Se le suele ver cuando el cielo se\xfffellena de estrellas fugaces. Se dice\xfffeque llega montado en una de ellas.
 Su cuerpo es suave y está\xfffehinchado. Cuando empieza a\xfffebotar, no puede parar.
@@ -184,8 +184,8 @@ Cuando acaba la estación de las\xfffelluvias, sale al sol e inicia una\xfffepec
 No se ahoga ni en las corrientes\xfffemás fuertes porque la punta de su\xfffecola está llena de aceite y flota.
 Puede pasarse todo el día en el\xfffeagua porque puede tragar y\xfffealmacenar un gran volumen de aire.
 Para evitar que le ataquen se limita\xfffea imitar un árbol. Odia el agua y\xfffehuye de la lluvia.
-Agrupa a otros Pokémon para\xfffeliderarlos. Los POLIWAG obedecen\xfffesu voz.
-Flotan en el aire. Se dice que\xfffecuando los HOPPIP se reúnen, es\xfffeque la primavera está al caer.
+Agrupa a otros Pokémon para\xfffeliderarlos. Los Poliwag obedecen\xfffesu voz.
+Flotan en el aire. Se dice que\xfffecuando los Hoppip se reúnen, es\xfffeque la primavera está al caer.
 Florece en épocas cálidas. Flota\xfffeen el aire para absorber toda la\xfffeluz solar que puede.
 Los vientos estacionales lo llevan\xfffepor todo el mundo, donde suelta\xfffesus esporas para reproducirse.
 Vive en las copas de los árboles.\xfffePuede usar su cola como si fuera\xfffeuna mano más.
@@ -197,7 +197,7 @@ Es de naturaleza sencilla. Cuando\xfffenada se choca de cabeza contra\xfffebarco
 Su pelaje es tan sensible que puede\xfffepercibir cualquier cambio en el aire\xfffey predecir el tiempo.
 Si se expone al aura de la luna,\xfffelos anillos de su cuerpo relucen y\xfffeadquiere un poder misterioso.
 Si algún incauto logra detectarlo,\xfffese verá abocado a perseguirlo\xfffehasta perderse en las montañas.
-Al ser mordido por un SHELLDER\xfffedesarrolló una inteligencia propia\xfffede un ganador del premio Nobel.
+Al ser mordido por un Shellder\xfffedesarrolló una inteligencia propia\xfffede un ganador del premio Nobel.
 Sorprende a la gente en mitad de\xfffela noche y acumula su miedo como\xfffeenergía.
 Si están en solitario no pasa nada,\xfffepero si se juntan dos o más, se\xfffedice que surge un extraño poder.
 Siempre intenta ocultar su cola,\xfffepor lo que muchos creen que\xfffecontiene un secreto.
@@ -224,7 +224,7 @@ Muchos viven en los cristalinos\xfffemares del sur. Son incapaces de\xfffevivir 
 Escupe potentes chorros de agua\xfffeque siempre dan en el blanco,\xfffeincluso en la profundidad del mar.
 Le gusta acechar desde agujeros\xfffeen las rocas. Escupe tinta a sus\xfffepresas asomando solo la boca.
 Lleva alimentos en su saco. Le\xfffegusta compartir su comida con\xfffelos montañistas perdidos.
-Nada con gran elegancia e ignora a\xfffelos REMORAID que se aferran a sus\xfffealetas buscando restos de comida.
+Nada con gran elegancia e ignora a\xfffelos Remoraid que se aferran a sus\xfffealetas buscando restos de comida.
 Una armadura de hierro cubre por\xfffecompleto su cuerpo. Vuela a más\xfffede 300 km por hora.
 Tiene suficiente inteligencia para\xfffecazar en manada. Se comunica con\xfffelos demás a través de gritos.
 Las llamas que respira cuando se\xfffeenfada contienen toxinas. Si causan\xfffeuna quemadura, dolerá toda la vida.
@@ -239,7 +239,7 @@ Gira a gran velocidad al luchar.\xfffeLa fuerza centrífuga multiplica su\xfffep
 Analiza todo tocándolo con los\xfffelabios. Así puede recordar las\xfffecosas que le gustan y disgustan.
 Entre sus cuernos pasa una débil\xfffecorriente eléctrica. Quien ponga\xfffeahí la mano se dará un calambrazo.
 Su sangre es como magma y su\xfffetemperatura corporal puede\xfffealcanzar los 600 grados.
-Se dice que si un niño bebe leche\xfffede MILTANK crecerá y se convertirá\xfffeen un adulto sano y campechano.
+Se dice que si un niño bebe leche\xfffede Miltank crecerá y se convertirá\xfffeen un adulto sano y campechano.
 Los huevos que pone están llenos\xfffede felicidad. Solo con probar un\xfffepoquito de uno, cualquiera sonríe.
 Dicen que apareció con un\xffferelámpago. Puede lanzar rayos\xfffedesde las nubes de su lomo.
 Se dice que, cuando ruge, un\xfffevolcán entra en erupción en algún\xfffepunto del globo.
@@ -311,8 +311,8 @@ Estimula sus músculos y aumenta\xfffesus reflejos con la electricidad\xfffeque 
 Descarga electricidad desde su\xfffemelena. Crea nubarrones desde\xfffelos que lanza rayos.
 Anima a sus compañeros con\xfffepompones de chispas. Roba\xfffeenergía de los postes telefónicos.
 Le gusta animar a sus amigos. Si\xfffepierden, su cuerpo suelta cada vez\xfffemás chispas.
-Se comunica con otros iluminando\xfffesu cola por la noche. Le encanta el\xfffesuave aroma de ILLUMISE.
-Su suave aroma guía a VOLBEAT\xfffepara que haga señales luminosas\xfffeen el cielo nocturno.
+Se comunica con otros iluminando\xfffesu cola por la noche. Le encanta el\xfffesuave aroma de Illumise.
+Su suave aroma guía a Volbeat\xfffepara que haga señales luminosas\xfffeen el cielo nocturno.
 Si goza de mejor salud, el aroma\xfffede sus flores será más agradable.\xfffeEs un aroma que relaja a la gente.
 Casi todo su cuerpo es estómago.\xfffeSus potentes jugos gástricos\xfffedisuelven rápido cualquier cosa.
 Se traga cualquier cosa de una\xfffepieza. Sus poros segregan fluidos\xfffetóxicos que dañan a sus enemigos.
@@ -325,7 +325,7 @@ Tiene volcanes en el lomo. Si el\xfffemagma se acumula en su cuerpo,\xfffese sac
 Quema carbón en su caparazón\xfffepara obtener energía. Si le atacan,\xfffeecha un denso humo negro.
 Bota continuamente usando su\xfffecola como muelle. Salta para\xfffemantener el latido de su corazón.
 Usa perlas negras para potenciar\xfffesus poderes psíquicos. Con su\xffferaro baile controla a los rivales.
-No hay dos SPINDA que tengan\xfffeidénticos pelajes. Su tambaleo\xfffeal bailar confunde a los rivales.
+No hay dos Spinda que tengan\xfffeidénticos pelajes. Su tambaleo\xfffeal bailar confunde a los rivales.
 Cava fosas cóncavas en el desierto\xfffey espera en el fondo a que las\xfffepresas caigan en ellas.
 Agita violentamente sus alas para\xfffecrear ondas ultrasónicas que\xfffeprovocan dolores de cabeza.
 Levanta tormentas de arena con\xfffesus alas. Se le conoce como el\xfffe“alma del desierto".
@@ -333,8 +333,8 @@ Habita en el desierto. Aguanta\xfffetreinta días sin agua gracias a la\xfffeque
 Es un Pokémon nocturno. Busca\xfffepresas agotadas por el calor\xfffediurno del desierto.
 Si su cuerpo o su entorno no están\xfffelimpios, no puede relajarse. Utiliza\xfffesus alas para limpiar la suciedad.
 Si establece un vínculo con una\xfffepersona, la envuelve con sus alas\xfffey le canta en susurros.
-Hace muchos años que se\xfffeenfrenta a SEVIPER. Su arma más\xfffeeficaz son sus zarpas afiladas.
-Se ha enfrentado durante muchos\xfffeaños a ZANGOOSE. Usa rocas para\xfffemantener afilada su cola.
+Hace muchos años que se\xfffeenfrenta a Seviper. Su arma más\xfffeeficaz son sus zarpas afiladas.
+Se ha enfrentado durante muchos\xfffeaños a Zangoose. Usa rocas para\xfffemantener afilada su cola.
 Se piensa que está muy influido\xfffepor las fases lunares, ya que solo\xfffeactúa en noches de luna llena.
 Una nueva especie de Pokémon\xfffeque se rumorea procede del Sol.\xfffeEmite luz al girar.
 Su escurridizo cuerpo es difícil de\xfffeagarrar. En cierta región se dice\xfffeque ha nacido de barro endurecido.
@@ -373,21 +373,21 @@ Sueña con volar algún día,\xfffepor lo que siempre practica\xfffesaltando des
 Las células han empezado a cambiar\xfffedentro de su dura concha, que se\xfffesepara cuando evoluciona.
 Siempre soñó con volar, por lo\xfffeque su estructura celular cambió\xfffey le crecieron alas.
 Se comunican mediante pulsos\xfffemagnéticos. Cuando van en\xfffegrupos, se mueven al unísono.
-Lo forman dos BELDUM unidos. Puede\xfffechocarse con un avión sin que su\xfffecuerpo de acero sufra ni rasguño.
-Está formado por varios METANG.\xfffeCon cuatro cerebros, tiene la\xfffeinteligencia de un superordenador.
+Lo forman dos Beldum unidos. Puede\xfffechocarse con un avión sin que su\xfffecuerpo de acero sufra ni rasguño.
+Está formado por varios Metang.\xfffeCon cuatro cerebros, tiene la\xfffeinteligencia de un superordenador.
 Su cuerpo está hecho de roca.\xfffeSi se astilla durante el combate,\xfffeemplea piedras para repararlo.
 Su cuerpo está hecho con hielo\xfffede la glaciación. Controla aire\xfffegélido a 200 grados bajo cero.
 Su cuerpo ha estado sometido a la\xfffepresión subterránea durante miles\xfffede años y no puede arañarse.
 Su cuerpo está cubierto de un\xfffeplumón que refleja la luz de\xfffeforma que se vuelve invisible.
 Es un Pokémon muy inteligente.\xfffePuede adelantar a aviones a\xfffereacción plegando las alas.
 Se dice que aumentó el nivel del\xfffemar a base de aguaceros. Ha estado\xfffedurmiendo en una fosa marina.
-Ha estado durmiendo en magma\xfffesubterráneo desde que luchó\xfffecontra KYOGRE en tiempos remotos.
+Ha estado durmiendo en magma\xfffesubterráneo desde que luchó\xfffecontra Kyogre en tiempos remotos.
 Vive en la capa de ozono sobre\xfffelas nubes y no puede ser visto\xfffedesde el suelo.
 Se dice que puede otorgar\xfffecualquier deseo durante una\xfffesemana cada mil años.
-Surgió a raíz de la mutación de\xfffeADN de un virus alienígena que\xfffecayó a la Tierra en un meteorito.
-La concha de su espalda es de\xfffetierra. Si está sano, la concha de\xfffeTURTWIG debería estar húmeda.
+Surgió a raíz de la mutación de\xfffeAdn de un virus alienígena que\xfffecayó a la Tierra en un meteorito.
+La concha de su espalda es de\xfffetierra. Si está sano, la concha de\xfffeTurtwig debería estar húmeda.
 Sabe dónde encontrar manantiales\xfffede agua pura y lleva a los Pokémon\xfffeamigos hasta allí en su lomo.
-Algunos Pokémon nacen en la\xfffeespalda de un TORTERRA y pasan\xfffeallí toda su vida.
+Algunos Pokémon nacen en la\xfffeespalda de un Torterra y pasan\xfffeallí toda su vida.
 Es muy ágil. Antes de dormir apaga\xfffela llama de su cola para no\xfffeprovocar un incendio.
 Controla hábilmente la intensidad\xfffedel fuego de su cola para mantener\xfffeal enemigo a una distancia ideal.
 Utiliza movimientos de combate\xfffeúnicos con fuego en manos y pies.\xfffeSe enfrenta a cualquier enemigo.
@@ -397,8 +397,8 @@ Si alguien hiere su orgullo, le\xfffedesgarra con unas alas que podrían\xfffeco
 Son débiles individualmente, por eso\xfffeforman grupos. Pero si el grupo\xfffecrece demasiado, se pelean.
 Son conscientes de su debilidad, así\xfffeque siempre viven en grupo. Si se\xfffeencuentran solos, lloran a gritos.
 Jamás deja de atacar, aunque le\xfffehayan herido. Le preocupa mucho\xfffela forma de su cresta.
-Un estudio comparativo reveló que\xfffelos incisivos de BIDOOF crecen a la\xfffemisma velocidad que los de RATTATA.
-Un río en el que un BIBAREL cree\xfffeuna presa jamás se desbordará.\xfffePor esa razón la gente los aprecia.
+Un estudio comparativo reveló que\xfffelos incisivos de Bidoof crecen a la\xfffemisma velocidad que los de Rattata.
+Un río en el que un Bibarel cree\xfffeuna presa jamás se desbordará.\xfffePor esa razón la gente los aprecia.
 Tiene las patas cortas. Cada vez\xfffeque se tropieza, sus antenas\xfffechocan y suenan como un xilófono.
 Hay un pueblo en el que celebran un\xfffeconcurso basado en la increíble\xfffevariedad de sus gritos.
 La extensión y contracción de sus\xfffemúsculos genera electricidad.\xfffeBrilla cuando está en peligro.
@@ -412,13 +412,13 @@ Gracias a su imponente protección\xfffefacial, puede comer hierba y bayas\xfffe
 Se alineaban y creaban una barrera\xfffeque ningún enemigo podía cruzar.\xfffeAsí protegían a sus crías.
 Aunque nazca en un lugar en el que\xfffeno haya muchos materiales, siempre\xfffeconsigue crearse un caparazón.
 Cuando evoluciona incorpora a su\xfffecuerpo los materiales del entorno.\xfffePor eso hay muchas variantes.
-Le gusta la miel de flores, pero no\xfffele gusta recogerla. Se dedica a\xffferobársela a COMBEE.
-El trío se forma al nacer y se pasa\xfffela vida recogiendo miel de las flores\xfffepara satisfacer a VESPIQUEN.
+Le gusta la miel de flores, pero no\xfffele gusta recogerla. Se dedica a\xffferobársela a Combee.
+El trío se forma al nacer y se pasa\xfffela vida recogiendo miel de las flores\xfffepara satisfacer a Vespiquen.
 Libera feromonas para hacer que\xfffelas larvas de su panal hagan lo\xfffeque diga cuando combate.
 A veces se ve a dos frotándose las\xfffebolsas de las mejillas para\xfffecompartir electricidad almacenada.
 Para impulsarse por el agua gira\xfffesus dos colas como una hélice. Así\xfffetambién corta las algas del camino.
 Se le ve en los puertos pesqueros,\xfffeayudando a rescatar a personas o\xfffetrasladando presas.
-Esta pequeña esfera está llena de\xfffenutrientes y está tan rica que los\xfffeSTARLY siempre intentan comérsela.
+Esta pequeña esfera está llena de\xfffenutrientes y está tan rica que los\xfffeStarly siempre intentan comérsela.
 Cuando detecta luz solar fuerte,\xfffedespliega los pétalos y absorbe\xfffetodos los rayos posibles.
 No hay que apretarle muy fuerte,\xfffeya que si lo haces, secreta un\xfffemisterioso fluido morado.
 Hace mucho tiempo tenía todo el\xfffelomo cubierto con una concha. Aún\xfffehay trazas de ella en sus células.
@@ -455,8 +455,8 @@ Rara vez combate limpio, pero es\xfffepara asegurar su supervivencia.\xfffeEs mu
 Almacena veneno en una bolsa de la\xfffegarganta. Cuando croa, este se\xfffeagita para lograr mayor potencia.
 Se cuelga de los árboles en los\xfffepantanos. Atrae a sus presas con\xfffesu dulce olor y las engulle.
 La línea que le recorre el costado\xfffepuede almacenar luz solar. Brilla\xfffecon mucha fuerza por la noche.
-Se arrastra por el fondo marino\xfffecon sus largas aletas frontales.\xfffeCompite con LANTURN por la comida.
-La gente organiza excursiones para\xfffever a este Pokémon retozando por\xfffelas olas con REMORAID.
+Se arrastra por el fondo marino\xfffecon sus largas aletas frontales.\xfffeCompite con Lanturn por la comida.
+La gente organiza excursiones para\xfffever a este Pokémon retozando por\xfffelas olas con Remoraid.
 Siente mucha curiosidad por los\xfffehumanos. Si uno encuentra huellas\xfffeen la nieve, acuden todos a mirar.
 Aparece con las flores de nieve y\xfffese retira cuando se les caen los\xfffepétalos. No se sabe adónde va.
 Su carácter se volvió aún más vil\xfffecon la evolución. Se comunica\xfffemarcando rocas con sus garras.
