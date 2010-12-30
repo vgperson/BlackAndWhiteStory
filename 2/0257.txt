@@ -511,12 +511,12 @@ Ill-Natured Pokémon
 Ruthless Pokémon
 Grass Monkey Pokémon
 Thorn Monkey Pokémon
-High Temp Pokémon
-Sparks Pokémon
+High-Temp Pokémon
+Sparking Pokémon
 Water Splash Pokémon
 Water Pour Pokémon
 Dream Eater Pokémon
-Trance Pokémon
+Half-Asleep Pokémon
 Tiny Pigeon Pokémon
 Pigeon Pokémon
 Pride Pokémon
@@ -546,9 +546,9 @@ Cocooned Pokémon
 Megapede Pokémon
 Cotton Ball Pokémon
 Wind Rider Pokémon
-Stump Pokémon
+Root Pokémon
 Floral Pokémon
-Violent Pokémon
+Violence Pokémon
 Desert Croc Pokémon
 Desert Croc Pokémon
 Menace Pokémon
@@ -564,8 +564,8 @@ Spirit Pokémon
 Coffin Pokémon
 Relic Turtle Pokémon
 Relic Turtle Pokémon
-Old Bird Pokémon
-Old Bird Pokémon
+Elder Bird Pokémon
+Elder Bird Pokémon
 Garbage Bag Pokémon
 Garbage Dump Pokémon
 Tricky Fox Pokémon
