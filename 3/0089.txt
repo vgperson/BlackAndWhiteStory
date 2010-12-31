@@ -1,12 +1,12 @@
-リトルコートでは ただいま\xfffeテニスの しあいちゅう です！
-ただいま リトルコートでは\xfffeテニスの せんしゅ たちが\xf000븀\x0000れんしゅうを しています！\xf000븁\x0000いっぱんの かたがたも\xfffeけんがく できるんですよ！
-リトルコートでは ただいま\xfffeバスケットの しあいちゅう です！
-ただいま リトルコートでは\xfffeバスケットの せんしゅ たちが\xf000븀\x0000れんしゅうを しています！\xf000븁\x0000いっぱんの かたがたも\xfffeけんがく できるんですよ！
-ぼくたちは スポーツだいすき でね\xfffeしあい だけでなく\xf000븀\x0000\xfffeれんしゅうも けんがく しているのさ
-ひとと ポケモンとが おりなす\xfffeあたらしい かたちの\xf000븀\x0000\xfffeバスケや テニス……\xf000븀\x0000\xfffeこれって スポーツの しんかけいかも
-れんしゅうちゅうの せんしゅに\xfffeはなしかけると ポケモンしょうぶを\xf000븀\x0000いどまれることも あるぞ！
-いちりゅうの テニスプレイヤーが\xfffeポケモンと いっしょに\xf000븀\x0000コートで まってるわよ！
-いちりゅうの バスケせんしゅが\xfffeポケモンと いっしょに\xf000븀\x0000コートで キミを まってる！
-もうしわけ ございません\xf000븁\x0000ただいま しあいを していますので\xfffeコートに はいることは できません
-もうしわけ ございません\xf000븁\x0000ただいま しあいを していますので\xfffeコートに はいることは できません
-もうしわけ ございません\xf000븁\x0000ただいま しあいを していますので\xfffeコートに はいることは できません
+﻿There's a tennis game being\xfffeplayed on the Little Court now!
+The tennis players are practicing\xfffeon the Little Court now!\xf000븁\x0000Even the general public is\xfffeallowed to go see them!
+There's a basketball game being\xfffeplayed on the Little Court now!
+The basketball players are practicing\xfffeon the Little Court now!\xf000븁\x0000Even the general public is\xfffeallowed to go see them!
+We love sports!\xfffeAnd not just the games!\xf000븀\x0000\xfffeWe watch the players practice, too!
+New forms of basketball and tennis\xfffethat incorporate Pokémon, too...\xf000븀\x0000\xfffeIt could be a sporting revolution!
+Some of the practicing players may\xfffechallenge you to a Pokémon battle\xf000븀\x0000if you talk to them!
+Some top-class tennis players\xfffeare waiting on the Court\xf000븀\x0000with their Pokémon!
+Some top-class basketball players\xfffeare awaiting you on the Court\xf000븀\x0000with their Pokémon!
+We apologize, but...\xf000븁\x0000There's a game taking place,\xfffeso entry onto the Court is prohibited.
+We apologize, but...\xf000븁\x0000There's a game taking place,\xfffeso entry onto the Court is prohibited.
+We apologize, but...\xf000븁\x0000There's a game taking place,\xfffeso entry onto the Court is prohibited.
