@@ -7,7 +7,7 @@ PP
 \xf000Ȃ\x0001\x0000
 /
 \xf000ȁ\x0001\x0000
-Saving your game! \xfffePlease wait!
+Saving your game!\xfffePlease wait!
 Save file is corrupted.\xfffeThe previous save file will be loaded.
 Skipping!\xfffePlease wait!
 Paused...\xfffePlease wait!
