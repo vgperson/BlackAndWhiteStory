@@ -72,7 +72,7 @@ Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
 Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
 Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
-Hint!\xfffeTurn up the volume, and...\xf000븀\x0000you just might hear it!\xf000븁\x0000
+Hint!\xfffe...Hm, ah, dunno...\xf000븀\x0000But my, what good ears it has!\xf000븁\x0000
 Hint!\xfffeIt's a ghost type!\xf000븁\x0000
 Hint!\xfffeIt's got a big heart!\xf000븁\x0000
 Hint!\xfffeIt's not a snowman!\xf000븁\x0000
