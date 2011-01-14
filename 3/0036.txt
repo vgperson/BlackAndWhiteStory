@@ -16,8 +16,8 @@ Arty: ...It seems battling is the\xfffeonly way we're getting in.
 Grunt: This is bad...\xf000븁\x0000This is awful, terrible,\xfffeworst, worst, worst!\xf000븁\x0000Team Plasma's been smashed again!\xfffePlasmashed, you could say!\xf000븁\x0000We'll have to report back\xfffeto the Sage for now...!\xf000븁\x0000
 Iris: ...Whew, I got lost.\xf000븁\x0000Even trying to work out directions over\xfffeLive Caster, it's all moonspeak to me!\xf000븁\x0000
 Arty: Team Plasma is right here.\xf000븁\x0000So maybe the Pokémon\xfffethey stole will be, too!\xf000븀\x0000Okay, I'm going in!\xf000븁\x0000
-Iris: Alrighty!\xfffeI'm fighting too this time!\xf000븀\x0000Hey, and missy Belle, too!\xf000븁\x0000
-Belle: H-Hold up, though...\xf000븁\x0000\xf000Ā\x0001\x0000, you need to come too!\xf000븁\x0000
+Iris: Alrighty!\xfffeI'm fighting too this time!\xf000븀\x0000Hey, and missy Bianca, too!\xf000븁\x0000
+Bianca: H-Hold up, though...\xf000븁\x0000\xf000Ā\x0001\x0000, you need to come too!\xf000븁\x0000
 The Live Caster is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
 What the gym leader is looking for is\xfffea bond between the challenger and\xf000븀\x0000their Pokémon... a definite relationship!

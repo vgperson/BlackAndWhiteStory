@@ -1,14 +1,14 @@
 ﻿Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000I heard from Professor Juniper...\xfffeSo did you get the Pokémon?\xf000븁\x0000
-... ... ...\xfffe... ... ...\xf000븁\x0000And Belle's her usual...?\xf000븁\x0000
-Belle: Uhhh, I'm so sorry!\xfffeI know, I'm late again...\xf000븁\x0000
-Cheren: Hey, Belle!\xf000븁\x0000I've known you were a slowpoke\xfffefor ten years now, but sheesh...\xf000븁\x0000Today's the day you get your Pokémon\xfffefrom Professor Juniper, remember?\xf000븁\x0000
-Belle: Okay, I said I'm sorry!\xfffeSorry, \xf000Ā\x0001\x0000, Cheren...\xf000븁\x0000
-Belle: So, where are the Pokémon?\xf000븁\x0000Since they were sent to \xf000Ā\x0001\x0000's house,\xfffeI'd say \xf000Ā\x0001\x0000 gets to choose first.\xf000븁\x0000
+... ... ...\xfffe... ... ...\xf000븁\x0000And Bianca's her usual...?\xf000븁\x0000
+Bianca: Uhhh, I'm so sorry!\xfffeI know, I'm late again...\xf000븁\x0000
+Cheren: Hey, Bianca!\xf000븁\x0000I've known you were a slowpoke\xfffefor ten years now, but sheesh...\xf000븁\x0000Today's the day you get your Pokémon\xfffefrom Professor Juniper, remember?\xf000븁\x0000
+Bianca: Okay, I said I'm sorry!\xfffeSorry, \xf000Ā\x0001\x0000, Cheren...\xf000븁\x0000
+Bianca: So, where are the Pokémon?\xf000븁\x0000Since they were sent to \xf000Ā\x0001\x0000's house,\xfffeI'd say \xf000Ā\x0001\x0000 gets to choose first.\xf000븁\x0000
 Cheren: Well, of course.\xf000븁\x0000
 Our Pokémon await us inside that box...\xf000븁\x0000Well, \xf000Ā\x0001\x0000?\xfffeTake the first step and check it out!\xf000븀\x0000Hurry, we want to meet our Pokémon!
 Cheren: Where are you going?\xfffeAren't you going to open the box first?\xf000븁\x0000
 Cheren: Won't you open the box, already?\xf000븁\x0000I'm sure the Pokémon are\xfffedying to meet us, too!
-Belle: Heyyy, what kind of Pokémon\xfffedo you think they are...?
+Bianca: Heyyy, what kind of Pokémon\xfffedo you think they are...?
 \xf000Ā\x0001\x0000 opened up\xfffethe present box!\xf000븁\x0000
 ...I've delivered three Pokémon\xfffealong with this letter.\xfffeYou and your friends\xfffeshould get together and\xfffechoose among yourselves.\xfffeWell, my regards!\xfffe　　　　　　　　　　　　　　　- Juniper
 Fire-Type Pokémon\xfffe"\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000" is inside.\xf000븁\x0000Choose this Pokémon?
@@ -23,39 +23,39 @@ I choose this!
 Yes
 No
 \xf000Ā\x0001\x0000 obtained \xfffe\xf000ā\x0001\x0001!
-Belle: Well!\xfffeI choose this Pokémon!\xf000븀\x0000And Cheren gets that one!\xf000븁\x0000
+Bianca: Well!\xfffeI choose this Pokémon!\xf000븀\x0000And Cheren gets that one!\xf000븁\x0000
 Cheren: And why are YOU\xfffechoosing my Pokémon...?\xf000븁\x0000Well, not like I didn't want\xfffe\xf000ā\x0001\x0001 from the start anyway.\xf000븁\x0000
-Belle: Everyone's chosen\xfffetheir own Pokémon!\xf000븀\x0000...Which means...\xf000븁\x0000Heyyy!\xfffeLet's have a Pokémon battle!\xf000븁\x0000
-Cheren: ...Uh, Belle?\xfffeOur Pokémon are still weak.\xf000븁\x0000And there's no sense in\xfffea Pokémon battle indoors!\xf000븁\x0000
-Belle: Gosh, it's fiiiiine!\xfffeLike you said, still weak, right?\xf000븁\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Thus and thus... \xf000Ā\x0001\x0000!\xfffeLet's start out with a Pokémon battle!\xf000븁\x0000
+Bianca: Everyone's chosen\xfffetheir own Pokémon!\xf000븀\x0000...Which means...\xf000븁\x0000Heyyy!\xfffeLet's have a Pokémon battle!\xf000븁\x0000
+Cheren: ...Uh, Bianca?\xfffeOur Pokémon are still weak.\xf000븁\x0000And there's no sense in\xfffea Pokémon battle indoors!\xf000븁\x0000
+Bianca: Gosh, it's fiiiiine!\xfffeLike you said, still weak, right?\xf000븁\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Thus and thus... \xf000Ā\x0001\x0000!\xfffeLet's start out with a Pokémon battle!\xf000븁\x0000
 Heyyy!\xfffeLet's Pokémon battle!\xf000븁\x0000When you're ready, \xf000Ā\x0001\x0000,\xfffecome talk to me!
 ...The box is empty.
 Cheren: Hrm... right.\xfffeWould you battle me?\xf000븁\x0000I'm not even sure why, but\xfffesimply getting my Pokémon\xf000븀\x0000fills me with excitement!\xf000븁\x0000
-Belle: Where are you going?\xfffeC'mon, battle me!\xf000븁\x0000
-Belle: Heyyy!\xfffeReady to Pokémon battle?\xf000븁\x0000
+Bianca: Where are you going?\xfffeC'mon, battle me!\xf000븁\x0000
+Bianca: Heyyy!\xfffeReady to Pokémon battle?\xf000븁\x0000
 YAAAY!\xfffeOkay, let's GO!!\xf000븁\x0000
 Whaaa?!\xfffeGeez, don't be like that!\xf000븀\x0000Reconsider, would you?!\xf000븁\x0000You just got your\xfffeVERY OWN POKéMON!\xf000븀\x0000It's ALL YOURS!\xf000븀\x0000You gotta BATTLE that sucker!!
-Belle: Phewww...\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeYou sure are gonna be\xf000븀\x0000an awesome Trainer, aren't you?\xf000븁\x0000That's how I feel, anyway!\xf000븁\x0000
-Belle: Phewww...\xf000븁\x0000I was kinda in a daze there,\xfffeand wasn't sure what moves\xf000븀\x0000I was picking, but I guess I won...\xf000븁\x0000
-Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Belle...\xfffeLook around, would you?\xf000븁\x0000
-Belle: WAAAH!\xfffeW-What's all this about?!\xf000븁\x0000
+Bianca: Phewww...\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeYou sure are gonna be\xf000븀\x0000an awesome Trainer, aren't you?\xf000븁\x0000That's how I feel, anyway!\xf000븁\x0000
+Bianca: Phewww...\xf000븁\x0000I was kinda in a daze there,\xfffeand wasn't sure what moves\xf000븀\x0000I was picking, but I guess I won...\xf000븁\x0000
+Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bianca...\xfffeLook around, would you?\xf000븁\x0000
+Bianca: WAAAH!\xfffeW-What's all this about?!\xf000븁\x0000
 Pokémon are MIND-BLOWING!!\xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad\xfffeI could have a Pokémon!\xf000븁\x0000...Oh...\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
 Cheren: ...There's really nothing\xfffeto be done with you, is there...\xf000븁\x0000Here! I'll recover\xfffeyour wounded Pokémon...\xf000븁\x0000
-Cheren recovered\xfffeBelle's Pokémon!
+Cheren recovered\xfffeBianca's Pokémon!
 And of course, \xf000Ā\x0001\x0000's Pokémon\xfffeneeds to recover, too.\xf000븁\x0000
 Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: A victory accomplished without\xfffereducing the Pokémon's HP... astounding!\xf000븁\x0000Rather, it was because the\xfffePokémon ran out of PP...\xf000븁\x0000
-Belle: Heyyy! How about you\xfffefight a Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and\xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
+Bianca: Heyyy! How about you\xfffefight a Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and\xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
 Cheren: W-Well, of course...!\xf000븁\x0000On top of my knowledge,\xfffeI won't have to worry so much\xf000븀\x0000about messing up the room.\xf000븁\x0000And most importantly...\xfffeonly the two of you getting to enjoy\xf000븀\x0000a battle wouldn't be fair at all.\xf000븁\x0000
 \xf000Ā\x0001\x0000...\xf000븁\x0000I swear I won't ruin your room,\xfffeso would you battle me, too?\xf000븀\x0000Talk to me when you're ready.
 Cheren: Hold on!\xf000븁\x0000
-Belle: Me, I totally wanna see \xf000Ā\x0001\x0000\xfffeand Cheren duke it out in Pokémon!
+Bianca: Me, I totally wanna see \xf000Ā\x0001\x0000\xfffeand Cheren duke it out in Pokémon!
 Cheren: How about it?\xfffeWould you battle me, too?
 So...\xfffeI challenge you!\xf000븁\x0000This will be our first Pokémon battle!\xf000븁\x0000\xf000ā\x0001\x0001...\xfffeI'll show them your power!\xf000븁\x0000
 Cheren: ...Surprisingly passive.\xf000븁\x0000But I want to battle!\xfffeSo, please...
 Cheren: I may have come away from my\xfffefirst Pokémon battle with failure, but...\xf000븁\x0000This intense excitement...\xfffeI've finally become a Trainer!\xf000븁\x0000...And yet, I suppose we'll have to\xfffeapologize for the state of your room\xf000븀\x0000to your mom.\xf000븁\x0000
 Cheren: This intense excitement...\xfffeI've finally become a Trainer!\xf000븁\x0000...And yet, I suppose we'll have to\xfffeapologize for the state of your room\xf000븀\x0000to your mom.\xf000븁\x0000
-Belle: Oh!\xfffeYeah, me too!\xf000븁\x0000
+Bianca: Oh!\xfffeYeah, me too!\xf000븁\x0000
 It's a Wii!\xfffeAnd the Wiimote!
 It's a Wii!\xf000븁\x0000And it's not banged up one bit!
 It's the old TV Dad bought!

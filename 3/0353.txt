@@ -8,29 +8,29 @@ Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Tri Badge, 
 Cheren: ...I see.\xfffeSo that's how you fight...\xf000븁\x0000
 ???: Shove it, comin' through!\xf000븁\x0000
 Cheren: What was that...?\xf000븁\x0000
-Is that Belle?\xfffeWhy's she running?\xf000븁\x0000
-Belle: Heyyy!\xfffeWhich way did those guys just head?\xf000븁\x0000
+Is that Bianca?\xfffeWhy's she running?\xf000븁\x0000
+Bianca: Heyyy!\xfffeWhich way did those guys just head?\xf000븁\x0000
 Cheren: Uh, that way...\xf000븁\x0000
 So why are you in such a hurry?\xf000븁\x0000
-Belle: Ah, sheesh!\xfffeThey sure made their getaway fast!!\xf000븁\x0000
+Bianca: Ah, sheesh!\xfffeThey sure made their getaway fast!!\xf000븁\x0000
 Girl: ...Miss...\xfffe...what about my Pokémon...?\xf000븁\x0000
-Belle: It's alright!\xfffeSo... so please don't cry!!\xf000븁\x0000
-Cheren: Um, Belle, so WHY\xfffeare you in such a HURRY?\xf000븁\x0000
-Belle: Listen!\xf000븁\x0000\xfffeThose guys you just saw\xfffestole this girl's Pokémon!\xf000븁\x0000
+Bianca: It's alright!\xfffeSo... so please don't cry!!\xf000븁\x0000
+Cheren: Um, Bianca, so WHY\xfffeare you in such a HURRY?\xf000븁\x0000
+Bianca: Listen!\xf000븁\x0000\xfffeThose guys you just saw\xfffestole this girl's Pokémon!\xf000븁\x0000
 Cheren: Well, you\xfffeshould've said so earlier!\xf000븁\x0000
-\xf000Ā\x0001\x0000, we'll\xfffeget back that Pokémon!\xf000븁\x0000\xfffeBelle!\xfffeYou stay with the girl!\xf000븁\x0000
-Belle: Please, \xf000Ā\x0001\x0000...\xf000븁\x0000Get back that Pokémon\xfffeTeam Plasma stole!
-Belle: Please, \xf000Ā\x0001\x0000...\xf000븁\x0000Get back that Pokémon\xfffeTeam Plasma stole!\xf000븁\x0000
+\xf000Ā\x0001\x0000, we'll\xfffeget back that Pokémon!\xf000븁\x0000\xfffeBianca!\xfffeYou stay with the girl!\xf000븁\x0000
+Bianca: Please, \xf000Ā\x0001\x0000...\xf000븁\x0000Get back that Pokémon\xfffeTeam Plasma stole!
+Bianca: Please, \xf000Ā\x0001\x0000...\xf000븁\x0000Get back that Pokémon\xfffeTeam Plasma stole!\xf000븁\x0000
 Girl: ...Why would...\xfffeyou take somebody's Pokémon...?
 Cheren: ...They went in here.\xf000븁\x0000\xf000Ā\x0001\x0000, are your Pokémon\xfffehealthy and prepared?
 ...Okay, let's go.\xf000븁\x0000
 Well, my pride won't allow me to lose\xfffeto lowlifes who would steal Pokémon!\xf000븁\x0000I'll be waiting here, so\xfffeget your things in order quick!
 Well, my pride won't allow me to lose\xfffeto lowlifes who would steal Pokémon!\xf000븁\x0000I'll be waiting here, so\xfffeget your things in order quick!\xf000븁\x0000
 Cheren: \xf000Ā\x0001\x0000, are your Pokémon\xfffehealthy and prepared?
-Belle: \xf000Ā\x0001\x0000!\xfffeI'm truly grateful!\xf000븁\x0000\xfffeYou two took back\xfffethe Pokémon together!\xf000븁\x0000\xfffeI'm just so glad to be friends\xfffewith \xf000Ā\x0001\x0000 and Cheren!!\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000!\xfffeI'm truly grateful!\xf000븁\x0000\xfffeYou two took back\xfffethe Pokémon together!\xf000븁\x0000\xfffeI'm just so glad to be friends\xfffewith \xf000Ā\x0001\x0000 and Cheren!!\xf000븁\x0000
 Girl: Thank you, sir!!\xf000븁\x0000\xfffeHave this as a reward!\xf000븁\x0000
 Girl: Thank you, big sis!!\xf000븁\x0000\xfffeHave this as a reward!\xf000븁\x0000
-Belle: Oh, Heal Balls!\xf000븁\x0000Pokémon you catch with those will\xfffehave their health recovered to full.\xf000븁\x0000Well, I'll be taking\xfffethis girl back.\xf000븁\x0000\xfffeSee you, \xf000Ā\x0001\x0000!\xfffeBye-bye!!\xf000븁\x0000
+Bianca: Oh, Heal Balls!\xf000븁\x0000Pokémon you catch with those will\xfffehave their health recovered to full.\xf000븁\x0000Well, I'll be taking\xfffethis girl back.\xf000븁\x0000\xfffeSee you, \xf000Ā\x0001\x0000!\xfffeBye-bye!!\xf000븁\x0000
 Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000
 That thick-looking grass over there...\xf000븁\x0000\xfffeIt's rare, but you may encounter\xfffetwo Pokémon at once in there.\xf000븁\x0000
 Basically, take caution if you\xfffeneed to step into thick grass.\xf000븁\x0000Well, I'm off to Shippo City.\xf000븁\x0000
