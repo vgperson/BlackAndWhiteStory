@@ -44,7 +44,7 @@ What's the flower-adorned Pokémon\xfffewith leaves on its head?\xf000븁\x0000
 What's the Healing Pokémon\xfffewith good hearing?\xf000븁\x0000
 What's the\xfffecasket Pokémon?\xf000븁\x0000
 What's the evolution\xfffeof Koromori?\xf000븁\x0000
-What's the evolution\xfffeof Darumakka?\xf000븁\x0000
+What's the evolution\xfffeof Darumaka?\xf000븁\x0000
 What's the Pokémon that\xfffelooks after weak Pokémon?\xf000븁\x0000
 What's the\xfffeTrance Pokémon?\xf000븁\x0000
 What's the beautiful,\xfffewhite-winged swan Pokémon?\xf000븁\x0000
@@ -72,7 +72,7 @@ Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
 Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
 Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
-Hint!\xfffeYou could be right!\xf000븀\x0000Maybe! There's a chance!\xf000븁\x0000
+Hint!\xfffeTurn up the volume, and...\xf000븀\x0000you just might hear it!\xf000븁\x0000
 Hint!\xfffeIt's a ghost type!\xf000븁\x0000
 Hint!\xfffeIt's got a big heart!\xf000븁\x0000
 Hint!\xfffeIt's not a snowman!\xf000븁\x0000

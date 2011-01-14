@@ -493,7 +493,7 @@ Acid Bomb
 Foul Play
 Simple Beam
 Make Friends
-You First
+After You
 Sing A Round
 Echo Voice
 Bit by Bit
@@ -505,7 +505,7 @@ Boiling Water
 Shell Break
 Healing Beam
 Evil Eye
-Free Fall
+Sky Drop
 Gear Change
 Overhead Throw
 Incinerate
@@ -528,7 +528,7 @@ Cheer Up
 Electra Net
 Wild Charge
 Drill Liner
-Double Chop
+Dual Chop
 Heart Stamp
 Wood Horn
 Sacred Sword

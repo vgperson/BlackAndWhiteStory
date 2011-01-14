@@ -1,12 +1,12 @@
-﻿Now to introduce myself.\xf000븁\x0000I'm Makomo.\xfffeAs you can see, I'm a researcher.\xf000븁\x0000As for what I research,\xfffeit's all about Trainers!\xf000븁\x0000Professor Juniper has been a friend\xfffeof mine since our college days.\xf000븁\x0000So she asked me\xfffeto help you guys out!\xf000븁\x0000
+﻿Now to introduce myself.\xf000븁\x0000I'm Fennel.\xfffeAs you can see, I'm a researcher.\xf000븁\x0000As for what I research,\xfffeit's all about Trainers!\xf000븁\x0000Professor Juniper has been a friend\xfffeof mine since our college days.\xf000븁\x0000So she asked me\xfffeto help you guys out!\xf000븁\x0000
 That said!\xf000븁\x0000I'll start by backing you up\xfffewith this Hidden Machine!\xf000븁\x0000
 no data
 no data
 no data
 There are moves that Pokémon can\xfffelearn to use even outside of battle!\xf000븁\x0000That Hidden Machine, Cut,\xfffeallows you to learn a move\xf000븀\x0000that can cut through some trees.\xf000븁\x0000Furthermore, HMs, like Technical\xfffeMachines, can be used indefinitely!\xf000븀\x0000Ain't it great!\xf000븁\x0000...Only thing is, once an HM is learned,\xfffeit's tough to forget.\xf000븁\x0000
-...So, rather than me assist you,\xfffecan I ask you to do something for me?\xf000븁\x0000Um, on the edge of Sanyou City,\xfffethere's a place called the Dream Lot.\xf000븁\x0000I want some Dream Smoke from the Pokémon\xfffeMusharna that appears there.\xf000븁\x0000And once I have that...\xfffewe can do a \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000!\xf000븁\x0000We'll be able to assemble together\xfffereports from Trainers all over!
-Makomo: So Juniper asked you\xfffeto complete the Pokédex, huh?\xf000븁\x0000...Having to update the Pokédex\xfffefrom time to time can be a hassle.\xf000븁\x0000Oops!\xfffeI said that out loud, didn't I?\xf000븁\x0000Go get some Dream Smoke from\xfffeMusharna in the Dream Lot!\xf000븀\x0000Please! I'm begging you!
-Makomo: TADAAAH!\xf000븁\x0000Thanks to you getting me\xfffethe Dream Smoke...\xf000븁\x0000We can now collect records\xfffefrom Trainers all over!\xf000븀\x0000I'm truly thankful!\xf000븁\x0000As an expression of my thanks,\xfffeI'll let you use the C-Gear!\xf000븁\x0000The C-Gear is a device that uses\xfffewireless infrared communication,\xf000븀\x0000or Wi-Fi, to connect you to others.\xf000븁\x0000
+...So, rather than me assist you,\xfffecan I ask you to do something for me?\xf000븁\x0000Um, on the edge of Sanyou City,\xfffethere's a place called the Dream Lot.\xf000븁\x0000I want some Dream Mist from the Pokémon\xfffeMusharna that appears there.\xf000븁\x0000And once I have that...\xfffewe can do a \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000!\xf000븁\x0000We'll be able to assemble together\xfffereports from Trainers all over!
+Fennel: So Juniper asked you\xfffeto complete the Pokédex, huh?\xf000븁\x0000...Having to update the Pokédex\xfffefrom time to time can be a hassle.\xf000븁\x0000Oops!\xfffeI said that out loud, didn't I?\xf000븁\x0000Go get some Dream Mist from\xfffeMusharna in the Dream Lot!\xf000븀\x0000Please! I'm begging you!
+Fennel: TADAAAH!\xf000븁\x0000Thanks to you getting me\xfffethe Dream Mist...\xf000븁\x0000We can now collect records\xfffefrom Trainers all over!\xf000븀\x0000I'm truly thankful!\xf000븁\x0000As an expression of my thanks,\xfffeI'll let you use the C-Gear!\xf000븁\x0000The C-Gear is a device that uses\xfffewireless infrared communication,\xf000븀\x0000or Wi-Fi, to connect you to others.\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002C-Gear\xf000\xff00\x0001\x0000!
 Turn on the C-Gear\xfffeand begin communication?
 Yes
@@ -17,10 +17,10 @@ Look! Upon booting up the C-Gear,\xfffea screen appears!\xf000븁\x0000Touch the
 When you turn on the C-Gear,\xfffea screen comes up.\xf000븀\x0000Touch the Power button!\xf000븁\x0000Then if you touch the ? in the\xfffelower-left corner of that screen,\xf000븀\x0000you can read a C-Gear explanation.\xf000븁\x0000
 Now then, the \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000, the system\xfffeused to collect Trainer reports...\xf000븀\x0000Do you want me to do a little\xf000븀\x0000explaining of the system?
 Well, sorry, but I'm so happy\xfffethat I'll explain anyway!\xf000븁\x0000After all, it's thanks to you that I was\xfffeable to make such an achievement!!\xf000븁\x0000
-A \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 utilizes Dream Smoke to show\xfffethe memories of a sleeping Pokémon!\xf000븁\x0000That's right! And reports from Trainers\xfffeworldwide can assemble together!!\xf000븁\x0000
+A \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 utilizes Dream Mist to show\xfffethe memories of a sleeping Pokémon!\xf000븁\x0000That's right! And reports from Trainers\xfffeworldwide can assemble together!!\xf000븁\x0000
 And there's something\xfffeeven more incredible!\xf000븁\x0000\xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000ing allows you to see the\xfffedreams of a sleeping Pokémon!\xf000븁\x0000Just put a Pokémon to\xfffesleep with Game Sync...\xf000븁\x0000And that Pokémon's dream is made reality\xfffein a place in the center of Unova\xf000븀\x0000called the \xf000\xff00\x0001\x0001High-Link\xf000\xff00\x0001\x0000!!\xf000븁\x0000Game Syncing is just astounding, isn't it?!\xfffeYour interest is not only piqued,\xf000븀\x0000but peaked, I'm sure?\xf000븁\x0000If you're interested, you should try\xfffesending in your report, too!\xf000븁\x0000The details are summed up\xfffein the PC over there,\xf000븀\x0000so check it if you must!\xf000븁\x0000
-Makomo: \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000ing is just\xfffeastounding, isn't it?!\xf000븀\x0000Your interest is not only piqued,\xf000븀\x0000but peaked, I'm sure?\xf000븁\x0000If you're interested, you should try\xfffesending in your report, too!\xf000븁\x0000The details are summed up\xfffein the PC over there,\xf000븀\x0000so check it if you must!
-Makomo: Ah! So you sent in\xfffeyour report, too!\xf000븁\x0000I saw it while I was\xfffeinvestigating Trainers!\xf000븁\x0000どう？\xfffe\xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 rocks, eh?!
+Fennel: \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000ing is just\xfffeastounding, isn't it?!\xf000븀\x0000Your interest is not only piqued,\xf000븀\x0000but peaked, I'm sure?\xf000븁\x0000If you're interested, you should try\xfffesending in your report, too!\xf000븁\x0000The details are summed up\xfffein the PC over there,\xf000븀\x0000so check it if you must!
+Fennel: Ah! So you sent in\xfffeyour report, too!\xf000븁\x0000I saw it while I was\xfffeinvestigating Trainers!\xf000븁\x0000So?\xfffe\xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 rocks, eh?!
 no data
 no data
 You're a Trainer?\xf000븁\x0000Well, have you ever used a PC\xfffein the Pokémon Center?\xf000븁\x0000I'm Shorea, and I manage\xfffethe storage system boxes.\xf000븁\x0000Um... Are you familiar\xfffewith Battle Boxes?
@@ -41,7 +41,7 @@ If you want a C-Gear operations manual,\xf000븁\x0000touch the ? button on the 
 What is the Pokémon Storage System?\xf000븁\x0000The PC-Linked Pokémon Storage\xfffeSystem was first developed by\xf000븀\x0000Bill of the Kanto region.
 no data
 The monitor isn't displaying anything...
-Makomo's Notes\xf000븁\x0000
+Fennel's Notes\xf000븁\x0000
 Read which item?
 Game Sync
 Pokémon Dreams

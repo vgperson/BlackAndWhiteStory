@@ -1483,9 +1483,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeSimple Beam!
 \xf000ā\x0001\x0000 used\xfffeMake Friends!
 The wild \xf000ā\x0001\x0000 used\xfffeMake Friends!
 The foe's \xf000ā\x0001\x0000 used\xfffeMake Friends!
-\xf000ā\x0001\x0000 used\xfffeYou First!
-The wild \xf000ā\x0001\x0000 used\xfffeYou First!
-The foe's \xf000ā\x0001\x0000 used\xfffeYou First!
+\xf000ā\x0001\x0000 used\xfffeAfter You!
+The wild \xf000ā\x0001\x0000 used\xfffeAfter You!
+The foe's \xf000ā\x0001\x0000 used\xfffeAfter You!
 \xf000ā\x0001\x0000 used\xfffeSing A Round!
 The wild \xf000ā\x0001\x0000 used\xfffeSing A Round!
 The foe's \xf000ā\x0001\x0000 used\xfffeSing A Round!
@@ -1519,9 +1519,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeHealing Beam!
 \xf000ā\x0001\x0000 used\xfffeEvil Eye!
 The wild \xf000ā\x0001\x0000 used\xfffeEvil Eye!
 The foe's \xf000ā\x0001\x0000 used\xfffeEvil Eye!
-\xf000ā\x0001\x0000 used\xfffeFree Fall!
-The wild \xf000ā\x0001\x0000 used\xfffeFree Fall!
-The foe's \xf000ā\x0001\x0000 used\xfffeFree Fall!
+\xf000ā\x0001\x0000 used\xfffeSky Drop!
+The wild \xf000ā\x0001\x0000 used\xfffeSky Drop!
+The foe's \xf000ā\x0001\x0000 used\xfffeSky Drop!
 \xf000ā\x0001\x0000 used\xfffeGear Change!
 The wild \xf000ā\x0001\x0000 used\xfffeGear Change!
 The foe's \xf000ā\x0001\x0000 used\xfffeGear Change!
@@ -1588,9 +1588,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeWild Bolt!
 \xf000ā\x0001\x0000 used\xfffeDrill Liner!
 The wild \xf000ā\x0001\x0000 used\xfffeDrill Liner!
 The foe's \xf000ā\x0001\x0000 used\xfffeDrill Liner!
-\xf000ā\x0001\x0000 used\xfffeDouble Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Chop!
+\xf000ā\x0001\x0000 used\xfffeDual Chop!
+The wild \xf000ā\x0001\x0000 used\xfffeDual Chop!
+The foe's \xf000ā\x0001\x0000 used\xfffeDual Chop!
 \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
 The wild \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
 The foe's \xf000ā\x0001\x0000 used\xfffeHeart Stamp!

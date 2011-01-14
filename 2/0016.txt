@@ -1123,9 +1123,9 @@ The wild \xf000Ă\x0001\x0001 took\xfffe\xf000Ă\x0001\x0000 up into the sky!
 The wild \xf000Ă\x0001\x0001 took\xfffethe wild \xf000Ă\x0001\x0000 up into the sky!
 The foe's \xf000Ă\x0001\x0001 took\xfffe\xf000Ă\x0001\x0000 up into the sky!
 The foe's \xf000Ă\x0001\x0001 took\xfffethe foe's \xf000Ă\x0001\x0000 up into the sky!
-\xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
-The wild \xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
-The foe's \xf000Ă\x0001\x0000\xfffeis no longer bound by Free Fall!
+\xf000Ă\x0001\x0000\xfffeis no longer bound by Sky Drop!
+The wild \xf000Ă\x0001\x0000\xfffeis no longer bound by Sky Drop!
+The foe's \xf000Ă\x0001\x0000\xfffeis no longer bound by Sky Drop!
 \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 The wild \xf000Ă\x0001\x0000 kept going\xfffeand crashed!
 The foe's \xf000Ă\x0001\x0000 kept going\xfffeand crashed!

@@ -4,7 +4,7 @@ Go into the grass to fight\xfffeagainst wild Pokémon!\xf000븁\x0000But before 
 I just LOVE Pokémon battles!\xf000븁\x0000My lovey-dovey Pokémon\xfffeare gonna do their lovey-doviest!\xf000븁\x0000
 But even if I lose,\xfffemy Pokémon are still adorable...!
 I train my Pokémon by fighting\xfffewith all kinds of Trainers!
-Yooterii! My Yooterii!\xfffeGOOO, YOOTERII!\xf000븁\x0000
+Lillipup! I gotta Lillipup!\xfffeGOOO, LILLIPUP!\xf000븁\x0000
 Whoa, your Pokémon\xfffecan use moves like THAT?!
 All kinds of Trainers\xfffesend out all kinds of Pokémon!\xf000븀\x0000It's exciting just to watch!
 Hm, how well have I raised\xfffemy Pokémon? Please show me!\xf000븁\x0000
@@ -1026,7 +1026,7 @@ Your strength has me\xfffetrapped in a love game...
 Pro battler, when I grow up,\xfffeI want to be your Goods Case...
 Only one Pokémon?\xfffeI prefer to play doubles...
 SHWOO! PHOOSH!\xf000븁\x0000Yeah, that's right!\xfffeThat's how I fight!\xf000븁\x0000
-Hiro: SHWOOOOO...\xfffePlunk...\xf000븁\x0000Shin; FAULT!\xfffeI messed up my serve!!
+Hiro: SHWOOOOO...\xfffePlunk...\xf000븁\x0000Shin: FAULT!\xfffeI messed up my serve!!
 Jumping around for such\xfffelong periods of time...\xf000븁\x0000Tennis players are\xfffejust so amazing!
 Shwoo, phoosh!
 HAAA!\xf000븁\x0000See that?\xfffeThat's my killer serve!\xf000븁\x0000But my Pokémon battles\xfffeare even better than that!\xf000븁\x0000
@@ -1400,7 +1400,7 @@ Your power exceeds\xfffemy psychic ability!
 The Musharna that appears here\xfffeFriday every week\xf000븀\x0000is said to be somehow unique.
 This is a spot of power!\xf000븁\x0000Let the power within\xfffeawaken in us both!\xf000븁\x0000
 Was I standing\xfffein the wrong spot?!
-In reality, everyone has\xfffesome Dream Smoke!\xf000븁\x0000When you realize your dreams,\xfffeisn't that just like Dream Smoke?!
+In reality, everyone has\xfffesome Dream Mist!\xf000븁\x0000When you realize your dreams,\xfffeisn't that just like Dream Mist?!
 Yipe! I was trying to\xfffepredict your movement and run...!\xf000븁\x0000
 Yipe! I was trying to\xfffepredict your thoughts, but I lost!
 When your dreams seem unattainable,\xfffeyou try to run away...\xf000븁\x0000If you don't hold onto\xfffewhat's important, it'll leave you!
@@ -1409,10 +1409,10 @@ Why did I lose?\xfffeI can't help but wonder!
 As much research is done and compiled,\xfffethere's always new Pokémon discoveries!
 I've been working on\xfffemy research and skipping sleep...\xf000븀\x0000Are you a dream?\xf000븁\x0000
 Logically improbable!\xfffeSurely this is a dream...?
-Speaking of dreams,\xfffeMiss Makomo's Dream World studies!\xf000븀\x0000It's some amazing research!\xf000븀\x0000Have you tried Game Syncing?
+Speaking of dreams,\xfffeMiss Fennel's Dream World studies!\xf000븀\x0000It's some amazing research!\xf000븀\x0000Have you tried Game Syncing?
 If I'm to study dreams,\xfffeI simply must look into yours!\xf000븁\x0000
 No! I can't see any dreams\xfffefrom the pits of defeat!
-The Dream Smoke from\xfffethe Pokémon Musharna...\xf000븁\x0000Its secrets haven't been fully revealed,\xfffebut it's definitely amazingly powerful!
+The Dream Mist from\xfffethe Pokémon Musharna...\xf000븁\x0000Its secrets haven't been fully revealed,\xfffebut it's definitely amazingly powerful!
 I want to scientifically explain the\xfffemysterious powers of psychics!\xf000븁\x0000
 But I fought in such\xfffea logical manner!
 Only about half of the world\xfffecan be explained through logic...\xf000븁\x0000The rest is feeling!\xfffeWhich is why it's so full of mystery...

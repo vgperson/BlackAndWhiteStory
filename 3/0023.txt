@@ -38,7 +38,7 @@ Read the book\xfffe"Potions Own!"?
 Read the book\xfffe"Locomotive Construction"?
 Read the book\xfffe"The Art of Pokémon Battle"?
 Read the book\xfffe"Structure of a Pokémon Center"?
-Read the book\xfffe"Minezumi Anatomy"?
+Read the book\xfffe"Patrat Anatomy"?
 Read the book\xfffe"Snivy Anatomy"?
 Read the book\xfffe"Oshawott Anatomy"?
 Read the book\xfffe"Tepig Anatomy"?
@@ -50,7 +50,7 @@ Writings on the creation\xfffeand proper use of Potions.\xf000븁\x0000It also t
 Writings concerning locomotives.\xf000븁\x0000They run on steam power provided\xfffeby the flames burning inside them,\xf000븀\x0000letting out smoke on the way!\xf000븁\x0000
 Writings on the proper timing\xfffeof Pokémon switching.\xf000븁\x0000"Switch Pokémon before the situation\xfffeshould look to turn dire!"
 Sums up the design\xfffeof a Pokémon Center.\xf000븁\x0000It also details a day\xfffein the life of a nurse.
-Writings on the anatomy of Minezumi.\xf000븁\x0000Minezumi communicate with their tails.\xfffeA tail standing up on end signals\xf000븀\x0000that they've spotted an enemy.\xf000븁\x0000
+Writings on the anatomy of Patrat.\xf000븁\x0000Patrat communicate with their tails.\xfffeA tail standing up on end signals\xf000븀\x0000that they've spotted an enemy.\xf000븁\x0000
 Writings on the anatomy of Snivy.\xf000븁\x0000If their tails point to the sun\xfffewhile in direct sunlight, it means\xf000븀\x0000they're in the midst of photosynthesis.
 Writings on the anatomy of Oshawott.\xf000븁\x0000The extremely hard shell\xfffethat forms over Oshawott's navel\xf000븀\x0000can be used as a tool.
 Writings on the anatomy of Tepig.\xf000븁\x0000Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out.
