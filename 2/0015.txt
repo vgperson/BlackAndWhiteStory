@@ -1564,9 +1564,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeGrass Oath!
 \xf000ā\x0001\x0000 used\xfffeVolt Change!
 The wild \xf000ā\x0001\x0000 used\xfffeVolt Change!
 The foe's \xf000ā\x0001\x0000 used\xfffeVolt Change!
-\xf000ā\x0001\x0000 used\xfffeBug Opposition!
-The wild \xf000ā\x0001\x0000 used\xfffeBug Opposition!
-The foe's \xf000ā\x0001\x0000 used\xfffeBug Opposition!
+\xf000ā\x0001\x0000 used\xfffeStruggle Bug!
+The wild \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
+The foe's \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
 \xf000ā\x0001\x0000 used\xfffeLevel Ground!
 The wild \xf000ā\x0001\x0000 used\xfffeLevel Ground!
 The foe's \xf000ā\x0001\x0000 used\xfffeLevel Ground!
@@ -1585,9 +1585,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeElectra Net!
 \xf000ā\x0001\x0000 used\xfffeWild Bolt!
 The wild \xf000ā\x0001\x0000 used\xfffeWild Bolt!
 The foe's \xf000ā\x0001\x0000 used\xfffeWild Bolt!
-\xf000ā\x0001\x0000 used\xfffeDrill Liner!
-The wild \xf000ā\x0001\x0000 used\xfffeDrill Liner!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrill Liner!
+\xf000ā\x0001\x0000 used\xfffeDrill Run!
+The wild \xf000ā\x0001\x0000 used\xfffeDrill Run!
+The foe's \xf000ā\x0001\x0000 used\xfffeDrill Run!
 \xf000ā\x0001\x0000 used\xfffeDual Chop!
 The wild \xf000ā\x0001\x0000 used\xfffeDual Chop!
 The foe's \xf000ā\x0001\x0000 used\xfffeDual Chop!

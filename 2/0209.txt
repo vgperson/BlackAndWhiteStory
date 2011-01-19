@@ -86,7 +86,7 @@ Miracle Shooter Off
 ３ＢＩＴＡＤＰＣＭ
 ４ＢＩＴＡＤＰＣＭ
 バケット
-Live Caster
+Xtransceiver
 \xf000Ā\x0001\x0000さんは\xfffeいそがしい みたいです
 \xf000Ā\x0001\x0000さんは\xfffeボイスチャットを したいようです
 \xf000Ā\x0001\x0000さんは\xfffeライブキャスターちゅう です

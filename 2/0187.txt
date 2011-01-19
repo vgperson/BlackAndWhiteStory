@@ -93,7 +93,7 @@ Normal Badge\xfffeRecieved on: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000�
 Pokémon up to Lvl. 30 will obey.\xfffeReward: TM67: Vengeance
 
 Bug Badge\xfffeRecieved on: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
-Pokémon up to Lvl. 40 will obey.\xfffeReward: TM76: Bug Opposition
+Pokémon up to Lvl. 40 will obey.\xfffeReward: TM76: Struggle Bug
 
 Bolt Badge\xfffeRecieved on: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
 Pokémon up to Lvl. 50 will obey.\xfffeReward: TM72: Volt Change

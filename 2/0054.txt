@@ -619,9 +619,9 @@ Dark Stone
 TM93
 TM94
 TM95
-Live Caster
+Xtransceiver
 God Stone
 Delivery1
 Delivery2
 Delivery3
-Live Caster
+Xtransceiver
