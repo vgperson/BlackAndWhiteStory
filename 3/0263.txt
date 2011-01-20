@@ -5,9 +5,9 @@ Reeled in a Pokémon!\xf000븁\x0000
 Didn't catch anything...\xf000븁\x0000
 Pulled in the rod too early!\xf000븁\x0000
 Pulled in the rod too late!\xf000븁\x0000
-\xf000Ā\x0001\x0000 warped\xfffeinto the High-Link!\xf000븁\x0000
-You can't warp into\xfffethe High-Link here!
-You can't warp while in the middle\xfffeof a mission in the High-Link.
-You're currently connected to someone,\xfffeso you can't warp to the High-Link.
-...Participating in a mission\xfffeon the High-Link!\xf000븀\x0000You'll return upon completion.\xf000븁\x0000Warped into your partner's\xfffeHigh-Link to join the mission!\xf000븁\x0000
+\xf000Ā\x0001\x0000 warped\xfffeinto the Entralink!\xf000븁\x0000
+You can't warp into\xfffethe Entralink here!
+You can't warp while in the middle\xfffeof a mission in the Entralink.
+You're currently connected to someone,\xfffeso you can't warp to the Entralink.
+...Participating in a mission\xfffeon the Entralink!\xf000븀\x0000You'll return upon completion.\xf000븁\x0000Warped into your partner's\xfffeEntralink to join the mission!\xf000븁\x0000
 Connection dropped.

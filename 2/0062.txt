@@ -35,7 +35,7 @@ Starting C-Gear Surveys
 C-Gear Survey Reports
 IR (Infrared) Connection
 Game Sync
-High-Link
+Entralink
 Exit Power
 Exit Ball
 The Bag

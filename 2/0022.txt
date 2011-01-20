@@ -13,9 +13,9 @@
 Using infrared\xfffeめのまえにいる ともだちと きがるに\xfffeたいせんや こうかんが できます。\xfffeまた あいしょうが わかる\xfffeフィーリングチェックや\xfffeともだちコードの こうかんも できます。
 GAME SYNC button \xfffechoose a Pokemon to go to sleep \xfffethen connect to the Wi-Fi \xfffeso you can send the report.
 Ｗｉ－Ｆｉの でんぱを キャッチしても\xfffeほんたいせっていが できていないと\xfffeＷｉ－Ｆｉに せつぞく できません。
-Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Xtransceiver\xfffe・High Link
+Using Wireless\xfffeちかくにいる ともだちと\xfffeつぎの あそびが できます。\xfffe・Xtransceiver\xfffe・Entralink
 Xtransceiver\xfffeFriend codes in the C-Gear\xfffeこうかんしたり Ｗｉ－Ｆｉクラブで\xfffeいっしょに あそんだことの ある\xfffeともだちと ライブキャスターを\xfffeつかって あそべます。
-If you touch the High-Link Button,\xfffe you will go to High-Link in an instant.
+If you touch the Entralink Button,\xfffe you will go to Entralink in an instant.
 じぶんの まわりで げんざい\xfffeユニオンルームに はいっている\xfffeにんずうが わかります。\xfffeまた ちかくで ワイヤレスの\xfffeはいしんを おこなっているかも\xfffeわかります。
 それと Ｃギアの でんげんを\xfffeオンにしている ひとが\xfffeまわりに いるか わかります。\xfffeちかくに ひとが いると\xfffeすれちがいや ちょうさレーダーの\xfffeつうしんを キャッチ しやすいです。
 すれちがった ひとが\xfffeどんなことを しているのかが\xfffeリアルタイムで ひょうじされます。\xfffeタッチすることで あいてについて\xfffeくわしく みたり\xfffeじゆうに はつげん できます。
