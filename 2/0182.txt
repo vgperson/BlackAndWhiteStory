@@ -129,7 +129,7 @@ Tension
 Competitive Spirit
 Faint Hearted
 Cursed Body
-Healing Heart
+Healer
 Friend Card
 Breakable Armor
 Heavy Metal
@@ -155,7 +155,7 @@ Moxie
 Heart of Justice
 Self-Conscious
 Magic Mirror
-Herbivore
+Sap Sipper
 Mischievous Heart
 Sand Force
 Steel Thorns

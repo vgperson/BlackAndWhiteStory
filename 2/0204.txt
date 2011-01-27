@@ -510,7 +510,7 @@ Gear Change
 Overhead Throw
 Incinerate
 Postpone
-Acrobat
+Acrobatics
 Mirror Type
 Vengeance
 Life Gamble
@@ -540,7 +540,7 @@ Cotton Guard
 Night Burst
 Psycho Break
 Tail Slap
-Gale
+Hurricane
 Afro Break
 Gear Saucer
 Flame Bomb

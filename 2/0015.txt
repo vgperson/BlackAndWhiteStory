@@ -1534,9 +1534,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeIncinerate!
 \xf000ā\x0001\x0000 used\xfffePostpone!
 The wild \xf000ā\x0001\x0000 used\xfffePostpone!
 The foe's \xf000ā\x0001\x0000 used\xfffePostpone!
-\xf000ā\x0001\x0000 used\xfffeAcrobat!
-The wild \xf000ā\x0001\x0000 used\xfffeAcrobat!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcrobat!
+\xf000ā\x0001\x0000 used\xfffeAcrobatics!
+The wild \xf000ā\x0001\x0000 used\xfffeAcrobatics!
+The foe's \xf000ā\x0001\x0000 used\xfffeAcrobatics!
 \xf000ā\x0001\x0000 used\xfffeMirror Type!
 The wild \xf000ā\x0001\x0000 used\xfffeMirror Type!
 The foe's \xf000ā\x0001\x0000 used\xfffeMirror Type!
@@ -1624,9 +1624,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffePsycho Break!
 \xf000ā\x0001\x0000 used\xfffeSweep Slap!
 The wild \xf000ā\x0001\x0000 used\xfffeSweep Slap!
 The foe's \xf000ā\x0001\x0000 used\xfffeSweep Slap!
-\xf000ā\x0001\x0000 used\xfffeGale!
-The wild \xf000ā\x0001\x0000 used\xfffeGale!
-The foe's \xf000ā\x0001\x0000 used\xfffeGale!
+\xf000ā\x0001\x0000 used\xfffeHurricane!
+The wild \xf000ā\x0001\x0000 used\xfffeHurricane!
+The foe's \xf000ā\x0001\x0000 used\xfffeHurricane!
 \xf000ā\x0001\x0000 used\xfffeAfro Break!
 The wild \xf000ā\x0001\x0000 used\xfffeAfro Break!
 The foe's \xf000ā\x0001\x0000 used\xfffeAfro Break!
