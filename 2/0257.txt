@@ -503,7 +503,7 @@ Sea Otter Pok\x00e9mon
 Training Pok\x00e9mon
 Dignity Pok\x00e9mon
 Scout Pok\x00e9mon
-Precaution Pok\x00e9mon
+Lookout Pok\x00e9mon
 Puppy Pok\x00e9mon
 Loyal Dog Pok\x00e9mon
 Leniency Pok\x00e9mon
@@ -528,7 +528,7 @@ Compressed Pok\x00e9mon
 Bat Pok\x00e9mon
 Courtship Pok\x00e9mon
 Mole Pok\x00e9mon
-Deep Earth Pok\x00e9mon
+Subterrene Pok\x00e9mon
 Healing Pok\x00e9mon
 Muscle Pok\x00e9mon
 Muscle Pok\x00e9mon
@@ -548,7 +548,7 @@ Cotton Ball Pok\x00e9mon
 Wind Rider Pok\x00e9mon
 Root Pok\x00e9mon
 Floral Pok\x00e9mon
-Violence Pok\x00e9mon
+Hostile Pok\x00e9mon
 Desert Croc Pok\x00e9mon
 Desert Croc Pok\x00e9mon
 Menace Pok\x00e9mon
@@ -579,12 +579,12 @@ Cell Pok\x00e9mon
 Mitosis Pok\x00e9mon
 Multiplying Pok\x00e9mon
 Waterfowl Pok\x00e9mon
-Swan Pok\x00e9mon
+White Bird Pok\x00e9mon
 Fresh Snow Pok\x00e9mon
 Snow Pok\x00e9mon
 Blizzard Pok\x00e9mon
-Seasonal Pok\x00e9mon
-Seasonal Pok\x00e9mon
+Season Pok\x00e9mon
+Season Pok\x00e9mon
 Glide Squirrel Pok\x00e9mon
 Ringside Pok\x00e9mon
 Cavalry Pok\x00e9mon
@@ -592,7 +592,7 @@ Mushroom Pok\x00e9mon
 Mushroom Pok\x00e9mon
 Floating Pok\x00e9mon
 Floating Pok\x00e9mon
-Nursing Pok\x00e9mon
+Caring Pok\x00e9mon
 Clinging Pok\x00e9mon
 Elec Spider Pok\x00e9mon
 Thorny Leech Pok\x00e9mon
