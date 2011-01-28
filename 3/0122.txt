@@ -33,7 +33,7 @@ What's a two-on-two\xfffePokémon battle called?\xf000븁\x0000
 What do you use\xfffeto take pictures?\xf000븁\x0000
 Where do you go\xfffewhen you bathe?\xf000븁\x0000
 What's the facility\xfffethat heals your Pokémon?\xf000븁\x0000
-What ability goes up\xfffewhen you use Protein?\xf000븁\x0000
+What stat goes up\xfffewhen you use Protein?\xf000븁\x0000
 What Pokémon changes form\xfffewith season without evolving?\xf000븁\x0000
 What's the electric Pokémon that\xfffereleases energy from its mane?\xf000븁\x0000
 What's the Pokémon\xfffemade up of two gears?\xf000븁\x0000
@@ -43,11 +43,11 @@ What's the\xfffepigeon Pokémon?\xf000븁\x0000
 What's the flower-adorned Pokémon\xfffewith leaves on its head?\xf000븁\x0000
 What's the Healing Pokémon\xfffewith good hearing?\xf000븁\x0000
 What's the\xfffecasket Pokémon?\xf000븁\x0000
-What's the evolution\xfffeof Koromori?\xf000븁\x0000
+What's the evolution\xfffeof Woobat?\xf000븁\x0000
 What's the evolution\xfffeof Darumaka?\xf000븁\x0000
 What's the Pokémon that\xfffelooks after weak Pokémon?\xf000븁\x0000
-What's the\xfffeTrance Pokémon?\xf000븁\x0000
-What's the beautiful,\xfffewhite-winged swan Pokémon?\xf000븁\x0000
+What's the\xfffeDrowsing Pokémon?\xf000븁\x0000
+What's the beautiful,\xfffewhite-winged Pokémon?\xf000븁\x0000
 What's the Trap Pokémon\xfffethat hides in mud?\xf000븁\x0000
 What move lets you\xffferide a Pokémon over water?\xf000븁\x0000
 What day is today?\xf000븁\x0000
@@ -64,9 +64,9 @@ Hint!\xfffeA one-on-one is a Single!\xf000븁\x0000
 Hint!\xfffeThink "say cheese"!\xf000븁\x0000
 Hint!\xfffeThe kitchen is too small!\xf000븁\x0000
 Hint!\xfffeIt's not a convenience store!\xf000븁\x0000
-Hint!\xfffeIt's not beauty!\xf000븁\x0000
+Hint!\xfffeIt's not Beauty!\xf000븁\x0000
 Hint!\xfffeIt didn't come from space!\xf000븁\x0000
-Hint!\xfffeNot quite the Lightning Pokémon!\xf000븁\x0000
+Hint!\xfffeNot quite the Lightning Pokémon yet!\xf000븁\x0000
 Hint!\xfffeIt's in Thunderstone Cave!\xf000븁\x0000
 Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
@@ -75,9 +75,9 @@ Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
 Hint!\xfffe...Hm, ah, dunno...\xf000븀\x0000But my, what good ears it has!\xf000븁\x0000
 Hint!\xfffeIt's a ghost type!\xf000븁\x0000
 Hint!\xfffeIt's got a big heart!\xf000븁\x0000
-Hint!\xfffeIt's not a snowman!\xf000븁\x0000
+Hint!\xfffeIt's hotter than a snowman!\xf000븁\x0000
 Hint!\xfffeIt's not a fire type!\xf000븁\x0000
-Hint!\xfffeIt's the evolution of\xf000븀\x0000the Dreameater Pokémon!\xf000븁\x0000
+Hint!\xfffeIt's the evolution of\xf000븀\x0000the Dream Eater Pokémon!\xf000븁\x0000
 Hint!\xfffeIt's a swan... nah, too easy!\xf000븁\x0000
 Hint!\xfffeIt's an electric and ground type!\xf000븁\x0000
 Hint!\xfffeIt's not Fly!\xf000븁\x0000
