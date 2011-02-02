@@ -1,4 +1,4 @@
-Pokémon ?????
+﻿Pokémon ?????
 Pokémon Graine
 Pokémon Graine
 Pokémon Graine
@@ -232,7 +232,7 @@ Pokémon Dragon
 Pokémon Long-Nez
 Pokémon Armure
 Pokémon Virtuel
-Pokémon Maxi Cresse
+Pokémon Maxi Corne
 Pokémon Peintre
 Pokémon Bagarreur
 Pokémon Poirier
