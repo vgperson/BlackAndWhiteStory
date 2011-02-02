@@ -442,7 +442,7 @@ A card key for disengaging security\xfffesystems in the Galactic HQ. Losing it\x
 A mythical chain that is said to link\xfffethe legendary Pokémon that created\xfffethe Sinnoh region.
 A very convenient map that can be\xfffeviewed anytime. It even shows your\xfffepresent location.
 A device that indicates Trainers who\xfffewant to battle. Its battery charges\xfffewhile you walk.
-A case for holding coins obtained at\xfffethe Game Corner.\xfffeIt holds up to 50,000 coins.
+A case for holding coins obtained at\xfffethe Game Cresser.\xfffeIt holds up to 50,000 coins.
 An old and beat-up fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
 A new, good-quality fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.
 An awesome, high-tech fishing rod.\xfffeUse it by any body of water to fish for\xfffewild aquatic Pokémon.

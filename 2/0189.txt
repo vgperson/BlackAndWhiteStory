@@ -128,21 +128,21 @@ You think that'll work\xfffeagainst my Pokémon?!
 Not yet! Still got one more!\xfffeHere's where I get serious!
 I give up...\xf000븁\x0000I am B-U-R-N-T O-U-T!
 I see!\xfffeThat may indeed be a worthy attack.
-I, Corn, shall put my all\xfffeinto using my last Pokémon!
-I admit defeat...\xfffeI, Corn, have been beaten.
+I, Cress, shall put my all\xfffeinto using my last Pokémon!
+I admit defeat...\xfffeI, Cress, have been beaten.
 Ah!\xfffeMy Pokémon!
 ...Oh? Could it be\xfffeI'm down to one Pokémon?
 ...Er, is it over?
-Welcome, welcome!\xfffeThis is Sanyou Gym!\xf000븁\x0000Here, you may feast upon\xfffethe basics of Pokémon battling!\xf000븁\x0000
+Welcome, welcome!\xfffeThis is Striaton Gym!\xf000븁\x0000Here, you may feast upon\xfffethe basics of Pokémon battling!\xf000븁\x0000
 Why...!\xfffeWhat a fantastic Trainer you are!
 With an observation of type weaknesses\xfffeand well-trained Pokémon,\xf000븀\x0000victory should be in your grasp.
-Sanyou Gym prides itself upon\xfffea full course of Trainers!\xf000븀\x0000And I shall be your second helping!\xf000븁\x0000
+Striaton Gym prides itself upon\xfffea full course of Trainers!\xf000븀\x0000And I shall be your second helping!\xf000븁\x0000
 Was my battle with you\xfffea satisfactory meal?
-Sanyou Gym prides itself upon\xfffea full course of Trainers!\xf000븀\x0000The gym leader will be your last meal!
+Striaton Gym prides itself upon\xfffea full course of Trainers!\xf000븀\x0000The gym leader will be your last meal!
 Aha, NOW I get to see\xfffewhat kind of Trainer you are!
 Even in these circumstances,\xfffeI can find a way to win!
 Now that was really something!\xfffeAin't you just charming!
-I frequent Shippo Gym,\xfffeso people call me a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a whole book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
+I frequent Nacrene Gym,\xfffeso people call me a bookworm.\xf000븁\x0000But trust me, I'm strong too!\xfffeI can both read a whole book\xf000븀\x0000and train a Pokémon in a day!\xf000븁\x0000
 They call me a bookworm,\xfffebut I'm not a bug-type Pokémon!
 My first recommendation\xfffeis "Hello, My Pokémon."\xf000븁\x0000It's on the shelf for children's books\xfffenear the entrance.
 Wooooow!\xfffeI lost, but still, thanks for the battle!
@@ -207,7 +207,7 @@ I've been taught that\xfffewhen your ally is floating,\xf000븀\x0000it's okay t
 If you're going to battle us,\xfffeyou'll need two Pokémon.
 ...You're getting in the way!\xfffeYou awful, awful Trainer!
 What's taken will be returned...\xfffeGot it? And don't forget it...!
-Hey, look!\xfffeIt's the Sanyou City gym badge!\xf000븁\x0000Oh, you have it too!\xfffeBut who's better?\xf000븀\x0000Let's Pokémon battle it out!\xf000븁\x0000
+Hey, look!\xfffeIt's the Striaton City gym badge!\xf000븁\x0000Oh, you have it too!\xfffeBut who's better?\xf000븀\x0000Let's Pokémon battle it out!\xf000븁\x0000
 Nice! Battling people with\xfffegym badges is way different!
 You know there's a symbol\xfffenear the gym entrance, right?\xf000븁\x0000When you get a gym badge,\xfffeyour name is written there!
 I patrol Yaguruma Forest\xfffeday after day!\xf000븀\x0000It's my job to battle you here!\xf000븁\x0000

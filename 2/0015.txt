@@ -1576,9 +1576,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeIce Breath!
 \xf000ā\x0001\x0000 used\xfffeDragon Tail!
 The wild \xf000ā\x0001\x0000 used\xfffeDragon Tail!
 The foe's \xf000ā\x0001\x0000 used\xfffeDragon Tail!
-\xf000ā\x0001\x0000 used\xfffeCheer Up!
-The wild \xf000ā\x0001\x0000 used\xfffeCheer Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeCheer Up!
+\xf000ā\x0001\x0000 used\xfffeWork Up!
+The wild \xf000ā\x0001\x0000 used\xfffeWork Up!
+The foe's \xf000ā\x0001\x0000 used\xfffeWork Up!
 \xf000ā\x0001\x0000 used\xfffeElectra Net!
 The wild \xf000ā\x0001\x0000 used\xfffeElectra Net!
 The foe's \xf000ā\x0001\x0000 used\xfffeElectra Net!
