@@ -7,7 +7,7 @@ Karakusa Town
 Striaton City
 Nacrene City
 Castelia City
-Raimon City
+Nimbassa City
 Hodomoe City
 Fukiyose City
 Sekka City
@@ -74,7 +74,7 @@ Lost Forest
 Cellar of Trials
 Room of Conduct
 Entralink Forest
-Raimon City
+Nimbassa City
 Hodomoe City
 Fukiyose City
 Sekka City
@@ -108,7 +108,7 @@ Karakusa Gate
 Sazanami Gate
 Nacrene Gate
 Castelia Gate
-Raimon Gate
+Nimbassa Gate
 Souryuu Gate
 Black Gate
 White Gate

@@ -68,7 +68,7 @@ Pokémon Type: Normal\xfffeYou've beaten this leader!
 Third badge.\xfffeCastelia City Gym
 Leader: Arty
 Pokémon Type: Bug\xfffeYou've beaten this leader!
-Fourth badge.\xfffeRaimon City Gym
+Fourth badge.\xfffeNimbassa City Gym
 Leader: Camille
 Pokémon Type: Electric\xfffeYou've beaten this leader!
 Fifth badge.\xfffeHodomoe City Gym
