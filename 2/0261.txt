@@ -1,4 +1,4 @@
-Pokémon ?????
+﻿Pokémon ?????
 Pokémon Seme
 Pokémon Seme
 Pokémon Seme
@@ -405,7 +405,7 @@ Pokémon Baleno
 Pokémon Favilla
 Pokémon Occhiluce
 Pokémon Germoglio
-Pokémon Skylareale
+Pokémon Floreale
 Pokémon Cranioso
 Pokémon Cranioso
 Pokémon Schermo

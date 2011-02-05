@@ -1,4 +1,4 @@
- 
+﻿ 
 Después de nacer, crece\xfffealimentándose de las semillas\xfffede su lomo.
 Cuando el bulbo de su lomo se\xfffehincha, desprende un dulce aroma\xfffepara indicar el florecimiento.
 Después de un día de lluvia, la flor\xfffede su lomo tiene un aroma más\xfffepotente y atrae a otros Pokémon.
@@ -185,8 +185,8 @@ No se ahoga ni en las corrientes\xfffemás fuertes porque la punta de su\xfffeco
 Puede pasarse todo el día en el\xfffeagua porque puede tragar y\xfffealmacenar un gran volumen de aire.
 Para evitar que le ataquen se limita\xfffea imitar un árbol. Odia el agua y\xfffehuye de la lluvia.
 Agrupa a otros Pokémon para\xfffeliderarlos. Los Poliwag obedecen\xfffesu voz.
-Skylatan en el aire. Se dice que\xfffecuando los Hoppip se reúnen, es\xfffeque la primavera está al caer.
-Skylarece en épocas cálidas. Skylata\xfffeen el aire para absorber toda la\xfffeluz solar que puede.
+Flotan en el aire. Se dice que\xfffecuando los Hoppip se reúnen, es\xfffeque la primavera está al caer.
+Florece en épocas cálidas. Flota\xfffeen el aire para absorber toda la\xfffeluz solar que puede.
 Los vientos estacionales lo llevan\xfffepor todo el mundo, donde suelta\xfffesus esporas para reproducirse.
 Vive en las copas de los árboles.\xfffePuede usar su cola como si fuera\xfffeuna mano más.
 Cae de repente del cielo por las\xfffemañanas. Los años de veranos\xfffesuaves su número se multiplica.

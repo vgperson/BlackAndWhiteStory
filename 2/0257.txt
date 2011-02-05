@@ -43,7 +43,7 @@ Bat Pok\x00e9mon
 Bat Pok\x00e9mon
 Weed Pok\x00e9mon
 Weed Pok\x00e9mon
-Skylawer Pok\x00e9mon
+Flower Pok\x00e9mon
 Mushroom Pok\x00e9mon
 Mushroom Pok\x00e9mon
 Insect Pok\x00e9mon
@@ -67,7 +67,7 @@ Psi Pok\x00e9mon
 Superpower Pok\x00e9mon
 Superpower Pok\x00e9mon
 Superpower Pok\x00e9mon
-Skylawer Pok\x00e9mon
+Flower Pok\x00e9mon
 Flycatcher Pok\x00e9mon
 Flycatcher Pok\x00e9mon
 Jellyfish Pok\x00e9mon
@@ -180,7 +180,7 @@ Mystic Pok\x00e9mon
 Wool Pok\x00e9mon
 Wool Pok\x00e9mon
 Light Pok\x00e9mon
-Skylawer Pok\x00e9mon
+Flower Pok\x00e9mon
 Aqua Mouse Pok\x00e9mon
 Aqua Rabbit Pok\x00e9mon
 Imitation Pok\x00e9mon
@@ -319,7 +319,7 @@ Poison Bag Pok\x00e9mon
 Savage Pok\x00e9mon
 Brutal Pok\x00e9mon
 Ball Whale Pok\x00e9mon
-Skylaat Whale Pok\x00e9mon
+Float Whale Pok\x00e9mon
 Numb Pok\x00e9mon
 Eruption Pok\x00e9mon
 Coal Pok\x00e9mon
@@ -547,7 +547,7 @@ Megapede Pok\x00e9mon
 Cotton Ball Pok\x00e9mon
 Wind Rider Pok\x00e9mon
 Root Pok\x00e9mon
-Skylaral Pok\x00e9mon
+Floral Pok\x00e9mon
 Hostile Pok\x00e9mon
 Desert Croc Pok\x00e9mon
 Desert Croc Pok\x00e9mon
@@ -590,8 +590,8 @@ Ringside Pok\x00e9mon
 Cavalry Pok\x00e9mon
 Mushroom Pok\x00e9mon
 Mushroom Pok\x00e9mon
-Skylaating Pok\x00e9mon
-Skylaating Pok\x00e9mon
+Floating Pok\x00e9mon
+Floating Pok\x00e9mon
 Caring Pok\x00e9mon
 Clinging Pok\x00e9mon
 Elec Spider Pok\x00e9mon
