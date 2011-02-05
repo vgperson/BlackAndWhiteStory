@@ -1,7 +1,7 @@
 ﻿... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
-... ... ...\xf000븁\x0000Go with Lord Getis.\xf000븁\x0000
-Getis: Splendid...\xfffeIt seems you obtained the Dark Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
-Getis: Splendid...\xfffeIt seems you obtained the Light Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
+... ... ...\xf000븁\x0000Go with Lord Ghetsis.\xf000븁\x0000
+Ghetsis: Splendid...\xfffeIt seems you obtained the Dark Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
+Ghetsis: Splendid...\xfffeIt seems you obtained the Light Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
 I will tell you Lord N's intentions...\xf000븁\x0000As you have both subdued\xfffelegendary Pokémon...\xf000븁\x0000He wants to fight you with conviction,\xfffeto see if he is truly a hero...\xf000븁\x0000
 I have trained him for the role of\xfffeone who would become a hero\xf000븀\x0000since he was very young.\xf000븁\x0000And as a result, he has earned the\xffferecognition of the legendary Pokémon...\xf000븀\x0000He is truly a pure one.\xf000븁\x0000
 The liberation of Pokémon that I...\xfffethat Team Plasma speaks of...\xf000븁\x0000It means the separation of\xfffePokémon from foolish people!\xf000븁\x0000Yes! So that all Trainers would be\xfffepowerless, unable to oppose me.\xf000븁\x0000It would be perfect if we were the\xfffeonly ones who could use Pokémon!\xf000븁\x0000

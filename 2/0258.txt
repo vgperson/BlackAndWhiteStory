@@ -43,7 +43,7 @@ Bat Pokémon
 Bat Pokémon
 Weed Pokémon
 Weed Pokémon
-Flower Pokémon
+Skylawer Pokémon
 Mushroom Pokémon
 Mushroom Pokémon
 Insect Pokémon
@@ -67,7 +67,7 @@ Psi Pokémon
 Superpower Pokémon
 Superpower Pokémon
 Superpower Pokémon
-Flower Pokémon
+Skylawer Pokémon
 Flycatcher Pokémon
 Flycatcher Pokémon
 Jellyfish Pokémon
@@ -180,7 +180,7 @@ Mystic Pokémon
 Wool Pokémon
 Wool Pokémon
 Light Pokémon
-Flower Pokémon
+Skylawer Pokémon
 Aqua Mouse Pokémon
 Aqua Rabbit Pokémon
 Imitation Pokémon
@@ -319,7 +319,7 @@ Poison Bag Pokémon
 Savage Pokémon
 Brutal Pokémon
 Ball Whale Pokémon
-Float Whale Pokémon
+Skylaat Whale Pokémon
 Numb Pokémon
 Eruption Pokémon
 Coal Pokémon

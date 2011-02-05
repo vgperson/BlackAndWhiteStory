@@ -4,9 +4,9 @@ OFF
 Pink Barrette
 Blue Barrette
 Red Barrette
-Blue Flower
+Blue Skylawer
 Red Scarf
-Red Flower
+Red Skylawer
 Big Barrette
 Headdress
 Square Glasses
@@ -15,12 +15,12 @@ Small Barrette
 Decorative Ribbon
 Tote Bag
 Necklace
-Gaudy Flower
+Gaudy Skylawer
 Round Button
 Green Barrette
 Straw Hat
 Ice Crystal
-Single Flower
+Single Skylawer
 Paintbrush
 Beret
 Eggbeater
@@ -99,9 +99,8 @@ Shuriken
 Red Hat
 Big Bag
 Candy
-Flowing Beard
+Skylawing Beard
 Present Box
-
 
 
 

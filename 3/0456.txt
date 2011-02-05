@@ -33,22 +33,22 @@ Cynthia: I'd like to live here,\xfffebut if I did, my research data\xf000븀\x00
 Cynthia: I have a problem.\xf000븁\x0000A white swimsuit or\xfffea black swimsuit...\xf000븀\x0000which one better suits me, I wonder?
 Cynthia: ...Hm.\xf000븁\x0000It's difficult...\xf000븁\x0000I have so many swimsuits I want\xfffeto wear, it's impossible to choose one...
 Iris: Hey, hey!\xfffeHave you seen Cynthia's Garchomp?\xf000븁\x0000It's SUPER CUUUUUTE!!
-Iris: I'm gonna go on a cruise\xfffewith uncle Shaga soon!\xf000븁\x0000Castelia City's packed with people,\xfffebut I'll be with gramps,\xf000븀\x0000so Iris'll be a-okay!
+Iris: I'm gonna go on a cruise\xfffewith uncle Drayden soon!\xf000븁\x0000Castelia City's packed with people,\xfffebut I'll be with gramps,\xf000븀\x0000so Iris'll be a-okay!
 Iris: Sometimes I remember\xfffethe village I was born in...\xf000븀\x0000but I don't care a bit!\xf000븁\x0000'Cause leaving has let me meet\xfffeall these people and Pokémon and everybody!
 Iris: We're on a BEACH!!
 Iris: The ocean is pretty,\xfffeso I always like to dive real deep...\xf000븀\x0000but everybody always worries about me!
-Flo: I'm good friends with\xfffeCamille and all, but...\xf000븀\x0000Pokémon battles are kinda different!\xf000븁\x0000It's absolutely crucial I make plans\xfffeto counter electric-types!
-Flo: Shooting through rainclouds\xfffein stormy weather\xf000븀\x0000is quite the spectacle...\xf000븁\x0000I'd like to show it to you someday!
-Flo: ...I was thinking just now.\xf000븁\x0000Are swimsuits meant to be revealing?\xfffeOr else, to be concealing?
-Flo: People can even fly to\xfffefar-off Sinnoh with a cargo plane!\xf000븁\x0000I personally love the feeling of\xfffehaving a Pokémon use Fly, though...
-Flo: Whew...\xfffeSwimming in the sea feels great!
-Camille: ...Showing off a Pokémon's charm\xfffeoften takes away the charm.\xf000븀\x0000It's difficult.
-Camille: ...Nimbassa City actually runs on\xfffeenergy provided by electric-type Pokémon.\xf000븁\x0000...Not really.
-Camille: Constant worry is bad\xfffefor both the body and mind.\xf000븁\x0000At times like that, you have\xfffeto short-circuit your thoughts\xf000븀\x0000to restore your proper mood.
-Camille: Without speaking...\xfffeWithout comprehensible language...\xf000븀\x0000Pokémon can convey my feelings\xf000븀\x0000to Trainers in place of me.
-Camille: When you get right down to it,\xfffeisn't a swimsuit just a piece of cloth?
-Aloe: Aren't fossils just amazing?\xf000븁\x0000Being dead, they shouldn't be able\xfffeto say a thing, yet they tell us\xf000븀\x0000all about the age they lived in.\xf000븁\x0000Hahaha... that's a line from\xfffeJuniper's lil' girl, though, 'course!
-Aloe: You can use TMs indefinitely, y'know?\xf000븁\x0000If you teach Vengeance to a bunch of\xfffePokémon, someday you should find\xf000븀\x0000just the right Pokémon for it!
-Aloe: When I was little...\xf000븁\x0000My pops dug for rocks in the mountains,\xfffeand always used to bring back bones.\xf000븁\x0000My childish fascination for the things\xfffeis what made me become a researcher!
-Aloe: That Bianca girl came to ask me\xfffeabout Pokémon the other day.\xf000븁\x0000When you want to know more about\xfffestuff you like, you never wear out!
-Aloe: Cynthia's a famous\xfffearchaeologist, so, y'know!\xf000븁\x0000We fellow researchers like to talk\xfffeamongst each other, all academic-like!
+Skyla: I'm good friends with\xfffeElesa and all, but...\xf000븀\x0000Pokémon battles are kinda different!\xf000븁\x0000It's absolutely crucial I make plans\xfffeto counter electric-types!
+Skyla: Shooting through rainclouds\xfffein stormy weather\xf000븀\x0000is quite the spectacle...\xf000븁\x0000I'd like to show it to you someday!
+Skyla: ...I was thinking just now.\xf000븁\x0000Are swimsuits meant to be revealing?\xfffeOr else, to be concealing?
+Skyla: People can even fly to\xfffefar-off Sinnoh with a cargo plane!\xf000븁\x0000I personally love the feeling of\xfffehaving a Pokémon use Fly, though...
+Skyla: Whew...\xfffeSwimming in the sea feels great!
+Elesa: ...Showing off a Pokémon's charm\xfffeoften takes away the charm.\xf000븀\x0000It's difficult.
+Elesa: ...Nimbassa City actually runs on\xfffeenergy provided by electric-type Pokémon.\xf000븁\x0000...Not really.
+Elesa: Constant worry is bad\xfffefor both the body and mind.\xf000븁\x0000At times like that, you have\xfffeto short-circuit your thoughts\xf000븀\x0000to restore your proper mood.
+Elesa: Without speaking...\xfffeWithout comprehensible language...\xf000븀\x0000Pokémon can convey my feelings\xf000븀\x0000to Trainers in place of me.
+Elesa: When you get right down to it,\xfffeisn't a swimsuit just a piece of cloth?
+Lenora: Aren't fossils just amazing?\xf000븁\x0000Being dead, they shouldn't be able\xfffeto say a thing, yet they tell us\xf000븀\x0000all about the age they lived in.\xf000븁\x0000Hahaha... that's a line from\xfffeJuniper's lil' girl, though, 'course!
+Lenora: You can use TMs indefinitely, y'know?\xf000븁\x0000If you teach Vengeance to a bunch of\xfffePokémon, someday you should find\xf000븀\x0000just the right Pokémon for it!
+Lenora: When I was little...\xf000븁\x0000My pops dug for rocks in the mountains,\xfffeand always used to bring back bones.\xf000븁\x0000My childish fascination for the things\xfffeis what made me become a researcher!
+Lenora: That Bianca girl came to ask me\xfffeabout Pokémon the other day.\xf000븁\x0000When you want to know more about\xfffestuff you like, you never wear out!
+Lenora: Cynthia's a famous\xfffearchaeologist, so, y'know!\xf000븁\x0000We fellow researchers like to talk\xfffeamongst each other, all academic-like!

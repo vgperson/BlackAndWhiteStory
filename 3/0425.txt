@@ -15,7 +15,7 @@ Give up on learning\xfffe\xf000ć\x0001\x0001?
 Delete the move\xfffe\xf000ć\x0001\x0000?
 1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-Shaga: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?
+Drayden: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?
 Very well. If you change\xfffeyour mind, then return.
 Hm...\xf000븁\x0000You do possess Pokémon\xfffecapable of learning the move.\xf000븁\x0000However, those Pokémon have\xfffeabsolutely no attachment to you...\xf000븁\x0000So I have no reason\xfffeto teach them this move.
 I see...\xf000븁\x0000But you possess no Pokémon\xfffethat can be taught this move.
@@ -23,7 +23,7 @@ Which Pokémon\xfffeshall I teach?\xf000븁\x0000
 I apologize profusely, but...\xf000븁\x0000That Pokémon cannot\xfffelearn this move.
 Hm...\xf000븁\x0000Teaching a move to an egg\xfffeis a task beyond me.
 Hm... but that Pokémon\xfffealready knows \xf000ć\x0001\x0000...
-Shaga: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000lowers your own Special Attack.
+Drayden: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000lowers your own Special Attack.
 You've come this far\xfffein pursuit of strength?\xf000븁\x0000...Very well.\xf000븁\x0000I respond to that zeal with...\xfffeThis! Teaching you a move!\xf000븁\x0000The ultimate moves!\xfffeWhich Pokémon shall I teach?
 The ultimate moves!\xfffeWhich Pokémon shall I teach?
 None of your Pokémon\xfffecan be taught any moves!\xf000븁\x0000Hear out the old lady there! HAH!!

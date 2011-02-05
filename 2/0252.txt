@@ -1,7 +1,7 @@
 ﻿-----
 Bulbizarre
 Herbizarre
-Florizarre
+Skylarizarre
 Salameche
 Reptincel
 Dracaufeu
@@ -186,7 +186,7 @@ Azumarill
 Simularbre
 Tarpaud
 Granivol
-Floravol
+Skylaravol
 Cotovol
 Capumain
 Tournegrin
@@ -257,7 +257,7 @@ Poussifeu
 Galifeu
 Brasegali
 Gobou
-Flobio
+Skylabio
 Laggron
 Medhyena
 Grahyena

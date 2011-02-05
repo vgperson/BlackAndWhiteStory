@@ -53,7 +53,7 @@ Die drei Köpfe bewegen sich abwech-\xfffeselnd, um sich durch harte Erde in\xff
 Ein nachtaktives Pokémon. Sieht es\xfffeetwas Schimmerndes, fangen\xfffeseine Augen an zu glänzen.
 Ein sehr stolzes Pokémon. Für Fans\xfffeist die Größe des Juwels auf seiner\xfffeStirn Anlass für Diskussionen.
 Leidet unter stetigem Kopfschmerz,\xfffeausgelöst durch seltsame Kräfte,\xfffedie es aber auch einsetzen kann.
-Die gut ausgeprägten Flossen\xfffeermöglichen einen sowohl eleganten\xfffeals auch dynamischen Schwimmstil.
+Die gut ausgeprägten Skylassen\xfffeermöglichen einen sowohl eleganten\xfffeals auch dynamischen Schwimmstil.
 Es lebt mit anderen in Baumkronen.\xfffeWird eines von ihnen wütend, werden\xfffealle anderen auch wütend.
 Siehst du ihm in die Augen, wird es\xfffewütend. Rennst du weg, wird es\xfffenoch wütender. Ärgerst du es...
 Ein loyales Pokémon. Es wird erst\xfffedann aktiv, wenn sein Trainer ihm\xfffeAnweisungen gegeben hat.
@@ -115,8 +115,8 @@ Ein freundliches Pokémon, das seine\xfffenahrhaften Eier mit verletzten\xfffePo
 Die blauen Ranken an seinem Körper\xfffesind von feinen Haaren bedeckt. Es\xfffegilt zudem als kitzlig.
 Sein Nachwuchs wächst in seinem\xfffeBeutel heran. Nur wenn es sicher\xfffeist, darf das Junge aus dem Beutel.
 Im Schatten von Korallen legt es\xfffesein Nest an. Bei Gefahr versprüht\xfffees Tinte und flieht.
-Seine Stacheln schützen es. Seine\xfffeFlossen und Knochen werden bei der\xfffeHerstellung von Medizin verwendet.
-Mit ausgebreiteten Flossen wirkt es\xfffesehr elegant. Kann allerdings auch\xfffeheftig mit seinem Horn zustoßen.
+Seine Stacheln schützen es. Seine\xfffeSkylassen und Knochen werden bei der\xfffeHerstellung von Medizin verwendet.
+Mit ausgebreiteten Skylassen wirkt es\xfffesehr elegant. Kann allerdings auch\xfffeheftig mit seinem Horn zustoßen.
 Im Herbst legt es an Gewicht zu und\xfffeerscheint in prächtigen Farben, um\xfffeso einen Partner anzulocken.
 Wird sein Körper verletzt, kann\xfffees sich regenerieren, sofern\xfffeder rote Kern intakt ist.
 In der Körpermitte befindet sich\xfffeein roter Kern, der mysteriöse\xfffeRadiowellen in die Nacht sendet.
@@ -224,7 +224,7 @@ Viele von ihnen leben in den\xfffesauberen Seen im Süden. In ver-\xfffeschmutzt
 Sein starker Wasserstrahl verfehlt\xfffeseine Gegner auch dann nicht, wenn\xfffedas Remoraid unter Wasser ist.
 Es lauert gerne in den Löchern von\xfffeFelsen, um vorbeischwimmende\xfffeBeute mit Tinte zu bespritzen.
 Im eingerollten Schweif transpor-\xfffetiert es Futter, das es mit denen\xfffeteilt, die sich verlaufen haben.
-Zieht elegant durch die Meere und\xfffeignoriert dabei Remoraid, die an\xfffeseinen Flossen haften.
+Zieht elegant durch die Meere und\xfffeignoriert dabei Remoraid, die an\xfffeseinen Skylassen haften.
 Es wird komplett von einer eisen-\xfffeharten Rüstung geschützt. Wenn es\xfffefliegt, erreicht es bis zu 300 km/h.
 Es jagt in Rudeln und kommuniziert\xfffeüber eine ganze Reihe von Rufen mit\xfffeanderen Hunduster.
 Ist es wütend, spuckt es giftige\xfffeFlammen. Die Schmerzen der\xfffeVerbrennungen dauern ewig an.
@@ -256,7 +256,7 @@ Die Blätter an seinen Armen können\xfffedicke Bäume fällen. Im Dschungel-\xf
 In seinem Inneren lodert ein Feuer.\xfffeEs schleudert 1 000 Grad heiße\xfffeFeuerbälle.
 Es kann 10 Tritte pro Sekunde aus-\xfffeteilen. Es gibt schrille Schreie von\xfffesich, um Gegner einzuschüchtern.
 Aus seinen Handgelenken kommt\xfffeFeuer, das seine Knöchel umhüllt.\xfffeSchläge verbrennen den Gegner.
-Die Flosse auf seinem Kopf prüft\xfffedie Strömung des Wassers. Dieses\xfffePKMN kann Felsen heben.
+Die Skylasse auf seinem Kopf prüft\xfffedie Strömung des Wassers. Dieses\xfffePKMN kann Felsen heben.
 Seine kräftigen Beine geben ihm\xfffesicheren Halt. Es gräbt sich in\xfffeDreck ein, wenn es schlafen will.
 Es kann im Schwimmen ein großes\xfffeSchiff ziehen. Seine Gegner schlägt\xfffees mit Schlägen seiner Arme zurück.
 Ein beharrliches PKMN, das seine\xfffeBeute jagt, bis diese erschöpft\xfffeist.

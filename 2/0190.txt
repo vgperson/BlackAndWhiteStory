@@ -19,11 +19,11 @@ Minoru
 Kumi and Lumi
 Yuri
 Tomomi
-Aloe
-Arty
-Camille
-Yacon
-Flo
+Lenora
+Burgh
+Elesa
+Clay
+Skyla
 Morito
 Yasuko
 Miguel
@@ -129,9 +129,9 @@ Munenori
 Tetsuharu
 Tony
 Robert
-Hachiku
+Brycen
 Iris
-Shaga
+Drayden
 Ekichi
 Ryuji
 Tetsuya
@@ -230,7 +230,7 @@ Shikimi
 Renbu
 Gima
 Caitlin
-Getis
+Ghetsis
 Lou
 Shun
 Nozomi
