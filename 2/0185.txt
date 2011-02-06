@@ -29,12 +29,12 @@ Battle Subway
 Big Stadium
 Little Court
 Known as the Gateway to Unova.\xfffeA port city that trades many goods.
-Hodomoe Gym
+Driftveil Gym
 Pokémon Center
-Hodomoe Market
+Driftveil Market
 Move Tutor's House
 Vegetables raised near the runway\xfffeare transported by cargo plane.
-Fukiyose Gym
+Mistralton Gym
 Pokémon Center
 Move Family House
 Cargo Service
@@ -44,7 +44,7 @@ Pokémon Center
 Pokémon Fanclub
 A town that respects history,\xfffestill treasuring what it always has.
 A changing town that dismisses\xfffethe past to pursue convenience.
-Souryuu Gym
+Opelucid Gym
 Pokémon Center
 Battle Mansion
 A place only challenged by Trainers\xfffewho have conquered all Pokémon gyms.

@@ -21,14 +21,14 @@ I can't very well ignore it,\xfffenow can I?\xf000븁\x0000So I'm going ahead an
 Miss Skyla?\xf000븁\x0000She finished her business with her cargo\xfffeand went off somewhere...\xf000븁\x0000Maybe check out the\xfffeTower of Heaven on Route 7?
 N: \xf000븉\x0001\x0001...To understand each other,\xfffeTrainers struggle through battle,\xf000븀\x0000and wound Pokémon in the process.\xf000븁\x0000Am I the only one? The only one\xfffewho sees how very painful it is?\xf000븁\x0000Regardless... I have\xfffespoken to your Pokémon...\xf000븁\x0000...Since the day I was born,\xfffeI have been brought up with Pokémon.\xf000븀\x0000It's more comfortable to me\xf000븀\x0000than talking with people.\xf000븁\x0000So I know Pokémon cannot ever lie.\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001\xf000ā\x0001\x0000...\xf000븁\x0000Would you tell me what\xfffekind of Trainer \xf000Ā\x0001\x0001 is?\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...I see. So you were born\xfffeand raised in Kanoko Town,\xf000븀\x0000together with your mother...\xf000븁\x0000Taking the opportunity presented to\xfffeyou by the Pokédex, you are\xf000븀\x0000out on a journey to see the world...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...I see. So you were born\xfffeand raised in Nuvema Town,\xf000븀\x0000together with your mother...\xf000븁\x0000Taking the opportunity presented to\xfffeyou by the Pokédex, you are\xf000븀\x0000out on a journey to see the world...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001Even so, for whatever reason, this\xfffe\xf000ā\x0001\x0001 seems to believe in you...\xf000븀\x0000How splendid...!\xf000븁\x0000If only all people could get\xfffealong with Pokémon as you all do...\xf000븁\x0000Yet the fate of Pokémon and humans\xfffeis left in the hands of those\xf000븀\x0000who use Pokémon for themselves...\xf000븁\x0000Ghetsis is having Team Plasma\xfffesearch for a special stone.\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001The paired Light Stone and Dark Stone...\xfffethey are what we seek.\xf000븁\x0000The body of the legendary Pokémon\xfffewas destroyed, and it sleeps\xf000븀\x0000in the form of a stone,\xf000븀\x0000awaiting the hero's return...\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001I will revive the legendary Pokémon\xfffefrom its slumber.\xf000븁\x0000And I will befriend it, and the world\xfffewill recognize me as a hero...\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001...My dream is to make this\xfffea world without strife.\xf000븁\x0000If the world is changed by force,\xfffethere will be those who oppose it.\xf000븁\x0000And when there is opposition,\xfffethose wounded are the innocent Pokémon\xf000븀\x0000whom foolish Trainers abuse...\xf000븁\x0000Yes... Pokémon are not\xfffeplaythings for people to control!\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001As such...\xf000븁\x0000It pains me a little to separate\xfffeTrainers from their Pokémon\xf000븀\x0000when there are ones like you\xf000븀\x0000who respect each other...\xf000븉\x0001\x0000\xf000븁\x0000
 Airplanes! Behold their form!\xfffeAnd the design that gives them flight!\xf000븁\x0000\xfffeAnd the mechanics behind that flight...\xfffethey let nothing go to waste!
-The Fukiyose airport\xfffeonly flies cargo planes.\xf000븁\x0000\xfffeWhen Trainers want to fly,\xfffethat's what the move Fly is for!
+The Mistralton airport\xfffeonly flies cargo planes.\xf000븁\x0000\xfffeWhen Trainers want to fly,\xfffethat's what the move Fly is for!
 Miss Skyla's grandpa was\xfffea legendary airplane pilot!\xf000븁\x0000\xfffeOh, Miss Skyla is this town's\xfffegym leader, of course!\xf000븀\x0000\xfffeShe's such a kind girl!
 Pokémon and people cleared desolate\xfffeland so that everyone could live on it...\xf000븁\x0000\xfffeI'm certain that optimistic spirit\xfffewill never change!
 If you're careful, it doesn't matter\xfffeif you play on the runway!\xf000븁\x0000\xfffeThe cargo planes only set out\xfffeabout once a day.
@@ -41,6 +41,6 @@ Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hid
 Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hide\xf000븀\x0000that Technical Machine, but...\xf000븁\x0000But since we're not worthy,\xfffeyou can use it, miss!\xf000븁\x0000We can get another one\xfffefrom miss Skyla anyway!\xf000븁\x0000
 UUUUUSE IIIIIT!!\xf000븁\x0000
 See ya! Buh-bye!!\xf000븁\x0000
-Fukiyose City\xfffeWhere the wind brings flowers!
-Fukiyose Cargo Service\xfffeQuick and Safe!
-Fukiyose Pokémon Gym\xfffeLeader: Skyla\xf000븀\x0000\xfffeGirl Soaring the Skies
+Mistralton City\xfffeWhere the wind brings flowers!
+Mistralton Cargo Service\xfffeQuick and Safe!
+Mistralton Pokémon Gym\xfffeLeader: Skyla\xf000븀\x0000\xfffeGirl Soaring the Skies

@@ -8,7 +8,7 @@ Cheren: ...And this is?\xf000븁\x0000
 Elesa: He's Adeku, the Champion\xfffeof the Unova region.\xf000븁\x0000
 Cheren: He's the Champion?!\xf000븁\x0000And why is the Champion frolicking\xfffein a place like this?\xf000븁\x0000
 Adeku: ...Man, I heard that!\xfffeYou're a harsh lad, ain't ya?\xf000븁\x0000Hey there.\xfffeMy name's Adeku.\xf000븁\x0000Champion of the\xfffeUnova Pokémon League!\xf000븁\x0000And for your information,\xfffeI'm not "frolicking,"\xf000븀\x0000I'm questing!\xf000븁\x0000Questing through every\xfffenook and cranny of Unova!\xf000븁\x0000
-Cheren: ...I come from\xfffeKanoko Town, myself.\xf000븀\x0000Call me Cheren.\xf000븁\x0000As a Trainer, it's my goal\xfffeto become Champion, but...\xf000븁\x0000
+Cheren: ...I come from\xfffeNuvema Town, myself.\xf000븀\x0000Call me Cheren.\xf000븁\x0000As a Trainer, it's my goal\xfffeto become Champion, but...\xf000븁\x0000
 Adeku: Hm! Adventuring with a goal's\xfffea right admirable thing.\xf000븁\x0000So what do you plan to do\xfffeonce you're Champion, kiddo?\xf000븁\x0000
 Cheren: ...Is there anything to it\xfffebeyond seeking power?\xf000븁\x0000The Champion is the strongest Trainer...\xfffeand that's about it, right?\xf000븁\x0000
 Adeku: Hmm, getting stronger...\xfffestronger, huh...?\xf000븁\x0000Wonder if that's really\xfffesuch a good goal to have?\xf000븁\x0000Well, I won't be one to shoot down\xfffeyour ideas, of course.\xf000븁\x0000
@@ -22,7 +22,7 @@ Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf0
 Adeku: Even totally different beings\xfffelike people and Pokémon\xf000븀\x0000can appreciate each other\xf000븀\x0000and be together... It's splendid!
 Uncle Adeku's real strong!\xfffeAnd he's so kind to his Pokémon, too!
 I used to think\xfffePokémon were pretty scary...\xf000븁\x0000But then Uncle Adeku taught me\xfffethat they're gentle and caring!
-Elesa: ...Well, let's go.\xfffeThe Hodomoe Drawbridge is just ahead.\xf000븁\x0000
+Elesa: ...Well, let's go.\xfffeThe Driftveil Drawbridge is just ahead.\xf000븁\x0000
 Cheren: The Champion is all strength!\xfffeThat's the only answer there can be...!\xf000븁\x0000
 Cheren: Over here.\xf000븁\x0000
 Elesa: Okay, I'll get in contact.\xf000븁\x0000
@@ -31,8 +31,8 @@ Now, watch!\xf000븁\x0000
 Elesa: I've got a TV stint,\xfffeso I'll be heading back now.\xf000븁\x0000The gym leader in the next town's\xfffea bit of an old-timer,\xf000븀\x0000but just do your best.\xf000븁\x0000
 Cheren: ...I'm a Trainer.\xf000븁\x0000Getting stronger and winning\xfffeis how I can prove I'm right.\xf000븀\x0000Even to the Champion.\xf000븁\x0000
 Excuse meee!\xfffeStop there, pleeease!\xf000븁\x0000
-The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Hodomoe's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.
-The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Hodomoe's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.\xf000븁\x0000
+The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Driftveil's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.
+The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Driftveil's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.\xf000븁\x0000
 Whatever the bridge,\xfffeit's no good if you can't cross!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!
 ECHO, my melody\xfffeFIGHT, my Pokémon!\xf000븁\x0000
 I learned from that battle...\xf000븁\x0000I learned you're the BEST!\xfffeTake this with you!\xf000븁\x0000
@@ -48,6 +48,6 @@ Pokémon and performers\xfffeboth have sweet moves!
 It's a fantastic ability to be able\xfffeto put a smile on someone's face!\xf000븁\x0000Yeah! Pokémon are fantastic!\xfffeBecause they make you smile!
 Even the street performers\xfffeadd to Nimbasa's charm!
 Route 5\xfffePerformer's Street
-Hodomoe Drawbridge
-Hodomoe Drawbridge
+Driftveil Drawbridge
+Driftveil Drawbridge
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.

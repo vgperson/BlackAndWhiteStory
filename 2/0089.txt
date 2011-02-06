@@ -2,16 +2,16 @@
 Mysterious Place
 Faraway Place
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-Kanoko Town
+Nuvema Town
 Karakusa Town
 Striaton City
 Nacrene City
 Castelia City
 Nimbasa City
-Hodomoe City
-Fukiyose City
+Driftveil City
+Mistralton City
 Icirrus City
-Souryuu City
+Opelucid City
 Route 1
 Route 2
 Route 3
@@ -39,8 +39,8 @@ Thunderstone Cave
 Mt. Helix
 Dragonspiral Tower
 Victory Road
-Kagome Town
-Sazanami Town
+Lacunosa Town
+Undella Town
 Kanawa Town
 Pokémon League
 N's Castle
@@ -52,7 +52,7 @@ Black City
 White Forest
 United Tower
 Groundwater Cave
-Fukiyose Cave
+Mistralton Cave
 Meditative Plains
 Tower of Heaven
 Icirrus Wetlands
@@ -63,23 +63,23 @@ Giant Hole
 Liberty Garden Island
 P2 Laboratory
 Sky Arrow Bridge
-Hodomoe Drawbridge
+Driftveil Drawbridge
 Cylinder Bridge
 Village Bridge
 Wonder Bridge
 Entralink
 Fertility Shrine
-Sazanami Bay
+Undella Bay
 Lost Forest
 Cellar of Trials
 Room of Conduct
 Entralink Forest
 Nimbasa City
-Hodomoe City
-Fukiyose City
+Driftveil City
+Mistralton City
 Icirrus City
-Souryuu City
-Kanoko Town
+Opelucid City
+Nuvema Town
 White Forest
 Black City
 Cold Storage
@@ -102,14 +102,14 @@ Route 13
 Route 14
 Route 15
 Route 16
-Kagome Town
-Sazanami Town
+Lacunosa Town
+Undella Town
 Karakusa Gate
-Sazanami Gate
+Undella Gate
 Nacrene Gate
 Castelia Gate
 Nimbasa Gate
-Souryuu Gate
+Opelucid Gate
 Black Gate
 White Gate
 Village Gate

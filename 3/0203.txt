@@ -30,7 +30,7 @@ no data
 N: \xf000븉\x0001\x0001...Why?\xf000븁\x0000Why is it that though\xfffeI agonize over being a Trainer,\xf000븀\x0000no matter how much I fight,\xf000븀\x0000I can't win...? \xf000븁\x0000Ugh! Is this how I am\xfffeto pursue the truth?!\xf000븁\x0000The legendary Pokémon...\xfffewill it befriend me...?!\xf000븉\x0001\x0000\xf000븁\x0000
 N: \xf000븉\x0001\x0001...Why?\xf000븁\x0000Why is it that though\xfffeI agonize over being a Trainer,\xf000븀\x0000no matter how much I fight,\xf000븀\x0000I can't win...? \xf000븁\x0000Ugh! Is this how I am\xfffeto pursue my ideals?!\xf000븁\x0000The legendary Pokémon...\xfffewill it befriend me...?!\xf000븉\x0001\x0000\xf000븁\x0000
 Bianca: \xf000Ā\x0001\x0000!\xf000븁\x0000
-Fukiyose City is just ahead!\xf000븁\x0000
+Mistralton City is just ahead!\xf000븁\x0000
 Juniper: ...Good ears, Bianca.\xf000븁\x0000I can't believe you heard \xf000Ā\x0001\x0000\xfffefrom so far away!\xf000븁\x0000So, \xf000Ā\x0001\x0000,\xfffewho's that Trainer there...?\xf000븁\x0000
 N: \xf000븉\x0001\x0001...Juniper?\xf000븁\x0000People without doubts on the relation\xfffebetween Trainers and Pokémon...\xf000븁\x0000They classify Pokémon by\xfffearbitrary rules, as you know...\xf000븁\x0000I can't very well\xfffeapprove of your "Pokédex," but...\xf000븀\x0000what exactly are your thoughts on it?\xf000븉\x0001\x0000\xf000븁\x0000
 Juniper: Oh...?\xfffeYou sound quite opposed to it.\xf000븁\x0000But, hey, your opinion is just\xfffeone way of looking at things.\xf000븁\x0000And my own wishes, too,\xfffeare just one of the ways.\xf000븁\x0000How to get along with Pokémon...\xfffethat's for everyone to decide\xf000븀\x0000for themselves, isn't it?\xf000븁\x0000
