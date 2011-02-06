@@ -160,7 +160,7 @@ I was going to overwhelm you\xfffewith a speedy fighting style, but...!\xf000븁
 I lost, but thinking back on it,\xfffeI still think I got stronger...
 Your fashion...\xfffeThere's no doubt, it's Kanoko Town-ish!\xf000븁\x0000
 Inconceivable! Shouldn't my\xfffesuperior fashion have overwhelmed you...?!
-You, too, should become a fan of\xfffethe dazzling Nimbassa's dazzling gym's\xf000븀\x0000dazzling leader, Ms. Elesa!
+You, too, should become a fan of\xfffethe dazzling Nimbasa's dazzling gym's\xf000븀\x0000dazzling leader, Ms. Elesa!
 ...Ho now!\xfffeThat's how it'll be, huh?
 It's fine by me if ya wanna\xfffegive up anytime, y'know!
 Well, I give up... And keep in mind\xfffeI wasn't goin' easy on ya!
@@ -174,8 +174,8 @@ I've taken aim!\xf000븁\x0000I'll do circles around you\xfffewith my flight tec
 What the?!\xfffeMy aim was off...
 I rely most heavily\xfffeon moves with perfect accuracy.\xf000븁\x0000For example, Aerial Ace and Swift!
 Deep in the freezer storage, one man\xfffeuses the coldest of cold Pokémon!\xf000븀\x0000That would be me!\xf000븁\x0000
-I give up!\xfffeMaybe I should train at Sekka Gym...
-The gym leader of Sekka City\xfffeuses ice-type Pokémon!\xf000븁\x0000If I train both mind and body there,\xfffeI'll come to be cool with the cool!
+I give up!\xfffeMaybe I should train at Icirrus Gym...
+The gym leader of Icirrus City\xfffeuses ice-type Pokémon!\xf000븁\x0000If I train both mind and body there,\xfffeI'll come to be cool with the cool!
 The freezer storage is freezing!\xf000븁\x0000Do you find it refreshing?\xfffeWell, savor it!\xf000븁\x0000
 Brrrrr?!\xfffeMy spine's not just shivering, it's frozen!
 Even this freezer storage\xfffeis loaded with Trainers!
@@ -258,7 +258,7 @@ Impressive!\xfffeBut of course, you DO have a Pokédex!
 Actually, I heard a rumor that\xfffefather and daughter Professor Juniper\xf000븀\x0000were backpackers in their youth...
 Who's traveling with me?\xfffeWhy, the Pokémon recommended by\xf000븀\x0000this popular guidebook!\xf000븁\x0000
 Well, the guidebook\xfffedoesn't tell you how to win...
-According to this guidebook,\xfffeNimbassa City is a town full of amusement!\xf000븀\x0000I'm sure it's loaded with fun times!
+According to this guidebook,\xfffeNimbasa City is a town full of amusement!\xf000븀\x0000I'm sure it's loaded with fun times!
 You're passing through?\xf000븁\x0000Then you better greet me!\xf000븁\x0000
 Why, you!\xfffeYou're really tough!
 A kid like you would be\xfffebetter with a bike!\xf000븀\x0000It's healthier for you!
@@ -885,7 +885,7 @@ And your Pokémon\xfffeare even AWESOMER!
 Your Pokémon gotta try hard too!\xfffeThat how I train mine!
 Did you see today's game?!\xf000븁\x0000The players and the Pokémon\xfffewere handing off balls to each other!\xf000븁\x0000I've gotta let out\xfffemy excitement in a battle!\xf000븁\x0000
 I lost, but man,\xfffeI'm still so pumped!
-The only place to see\xfffePokémon enjoying sports\xf000븀\x0000is Nimbassa City!
+The only place to see\xfffePokémon enjoying sports\xf000븀\x0000is Nimbasa City!
 Just coming here makes you tense!\xfffeSo I'mma battle you!\xf000븁\x0000
 I lost to you so QUICK!
 Watching the games\xfffegets me riled up!\xf000븀\x0000I can't even sit still!
@@ -1232,7 +1232,7 @@ When people use Pokémon, it becomes\xfffea competition, strong versus weak...\x
 These are Team Plasma's wishes!\xf000븁\x0000And you have\xfffeno part in them!\xf000븁\x0000
 Wait! What! You're!\xfffeToo! Strong! Hrnnngh!
 These are Team Plasma's wishes!\xf000븁\x0000Our king will stand above all\xfffeand release all Pokémon!\xf000븁\x0000And you! Let your Pokémon run!\xfffeStop being a Trainer!
-I've reached peak tension\xfffehere at Dragon-Helix Tower!\xf000븀\x0000Hurry up and lose to me!\xf000븁\x0000
+I've reached peak tension\xfffehere at Dragonspiral Tower!\xf000븀\x0000Hurry up and lose to me!\xf000븁\x0000
 Ahhh! Ahhh! Ahhh!\xfffeIt's going down now!
 ...I gotta say, though, what a tower!\xf000븁\x0000With so much history to it, I can't\xfffehelp but feel a sublime power!
 Brycen, Cheren, who cares....\xfffeThey're just annoyances to me!\xf000븁\x0000
@@ -1536,7 +1536,7 @@ I feel the bonds between\xfffeyou and your Pokémon!
 I continue my journey\xfffeto drown my sorrows...\xf000븁\x0000But when the seasons change,\xfffeI remember my sorrow anew!
 I ride my bicycle,\xfffeI feel the gentle breeze,\xf000븀\x0000and I win Pokémon battles!\xf000븁\x0000
 A pleasant breeze brings my loss...\xfffe...Actually, it's stopped now. Hm.
-I'm surprised I didn't know,\xfffebut Nimbassa seems to be having\xf000븀\x0000a bicycle-riding craze of sorts!
+I'm surprised I didn't know,\xfffebut Nimbasa seems to be having\xf000븀\x0000a bicycle-riding craze of sorts!
 Bring-ring! ♪\xf000븁\x0000At these speeds,\xfffeI might as well Pokémon battle!\xf000븁\x0000
 It sucks that I lost, but...\xfffeBring-ring! ♪ Heehee!
 When I'm on my bike,\xfffeI can speed up!\xf000븁\x0000When I'm with Pokémon,\xfffeI can do so much!\xf000븁\x0000Achieving what you can't\xfffeis seriously lots of fun!

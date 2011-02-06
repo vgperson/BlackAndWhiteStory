@@ -22,7 +22,7 @@ Name Rater
 Pokémon Massage
 Royal Unova
 A lively city full of amusement\xfffeand lined with theme parks.
-Nimbassa Gym
+Nimbasa Gym
 Pokémon Center
 Musical Hall
 Battle Subway
@@ -39,7 +39,7 @@ Pokémon Center
 Move Family House
 Cargo Service
 In winter, the town is covered in\xfffethick snow, making it a snowscape.
-Sekka Gym
+Icirrus Gym
 Pokémon Center
 Pokémon Fanclub
 A town that respects history,\xfffestill treasuring what it always has.
@@ -95,7 +95,7 @@ Rolling, gentle hills make it\xfffea joy to simply walk along.
 A route famous for its beach\xfffethat passes through the sea.
 A route shrouded in fog formed\xfffefrom the waterfall's splashing water.
 The rugged cliffs can be walked,\xfffebut the route is still rough.
-Many people visiting Nimbassa City\xfffeon foot stop to rest here.
+Many people visiting Nimbasa City\xfffeon foot stop to rest here.
 Currents caused by the terrain\xfffemake it impossible to advance freely.
 There are researches who point out\xfffeits former connection to Resort Desert.
 Unova's oldest bridge, supported\xfffeby four main towers.

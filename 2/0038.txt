@@ -4,17 +4,17 @@
 ◇Trainer from Kanoko Town is victorious over Striaton Gym Leaders Cress, Chili, and Cilan!
 ◇Trainer from Kanoko Town is victorious over Nacrene Gym Leader Lenora!
 ◇Trainer from Kanoko Town is victorious over Castelia Gym Leader Burgh!
-◇Trainer from Kanoko Town is victorious over Nimbassa Gym Leader Elesa!
+◇Trainer from Kanoko Town is victorious over Nimbasa Gym Leader Elesa!
 ◇Trainer from Kanoko Town is victorious over Hodomoe Gym Leader Clay!
 ◇Trainer from Kanoko Town is victorious over Fukiyose Gym Leader Skyla!
-◇Trainer from Kanoko Town is victorious over Sekka Gym Leader Brycen!
+◇Trainer from Kanoko Town is victorious over Icirrus Gym Leader Brycen!
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Iris!
 ◇Trainer from Kanoko Town is victorious over Souryuu Gym Leader Drayden!
 ◇"Tender love and care! They'll grow up quick!" Route 3 Daycare
 ◇"Discover the future told by your names!" Castelia City Name Rater
 ◇"What're they up to? Let's survey!" Castelia City Chance-Upon Survey
-◇"Ride and fight on! This train never stops!" Nimbassa City Battle Subway
-◇"The stairway to stardom begins here!" Nimbassa City Musical Hall
+◇"Ride and fight on! This train never stops!" Nimbasa City Battle Subway
+◇"The stairway to stardom begins here!" Nimbasa City Musical Hall
 ◇"Here come your items, over the wind and waves to you!" Hodomoe Market
 ◇"We've got it all at Unova's biggest shopping district!" Shopping Mall R9
 ◇From Striaton City, you can smell the refreshing breeze of the forest!
@@ -44,7 +44,7 @@
 ◇The streets of Castelia City are a totally different spectacle at night and in day!
 ◇Castelia City is a boiling pot of cultures and foods from various lands!
 ◇There's a place investigating the way people happen upon other people!
-◇Nimbassa City is said to be a source of many excitement-packed battles.
+◇Nimbasa City is said to be a source of many excitement-packed battles.
 ◇Tempestuous tennis and burning basketball! The lively Little Court!
 ◇The Battle Subway is said to be built for enthusiasts of railroads and battling.
 ◇Pokémon scouts occasionally make an appearance at the Musical Hall.
@@ -52,7 +52,7 @@
 ◇The famous roller coaster runs through a surprising location...
 ◇Glittering landscapes, exciting heights, and heart-pounding encounters... The Dual-Rider Ferris Wheel
 ◇Kanawa Town can be reached from the Gear Station.
-◇You gotta see it at least once! Number one in amusement! Welcome to Nimbassa City!
+◇You gotta see it at least once! Number one in amusement! Welcome to Nimbasa City!
 ◇Hodomoe City is a harbor adjacent to the shore.
 ◇Long ago, ships sailed by means of the wind and water.
 ◇Hodomoe is a town founded upon freight trading and fishing.

@@ -7,10 +7,10 @@ Karakusa Town
 Striaton City
 Nacrene City
 Castelia City
-Nimbassa City
+Nimbasa City
 Hodomoe City
 Fukiyose City
-Sekka City
+Icirrus City
 Souryuu City
 Route 1
 Route 2
@@ -37,7 +37,7 @@ Ancient Castle
 Cold Storage
 Thunderstone Cave
 Mt. Helix
-Dragon-Helix Tower
+Dragonspiral Tower
 Victory Road
 Kagome Town
 Sazanami Town
@@ -55,7 +55,7 @@ Groundwater Cave
 Fukiyose Cave
 Meditative Plains
 Tower of Heaven
-Sekka Wetlands
+Icirrus Wetlands
 Shopping Mall
 Discipline Cavern
 Shift Factory
@@ -74,10 +74,10 @@ Lost Forest
 Cellar of Trials
 Room of Conduct
 Entralink Forest
-Nimbassa City
+Nimbasa City
 Hodomoe City
 Fukiyose City
-Sekka City
+Icirrus City
 Souryuu City
 Kanoko Town
 White Forest
@@ -85,7 +85,7 @@ Black City
 Cold Storage
 Thunderstone Cave
 Mt. Helix
-Dragon-Helix Tower
+Dragonspiral Tower
 Great Hall
 Hobomoe Drawbridge
 Cylinder Bridge
@@ -108,7 +108,7 @@ Karakusa Gate
 Sazanami Gate
 Nacrene Gate
 Castelia Gate
-Nimbassa Gate
+Nimbasa Gate
 Souryuu Gate
 Black Gate
 White Gate

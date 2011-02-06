@@ -1462,9 +1462,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeElectra Ball!
 \xf000ā\x0001\x0000 used\xfffeWater Soak!
 The wild \xf000ā\x0001\x0000 used\xfffeWater Soak!
 The foe's \xf000ā\x0001\x0000 used\xfffeWater Soak!
-\xf000ā\x0001\x0000 used\xfffeNitro Charge!
-The wild \xf000ā\x0001\x0000 used\xfffeNitro Charge!
-The foe's \xf000ā\x0001\x0000 used\xfffeNitro Charge!
+\xf000ā\x0001\x0000 used\xfffeFlame Charge!
+The wild \xf000ā\x0001\x0000 used\xfffeFlame Charge!
+The foe's \xf000ā\x0001\x0000 used\xfffeFlame Charge!
 \xf000ā\x0001\x0000 used\xfffeCoil!
 The wild \xf000ā\x0001\x0000 used\xfffeCoil!
 The foe's \xf000ā\x0001\x0000 used\xfffeCoil!
@@ -1600,15 +1600,15 @@ The foe's \xf000ā\x0001\x0000 used\xfffeWood Horn!
 \xf000ā\x0001\x0000 used\xfffeSacred Sword!
 The wild \xf000ā\x0001\x0000 used\xfffeSacred Sword!
 The foe's \xf000ā\x0001\x0000 used\xfffeSacred Sword!
-\xf000ā\x0001\x0000 used\xfffeShell Blade!
-The wild \xf000ā\x0001\x0000 used\xfffeShell Blade!
-The foe's \xf000ā\x0001\x0000 used\xfffeShell Blade!
+\xf000ā\x0001\x0000 used\xfffeRazor Shell!
+The wild \xf000ā\x0001\x0000 used\xfffeRazor Shell!
+The foe's \xf000ā\x0001\x0000 used\xfffeRazor Shell!
 \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
 The wild \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
 The foe's \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
-\xf000ā\x0001\x0000 used\xfffeGrass Mixer!
-The wild \xf000ā\x0001\x0000 used\xfffeGrass Mixer!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrass Mixer!
+\xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
+The wild \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
+The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
 \xf000ā\x0001\x0000 used\xfffeHard Roller!
 The wild \xf000ā\x0001\x0000 used\xfffeHard Roller!
 The foe's \xf000ā\x0001\x0000 used\xfffeHard Roller!

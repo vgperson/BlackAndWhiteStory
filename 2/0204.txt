@@ -486,7 +486,7 @@ Heavy Bomber
 Synchronise
 Electra Ball
 Water Soak
-Nitro Charge
+Flame Charge
 Coil
 Ankle Kick
 Acid Bomb
@@ -532,9 +532,9 @@ Dual Chop
 Heart Stamp
 Wood Horn
 Sacred Sword
-Shell Blade
+Razor Shell
 Heat Stamp
-Grass Mixer
+Leaf Tornado
 Hard Roller
 Cotton Guard
 Night Burst

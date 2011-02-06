@@ -68,7 +68,7 @@ Pokémon Type: Normal\xfffeYou've beaten this leader!
 Third badge.\xfffeCastelia City Gym
 Leader: Burgh
 Pokémon Type: Bug\xfffeYou've beaten this leader!
-Fourth badge.\xfffeNimbassa City Gym
+Fourth badge.\xfffeNimbasa City Gym
 Leader: Elesa
 Pokémon Type: Electric\xfffeYou've beaten this leader!
 Fifth badge.\xfffeHodomoe City Gym
@@ -77,7 +77,7 @@ Pokémon Type: Ground\xfffeYou've beaten this leader!
 Sixth badge.\xfffeFukiyose City Gym
 Leader: Skyla
 Pokémon Type: Flying\xfffeYou've beaten this leader!
-Seventh badge.\xfffeSekka City Gym
+Seventh badge.\xfffeIcirrus City Gym
 Leader: Brycen
 Pokémon Type: Ice\xfffeYou've beaten this leader!
 Eighth badge.\xfffeSouryuu City Gym
