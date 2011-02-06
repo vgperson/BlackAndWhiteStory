@@ -63,8 +63,8 @@ Quit
 おともだちと おなじ\xfffe\xf000ā\x0001\x0000を えらんで います！\xf000븁\x0000おともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
 おともだちと おなじ \xf000ā\x0001\x0000や\xfffe\xf000ā\x0001\x0001を えらんで います！\xf000븁\x0000\xfffeおともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
 おともだちと えらんだ\xfffeトレインが ちがって います！\xf000븁\x0000\xfffeおともだちと そうだん してから\xfffeまた おこし ください\xf000븁\x0000
-Good day! I'm Touya!\xf000븁\x0000\xfffeThis is your first time trying\xfffethe Multi Train, right?\xf000븁\x0000\xfffeWell, you need a partner\xfffeto challenge the Multi Train!\xf000븁\x0000
-Good day! I'm Touko!\xf000븁\x0000\xfffeThis is your first time trying\xfffethe Multi Train, yes?\xf000븁\x0000\xfffeWell, you need a partner\xfffeto challenge the Multi Train!\xf000븁\x0000
+Good day! I'm Blair!\xf000븁\x0000\xfffeThis is your first time trying\xfffethe Multi Train, right?\xf000븁\x0000\xfffeWell, you need a partner\xfffeto challenge the Multi Train!\xf000븁\x0000
+Good day! I'm Whitlea!\xf000븁\x0000\xfffeThis is your first time trying\xfffethe Multi Train, yes?\xf000븁\x0000\xfffeWell, you need a partner\xfffeto challenge the Multi Train!\xf000븁\x0000
 Good day, \xf000Ā\x0001\x0000!\xfffeWe meet again!\xf000븁\x0000
 Good day, \xf000Ā\x0001\x0000!\xfffeNice to see you!\xf000븁\x0000
 Oh, are you alone today?\xf000븁\x0000\xfffeWell then, partner up with me!\xfffeYeah, yeah, that works.\xf000븁\x0000\xfffeSo, what kind of Pokémon\xfffeshould I use?

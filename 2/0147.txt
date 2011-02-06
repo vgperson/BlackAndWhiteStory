@@ -1,5 +1,5 @@
 ﻿C-Gear
-Exit Power
+Pass Power
 Elegant
 Cute
 Cool
@@ -19,7 +19,7 @@ Trial
 Badge
 Battle Trial
 Battle Box
-Exit Ball
+Pass Ball
 PokéCenter
 Pokémon
 Mission

@@ -36,8 +36,8 @@ C-Gear Survey Reports
 IR (Infrared) Connection
 Game Sync
 Entralink
-Exit Power
-Exit Ball
+Pass Power
+Pass Ball
 The Bag
 The Trainer Card
 The Pokédex
