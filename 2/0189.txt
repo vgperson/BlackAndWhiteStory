@@ -210,8 +210,8 @@ What's taken will be returned...\xfffeGot it? And don't forget it...!
 Hey, look!\xfffeIt's the Striaton City gym badge!\xf000븁\x0000Oh, you have it too!\xfffeBut who's better?\xf000븀\x0000Let's Pokémon battle it out!\xf000븁\x0000
 Nice! Battling people with\xfffegym badges is way different!
 You know there's a symbol\xfffenear the gym entrance, right?\xf000븁\x0000When you get a gym badge,\xfffeyour name is written there!
-I patrol Yaguruma Forest\xfffeday after day!\xf000븀\x0000It's my job to battle you here!\xf000븁\x0000
-...Losing in Yaguruma Forest\xfffemeans I've failed in my duty!
+I patrol Pinwheel Forest\xfffeday after day!\xf000븀\x0000It's my job to battle you here!\xf000븁\x0000
+...Losing in Pinwheel Forest\xfffemeans I've failed in my duty!
 A Ranger always carries one of these...\xfffeI'll give it to you...!\xf000븁\x0000
 The forest is alive...\xf000븁\x0000Every day, something seems to change,\xfffeso patrolling is all the more enjoyable!
 Blending into the wild to\xfffespeak to the hearts of Pokémon...\xf000븀\x0000That's being a Pokémon Ranger!!\xf000븁\x0000
@@ -530,7 +530,7 @@ It's not a plain old Trainer,\xfffeit's a REALLY STRONG Trainer!!
 Have you heard that when tall grass\xfffeshakes, a rare-ish Pokémon will come out?
 These are my best Pokémon!\xfffeFreshly caught!\xf000븁\x0000
 I just caught them...\xfffeI didn't train them yet!
-Alright! I'll catch more\xfffePokémon in Yaguruma Forest\xf000븀\x0000and get more allies!
+Alright! I'll catch more\xfffePokémon in Pinwheel Forest\xf000븀\x0000and get more allies!
 HIYAAAA! That's a good enough yell!\xfffeLet's get started already!!\xf000븁\x0000
 PCHOOOOOOOO!\xfffeThat's my spirit deflating!
 I'll tell you something, strong one!\xf000븁\x0000Rocks only need to be\xfffesmashed once per day!
@@ -1389,10 +1389,10 @@ However hard it may get,\xfffethe higher you climb a mountain,\xf000븀\x0000the
 Atop a slightly-elevated hill...\xfffeYou and I will face off...\xf000븁\x0000
 Atop a slightly-elevated hill...\xfffeI have no losing remark to make...
 Atop a slightly-elevated hill...\xfffeWhat am I looking at...?\xf000븁\x0000I'm looking at the numerous\xfffeTrainers I've faced before...\xf000븁\x0000How many more will I fight...?\xfffeI will treasure all my battles.
-Going to Yaguruma Forest?\xfffeOr going to smash rocks?\xf000븁\x0000Either way, you must be tough, else\xfffeyou'll get stopped in your tracks!\xf000븁\x0000
+Going to Pinwheel Forest?\xfffeOr going to smash rocks?\xf000븁\x0000Either way, you must be tough, else\xfffeyou'll get stopped in your tracks!\xf000븁\x0000
 Oh, no more...!\xfffeYou're very tough!
 Tough Trainer!\xf000븁\x0000Let me heal your\xfffePokémon for you!\xf000븁\x0000
-In and around Yaguruma Forest\xfffeare many Pokémon with moves\xf000븀\x0000that cause effects like poison.\xf000븁\x0000You need anything, come to me!
+In and around Pinwheel Forest\xfffeare many Pokémon with moves\xf000븀\x0000that cause effects like poison.\xf000븁\x0000You need anything, come to me!
 Even badder!
 Vrrrrroom!!
 Hrmmm...?!\xfffeYOU'RE here?\xf000븁\x0000

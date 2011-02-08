@@ -31,7 +31,7 @@ Route 16
 Waterway 17
 Route 18
 Dream Lot
-Yaguruma Forest
+Pinwheel Forest
 Resort Desert
 Ancient Castle
 Cold Storage

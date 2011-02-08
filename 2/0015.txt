@@ -1441,9 +1441,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeKnock Down!
 \xf000ā\x0001\x0000 used\xfffeMountain Storm!
 The wild \xf000ā\x0001\x0000 used\xfffeMountain Storm!
 The foe's \xf000ā\x0001\x0000 used\xfffeMountain Storm!
-\xf000ā\x0001\x0000 used\xfffeBursting Flame!
-The wild \xf000ā\x0001\x0000 used\xfffeBursting Flame!
-The foe's \xf000ā\x0001\x0000 used\xfffeBursting Flame!
+\xf000ā\x0001\x0000 used\xfffeFlame Burst!
+The wild \xf000ā\x0001\x0000 used\xfffeFlame Burst!
+The foe's \xf000ā\x0001\x0000 used\xfffeFlame Burst!
 \xf000ā\x0001\x0000 used\xfffeSludge Wave!
 The wild \xf000ā\x0001\x0000 used\xfffeSludge Wave!
 The foe's \xf000ā\x0001\x0000 used\xfffeSludge Wave!
@@ -1456,9 +1456,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
 \xf000ā\x0001\x0000 used\xfffeSynchronise!
 The wild \xf000ā\x0001\x0000 used\xfffeSynchronise!
 The foe's \xf000ā\x0001\x0000 used\xfffeSynchronise!
-\xf000ā\x0001\x0000 used\xfffeElectra Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeElectra Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeElectra Ball!
+\xf000ā\x0001\x0000 used\xfffeElectro Ball!
+The wild \xf000ā\x0001\x0000 used\xfffeElectro Ball!
+The foe's \xf000ā\x0001\x0000 used\xfffeElectro Ball!
 \xf000ā\x0001\x0000 used\xfffeWater Soak!
 The wild \xf000ā\x0001\x0000 used\xfffeWater Soak!
 The foe's \xf000ā\x0001\x0000 used\xfffeWater Soak!
@@ -1486,9 +1486,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeMake Friends!
 \xf000ā\x0001\x0000 used\xfffeAfter You!
 The wild \xf000ā\x0001\x0000 used\xfffeAfter You!
 The foe's \xf000ā\x0001\x0000 used\xfffeAfter You!
-\xf000ā\x0001\x0000 used\xfffeSing A Round!
-The wild \xf000ā\x0001\x0000 used\xfffeSing A Round!
-The foe's \xf000ā\x0001\x0000 used\xfffeSing A Round!
+\xf000ā\x0001\x0000 used\xfffeRound!
+The wild \xf000ā\x0001\x0000 used\xfffeRound!
+The foe's \xf000ā\x0001\x0000 used\xfffeRound!
 \xf000ā\x0001\x0000 used\xfffeEcho Voice!
 The wild \xf000ā\x0001\x0000 used\xfffeEcho Voice!
 The foe's \xf000ā\x0001\x0000 used\xfffeEcho Voice!
@@ -1507,18 +1507,18 @@ The foe's \xf000ā\x0001\x0000 used\xfffeFast Guard!
 \xf000ā\x0001\x0000 used\xfffeSide Change!
 The wild \xf000ā\x0001\x0000 used\xfffeSide Change!
 The foe's \xf000ā\x0001\x0000 used\xfffeSide Change!
-\xf000ā\x0001\x0000 used\xfffeBoiling Water!
-The wild \xf000ā\x0001\x0000 used\xfffeBoiling Water!
-The foe's \xf000ā\x0001\x0000 used\xfffeBoiling Water!
+\xf000ā\x0001\x0000 used\xfffeScald!
+The wild \xf000ā\x0001\x0000 used\xfffeScald!
+The foe's \xf000ā\x0001\x0000 used\xfffeScald!
 \xf000ā\x0001\x0000 used\xfffeShell Break!
 The wild \xf000ā\x0001\x0000 used\xfffeShell Break!
 The foe's \xf000ā\x0001\x0000 used\xfffeShell Break!
-\xf000ā\x0001\x0000 used\xfffeHealing Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeHealing Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeHealing Beam!
-\xf000ā\x0001\x0000 used\xfffeEvil Eye!
-The wild \xf000ā\x0001\x0000 used\xfffeEvil Eye!
-The foe's \xf000ā\x0001\x0000 used\xfffeEvil Eye!
+\xf000ā\x0001\x0000 used\xfffeHeal Pulse!
+The wild \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
+The foe's \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
+\xf000ā\x0001\x0000 used\xfffeHex!
+The wild \xf000ā\x0001\x0000 used\xfffeHex!
+The foe's \xf000ā\x0001\x0000 used\xfffeHex!
 \xf000ā\x0001\x0000 used\xfffeSky Drop!
 The wild \xf000ā\x0001\x0000 used\xfffeSky Drop!
 The foe's \xf000ā\x0001\x0000 used\xfffeSky Drop!
@@ -1594,9 +1594,9 @@ The foe's \xf000ā\x0001\x0000 used\xfffeDual Chop!
 \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
 The wild \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
 The foe's \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-\xf000ā\x0001\x0000 used\xfffeWood Horn!
-The wild \xf000ā\x0001\x0000 used\xfffeWood Horn!
-The foe's \xf000ā\x0001\x0000 used\xfffeWood Horn!
+\xf000ā\x0001\x0000 used\xfffeHorn Leech!
+The wild \xf000ā\x0001\x0000 used\xfffeHorn Leech!
+The foe's \xf000ā\x0001\x0000 used\xfffeHorn Leech!
 \xf000ā\x0001\x0000 used\xfffeSacred Sword!
 The wild \xf000ā\x0001\x0000 used\xfffeSacred Sword!
 The foe's \xf000ā\x0001\x0000 used\xfffeSacred Sword!

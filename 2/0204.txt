@@ -479,12 +479,12 @@ Telekinesis
 Magic Room
 Knock Down
 Mountain Storm
-Bursting Flame
+Flame Burst
 Sludge Wave
 Butterfly Dance
 Heavy Bomber
 Synchronise
-Electra Ball
+Electro Ball
 Water Soak
 Flame Charge
 Coil
@@ -494,17 +494,17 @@ Foul Play
 Simple Beam
 Make Friends
 After You
-Sing A Round
+Round
 Echo Voice
 Bit by Bit
 Clear Smog
 Assist Power
 Fast Guard
 Side Change
-Boiling Water
+Scald
 Shell Break
-Healing Beam
-Evil Eye
+Heal Pulse
+Hex
 Sky Drop
 Gear Change
 Overhead Throw
@@ -530,7 +530,7 @@ Wild Charge
 Drill Run
 Dual Chop
 Heart Stamp
-Wood Horn
+Horn Leech
 Sacred Sword
 Razor Shell
 Heat Stamp

@@ -503,7 +503,7 @@ It protects itself and its team mates from\xfffethe opponent's priority moves. M
 With a strange power it teleports and\xfffeswitches places with one of its teammates.
 It attacks by shooting boiling hot water at\xfffethe opponent. It will sometimes\xfffecause a burn.
 It breaks its own shell and lowers its\xfffeDefense and Sp. Def, but its Attack,\xfffeSp. Atk and Speed sharply rise.
-It lets fly a Healing Beam that will restore\xfffehalf of its opponent's maximum ＨＰ.
+It lets fly a Heal Pulse that will restore\xfffehalf of its opponent's maximum ＨＰ.
 An attack like being showered with questions.\xfffeAn opponent afflicted with a status\xfffecondition with receive much damage.
 It attacks by raising the foes skyward on\xfffethe first turn, then dropping them on the\xfffesecond. The raised foe is immobile.
 It spins the gears and not only raises its\xfffeattack, but also sharply raises its\xfffespeed.
