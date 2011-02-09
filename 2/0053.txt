@@ -31,7 +31,7 @@ A medicine that revives a fainted\xfffePokémon. It fully restores the\xfffePok�
 Water with a high mineral content.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
 A fizzy soda drink.\xfffeIt restores the HP of one Pokémon\xfffeby 60 points.
 A very sweet drink.\xfffeIt restores the HP of one Pokémon\xfffeby 80 points.
-Milk with a high nutrition content.\xfffeIt restores the HP of one Pokémon\xfffe by 100 points.
+Milk with a high nutrition content.\xfffeIt restores the HP of one Pokémon\xfffeby 100 points.
 A very bitter medicine powder.\xfffeIt restores the HP of one Pokémon\xfffeby 50 points.
 A very bitter root.\xfffeIt restores the HP of one Pokémon\xfffeby 200 points.
 A very bitter medicine powder.\xfffeIt heals all the status problems\xfffeof a single Pokémon.
@@ -379,7 +379,7 @@ The user attacks the foe at full power.\xfffeThe attack's recoil sharply reduces
 With a strange power it teleports\xfffeand switches places with one of its\xfffeteammates.
 The user heightens its mental focus\xfffeand unleashes its power. It may\xfffealso lower the target's Sp. Def.
 The user draws power from nature\xfffeand fires it at the foe. It may also\xfffelower the target's Sp. Def.
-A restrained attack that prevents\xfffe the foe from fainting. The target\xfffeis left with at least 1 HP.
+A restrained attack that prevents\xfffethe foe from fainting. The target\xfffeis left with at least 1 HP.
 It attacks by shooting boiling hot\xfffewater at the opponent. It will\xfffesometimes cause a burn.
 The user flings its held item at\xfffethe foe to attack. Its power and\xfffeeffects depend on the item.
 The user fires a concentrated\xfffebundle of electricity. It may also\xffferaise the user's Sp. Atk stat.
