@@ -1,4 +1,4 @@
-﻿Adeku: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
+﻿Alder: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
 That lying Ghetsis...\xf000븁\x0000\xfffeHe's desperately trying to fool\xfffeeveryone with his phony speeches.\xf000븁\x0000
 Ghetsis: It is so!\xf000븁\x0000\xfffeThrough Lord N, we have joined\xfffeforces with the legendary Pokémon!\xf000븁\x0000\xfffeA brand new land shall be created!\xf000븁\x0000\xfffeThis shall be a reliving of\xfffethe legendary hero's construction\xf000븀\x0000\xfffeof our Unova!
 Hero?
@@ -15,25 +15,25 @@ Woman: Ooogh...\xf000븁\x0000Should I give up my Pokémon\xfffelike Team Plasma
 Woman: ...But that's...!\xf000븁\x0000I can't! I'd be so lonely\xfffewithout my Pokémon!\xf000븁\x0000
 Iris: Man! Now THAT\xfffewas a weirdo speech!\xf000븁\x0000
 If Pokémon wanted nothing\xfffeto do with people, they would\xf000븀\x0000\xfffewillfully free themselves...\xf000븁\x0000\xfffeIf they despised Poké Balls, their\xfffefeelings on the matter would not\xf000븀\x0000\xfffeand could not be held back.\xf000븁\x0000
-Adeku: Shall we go, \xf000Ā\x0001\x0000? \xf000븁\x0000
-Adeku: Long time no see, Iris, Drayden.\xf000븁\x0000
-Iris: Oh! Uncle Adeku and\xfffethe mister from before!\xf000븁\x0000
-Iris: Oh! Uncle Adeku and\xfffethe missy from before!\xf000븁\x0000
+Alder: Shall we go, \xf000Ā\x0001\x0000? \xf000븁\x0000
+Alder: Long time no see, Iris, Drayden.\xf000븁\x0000
+Iris: Oh! Uncle Alder and\xfffethe mister from before!\xf000븁\x0000
+Iris: Oh! Uncle Alder and\xfffethe missy from before!\xf000븁\x0000
 Drayden: ...What is it?\xf000븁\x0000\xfffeWhat could the Champion who\xfffeleft the Pokémon League\xf000븀\x0000\xfffeto wander the land want from me?\xf000븁\x0000
-Adeku: Frankly...!\xf000븁\x0000I want you to tell me about the\xfffelegendary dragon Pokémon!\xf000븁\x0000
+Alder: Frankly...!\xf000븁\x0000I want you to tell me about the\xfffelegendary dragon Pokémon!\xf000븁\x0000
 Iris: Y'mean Reshiram? Or maybe Zekrom?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
 Iris: Y'mean Zekrom? Or maybe Reshiram?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
 Drayden: That shady Ghetsis man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Reshiram...\xf000븁\x0000
 Drayden: That shady Ghetsis man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Zekrom...\xf000븁\x0000
-Adeku: Right!\xf000븁\x0000That Trainer N told \xf000Ā\x0001\x0000 here to\xfffesearch for another dragon Pokémon\xf000븀\x0000or something.\xf000븁\x0000
+Alder: Right!\xf000븁\x0000That Trainer N told \xf000Ā\x0001\x0000 here to\xfffesearch for another dragon Pokémon\xf000븀\x0000or something.\xf000븁\x0000
 Drayden: ...I don't follow.\xf000븁\x0000Is this N planning to have the\xfffetwo dragon Pokémon fight\xf000븀\x0000to prove his own convictions?\xf000븁\x0000
 Iris: Huhhh?!\xf000븁\x0000He's already made friends with\xfffethe dragon Pokémon?!\xf000븁\x0000
-Adeku: Correct, Iris.\xf000븁\x0000Fighting with Pokémon is done\xfffeboth for fellow Trainers...\xf000븁\x0000And for Trainers and Pokémon\xfffeto understand each other.\xf000븁\x0000
+Alder: Correct, Iris.\xf000븁\x0000Fighting with Pokémon is done\xfffeboth for fellow Trainers...\xf000븁\x0000And for Trainers and Pokémon\xfffeto understand each other.\xf000븁\x0000
 Well then... I'll head\xfffefor the Pokémon League!\xf000븁\x0000No, in this case, it would\xfffebe returning, wouldn't it...?\xf000븁\x0000I'll beat N, of course!\xf000븁\x0000I'll teach him how wonderful this\xfffeworld where we can live in harmony\xf000븀\x0000with Pokémon is!\xf000븁\x0000And, \xf000Ā\x0001\x0000! As the Champion,\xfffeI'll be waiting for you!\xf000븁\x0000So once you have the Opelucid gym\xfffebadge, come to the League.\xf000븁\x0000Of course, the Opelucid gym\xfffeleader is tough!\xf000븁\x0000
 Well, I'm leaving it to you,\xfffeDrayden, Iris!\xf000븁\x0000
 Iris: ...Aww, he left...\xf000븁\x0000\xfffeAre things gonna be okay? He\xfffelooked a little frightened there.\xf000븁\x0000
 Drayden: ...Don't worry, Iris.\xf000븁\x0000\xfffeHe's the strongest Trainer\xfffein Unova, remember.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000? Come to my house.\xf000븁\x0000Like Adeku said, I can teach you\xfffeabout the legendary dragon Pokémon.\xf000븀\x0000Iris, you lead the way.\xf000븁\x0000
+Now, \xf000Ā\x0001\x0000? Come to my house.\xf000븁\x0000Like Alder said, I can teach you\xfffeabout the legendary dragon Pokémon.\xf000븀\x0000Iris, you lead the way.\xf000븁\x0000
 Iris: The tale of Reshiram and Zekrom\xfffeis a tale of two Pokémon!\xf000븀\x0000We'll tell it to you!\xf000븁\x0000I can lead you anywhere\xfffearound Opelucid! This way!\xf000븁\x0000
 Iris: The tale of Zekrom and Reshiram\xfffeis a tale of two Pokémon!\xf000븀\x0000We'll tell it to you!\xf000븁\x0000I can lead you anywhere\xfffearound Opelucid! This way!\xf000븁\x0000
 Iris: And that way!\xf000븁\x0000

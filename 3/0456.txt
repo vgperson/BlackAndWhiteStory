@@ -22,11 +22,11 @@ Caitlin: ...No matter what,\xfffeI can't defeat Cynthia.\xf000븁\x0000Perhaps i
 Caitlin: ...Are you familiar with\xfffethe Battle Castles?\xf000븁\x0000They exist in Johto and Sinnoh,\xfffeso go and challenge them if you like.
 Caitlin: ...This is a villa of mine.\xf000븁\x0000I have them all over the world,\xfffeso I allow Cynthia to use this one.\xf000븁\x0000You're free to play here\xfffeif you wish, as well.
 Caitlin: ...If one's psychic ability\xfffewere truly uncontrollable,\xf000븀\x0000one would be better off without it.
-Shikimi: When writing a story...\xfffethere must be many inputs,\xf000븀\x0000or there can be no output.\xf000븁\x0000Trainers work the same way.\xf000븁\x0000They must battle much,\xfffestudy a variety of things, and\xf000븀\x0000test things out to become stronger.
-Shikimi: The Rainbow Wing...\xfffeThe Silver Wing...\xf000븀\x0000They stir up my imagination!
-Shikimi: ...That Pokémon in the Distortion World\xfffeis such a fantastic spectacle!
-Shikimi: ...No matter how much data I collect,\xfffeI haven't a clue.\xf000븁\x0000How old is Cynthia, I wonder?\xfffeWhat do you think?
-Shikimi: ...My muffler can give people the\xfffeimpression of looking like a Pokémon.\xf000븁\x0000Understand?\xfffeImagination is the key, isn't it?
+Shauntal: When writing a story...\xfffethere must be many inputs,\xf000븀\x0000or there can be no output.\xf000븁\x0000Trainers work the same way.\xf000븁\x0000They must battle much,\xfffestudy a variety of things, and\xf000븀\x0000test things out to become stronger.
+Shauntal: The Rainbow Wing...\xfffeThe Silver Wing...\xf000븀\x0000They stir up my imagination!
+Shauntal: ...That Pokémon in the Distortion World\xfffeis such a fantastic spectacle!
+Shauntal: ...No matter how much data I collect,\xfffeI haven't a clue.\xf000븁\x0000How old is Cynthia, I wonder?\xfffeWhat do you think?
+Shauntal: ...My muffler can give people the\xfffeimpression of looking like a Pokémon.\xf000븁\x0000Understand?\xfffeImagination is the key, isn't it?
 Cynthia: What is necessary to\xfffebecome stronger from here on?\xf000븁\x0000Might it be an ever-continued\xfffecoexistence with Pokémon?\xf000븁\x0000That is the way I have always been,\xfffeso I can state it to be nothing else...
 Cynthia: Once every couple years,\xfffethe Champions of the various regions\xf000븀\x0000should get together and decide\xf000븀\x0000who is the strongest of all!\xf000븁\x0000Don't you think such a gathering\xfffewould be amusing?
 Cynthia: I'd like to live here,\xfffebut if I did, my research workpile\xf000븀\x0000would stack as high as a mountain...\xf000븁\x0000That's right! Cynthia! This time,\xfffeyou shall settle things for good!
