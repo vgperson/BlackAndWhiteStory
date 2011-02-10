@@ -500,7 +500,7 @@ It snorts flames from its nostrils. When\xfffeit has a cold, this becomes black 
 A flame burns in its stomach, fueled by\xfffethe food it eats. When it's angry, its\xfffefire power increases.
 It has a beard of flames. It possesses\xfffeboth power and speed and has learned\xfffegrappling techniques.
 The shell on its stomach is made from the\xfffesame material as claws. It detaches it\xfffefrom its stomach and uses it as a sword.
-The attacks it uses with the shells on\xfffeits body differ between Futachimaru.\xfffeIt never fails to maintain its shells.
+The attacks it uses with the shells on\xfffeits body differ between Dewott.\xfffeIt never fails to maintain its shells.
 A portion of the armor on its forelegs\xfffebecomes a large sword. It only needs to\xffferoar to pacify its enemies.
 They're very wary and take shifts\xfffeto keep watch around their nest.\xfffeThey get nervous if there's no guard.
 The pattern on its body shines and\xfffeintimidates its enemies. It has eyes that\xfffecan see its settings even in the dark.
@@ -518,7 +518,7 @@ It fires high-pressure water from its\xfffetail with enough force to destroy\xff
 It eats the dreams of humans and\xfffePokémon. When it eats a fun dream,\xfffeit spits out pink smoke.
 It makes the dreams it ate appear. The\xfffesmoke that leaks from its forehead\xfffechanges the form of items created.
 A Pokémon that lives in towns. Since\xfffethey're social, they gather in large\xfffegroups in parks and plazas.
-It's said that the forests where\xfffeHatooboo live are peaceful regions\xfffefree of strife.
+It's said that the forests where\xfffeTranquill live are peaceful regions\xfffefree of strife.
 The male has adornments on its head. It\xfffenever grows attached to any human other\xfffethan its Trainer.
 It appears when thunderclouds cover\xfffethe sky. It catches thunder and stores\xfffethe electricity in its mane.
 It has a violent nature. When angered, it\xfffeshoots electricity from its mane in all\xfffedirections, so be careful.
@@ -540,19 +540,19 @@ It can throw opponents that are larger\xfffethan itself. It always makes packs w
 The destructive power of its punches\xfffegrows when it puts on its belt and yells.\xfffeIt gets angry if you hinder its training.
 It cuts leaves and sews them together\xfffewith sticky thread from its mouth.\xfffeA Pokémon that makes its own clothes.
 It wraps its body in a leaf to ward off\xfffethe cold. It moves through the forest\xfffeeating nearby fallen leaves.
-It warms its eggs with the heat of\xfffefermenting fallen leaves. It makes\xfffeblankets for Kurumiru out of leaves.
+It warms its eggs with the heat of\xfffefermenting fallen leaves. It makes\xfffeblankets for Sewaddle out of leaves.
 It feels out its surroundings with the\xfffeantennae on its head and tail. It has an\xfffeextremely brutal nature.
 It usually doesn't move, but if it's\xfffeattacked, it rolls around at high speeds\xfffeand rams the enemy to fight back.
 It thrusts the claws on its head into its\xfffeopponents' bodies and poisons them. It\xfffehas a very aggressive nature.
 It goes wherever the wind takes it.\xfffeSince its body grows heavy in the rain,\xfffeit waits out storms under tree roots.
 It appears riding a whirlwind. It's a\xfffePokémon that enters houses through\xfffecracks and causes mischief.
-Since it prefers soil with an abundance\xfffeof moisture and nutrients, fields where\xfffeChurine lives produce excellent crops.
+Since it prefers soil with an abundance\xfffeof moisture and nutrients, fields where\xfffePetilil live produce excellent crops.
 The aroma of the flowers on its head has\xfffea relaxing effect. If you neglect to trim\xfffethem, they wither.
-Red and blue Basurao don't get along,\xfffebut for some reason, different-colored\xfffeones tend get mixed into the schools.
+Red and blue Basculin don't get along,\xfffebut for some reason, different-colored\xfffeones tend get mixed into the schools.
 It moves by burrowing through the sand\xfffewith its eyes and nose above ground.\xfffeA black membrane protects its eyes.
 Since the special membrane around its\xfffeeyeballs perceives body heat, it can see\xfffeits surroundings even in the dark.
 It has eyes that can magnify things that\xfffeare far away, just like a pair of\xfffebinoculars.
-Since Darumakka's droppings are hot,\xfffeancient people put them in their pockets\xfffeto warm their bodies.
+Since Darumaka's droppings are hot,\xfffeancient people put them in their pockets\xfffeto warm their bodies.
 When it's weakened in battle, it becomes\xfffemotionless like a rock. It's honed its\xfffemind and battles with force of will.
 It lives in arid lands. When it moves its\xfffebody rhythmically, it plays a sound\xfffesimilar to maracas.
 It makes a hole in a suitable rock and\xfffenests there. If its rock is smashed,\xfffeit won't rest until it finds a new one.
@@ -572,7 +572,7 @@ It disguises itself as humans and other\xfffePokémon. By hiding its body, it pr
 It has the power to bewitch many people\xfffeat once. It protects its habitat by\xfffedisplaying illusory scenery.
 A Pokémon obsessed with cleanliness. It\xfffeuses its tail as a broom to sweep the\xfffedust from its habitat.
 Its white fur feels luxurious. It never\xfffeattracts dust or static.
-It patiently observes Pokémon and\xfffeTrainers. It appears to be looking at\xfffesomething that only Gothimu can see.
+It patiently observes Pokémon and\xfffeTrainers. It appears to be looking at\xfffesomething that only Gothita can see.
 Starlight is the source of its power. At\xfffenight, it levitates rocks with psychic\xfffepower and maps the stars' positions.
 It has the ability to predict future\xfffeevents based on the stars' movements.\xfffeIt can also see its Trainer's lifespan.
 Its body is enveloped in a special\xfffeliquid, which enables it to live in any\xfffeenvironment.
@@ -586,8 +586,8 @@ When both heads are angered at the same\xfffetime, it blasts out a blizzard. It 
 When the seasons turn, its scent and fur\xfffechange. This Pokémon is used as a\xfffebarometer of the seasons.
 The flowering plant that grows from its\xfffehorns changes with the seasons. The one\xfffewith the finest horns leads the herd.
 It lives on treetops in forests. It\xfffedischarges electricity from its cloak\xfffelike membrane as it glides.
-When it senses danger it shoots acidic\xfffeliquid from its mouth to repel the enemy.\xfffeIt pursues Chobomaki.
-A Pokémon that evolved by wearing\xfffeChobomaki's shell. Steel armor protects\xfffeits entire body.
+When it senses danger it shoots acidic\xfffeliquid from its mouth to repel the enemy.\xfffeIt pursues Shelmet.
+A Pokémon that evolved by wearing\xfffeShelmet's shell. Steel armor protects\xfffeits entire body.
 A Pokémon that resembles a Poké Ball for\xfffesome reason. It spews poisonous spores\xfffeto repel enemies that try to catch it.
 It uses its Poké Ball mushrooms as a lure\xfffefor prey, but few Pokémon are deceived.
 It paralyzes its prey with poison, then\xfffedrags it to its den in the ocean's\xfffedepths, 8000 meters below the surface.
@@ -607,30 +607,30 @@ It suddenly happened, 50 years ago,\xfffeacross the desert. No one has seen this
 It manipulates its opponents' brains and\xfffeoverwrites their memories with different\xfffeones.
 While appearing to shed light and serve\xfffeas a guidepost, it sucks out creatures'\xfffelifeforce.
 It appears before those on their\xfffedeathbeds, severs the soul from the\xfffebody, and immediately sucks it up.
-If something is wrapped in Shandera's\xfffeflame, its soul is sucked out and\xfffeimmolated. Only the empty body remains.
+If something is wrapped in Chandelure's\xfffeflame, its soul is sucked out and\xfffeimmolated. Only the empty body remains.
 It marks its territory by scarring trees\xfffewith its fangs. Even if the fangs break,\xfffethey immediately grow back.
-It has fangs that can smash boulders.\xfffeThe fights of Onondo over territory\xfffeare extremely violent.
+It has fangs that can smash boulders.\xfffeThe fights of Fraxure over territory\xfffeare extremely violent.
 It has sturdy, blade-like fangs that can\xfffeeven cut through an iron frame. It is\xfffecovered with hard armor.
 Mucus is always hanging from its nose.\xfffeIt sucks the mucus up and launches\xfffeit back out as an attack.
 It freezes its breath to make fangs and\xfffeclaws of ice. It lives in the cold lands\xfffeof the north.
 It was born inside a snow cloud. It\xfffecatches prey with the chains coming out\xfffeof its ice crystals.
-It evolves when it and Kaburumo are\xfffebathed in electric energy. The reason\xfffefor this is unknown.
+It evolves when it and Karrablast are\xfffebathed in electric energy. The reason\xfffefor this is unknown.
 If it removes its heavy shell, it becomes\xfffenimble. It fights with the agility of a\xfffeninja.
 It buries itself in mud on the beach and\xfffewaits for prey. When it feels prey, it\xfffedischarges electricity and paralyzes it.
 It uses pretty, endless attacks. If it\xfffeunifies body and soul, the techniques'\xfffespeed and intensity increase.
 It fights by slamming the enemy with the\xfffelong hair on its arms. It shakes its arms\xfffelike whips.
 It catches the prey running around its\xfffenarrow den with its sharp claws. The skin\xfffeon its face is as hard as stone.
 It's thought that this Pokémon was born\xfffeof the science of a mythical ancient\xfffecivilization.
-It's said that Goruugu was ordered by\xfffethe ancient people who used it to\xfffeprotect humans and Pokémon alike.
-It fights at Kirikizan's command. It\xfffeclings to its prey and ebbs away at it\xfffewith its blades.
-It hunts prey as a swarm, accompanied\xfffeby large numbers of Komatana.\xfffeKirikizan lands the finishing blow.
+It's said that Golett was ordered by\xfffethe ancient people who used it to\xfffeprotect humans and Pokémon alike.
+It fights at Bisharp's command. It\xfffeclings to its prey and ebbs away at it\xfffewith its blades.
+It hunts prey as a swarm, accompanied\xfffeby large numbers of Pawniard.\xfffeBisharp lands the finishing blow.
 It charges indiscriminately and lands\xfffeheadbutts. It has the destructive power\xfffeto derail a train.
 It indiscriminately challenges even\xfffestrong opponents to battle. It battles\xffferepeatedly to become strong.
 A fearless warrior of the sky. It's said\xfffethat the more wounds it has, the more\xffferespect it gets from its comrades.
 If it finds a handy skeleton, it has a\xfffehabit of using it to protect its bottom.\xfffeIt chases after weak Pokémon.
 It surveys the ground from the sky,\xfffethen swoops down on weak prey. It has\xfffea habit of wearing bones.
-It melts Aianto's steel body with its\xfffefiery tongue, which burns at high\xfffetemperatures, and eats what's inside.
-It burrows into mountains to make its\xfffenests. The complex tunnels are an\xfffeAianto-made labyrinth.
+It melts Durant's steel body with its\xfffefiery tongue, which burns at high\xfffetemperatures, and eats what's inside.
+It burrows into mountains to make its\xfffenests. The complex tunnels are an\xfffeDurant-made labyrinth.
 Since it can't see, it finds its way by\xfffetackling and biting its surroundings.\xfffeIt's always covered in fresh bruises.
 Since the two heads fight so viciously\xfffeover food, it always eats\xfffemore than it has to.
 The heads on its arms lack brains. It\xfffedestroys and devours everything with\xfffeits three heads.
@@ -639,7 +639,7 @@ In battle it scatters smoldering scales\xfffefrom its six wings, turning the are
 It has a body and heart of steel. All it\xfffehas to do is look, and even brutal\xfffePokémon defer to it.
 It has the charging power to penetrate\xfffethick castle walls in a single shot. A\xfffePokémon that's mentioned in legends.
 The horn on its head is a sharp sword. It\xfffetosses its enemy with whirlwind like\xfffemovements, then cuts it apart.
-The energy that flows from Tornelos's\xfffetail awakens huge storms. It has the\xfffepower to blow away a house.
+The energy that flows from Tornadus's\xfffetail awakens huge storms. It has the\xfffepower to blow away a house.
 It launches electric attacks from the\xfffespike on its tail. It flies around in the\xfffeskies of Unova dropping thunderbolts.
 When Reshiram's tail burns, the\xfffeatmosphere is affected by the thermal\xfffeenergy and the earth's weather changes.
 A Pokémon that appears in myths. Inside\xfffeof its tail is an enormous generator that\xfffeproduces electricity.
