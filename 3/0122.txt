@@ -34,15 +34,15 @@ What do you use\xfffeto take pictures?\xf000븁\x0000
 Where do you go\xfffewhen you bathe?\xf000븁\x0000
 What's the facility\xfffethat heals your Pokémon?\xf000븁\x0000
 What stat goes up\xfffewhen you use Protein?\xf000븁\x0000
-What Pokémon changes form\xfffewith season without evolving?\xf000븁\x0000
-What's the electric Pokémon that\xfffereleases energy from its mane?\xf000븁\x0000
+What Pokémon changes form\xfffewith the season without evolving?\xf000븁\x0000
+What's the Electrified Pokémon that\xfffereleases energy from its mane?\xf000븁\x0000
 What's the Pokémon\xfffemade up of two gears?\xf000븁\x0000
 What's the big-eared\xfffeflying squirrel Pokémon?\xf000븁\x0000
 What's the\xfffeClinging Pokémon?\xf000븁\x0000
-What's the\xfffepigeon Pokémon?\xf000븁\x0000
+What's the\xfffeTiny Pigeon Pokémon?\xf000븁\x0000
 What's the flower-adorned Pokémon\xfffewith leaves on its head?\xf000븁\x0000
-What's the Healing Pokémon\xfffewith good hearing?\xf000븁\x0000
-What's the\xfffecasket Pokémon?\xf000븁\x0000
+What's the Hearing Pokémon\xfffeknown for its good ears?\xf000븁\x0000
+What's the\xfffeCoffin Pokémon?\xf000븁\x0000
 What's the evolution\xfffeof Woobat?\xf000븁\x0000
 What's the evolution\xfffeof Darumaka?\xf000븁\x0000
 What's the Pokémon that\xfffelooks after weak Pokémon?\xf000븁\x0000
@@ -72,7 +72,7 @@ Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
 Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000
 Hint!\xfffeIt's not a seed or a turtle!\xf000븁\x0000
-Hint!\xfffe...Hm, ah, dunno...\xf000븀\x0000But my, what good ears it has!\xf000븁\x0000
+Hint!\xfffe...Hm, ah, dunno...\xf000븀\x0000But my, is it lucky!\xf000븁\x0000
 Hint!\xfffeIt's a ghost type!\xf000븁\x0000
 Hint!\xfffeIt's got a big heart!\xf000븁\x0000
 Hint!\xfffeIt's hotter than a snowman!\xf000븁\x0000

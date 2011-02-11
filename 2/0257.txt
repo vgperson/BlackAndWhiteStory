@@ -507,13 +507,13 @@ Lookout Pok\x00e9mon
 Puppy Pok\x00e9mon
 Loyal Dog Pok\x00e9mon
 Leniency Pok\x00e9mon
-Ill-Natured Pok\x00e9mon
-Ruthless Pok\x00e9mon
+Devious Pok\x00e9mon
+Cruel Pok\x00e9mon
 Grass Monkey Pok\x00e9mon
 Thorn Monkey Pok\x00e9mon
-High-Temp Pok\x00e9mon
+High Temp Pok\x00e9mon
 Sparking Pok\x00e9mon
-Water Splash Pok\x00e9mon
+Spray Pok\x00e9mon
 Water Pour Pok\x00e9mon
 Dream Eater Pok\x00e9mon
 Drowsing Pok\x00e9mon
@@ -529,7 +529,7 @@ Bat Pok\x00e9mon
 Courtship Pok\x00e9mon
 Mole Pok\x00e9mon
 Subterrene Pok\x00e9mon
-Healing Pok\x00e9mon
+Hearing Pok\x00e9mon
 Muscle Pok\x00e9mon
 Muscle Pok\x00e9mon
 Muscle Pok\x00e9mon
@@ -585,7 +585,7 @@ Snow Pok\x00e9mon
 Blizzard Pok\x00e9mon
 Season Pok\x00e9mon
 Season Pok\x00e9mon
-Glide Squirrel Pok\x00e9mon
+Sky Squirrel Pok\x00e9mon
 Ringside Pok\x00e9mon
 Cavalry Pok\x00e9mon
 Mushroom Pok\x00e9mon
@@ -594,7 +594,7 @@ Floating Pok\x00e9mon
 Floating Pok\x00e9mon
 Caring Pok\x00e9mon
 Clinging Pok\x00e9mon
-Elec Spider Pok\x00e9mon
+EleSpider Pok\x00e9mon
 Thorny Leech Pok\x00e9mon
 Thorny Ball Pok\x00e9mon
 Gear Pok\x00e9mon
@@ -609,8 +609,8 @@ Candle Pok\x00e9mon
 Lamp Pok\x00e9mon
 Temptation Pok\x00e9mon
 Tusk Pok\x00e9mon
-Jaw Horn Pok\x00e9mon
-Jaw Horn Pok\x00e9mon
+Axe Jaw Pok\x00e9mon
+Axe Jaw Pok\x00e9mon
 Freezing Pok\x00e9mon
 Freezer Pok\x00e9mon
 Crystal Pok\x00e9mon
