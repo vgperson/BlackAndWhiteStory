@@ -30,18 +30,18 @@ Route 15
 Route 16
 Waterway 17
 Route 18
-Dream Lot
+Dreamyard
 Pinwheel Forest
-Resort Desert
-Ancient Castle
+Desert Resort
+Relic Castle
 Cold Storage
-Thunderstone Cave
-Mt. Helix
+Chargestone Cave
+Twist Mountain
 Dragonspiral Tower
 Victory Road
 Lacunosa Town
 Undella Town
-Kanawa Town
+Anville Town
 Pokémon League
 N's Castle
 Royal Unova Route
@@ -51,26 +51,26 @@ Musical Hall
 Black City
 White Forest
 United Tower
-Groundwater Cave
+Wellspring Cave
 Mistralton Cave
 Meditative Plains
-Tower of Heaven
-Icirrus Wetlands
+Celestial Tower
+Moor of Icirrus
 Shopping Mall
-Discipline Cavern
+Challenger's Cave
 Shift Factory
-Giant Hole
+Giant Chasm
 Liberty Garden Island
-P2 Laboratory
+P2 Lab
 Skyarrow Bridge
 Driftveil Drawbridge
-Cylinder Bridge
+Tubeline Bridge
 Village Bridge
-Wonder Bridge
+Marvelous Bridge
 Entralink
-Fertility Shrine
+Abundant Shrine
 Undella Bay
-Lost Forest
+Lostlorn Forest
 Cellar of Trials
 Room of Conduct
 Entralink Forest
@@ -83,14 +83,14 @@ Nuvema Town
 White Forest
 Black City
 Cold Storage
-Thunderstone Cave
-Mt. Helix
+Chargestone Cave
+Twist Mountain
 Dragonspiral Tower
 Great Hall
 Hobomoe Drawbridge
-Cylinder Bridge
+Tubeline Bridge
 Village Bridge
-Wonder Bridge
+Marvelous Bridge
 Route 5
 Route 6
 Route 7

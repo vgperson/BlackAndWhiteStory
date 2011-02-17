@@ -250,9 +250,9 @@ To strengthen myself against the cold,\xfffeI'm building up warm fat!\xf000븁\x
 A journeying backpacker\xfffeand a journeying Trainer... we match!\xf000븁\x0000
 Perhaps I set out on my journey\xfffeto meet you? Hmm...
 For the first time in my journey\xfffeI've realized something...\xf000븁\x0000Just going somewhere isn't a journey.\xfffeWho you meet... what you learn...\xf000븀\x0000That's all part of my journey.
-I wanted to go to the Tower of Heaven...\xfffeBut I'm lost, so I'm just sitting here.\xf000븁\x0000
+I wanted to go to the Celestial Tower...\xfffeBut I'm lost, so I'm just sitting here.\xf000븁\x0000
 I see! Just sitting here\xfffewon't get me anywhere!
-To reach the Tower of Heaven...\xf000븁\x0000Just walk along the path!\xf000븁\x0000Right! Just keep walking, and\xfffeone day, you'll arrive at your goal!
+To reach the Celestial Tower...\xf000븁\x0000Just walk along the path!\xf000븁\x0000Right! Just keep walking, and\xfffeone day, you'll arrive at your goal!
 Oh! A Pokédex!\xf000븁\x0000I see... so that's\xfffethe reason for your journey!\xf000븁\x0000
 Impressive!\xfffeBut of course, you DO have a Pokédex!
 Actually, I heard a rumor that\xfffefather and daughter Professor Juniper\xf000븀\x0000were backpackers in their youth...
@@ -345,7 +345,7 @@ I couldn't even catch up...\xfffeYou're not anything ordinary!!
 No time to lament my loss!\xf000븁\x0000But once you get stronger,\xfffeyou can mope all you like.
 What really delights the sleeping\xfffespirits is a heated Pokémon battle!\xf000븁\x0000
 Your burning spirit gleams!
-Upon coming to the Tower of Heaven,\xfffeI had a desire to battle a marvel...\xf000븁\x0000Is this what it is to live?
+Upon coming to the Celestial Tower,\xfffeI had a desire to battle a marvel...\xf000븁\x0000Is this what it is to live?
 I'm here because I want to know\xfffeabout the end of the world, but...\xf000븁\x0000If we battle,\xfffeperhaps we'll learn something...?\xf000븁\x0000
 Could this be...\xfffeThe End?
 If not people nor Pokémon...\xfffebut only the world alone vanishes,\xf000븀\x0000that will not be the end.\xf000븀\x0000That's what I feel from being here.
@@ -354,7 +354,7 @@ The energy's dropping...\xfffeByoo-byoo-byoo-byoo...
 The world has many kinds of\xfffeenergies flowing around in it.\xf000븀\x0000Like hopes, like dreams...
 ...I still want to fight!\xfffeThat, the wandering spirits whisper!\xf000븁\x0000
 Pant, pant...\xfffeAnd I want to calm down for a bit...
-The Tower of Heaven...\xfffeit's filled with various feelings,\xf000븀\x0000with particular reasons to desire life.
+The Celestial Tower...\xfffeit's filled with various feelings,\xf000븀\x0000with particular reasons to desire life.
 When I do my practice,\xfffeI really feel I've become amazing!\xf000븀\x0000You know the feeling?\xf000븀\x0000So! Let's battle!\xf000븁\x0000
 Taka: ...That didn't\xfffego very well at all!\xf000븁\x0000Shige: ...That didn't\xfffego well whatsoever!
 Performing difficult tasks\xfffeas if they were simple...\xf000븁\x0000That's what's impressive\xfffeabout professionals!
@@ -547,15 +547,15 @@ Our specialty\xfffeis Pokémon battles!
 Welcome!\xf000븁\x0000Would you like a Pokémon battle\xfffewith your drink?!\xf000븁\x0000
 A fantastic battle, dear customer!\xfffeWhat a sight!
 Soda Pop! The thirst-quencher for\xfffeany Pokémon exhausted from battle!\xf000븀\x0000Buy it at a vending machine near you!
-Mt. Helix changes with the seasons...\xfffeI change with my battles!\xf000븁\x0000
+Twist Mountain changes with the seasons...\xfffeI change with my battles!\xf000븁\x0000
 ...Would it hurt to go easy\xfffeon your elders?!
-I personally like winter best.\xf000븁\x0000The snow piled up on Mt. Helix...\xfffemakes for breathtaking scenery.
+I personally like winter best.\xf000븁\x0000The snow piled up on Twist Mountain...\xfffemakes for breathtaking scenery.
 My Pokémon's favorite foods are\xfffemountain ore and Pokémon battles!\xf000븁\x0000
 I give up!\xfffeAnd so do my Pokémon!!
 When Pokémon eat mountain ore,\xfffeit also furthers digging work!\xf000븁\x0000How about that! Everything works out\xfffefor people and Pokémon!
-I am the second-strongest\xfffemaster of Mt. Helix!\xf000븁\x0000
-Henceforth, you shall be\xfffeMt. Helix's second-strongest...
-I shall live on as the third-strongest\xfffemaster of Mt. Helix!\xf000븁\x0000By the way, the strongest\xfffeis Mr. Clay, of course!
+I am the second-strongest\xfffemaster of Twist Mountain!\xf000븁\x0000
+Henceforth, you shall be\xfffeTwist Mountain's second-strongest...
+I shall live on as the third-strongest\xfffemaster of Twist Mountain!\xf000븁\x0000By the way, the strongest\xfffeis Mr. Clay, of course!
 Got a problem, cannon's the solution!\xf000븁\x0000It's superb for understanding\xfffehow flying Pokémon feel!\xf000븁\x0000Now for a Pokémon battle\xfffeto understand how it feels to lose!\xf000븁\x0000
 I'm blasting off!!
 Thinking about your Pokémon\xfffewhen you fight makes you stronger!\xf000븀\x0000It puts you a step closer to victory!
@@ -715,7 +715,7 @@ For Pokémon and us, every day\xfffehas been filled with happiness!\xf000븀\x00
 When you're happy,\xfffethe Pokémon by you delight...\xf000븁\x0000What Pokémon are they?\xfffeShow me!\xf000븁\x0000
 My land!\xfffeWhat a sight!
 In happy and sad times,\xfffePokémon are beside us...\xf000븁\x0000Let us pray that we can be\xfffetogether as long as is possible!
-The Tower of Heaven...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
+The Celestial Tower...\xfffeis a tower that rises to heaven!\xf000븁\x0000...Anyway, let me\xfffefight your Pokémon!\xf000븁\x0000
 Truly heavenly!
 I nearly felt like\xfffeI was gonna be laid to rest here!
 Pokémon trained in Unova\xfffeand Pokémon who grew up elsewhere...\xf000븀\x0000Both rest in peace here.\xf000븁\x0000
@@ -1220,7 +1220,7 @@ Lord Ghetsis is one of the Seven Sages\xfffein support of our king.\xf000븁\x00
 If I win, I'm gonna\xffferelease your Pokémon!\xf000븁\x0000
 PLASMAAA!\xfffeRegret... ful!
 ...Why? Your Pokémon look\xfffeso happy beside you...
-The Pokémon living in Thunderstone Cave\xfffeare so beautiful...\xf000븀\x0000We need to free them from people!\xf000븁\x0000
+The Pokémon living in Chargestone Cave\xfffeare so beautiful...\xf000븀\x0000We need to free them from people!\xf000븁\x0000
 NOOO! I mean,\xfffePLASMAAA!
 When regular Trainers\xfffeuse Pokémon, it's bad!\xf000븁\x0000When we of Team Plasma\xfffeuse Pokémon, it's good!
 I, one of the proud Team Plasma,\xfffeam your opponent!\xf000븁\x0000
@@ -1304,7 +1304,7 @@ I lost, but\xfffeI cannot be stopped!
 By walking on the bridges,\xfffeyou can avoid wild Pokémon!\xf000븁\x0000But stop moving for too long,\xfffeand you'll fall right off!
 Pokémon lived among nature\xfffefrom the very beginning!\xf000븁\x0000So training Pokémon outdoors\xfffelike this is of course best!\xf000븁\x0000
 We'll go at it again!\xfffeWe have plenty of time!
-Even the seemingly-complex Mt. Helix\xfffeis a straight path in essence!\xf000븁\x0000Don't be in such a rush!\xfffeThat helps in achieving any goal!
+Even the seemingly-complex Twist Mountain\xfffeis a straight path in essence!\xf000븁\x0000Don't be in such a rush!\xfffeThat helps in achieving any goal!
 Being with Pokémon is common,\xfffeand so too are Pokémon battles...\xf000븀\x0000Want to see if that's really true?\xf000븁\x0000
 Being with Pokémon makes us\xfffehappy, so we battle!
 If Pokémon were opposed to battle,\xfffeI would stop being a Trainer.\xf000븁\x0000Because there's so much more\xfffethat can be done with Pokémon!
@@ -1657,7 +1657,7 @@ Wherever in the world you are,\xfffeyou can always battle Pokémon!\xf000븀\x00
 My moves don't got\xfffenearly enough power in 'em!
 My steps are all off!\xfffeBetter redo my lessons!
 Man, my footwork...!\xfffeIt's the worst!
-PLASMAAAAA!\xfffeI fell in the Ancient Castle...
+PLASMAAAAA!\xfffeI fell in the Relic Castle...
 The strength that brought down\xfffeLord N... I feel it in my bones! Ow!
 So this is the Trainer who protected\xfffeour world of coexisting with Pokémon...
 I'll hit you with everything\xfffeI've gained on this journey!
@@ -1732,7 +1732,7 @@ You... how many Pokémon have\xfffeyou wounded on your way here?
 I am a doctor,\xfffebut I am a lone Trainer first!\xf000븁\x0000
 When I see a Trainer,\xfffeI can't help but battle...
 Well, let me recover\xfffeyour Pokémon!\xf000븁\x0000
-The Resort Desert is harsh...\xfffeDo you have your medicine in order?
+The Desert Resort is harsh...\xfffeDo you have your medicine in order?
 Battling with Pokémon\xfffemakes me oh-so-happier!\xf000븁\x0000
 I lost, but I'm so HAPPY!\xfffeBecause I learned from it!
 Thinking about being happy\xfffeand making happiness a reality...\xf000븀\x0000This too is science!

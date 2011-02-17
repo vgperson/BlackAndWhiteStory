@@ -8,7 +8,7 @@ Catch
 Collection
 Complete
 System
-Shooter
+Launcher
 Character
 Dowsing
 Town Map

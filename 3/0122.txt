@@ -67,7 +67,7 @@ Hint!\xfffeIt's not a convenience store!\xf000븁\x0000
 Hint!\xfffeIt's not Beauty!\xf000븁\x0000
 Hint!\xfffeIt didn't come from space!\xf000븁\x0000
 Hint!\xfffeNot quite the Lightning Pokémon yet!\xf000븁\x0000
-Hint!\xfffeIt's in Thunderstone Cave!\xf000븁\x0000
+Hint!\xfffeIt's in Chargestone Cave!\xf000븁\x0000
 Hint!\xfffeOne of its types is flying!\xf000븁\x0000
 Hint!\xfffeIt's a really tiny Pokémon!\xf000븁\x0000
 Hint!\xfffeIt weighs about 33 pounds!\xf000븁\x0000

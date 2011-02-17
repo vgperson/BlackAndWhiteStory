@@ -64,8 +64,8 @@ Triple Battle
 Rotation Battle
 Unrestricted
 Restricted
-Miracle Shooter On
-Miracle Shooter Off
+Wonder Launcher On
+Wonder Launcher Off
 あいてが つうしんたいせんを\xfffeしゅうりょう しました
 つうしん たいきちゅう です\xfffeしばらく おまちください……
 てもちポケモンが １ひき なので\xfffeダブルバトルを あそべません！
@@ -135,8 +135,8 @@ Battle Mode\xf000봅\x0001x: \xf000\xff00\x0001\x0002Triple Battle\xf000\xff00\x
 Battle Mode\xf000봅\x0001x: \xf000\xff00\x0001\x0002Rotation Battle\xf000\xff00\x0001\x0000
 Battle Rules\xf000봅\x0001x: \xf000\xff00\x0001\x0002Unrestricted\xf000\xff00\x0001\x0000
 Battle Rules\xf000봅\x0001x: \xf000\xff00\x0001\x0002Restricted\xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001x: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001x: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002On\xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001x: \xf000\xff00\x0001\x0002Off\xf000\xff00\x0001\x0000
 \xf000Ā\x0001\x0000さんが\xfffeたいせんを もうしこんできました
 いまは おはなしできないみたい
 Single

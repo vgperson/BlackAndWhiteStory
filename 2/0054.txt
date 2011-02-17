@@ -81,7 +81,7 @@ Repel
 Sun Stone
 Moon Stone
 Fire Stone
-Thunderstone
+Chargestone
 Water Stone
 Leaf Stone
 TinyMushroom

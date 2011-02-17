@@ -35,7 +35,7 @@ Hit \xf000Ȁ\x0001\x0000 time(s)!
 \xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
 \xf000Ď\x0001\x0000's \xf000Ā\x0001\x0001\xfffeused a \xf000ĉ\x0001\x0002!
 \xf000Ā\x0001\x0000 shot a\xfffe\xf000ĉ\x0001\x0002 to \xf000Ă\x0001\x0001!!
-The Miracle Shooter\xfffecan't be used now!
+The Wonder Launcher\xfffecan't be used now!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
 \xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!

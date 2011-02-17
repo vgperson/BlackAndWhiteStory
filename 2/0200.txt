@@ -250,8 +250,8 @@ Return
 Level 50 Rules
 No Limits
 Flat Rules
-With Miracle Shooter
-No Miracle Shooter
+With Wonder Launcher
+No Wonder Launcher
 Return
 Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Single Battle \xf000\xff00\x0001\x0000
 Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Double Battle \xf000\xff00\x0001\x0000
@@ -260,17 +260,17 @@ Battle Format\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Rotation Battle \xf000\x
 Battle Format\xf000봅\x0001s: Multi Battle
 Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 No Limits \xf000\xff00\x0001\x0000
 Battle Rules\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Flat Rules \xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 On \xf000\xff00\x0001\x0000
-Miracle Shooter\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Off \xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001s: \xf000\xff00\x0001\x0002 On \xf000\xff00\x0001\x0000
+Wonder Launcher\xf000봅\x0001s: \xf000\xff00\x0001\x0002 Off \xf000\xff00\x0001\x0000
 Two or more Pokémon\xfffeare required to battle.
 Three or more Pokémon\xfffeare required to battle.
 Three or more Pokémon that\xfffemeet conditions are required to battle.
 Four or more Pokémon that\xfffemeet conditions are required to battle.
 Six or more Pokémon that\xfffemeet conditions are required to battle.
 Three or more Pokémon\xfffeare required to battle.
-Use the Support Shooter?
-With Miracle Shooter
-No Miracle Shooter
+Use the Support Launcher?
+With Wonder Launcher
+No Wonder Launcher
 Choose to use Pokémon on-hand\xfffeor those in your Battle Box.
 On Hand
 Battle Box

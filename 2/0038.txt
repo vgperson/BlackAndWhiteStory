@@ -51,7 +51,7 @@
 ◇Star players gather at the stadium - if you're lucky, maybe you could meet one?!
 ◇The famous roller coaster runs through a surprising location...
 ◇Glittering landscapes, exciting heights, and heart-pounding encounters... The Dual-Rider Ferris Wheel
-◇Kanawa Town can be reached from the Gear Station.
+◇Anville Town can be reached from the Gear Station.
 ◇You gotta see it at least once! Number one in amusement! Welcome to Nimbasa City!
 ◇Driftveil City is a harbor adjacent to the shore.
 ◇Long ago, ships sailed by means of the wind and water.
@@ -134,13 +134,13 @@
 ◇As more people want to live in town, the population grows more diverse.
 ◇Black City is a cultured city with lined-up buildings.
 ◇People aim to make the city the most developed in Unova.
-◇The ruins of the Ancient Castle are a major tourist spot.
+◇The ruins of the Relic Castle are a major tourist spot.
 ◇The desert is large and harsh. Please be sure to make preparations.
 ◇Please be wary of the desert-wide sandstorms.
 ◇The era in which the ruins were built is currently being investigated.
 ◇Why the ancient kingdom perished is still a mystery.
-◇The Ancient Castle still has sinking quicksand.
-◇The ruins of the Ancient Castle are a major tourist spot.
+◇The Relic Castle still has sinking quicksand.
+◇The ruins of the Relic Castle are a major tourist spot.
 ◇The desert is large and harsh. Please be sure to make preparations.
 ◇Please be wary of the desert-wide sandstorms.
 

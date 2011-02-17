@@ -55,7 +55,7 @@ Do you want to get more info\xfffeabout how the Global Link works?
 No, continue
 Yes, please
 Quit
-Random Match\xfffeとおくにいる みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが できます\xf000븁\x0000\xfffeRandom Match\xfffeSingle Double Triple\xf000븀\x0000\xfffeRotation Shooter\xf000븀\x0000\xfffe５つの たいせんルールと\xf000븁\x0000\xfffeFree Rating\xfffe２つの モードが あります\xf000븁\x0000\xfffeフリーモードは だれでも\xfffeじゆうに さんか できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを おこない\xf000븁\x0000\xfffeおてもとの パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで さんか できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
+Random Match\xfffeとおくにいる みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが できます\xf000븁\x0000\xfffeRandom Match\xfffeSingle Double Triple\xf000븀\x0000\xfffeRotation Launcher\xf000븀\x0000\xfffe５つの たいせんルールと\xf000븁\x0000\xfffeFree Rating\xfffe２つの モードが あります\xf000븁\x0000\xfffeフリーモードは だれでも\xfffeじゆうに さんか できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを おこない\xf000븁\x0000\xfffeおてもとの パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで さんか できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
 Where would you like information about?
 Free Mode
 Rating Mode
@@ -69,13 +69,13 @@ Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
-Shooter Battle
+Launcher Battle
 Back
 Do you want to enter the\xfffeSingle Battle mode?
 Do you want to enter the\xfffeDouble Battle mode?
 Do you want to enter the\xfffeTriple Battle mode?
 Do you want to enter the\xfffeRotation Battle mode?
-Do you want to enter the\xfffeShooter Battle mode?
+Do you want to enter the\xfffeLauncher Battle mode?
 Enter Mode
 Information
 Quit

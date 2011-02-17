@@ -3,5 +3,5 @@ Double Battle
 Triple Battle
 Rotation Battle
 Multi Battle
-Shooter Battle
+Launcher Battle
 Debug Battle

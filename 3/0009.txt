@@ -107,7 +107,7 @@ What kind of Pokémon\xfffeshould I enter?
 げんざい \xf000Ā\x0001\x0000さまは\xfffeともだちとマルチ が\xf000븀\x0000\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000
 げんざい \xf000Ā\x0001\x0000さまは\xfffeトレーナーとマルチ が\xf000븀\x0000\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000ともだちとマルチ が\xfffe\xf000ȃ\x0001\x0002れんしょうちゅう です\xf000븁\x0000
 NO DATA
-Will you board\xfffethe train to Kanawa Town?
+Will you board\xfffethe train to Anville Town?
 まもなく はっしゃ いたします\xfffeごじょうしゃ ください！\xf000븁\x0000
 Well then!\xfffeWe await your future visits!
 Well then!\xfffeWe await your future visits!\xf000븁\x0000

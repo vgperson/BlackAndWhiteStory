@@ -45,17 +45,17 @@ Free Random Matches\xfffeSingle
 Free Random Matches\xfffeDouble
 Free Random Matches\xfffeTriple
 Free Random Matches\xfffeRotation
-Free Random Matches\xfffeMiracle Shooter
+Free Random Matches\xfffeWonder Launcher
 Random Match Rating\xfffeSingle
 Random Match Rating\xfffeDouble
 Random Match Rating\xfffeTriple
 Random Match Rating\xfffeRotation
-Random Match Rating\xfffeMiracle Shooter
-Single Tournament\xfffeNo Miracle Shooter
-Single Tournament\xfffeMiracle Shooter
-Double Tournament\xfffeNo Miracle Shooter
-Double Tournament\xfffeMiracle Shooter
-Triple Tournament\xfffeNo Miracle Shooter
-Triple Tournament\xfffeMiracle Shooter
-Rotation Tournament\xfffeNo Miracle Shooter
-Rotation Tournament\xfffeMiracle Shooter
+Random Match Rating\xfffeWonder Launcher
+Single Tournament\xfffeNo Wonder Launcher
+Single Tournament\xfffeWonder Launcher
+Double Tournament\xfffeNo Wonder Launcher
+Double Tournament\xfffeWonder Launcher
+Triple Tournament\xfffeNo Wonder Launcher
+Triple Tournament\xfffeWonder Launcher
+Rotation Tournament\xfffeNo Wonder Launcher
+Rotation Tournament\xfffeWonder Launcher

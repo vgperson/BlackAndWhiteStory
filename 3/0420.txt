@@ -1,5 +1,5 @@
-﻿...A Pokémon Trainer?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000That spark in your eyes...\xfffeI feel you are kind to Pokémon!\xf000븁\x0000It's decided! I entrust this treasure\xfffeI found in the Ancient Castle to you!\xf000븁\x0000Won't you take this\xfffePokémon egg and raise it?
-Won't you take this egg I found\xfffein the Ancient Castle and raise it?
+﻿...A Pokémon Trainer?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000That spark in your eyes...\xfffeI feel you are kind to Pokémon!\xf000븁\x0000It's decided! I entrust this treasure\xfffeI found in the Relic Castle to you!\xf000븁\x0000Won't you take this\xfffePokémon egg and raise it?
+Won't you take this egg I found\xfffein the Relic Castle and raise it?
 Hm...\xf000븁\x0000I'm glad to give it, but you seem\xfffeto have too many Pokémon...
 ...Hm.\xfffeWell, it's your call!
 Hm...\xfffeI'm counting on you!\xf000븁\x0000
