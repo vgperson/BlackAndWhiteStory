@@ -404,7 +404,7 @@ Tomoya
 Cheren
 Cheren
 Cheren
-Nobori
+Emmet
 Alder
 Hayata
 Fuka
@@ -612,5 +612,5 @@ Grunt
 Grunt
 Grunt
 Tatsuro
-Kudari
+Ingo
 Johnny
