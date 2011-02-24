@@ -25,7 +25,7 @@ Pokémon
 Mission
 Mail
 Message
-Entrance Tree
+Entree
 Unique
 Level
 Rental
