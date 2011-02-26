@@ -544,7 +544,7 @@ It surrounds the foe with a huge wind.\xfffeIt may confuse the opponent.
 It charges at the opponent with a great\xfffeafro'd head. It deals recoil damage.
 It throws a steel gear at the foe.\xfffeIt deals damage twice in a row.
 It attacks all around it with a crimson flame.\xfffeIt may cause a burn.
-It shoots a Photon Blaster at the foe.\xfffeThe type of the move varies upon on the\xfffeheld Cassette.
+It shoots a Photon Blaster at the foe.\xfffeThe type of the move varies upon on the\xfffeheld Drive.
 It makes the opponent listen to an ancient\xfffesong and appeals to its heart. It may\xfffecause the opponent to sleep.
 It slashes at the foe with its long horn.\xfffeThe mysterious power of the horn deals\xfffephysical damage.
 It blows a cold chill like being frozen over\xfffethe foe. The foes speed is sharply lowered.

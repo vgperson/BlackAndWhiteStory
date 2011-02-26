@@ -114,10 +114,10 @@ Griseous Orb
 ???
 ???
 ???
-Aqua Cassette
-Zap Cassette
-Blaze Cassette
-Freeze Cassette
+Douse Drive
+Shock Drive
+Burn Drive
+Chill Drive
 ???
 ???
 ???
@@ -132,7 +132,7 @@ Freeze Cassette
 ???
 ???
 ???
-Heart Sweets
+Sweet Heart
 Adamant Orb
 Lustrous Orb
 Grass Mail
@@ -535,61 +535,61 @@ Lock Capsule
 Red Orb
 Blue Orb
 Enigma Stone
-Clean Scale
-Evolution Stone
-Pumice Stone
-Rugged Helmet
-Balloon
+Prism Scale
+Eviolite
+Float Stone
+Rocky Helmet
+Air Balloon
 Red Card
-Bull's Eye
-Pressure Band
-Bulb
-Recharge Cell
-Escape Button
-Fire Jewel
-Water Jewel
-Electric Jewel
-Grass Jewel
-Ice Jewel
-Fight Jewel
-Poison Jewel
-Earth Jewel
-Flight Jewel
-Psychic Jewel
-Bug Jewel
-Rock Jewel
-Ghost Jewel
-Dragon Jewel
-Dark Jewel
-Steel Jewel
-Normal Jewel
-Strength Wing
-Power Wing
-Resistance Wing
-Wisdom Wing
-Mind Wing
-Instant Wing
-Beautiful Wing
+Ring Target
+Binding Band
+Absorb Bulb
+Cell Battery
+Eject Button
+Fire Gem
+Water Gem
+Electric Gem
+Grass Gem
+Ice Gem
+Fighting Gem
+Poison Gem
+Ground Gem
+Flying Gem
+Psychic Gem
+Bug Gem
+Rock Gem
+Ghost Gem
+Dragon Gem
+Dark Gem
+Steel Gem
+Normal Gem
+Health Wing
+Muscle Wing
+Resist Wing
+Genius Wing
+Clever Wing
+Swift Wing
+Pretty Wing
 Lid Fossil
-Wing Fossil
+Plume Fossil
 Liberty Pass
 Pass Ball
 Dream Ball
-Poké-Toy
-Goods Case
+Poké Toy
+Prop Case
 Dragon Skull
-FragrantMushroom
-Huge Gold Orb
-Round Pearl
+BalmMushroom
+Big Nugget
+Pearl String
 Comet Piece
-Old Bronze Coin
-Old Silver Coin
-Old Gold Coin
-Old Vase
-Old Bracelet
-Old Statue
-Old Crown
-Castelia Ice
+Relic Bronze
+Relic Silver
+Relic Gold
+Relic Vase
+Relic Bracelet
+Relic Statue
+Relic Crown
+Casteliacone
 Dire Hit 2
 X Speed 2
 X Sp. Atk 2
@@ -621,7 +621,7 @@ TM94
 TM95
 Xtransceiver
 God Stone
-Delivery1
-Delivery2
-Delivery3
+Gram 1
+Gram 2
+Gram 3
 Xtransceiver

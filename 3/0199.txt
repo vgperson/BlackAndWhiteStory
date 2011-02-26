@@ -5,4 +5,4 @@ Cheren: ...\xf000Ā\x0001\x0000, would you\xfffehurry up and look inside?
 Go through the hole in that fence\xfffeto get to the freezer storage.
 Only a little cargo, use Pokémon.\xfffeA lot of cargo, use ships!\xf000븁\x0000Whatever you're dealing with,\xfffethere's a best way to deal with it!
 A helmet is an valuable tool\xfffefor protecting yourself from impacts!\xf000븁\x0000Your Pokémon should\xfffewear them, too!\xf000븁\x0000
-The Rugged Helmet is a\xfffewondrous item that, when held...\xf000븁\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000븁\x0000..."Landing a blow" being\xfffeany move that strikes directly!
+The Rocky Helmet is a\xfffewondrous item that, when held...\xf000븁\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000븁\x0000..."Landing a blow" being\xfffeany move that strikes directly!
