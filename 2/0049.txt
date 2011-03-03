@@ -1,9 +1,11 @@
-\xf000Ā\x0001\x0000's Feeling Ranking
-Rank
-Name
-Score
-Times
-\xf000ȁ\x0001\x0000
-\xf000Ā\x0001\x0001
-\xf000Ȃ\x0001\x0002
-\xf000Ȃ\x0001\x0003
+
+
+You've created an Infrared Connection!
+Create an Infrared Connection to start\xfffethe Feeling Check with someone.
+Checking...\xfffePlease maintain the Infrared Connection.
+Tap the menu in the Touch Screen\xfffeto begin!
+BEGIN CHECK
+RANKING
+CANCEL
+BACK
+FEELING CHECK

@@ -1,40 +1,39 @@
-﻿I finally get to eat!\xfffeIt was a long wait, but now I have it!\xf000븁\x0000
-I've come from far-off Accumula Town\xfffeto experience this flavor!\xf000븁\x0000
-The ice cream here!\xfffeIt's super-DUPER popular!!\xf000븁\x0000
-Au naturel for the famous shop!\xfffeJust look at this crowd! Amazing!\xf000븁\x0000
-Yeah? You can buy\xfffeCastelia City's famous ice cream here.\xf000븁\x0000You lining up for it, too?
-Well!\xfffeThere is quite a line, though!\xf000븁\x0000But it's definitely tasty,\xfffeso I say it's worth the wait!\xf000븁\x0000
-Huh, too crowded for you?\xf000븁\x0000Well, just between you and me...\xfffeWhen it's crowded like today,\xf000븀\x0000it's pretty much always sold out.\xf000븁\x0000
-Hm? Here, you can buy\xfffeCastelia City's famous Casteliacones!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븁\x0000
-Hm? Here, you can buy\xfffeCastelia City's famous Casteliacones!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븀\x0000Come again another day!\xf000븁\x0000
-Welcome to the spot for\xfffeCastelia City's famous Casteliacones!\xf000븁\x0000Will you buy one\xfffefor a scant $100?
-Huh?! You seriously won't buy?\xfffeBut you know it'll sell out soon!
-Thank you very much!\xf000븁\x0000Enjoy the cute color\xfffeand the pure flavor!\xf000븁\x0000
-Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYou don't seem to have enough.\xf000븀\x0000Please come again!\xf000븁\x0000
-Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYour bag seems to be full.\xf000븀\x0000Please come again!\xf000븁\x0000
-And after all that waiting in line...\xfffeWell, um, please come again!\xf000븁\x0000
-Here, we sell Castelia City's\xfffefamous Casteliacones!\xf000븁\x0000But the owner figured\xfffewe should close shop for winter...\xf000븀\x0000Please come again when it gets warm!
+I finally get to eat it!\xfffeIt was worth lining up!\xf000븁\x0000
+I came all the way from Accumula Town\xfffejust to have a taste!\xf000븁\x0000
+These sweets are mega popular!!\xf000븁\x0000
+That's a popular store for you!\xfffeIt's amazingly crowded!\xf000븁\x0000
+Huh? Oh, here you can buy the dessert\xfffethat everyone in Castelia City\xf000븀\x0000\xfffeis talking about!\xf000븁\x0000\xfffeAre you going to get in line?
+I see!\xfffeThe line gets really long!\xf000븁\x0000\xfffeBut it's definitely delicious.\xfffeIt's worth lining up!\xf000븁\x0000
+I see. Well, it is crowded.\xf000븁\x0000\xfffeBut just between you and me,\xfffeit's actually pretty empty today.\xf000븁\x0000\xfffeUsually, it's sold out by now.\xf000븁\x0000
+Huh? Oh, here you can buy the dessert\xfffethat everyone in Castelia City\xf000븀\x0000\xfffeis talking about!\xf000븁\x0000\xfffeBut it looks like I got the last one.\xfffeThey're sold out for today!\xf000븁\x0000
+Huh? Oh, here you can buy the dessert\xfffethat everyone in Castelia City\xf000븀\x0000\xfffeis talking about!\xf000븁\x0000\xfffeBut it looks like I got the last one.\xfffeThey're sold out for today!\xf000븁\x0000\xfffeTry again on a different day!\xf000븁\x0000
+How about Castelia City's famous\xfffeCasteliacone!\xf000븁\x0000\xfffeIt's $100.\xfffeWould you like to buy one?
+Oh, you really aren't going to buy one?\xfffeThey'll sell out soon!
+Thank you very much!\xf000븁\x0000\xfffeWe hope you enjoy the cute appearance\xfffeand the naive flavor!\xf000븁\x0000
+Thank you very much!\xf000븁\x0000\xfffe...Huh? Oh, dear!\xfffeIt looks like you don't have enough\xf000븀\x0000\xfffemoney. Please come again sometime.\xf000븁\x0000
+Thank you very much!\xf000븁\x0000\xfffe...Huh? Oh, dear!\xfffeIt looks like your Bag is full.\xf000븁\x0000\xfffePlease come again sometime.\xf000븁\x0000
+Even though you waited in line...\xfffeWell, please come again, OK?\xf000븁\x0000
+We sell Castelia City's famous\xfffeCasteliacone here!\xf000븁\x0000\xfffeBut the owner closes the\xfffeshop for the winter!\xf000븁\x0000\xfffePlease come again when it gets warm!
 Buy
-Quit
-Castelia Atelier
-Castelia's Famous Casteliacones\xfffeOn break for the freezing winter.
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
+Cancel
+Studio Castelia
+Castelia's Famous Casteliacone\xfffeClosed during Winter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

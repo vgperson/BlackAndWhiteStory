@@ -1,7 +1,6 @@
-﻿There's something written\xfffeon the statue.\xf000븁\x0000"There are four warriors\xfffeof the Pokémon League.\xf000븁\x0000In the southwest is one who\xfffeknows the true nature of ghost-types.\xf000븁\x0000In the southeast is one\xfffewho handles fighting-types.\xf000븁\x0000In the northwest is one\xfffewho is master of dark-types.\xf000븁\x0000In the northeast is one\xfffeknowledgeable on psychic-types.\xf000븁\x0000When with courage and wisdom\xfffeyou have defeated the warriors...\xf000븁\x0000The ultimate Trainer, the Champion,\xfffewill beckon you."
-Challenge whichever of the\xfffeElite Four you prefer!
-Powerful challenger!\xfffeHead into the final room!
-Challenge whichever of the\xfffeElite Four you prefer!\xf000븁\x0000
-Powerful challenger!\xfffeHead into the final room!\xf000븁\x0000
-Until you have won over\xfffeall of the Elite Four...\xf000븁\x0000Or otherwise, suffered defeat,\xfffeyou cannot leave.
-If you have beaten\xfffeall of the Elite Four,\xf000븀\x0000head to the final room.
+Words are engraved on the statue:\xf000븁\x0000\xfffe“Four great warriors form\xfffe this Pokémon League.\xf000븁\x0000\xfffe To the southwest is one who\xfffe does not fear the Ghost type.\xf000븁\x0000\xfffe To the southeast is one who\xfffe channels the power of the Fighting type.\xf000븁\x0000\xfffe To the northwest is one who\xfffe has mastered the Dark type.\xf000븁\x0000\xfffe To the northeast is one who\xfffe knows the mind of the Psychic type.\xf000븁\x0000\xfffe If you can defeat these warriors with\xfffe your courage and wisdom,\xf000븀\x0000\xfffe you shall be led to the summit,\xf000븀\x0000\xfffe where the strongest Champion awaits."
+
+
+
+
+

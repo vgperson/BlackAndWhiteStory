@@ -1,4 +1,4 @@
-﻿None
+None
 Master Ball
 Ultra Ball
 Great Ball
@@ -135,18 +135,18 @@ Chill Drive
 Sweet Heart
 Adamant Orb
 Lustrous Orb
-Grass Mail
-Flame Mail
-Bubble Mail
-Bloom Mail
-Tunnel Mail
-Steel Mail
-Heart Mail
-Snow Mail
-Space Mail
-Air Mail
-Mosaic Mail
-Brick Mail
+Greet Mail
+Favored Mail
+RSVP Mail
+Thanks Mail
+Inquiry Mail
+Like Mail
+Reply Mail
+BridgeMail S
+BridgeMail D
+BridgeMail T
+BridgeMail V
+BridgeMail M
 Cheri Berry
 Chesto Berry
 Pecha Berry
@@ -469,7 +469,7 @@ Secret Key
 Apricorn Box
 Unown Report
 Berry Pots
-Dowsing Machine
+Dowsing MCHN
 Blue Card
 SlowpokeTail
 Clear Bell
@@ -484,12 +484,12 @@ Silver Wing
 Rainbow Wing
 Mystery Egg
 Red Apricorn
-Yellow Apricorn
-Blue Apricorn
-Green Apricorn
-Pink Apricorn
-White Apricorn
-Black Apricorn
+Blu Apricorn
+Ylw Apricorn
+Grn Apricorn
+Pnk Apricorn
+Wht Apricorn
+Blk Apricorn
 Fast Ball
 Level Ball
 Lure Ball
@@ -570,10 +570,10 @@ Genius Wing
 Clever Wing
 Swift Wing
 Pretty Wing
-Lid Fossil
+Cover Fossil
 Plume Fossil
 Liberty Pass
-Pass Ball
+Pass Orb
 Dream Ball
 Poké Toy
 Prop Case
@@ -581,38 +581,38 @@ Dragon Skull
 BalmMushroom
 Big Nugget
 Pearl String
-Comet Piece
-Relic Bronze
+Comet Shard
+Relic Copper
 Relic Silver
 Relic Gold
 Relic Vase
-Relic Bracelet
+Relic Band
 Relic Statue
 Relic Crown
 Casteliacone
 Dire Hit 2
 X Speed 2
-X Sp. Atk 2
+X Special 2
 X Sp. Def 2
 X Defend 2
 X Attack 2
 X Accuracy 2
 X Speed 3
-X Sp. Atk 3
+X Special 3
 X Sp. Def 3
 X Defend 3
 X Attack 3
 X Accuracy 3
 X Speed 6
-X Sp. Atk 6
+X Special 6
 X Sp. Def 6
 X Defend 6
 X Attack 6
 X Accuracy 6
-Skill Call
+Ability Urge
 Item Drop
-Item Call
-Flat Call
+Item Urge
+Reset Urge
 Dire Hit 3
 Light Stone
 Dark Stone
@@ -620,7 +620,7 @@ TM93
 TM94
 TM95
 Xtransceiver
-God Stone
+???
 Gram 1
 Gram 2
 Gram 3

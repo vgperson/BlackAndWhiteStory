@@ -1,53 +1,53 @@
-﻿Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge, so I\xfffewant to see which of us is stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
-Cheren: ...Why?\xfffeWhy can't I win against you?\xf000븁\x0000
-Elesa: So you two\xfffeare friends, then...\xf000븁\x0000How nice... That way, you can boost\xfffeeach other up when needed.\xf000븁\x0000
-Well, let's go.\xf000븁\x0000
-???: Oh!\xfffeIf it isn't Elesa!\xf000븁\x0000
-???: Festivals are great!\xfffeGotta have some fun with life!\xf000븁\x0000
-Cheren: ...And this is?\xf000븁\x0000
-Elesa: He's Alder, the Champion\xfffeof the Unova region.\xf000븁\x0000
-Cheren: He's the Champion?!\xf000븁\x0000And why is the Champion frolicking\xfffein a place like this?\xf000븁\x0000
-Alder: ...Man, I heard that!\xfffeYou're a harsh lad, ain't ya?\xf000븁\x0000Hey there.\xfffeMy name's Alder.\xf000븁\x0000Champion of the\xfffeUnova Pokémon League!\xf000븁\x0000And for your information,\xfffeI'm not "frolicking,"\xf000븀\x0000I'm questing!\xf000븁\x0000Questing through every\xfffenook and cranny of Unova!\xf000븁\x0000
-Cheren: ...I come from\xfffeNuvema Town, myself.\xf000븀\x0000Call me Cheren.\xf000븁\x0000As a Trainer, it's my goal\xfffeto become Champion, but...\xf000븁\x0000
-Alder: Hm! Adventuring with a goal's\xfffea right admirable thing.\xf000븁\x0000So what do you plan to do\xfffeonce you're Champion, kiddo?\xf000븁\x0000
-Cheren: ...Is there anything to it\xfffebeyond seeking power?\xf000븁\x0000The Champion is the strongest Trainer...\xfffeand that's about it, right?\xf000븁\x0000
-Alder: Hmm, getting stronger...\xfffestronger, huh...?\xf000븁\x0000Wonder if that's really\xfffesuch a good goal to have?\xf000븁\x0000Well, I won't be one to shoot down\xfffeyour ideas, of course.\xf000븁\x0000
-Different strokes for different folks,\xfffeso I let people live with Pokémon\xf000븀\x0000how they see fit.\xf000븁\x0000I'm always putting that\xfffefirst in my thoughts.\xf000븁\x0000But maybe if you tried\xfffeplaying with the kids here,\xf000븀\x0000you'd understand a lil' better.\xf000븁\x0000Would you two have a Pokémon\xfffebattle with these two kids?\xf000븁\x0000
-Hey, you!\xfffeC'mere for a sec.\xf000븁\x0000
-Cheren: ...I understand.\xf000븁\x0000Well, first...\xf000븁\x0000
-Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
-Cheren: Now, let's go!\xf000븁\x0000
-Alder: Oh, you scamps! You didn't win,\xfffebut it was still a great battle!\xf000븀\x0000Your Pokémon sure look happy, too!\xf000븁\x0000
-Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf000븁\x0000And there are guys like these\xfffewho are satisfied\xf000븀\x0000just being with Pokémon.\xf000븁\x0000All kinds, I tell you.\xfffeAnd all kinds of answers, too.\xf000븁\x0000We seem to have different ideas\xfffeof what it means to be Champion,\xf000븀\x0000but keep thinking yours anyway!\xf000븁\x0000
-Alder: Even totally different beings\xfffelike people and Pokémon\xf000븀\x0000can appreciate each other\xf000븀\x0000and be together... It's splendid!
-Uncle Alder's real strong!\xfffeAnd he's so kind to his Pokémon, too!
-I used to think\xfffePokémon were pretty scary...\xf000븁\x0000But then Uncle Alder taught me\xfffethat they're gentle and caring!
-Elesa: ...Well, let's go.\xfffeThe Driftveil Drawbridge is just ahead.\xf000븁\x0000
-Cheren: The Champion is all strength!\xfffeThat's the only answer there can be...!\xf000븁\x0000
-Cheren: Over here.\xf000븁\x0000
-Elesa: Okay, I'll get in contact.\xf000븁\x0000
-It's me.\xfffeLower the drawbridge.\xf000븁\x0000There's Trainers here\xfffewho want to challenge you.\xf000븁\x0000Yeah.\xfffeThanks.\xf000븁\x0000
-Now, watch!\xf000븁\x0000
-Elesa: I've got a TV stint,\xfffeso I'll be heading back now.\xf000븁\x0000The gym leader in the next town's\xfffea bit of an old-timer,\xf000븀\x0000but just do your best.\xf000븁\x0000
-Cheren: ...I'm a Trainer.\xf000븁\x0000Getting stronger and winning\xfffeis how I can prove I'm right.\xf000븀\x0000Even to the Champion.\xf000븁\x0000
-Excuse meee!\xfffeStop there, pleeease!\xf000븁\x0000
-The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Driftveil's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.
-The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Driftveil's gym leader, Mr. Clay...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Nimbasa City's\xfffegym leader, Miss Elesa,\xf000븀\x0000maybe you could do something.\xf000븁\x0000
-Whatever the bridge,\xfffeit's no good if you can't cross!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!
-ECHO, my melody\xfffeFIGHT, my Pokémon!\xf000븁\x0000
-I learned from that battle...\xf000븁\x0000I learned you're the BEST!\xfffeTake this with you!\xf000븁\x0000
-Received \xf000Ċ\x0001\x0000!
-\xf000Ā\x0001\x0001 put the\xfffe\xf000Ċ\x0001\x0000 in the Prop Case!
-Put that Electric Guitar accessory on a\xfffePokémon and go to the Musical Hall!\xf000븀\x0000You'll be the best around!
-Cheren: ...Strength was the\xfffesole value of my existence.\xf000븁\x0000When I met Alder here,\xfffeof that I was convinced.\xf000븁\x0000
-...But winning in Pokémon\xfffebattles isn't everything.\xf000븁\x0000Ever since I've been shown that,\xfffeI've seen so much more.\xf000븁\x0000
-In a way, everyone is strong...\xf000븁\x0000People and Pokémon possess\xfffetheir own unique strengths.\xf000븁\x0000Strength to make dreams come true,\xfffestrength to protect things...\xf000븁\x0000
-I've come to think that\xfffebecause of you, \xf000Ā\x0001\x0000.\xf000븀\x0000Thanks to you and Bianca...\xf000븀\x0000and Alder, and all the rest.\xf000븁\x0000...It would have been nice if\xfffeN could have seen the same thing.\xf000븁\x0000
-I'm going to take a look\xfffeat myself on Victory Road.\xf000븁\x0000What can I accomplish,\xfffeand what should I become...?\xf000븁\x0000If you want, you can come too. I'd like\xfffeto have Pokémon battles with you.\xf000븁\x0000
-Pokémon and performers\xfffeboth have sweet moves!
-It's a fantastic ability to be able\xfffeto put a smile on someone's face!\xf000븁\x0000Yeah! Pokémon are fantastic!\xfffeBecause they make you smile!
-Even the street performers\xfffeadd to Nimbasa's charm!
-Route 5\xfffePerformer's Street
+Cheren: \xf000Ā\x0001\x0000, stop!\xf000븁\x0000\xfffeYou've got a Bolt Badge...\xfffeI've got a Bolt Badge...\xf000븁\x0000\xfffeLet's test who's stronger--you or me!\xfffeThis time, I'm going to win!\xf000븁\x0000
+Cheren: Why?\xfffeWhy can't I beat you?\xf000븁\x0000
+Elesa: Oh, you two are friends...\xf000븁\x0000\xfffeThat's nice, how you're helping each\xfffeother get better by competing.\xf000븁\x0000
+OK, let's go.\xf000븁\x0000
+???: Oh!\xfffeWhy, if it isn't Elesa!\xf000븁\x0000
+???: Aren't festivals grand?\xfffeLife should be enjoyed!\xf000븁\x0000
+Cheren: Who is this man?\xf000븁\x0000
+Elesa: This is Alder,\xfffethe Unova region's Champion.\xf000븁\x0000
+Cheren: Champion?!\xf000븁\x0000\xfffeWhy would the Champion be\xfffegoofing off in a place like this?\xf000븁\x0000
+Alder: I heard that remark.\xfffeYou're quite a judgmental young person,\xf000븀\x0000\xfffeare you not?\xf000븁\x0000\xfffeMy name is Alder. I'm the Unova\xfffePokémon League's Champion.\xf000븁\x0000\xfffePleased to make your acquaintance.\xf000븁\x0000\xfffeFor your information, I'm not\xfffegoofing off. I'm on a voyage.\xf000븀\x0000\xfffeI know every corner of Unova.\xf000븁\x0000
+Cheren: Um. I'm Cheren, from\xfffeNuvema Town.\xf000븁\x0000\xfffeMy goal as a Trainer is to\xfffebecome the Champion.\xf000븁\x0000
+Alder: Hm. Traveling with a goal in mind\xfffeis a commendable thing.\xf000븁\x0000\xfffeAnd what do you plan to do\xfffeafter becoming the Champion?\xf000븁\x0000
+Cheren: What else is there other than\xfffestriving to become stronger?\xf000븁\x0000\xfffeThe strongest Trainer--\xfffethat's the Champion.\xf000븁\x0000
+Alder: Hmm. Becoming stronger...\xfffeBecoming stronger, you say...\xf000븀\x0000\xfffeIs that alone enough of a goal? Hmmm.\xf000븁\x0000\xfffeIt's not that I'm trying to say your way\xfffeof thinking is wrong...\xf000븁\x0000
+In my travels, I've helped many people\xfffelearn to love Pokémon. I think that's\xf000븀\x0000\xfffeimportant, too.\xf000븁\x0000\xfffeIf you play with those children,\xfffeyou might gain more of an understanding.\xf000븁\x0000\xfffeWill you two have a Pokémon battle\xfffewith those two?\xf000븁\x0000
+Hey, you two. Come\xfffehere for a moment.\xf000븁\x0000
+Cheren: ...Understood.\xf000븁\x0000\xfffeBut, before that...\xf000븁\x0000
+Cheren fully healed \xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren: OK, let's battle.\xf000븁\x0000
+Alder: Nicely done! You didn't win, but\xfffethat was a good battle. Your Pokémon\xf000븀\x0000\xfffelooked like they were having fun.\xf000븁\x0000
+Young man, if there are people\xfffelike you who pursue strength,\xf000븀\x0000\xfffethere are also people who are\xf000븀\x0000\xfffehappy just being with Pokémon.\xf000븁\x0000\xfffeThere are many different people\xfffeand many different answers.\xf000븁\x0000\xfffeWhen it comes to what a Champion\xfffeshould be, you and I may hold differing\xf000븀\x0000\xfffeviews, but so be it! Give it some thought.\xf000븁\x0000
+Alder: It's tremendous that people and\xfffePokémon, each so different, can\xf000븀\x0000\xfffeacknowledge each other and be together!
+Alder is so strong!\xfffeAnd he's nice to Pokémon!
+I was scared of Pokémon, but Alder\xfffetaught me that they're nice and friendly.
+Elesa: Let's roll.\xfffeThe Driftveil Drawbridge is just ahead.\xf000븁\x0000
+Cheren: The Champion is the strongest\xfffeof the strong! That's all there is to it.\xf000븁\x0000
+Cheren: This way.\xf000븁\x0000
+Elesa: Now to contact him...\xf000븁\x0000
+It's me, Elesa.\xfffePlease lower the drawbridge.\xf000븁\x0000\xfffeI have a couple of Trainers here\xfffewho want to challenge you.\xf000븁\x0000\xfffeOK...\xfffeThanks.\xf000븁\x0000
+Now, watch this!\xf000븁\x0000
+Elesa: I have a TV gig, so I've got to go.\xf000븁\x0000\xfffeThe Gym Leader of the next town\xfffemay take some getting used to...\xf000븀\x0000\xfffeDo your best, both of you.\xf000븁\x0000
+Cheren: What I am is a Trainer.\xf000븁\x0000\xfffeI prove I'm right by getting stronger\xfffeand winning in battle--\xf000븀\x0000\xfffeeven against the Champion.\xf000븁\x0000
+Excuse me!\xfffePlease stop right there!\xf000븁\x0000
+The drawbridge is raised right now\xfffeso ships can pass. You can't cross.\xf000븁\x0000\xfffeIf you make a request to Driftveil's Gym\xfffeLeader, Clay, he could... Well, I'm not\xf000븀\x0000\xfffesure how you'd reach him over there...\xf000븁\x0000\xfffeIf you talk to Nimbasa City's Gym Leader,\xfffeElesa, she might be able to do something.
+The drawbridge is raised right now\xfffeso ships can pass. You can't cross.\xf000븁\x0000\xfffeIf you make a request to Driftveil's Gym\xfffeLeader, Clay, he could... Well, I'm not\xf000븀\x0000\xfffesure how you'd reach him over there...\xf000븁\x0000\xfffeIf you talk to Nimbasa City's Gym Leader,\xfffeElesa, she might be able to do something.\xf000븁\x0000
+A bridge would be meaningless\xfffeif no one ever crossed it.\xf000븁\x0000\xfffeBridges connect the world...\xfffeThat's as solid as a symbol can get.
+Hum fiercely! My battle song!\xfffeBattle fiercely! My Pokémon!\xf000븁\x0000
+In battling you, I came to understand...\xf000븁\x0000\xfffeYou're the best!\xfffeHere! This is for you!\xf000븁\x0000
+
+
+If you want your Pokémon to\xfffehold this Electric Guitar,\xf000븀\x0000\xfffego to the Musical Theater!\xf000븀\x0000\xfffeCooler than cool!
+Cheren: Strength and strength alone\xfffeis what matters in this world.\xf000븁\x0000\xfffeSo I believed, until I met Alder here.\xf000븁\x0000
+But, winning in Pokémon battles\xfffeisn't all there is to life.\xf000븁\x0000\xfffeOnce I learned that lesson, my eyes\xfffewere opened to many different things.\xf000븁\x0000
+We all have our own brand of strength,\xfffepeople and Pokémon both.\xf000븁\x0000\xfffeThe strength to make our dreams\xfffea reality, the strength to protect\xf000븀\x0000\xfffewhat we hold most dear...\xf000븁\x0000
+Why do I think this way now?\xfffeIt's thanks to you, \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeAnd Bianca...\xfffeAnd Alder...\xf000븁\x0000\xfffeIf only N could see this, too, someday.\xf000븁\x0000
+I'm going to take a long, hard look\xfffeat myself on Victory Road.\xf000븁\x0000\xfffeI'm going to think about what I can do\xfffeand who I can become...\xf000븁\x0000\xfffeVisit me sometime, if you want.\xfffeWe'll have a battle like old times.\xf000븁\x0000
+The Pokémon and the performers\xfffeall have amazing moves!
+I think being able to make people\xfffesmile is a super-awesome talent!\xf000븁\x0000\xfffeThat's why Pokémon are so awesome!\xfffeBecause they can make you smile!
+The street performers are my favorites.\xfffeThey're so charming!
+Route 5\xfffePerformer Street
 Driftveil Drawbridge
-Driftveil Drawbridge
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.
+
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeThere are different Cases\xfffefor each type of item.\xf000븁\x0000\xfffeItems are placed automatically in\xfffethe correct Case by their type.\xf000븁\x0000\xfffeThe name of the Case tells you\xfffewhat type of items will be kept there.

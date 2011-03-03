@@ -1,4 +1,4 @@
-﻿None
+None
 Abruzzo
 Basilicata
 Calabria
@@ -7,14 +7,14 @@ Emilia-Romagna
 Friuli-Venezia Giulia
 Lazio
 Liguria
-Lombardia
+Lombardy
 Marche
 Molise
-Piemonte
-Puglia
-Sardegna
-Sicilia
-Toscana
+Piedmont
+Apulia
+Sardinia
+Sicily
+Tuscany
 Trentino-Alto Adige
 Umbria
 Valle d'Aosta

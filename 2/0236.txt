@@ -1,4 +1,4 @@
-﻿
+
 For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
 When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
 After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
@@ -93,7 +93,7 @@ It fights by keeping its shell\xfffetightly shut for protection and\xfffeby shoo
 Born from gases, anyone would\xfffefaint if engulfed by its gaseous\xfffebody, which contains poison.
 It likes to lurk in the dark and tap\xfffeshoulders with a gaseous hand. Its\xfffetouch causes endless shuddering.
 The leer that floats in darkness\xfffebelongs to a Gengar delighting in\xfffecasting curses on people.
-It burrows through the ground\xfffeat a speed of 50 mph while\xfffefeeding on large boulders.\xfffe
+It burrows through the ground\xfffeat a speed of 50 mph while\xfffefeeding on large boulders.
 It can tell what people are\xfffedreaming by sniffing with its big\xfffenose. It loves fun dreams.
 Seeing its swinging pendulum can\xfffeinduce sleep in three seconds,\xfffeeven in someone who just woke up.
 It lives in burrows dug on sandy\xfffebeaches. Its pincers fully grow\xfffeback if they are broken in battle.
@@ -251,7 +251,7 @@ It sleeps in a deep-sea trench.\xfffeIf it flaps its wings, it is said to\xfffec
 Its feathers are in seven colors.\xfffeIt is said that anyone seeing it is\xfffepromised eternal happiness.
 It has the power to travel across\xfffetime, but it is said to appear only\xfffein peaceful times.
 The soles of its feet are covered\xfffeby countless tiny spikes, enabling\xfffeit to walk on walls and ceilings.
-It lives in dense jungles. While\xfffeclosing in on its prey, it leaps\xfffefrom branch to branch.
+It lives in dense jungles. While \xfffeclosing in on its prey, it leaps\xfffefrom branch to branch.
 The leaves that grow on its arms\xfffecan slice down thick trees. It is\xfffewithout peer in jungle combat.
 A fire burns inside, so it feels\xfffevery warm to hug. It launches\xfffefireballs of 1,800 degrees F.
 Its kicking mastery lets it loose\xfffe10 kicks per second. It emits\xfffesharp cries to intimidate foes.
@@ -492,159 +492,159 @@ It is born with a wondrous power\xfffethat lets it bond with any kind of\xfffePo
 To protect itself, it afflicts those\xfffearound it with nightmares. However,\xfffeit means no harm.
 The flowers all over its body burst\xfffeinto bloom if it is lovingly hugged\xfffeand senses gratitude.
 It is said to have emerged from an\xfffeegg in a place where there was\xfffenothing, then shaped the world.
-A Pokémon that brings about victory.\xfffeIt's said that a Trainer partnered\xfffewith Victini can win any battle.
-It has high intelligence and a cool\xfffedemeanor. When it's bathed in sunlight,\xfffeits movements are sharpened.
-It runs as if it were gliding. After\xfffeconfusing its enemies with quick speed,\xfffeit takes them down with Vine Whip.
-It stops enemies in their tracks with\xfffeonly a glance. It amplifies solar energy\xfffeinside its body.
-It nimbly avoids enemy attacks and\xfffeshoots fireballs from its nose. It cooks\xfffeberries with its flames and eats them.
-When the flame inside its body flares up,\xfffethe speed and sharpness of its movement\xfffeincreases. In a pinch, it blows smoke.
-It ignites its fists with flames on its\xfffechin and unleashes Fire Punches. A\xfffePokémon that deeply cares for comrades.
-It fights with the shell on its\xfffestomach, using it to block\xfffeattacks and immediately slash back.
-It smoothly wields two shells as\xfffeswords and trains strictly to\xfffelearn techniques.
-It downs opponents with one swing of\xfffethe sword stored in its armor.\xfffeIt silences enemies with a glance.
-It stores food in its cheek pouches and\xfffestands watch for days at a time. It uses\xfffeits tail to communicate with friends.
-It fires the berry seeds in its cheek\xfffepouches to attack. When it detects\xfffean enemy, its tail goes erect.
-A smart Pokémon that bravely\xfffefaces even strong opponents,\xfffebut avoids unfavorable battles.
-The cape-like black fur that covers its\xfffebody is very tough. It reduces\xfffethe damage it receives.
-It rescues people lost in mountains made\xfffeimpassable by blizzard. Its long fur\xfffewards off the cold.
-It steals people's belongings for fun.\xfffeEven the people it stole from quickly\xfffeforgive its adorable antics.
-An elusive Pokémon.\xfffeIts beautiful style and fur\xfffecharm many Trainers.
-A Pokémon that lives in deep forests.\xfffePeople who eat the leaves on its head\xfffehave their fatigue vanish into thin air.
-It fights violently by swinging\xfffeits spiked tail around. The leaf\xfffeon its head is extremely bitter.
-When angered, the tassel on its head\xfffeheats up to over 300 degrees.\xfffeIt roasts berries and eats them.
-Sweet foods are its favorite.\xfffeIt converts them to energy,\xfffewhich stokes the fire in its body.
-The water stored in the tassel on\xfffeits head is packed with nutrients.\xfffePlants sprinkled with it grow big.
-It stores water in the tassel on\xfffeits head. If it runs low on water,\xfffeit sucks up water with its tail.
-If a Munna eats your dream,\xfffeyou forget what it was about.\xfffeIt always floats in the air.
-Many dreams from humans and Pokémon\xfffeare contained within the smoke\xfffethat comes from its forehead.
-It's naturally willing to listen to a\xfffeTrainer's orders, but sometimes it\xfffecan't understand difficult instructions.
-Even if they're separated by a\xfffegreat distance, it can always\xfffefind its way back to its Trainer.
-The male shakes the adornments on\xfffeits head to intimidate opponents. The\xfffefemale has superior flying ability.
-Its mane lights up when it discharges\xfffeelectricity. It communicates with friends\xfffewith the flashing of its mane.
-It's as fast and powerful as\xfffelightning. When Zebstrika runs\xfffeat top speed, thunder rumbles.
-It has a hexagon-shaped ear. Its body\xfffehas been compressed by the earth\xfffeto a harder consistency than iron.
-When it's at full power,\xfffethe orange crystals glow.\xfffeIt searches for groundwater in caves.
-It compresses energy in the core\xfffeinside its body, and releases attacks\xfffethat can blow away a mountain.
-It lives in dark forests and caves.\xfffeIt emits ultrasonic waves from its\xfffenostrils to map out its surroundings.
-It fires different frequencies of sound\xfffewaves from its nostrils. It can even\xfffeemit a sound that shatters rocks.
-It burrows through the underground at\xfffeover 50km/h. It's a match for an\xfffeautomobile driving on the surface.
-Its drills, which evolved to steel, have\xfffethe power to pierce an iron plate.\xfffeIt excels at constructing tunnels.
-It discerns an opponent's condition\xfffeand mood by touching it with its ear\xfffeantennae and listening to their heart.
-It fights by swinging a wooden plank.\xfffeWhen it's comfortable with carrying\xfffeheavy planks, it's close to evolving.
-Even if attacked by a group of pro\xfffewrestlers, its toned, muscular body\xfffewon't give an inch.
-It's thought that the art of\xfffemaking concrete was learned\xfffefrom Conkeldurr 2000 years ago.
-It produces a high-pitched\xfffealarm by vibrating its cheeks, and\xfffeinforms its companions of danger.
-When it vibrates the lump on its head,\xfffenot only does the water turn choppy,\xfffethe ground shakes like an earthquake.
-It shoots a liquid from its head that\xfffecauses nerve paralysis. It torments\xfffeits opponent with vibrations.
-Its power increases when it wears a\xfffebelt. Wild Nageki knit vines together\xfffeto make their own belts.
-You can hear the sound of fists striking\xfffetrees and boulders from the\xfffemountains where Sawk train.
-When it hatches, it's dressed in\xfffeclothes made by Leavanny. It hides\xfffeits head in its hood when it sleeps.
-Plants grow well in forests with Swadloon\xfffebecause they change the fallen leaves\xfffeinto a nutritious substance.
-When it finds a small Pokémon, it has\xfffethe tendency to sew leaf clothing with\xfffeits sticky string and arm blades.
-It bites down and injects deadly poison.\xfffeEven large bird Pokémon that prey on\xfffeit are rendered immobile by paralysis.
-It's protected by its hard shell.\xfffeIt spins like a tire and\xfffeviciously tackles its enemies.
-It chases down enemies with swiftness\xfffeand attacks with the horns on its head.\xfffeIt shows no mercy up to the final blow.
-When it's attacked, cotton flies from\xfffeits body. The enemy mistakes it for\xfffeMonmen, and it escapes in the interim.
-It slips through the narrowest\xfffecracks, just like the wind. It leaves\xfffebehind white pilling.
-The leaves on its head are bitter\xfffewhen chewed, but are able to\xfffeenergize a tired body.
-Even veteran Trainers have difficulty\xfffegetting the beautiful flower to bloom.\xfffeA Pokémon popular with celebrities.
-Red and blue Basculin have a tense\xffferelationship, so they immediately fight.\xfffeAn extremely reckless Pokémon.
-It lives in the desert sand. The\xfffesun-warmed sand prevents its body\xfffetemperature from lowering.
-It groups up with other Krokorok.\xfffeThe membrane over its eyeballs\xfffeprotects its eyes from sandstorms.
-It won't let any prey it happens\xfffeupon escape. Its jaw has the\xfffepower to bite chunks out of a car.
-When the flame inside its body blazes,\xfffeit runs around unable to calm itself.\xfffeWhen the flame dwindles, it falls asleep.
-A flame burns at 1400 degrees inside\xfffeits body, producing enough power for it\xfffeto demolish a dump truck with a punch.
-It uses uptempo dancing and sound\xfffeto drive away its prey, the bird\xfffePokémon who go for its flower's seeds.
-It secretes a fluid that dissolves rocks\xfffefrom its mouth, so it can easily make\xfffeholes in even the hardest rocks.
-Iwaparesu that compete over\xfffeterritory battle violently. The\xfffeone that has its shell broken loses.
-It pulls its skin up to its neck\xfffein a defensive stance. The rubber-like\xfffeelasticity reduces damage.
-They gang up on trespassers to their\xfffeterritory and beat them half to death.\xfffeThey shoot acidic fluid from the mouth.
-It seems to always fly along the same\xffferoute because it retains memories\xfffeof protecting an ancient city.
-The mask Yamask carries is its\xfffeface from when it was human.\xfffeOccasionally, it stares at it, sobbing.
-According to rumors, it swallows\xfffenearby humans and turns them into\xfffemummies. It likes to eat gold nuggets.
-It was revived from an ancient\xfffefossil. It can dive to depths\xfffeof up to 1000 meters.
-It lives in oceans and on land.\xfffeIt has the power to punch holes in\xfffethe hulls of tankers with its slaps.
-It's said to be the ancestor of bird\xfffePokémon. It appears it couldn't fly,\xfffeand lived jumping from branch to branch.
-It gets a running start, then leaps up.\xfffeIt's intelligent enough to cooperate\xfffewith allies in bringing down prey.
-It prefers unsanitary places. It spews\xfffegas as if it was belching; inhale it, and\xfffeyou'll be laid up in bed for a week.
-It squeezes the opponent with its\xfffeleft hand, then finishes it off by spewing\xfffesmelly, poisonous gas from its mouth.
-It surprises opponents by taking on\xfffetheir form. It often seems to disguise\xfffeitself as a quiet child.
-A Pokémon that bewitches opponents\xfffeto protect the security of its pack.\xfffeIts bond with its comrades is strong.
-They brush tails against each other\xfffeas a greeting. It keeps its tail groomed\xfffeso it's always clean.
-Since its white fur is coated with\xfffea special resin, enemy attacks\xfffeslide right off it.
-It amplifies its psychic power with\xfffeits ribbon-like antennae. It's\xfffealways staring fixedly at something.
-It manipulates people and Pokémon\xfffewith hypnosis. Legend says the victims\xfffeare spirited away by Gothorita.
-Gothitelle's immense psychic power\xfffewarps nearby space to resemble\xfffestars from countless lightyears away.
-It releases psychic power to repel\xfffeattacking enemies. It communicates\xfffewith its allies via telepathy.
-Since its brain is split into two sections,\xfffethere are times when it abruptly\xfffedoes something unexpected.
-When Reuniclus shake hands, their\xfffebrains connect over a network and\xfffetheir psychic powers are amplified.
-A bird Pokémon that excels at diving.\xfffeIt swims around underwater to eat\xfffepeat moss, its favorite food.
-Skylacks of Swanna dance at the break\xfffeof dawn. The Swanna dancing in the\xfffemiddle is the flock's leader.
-It blows out breath of -50 degrees.\xfffeIt creates snow crystals,\xfffeand causes it to snow nearby.
-A Pokémon that lives on snowy mountains.\xfffeIt migrated south during the\xfffeancient ice age.
-It gulps down huge quantities of water\xfffeand makes snow clouds in its body.\xfffeIt torments foes with fierce blizzards.
-Its fur changes to match the color and\xfffescent of the fields. It hides in the\xfffebrush when it detects hostility.
-It changes its habitat according to the\xfffeseasons. People use Sawsbuck's horns\xfffeto determine when the seasons change.
-It stores the electricity generated by\xfffethe sacks in its cheeks in a membrane,\xfffeand releases the electricity as it glides.
-A mysterious Pokémon that evolves when\xfffeit's hit by electrical stimulus\xfffein the company of Shelmet.
-It flies around at high speeds and stabs\xfffeenemies with its sharp spear. It\xfffebravely faces unfavorable matchups.
-It attracts victims with its Poké Ball-like\xfffemarkings, then blows toxic spores.\xfffeWhy it resembles a Poké Ball is a mystery.
-It dances to attract prey,\xfffewiggling the Poké Ball-like mushrooms\xfffeon both its arms.
-It sinks to the bottom of the sea\xfffewith its enemies' bodies still bound\xfffein its thin, veil-like arms.
-If a lost ship sinks in Jellicent's\xfffehabitat, the crew members' life force\xfffegets completely absorbed.
-The special mucus membrane that\xfffecovers Alomomola's body has the\xfffeeffect of healing wounds.
-Joltik that live in cities have\xfffelearned how to absorb electricity\xfffefrom the outlets in private houses.
-When it's attacked by an enemy,\xfffeit spits electricity-laced thread\xfffeand makes an electric barrier.
-When it senses danger, it counters by\xfffefiring all of its spikes at once.\xfffeIt rolls away in the interim.
-It brandishes spiked tentacles.\xfffeWhen it slams its steel spikes down,\xfffethe force shatters boulders.
-The two bodies can only combine with\xfffeeach other. If they try to engage with\xfffeother bodies, the gears won't mesh.
-It conveys feelings to friends by\xfffealtering the direction of rotation.\xfffeIf sufficiently angered, it rotates fast.
-The red core functions as an energy\xfffetank. It fires charged up energy from\xfffeits spikes around its circumference.
-A single Tynamo's electrical power\xfffeis tiny, but a group can produce\xfffepower as mighty at thunder.
-The circular marks generate power.\xfffeAfter wrapping its foe, it pushes the\xfffemarks against them and shocks them.
-It crawls out of the water with its arms,\xfffethen attacks prey on the shore. In a\xfffeflash, it drags them into the ocean.
-It controls incredible psychic power.\xfffeIt constricts its opponent's brains with\xfffepsychic power to give them headaches.
-It manipulates its foes' memories.\xfffeIt apparently communicates with friends\xfffeby flickering its tri-colored fingers.
-Litwick's light burns brighter\xfffeafter it's sucked up a human or\xfffePokémon's life energy.
-An ominous, feared Pokémon.\xfffeIt drifts unsteadily through town,\xfffesearching for the souls of the dead.
-It blazes when it absorbs a soul.\xfffeIt swings the flames on its arms to\xfffeput opponents into a hypnotic trance.
-It crushes berries with its fangs and\xfffeeats them. Its fangs get replaced,\xfffeso they're always strong and sharp.
-Its broken fangs aren't replaced with\xfffenew ones, so it diligently polishes\xfffethem with river rocks after battle.
-It's kind at heart, but shows no mercy\xfffeto trespassers. It confidently faces\xfffethem with fangs that can cut steel.
-When it's in poor health, its mucus\xfffebecomes watery, and the power of\xfffeits Ice attacks diminishes as a result.
-It freezes its breath at will.\xfffeIt's skilled at swimming, and swims\xfffearound the northern sea catching prey.
-When its body temperature increases,\xfffeit turns to steam and vanishes.\xfffeWhen its lowers, it reverts to ice.
-When it's attacked by an enemy, it\xfffecloses its shell in defense. It fires\xfffesticky venom through the openings.
-If its body dries out, it weakens.\xfffeA thin membrane is wrapped around\xfffeits body multiple times to protect it.
-Its skin is tough enough to withstand\xfffebeing stepped on by a sumo wrestler.\xfffeIt smiles when it releases electricity.
-It unleashes a flood of consecutive\xfffeattacks to overwhelm the enemy.\xfffeIt slashes the enemy with sharp claws.
-It handles the hair on its arms like\xfffea whip. The attacks from both arms\xfffeare too fast for the eye to track.
-When sunlight hits its wings, it warms\xfffeits body. If its body temperature\xfffefalls, it becomes unable to move.
-Energy burning inside its body\xfffeenables it to move, but what kind of\xfffeenergy this is is unclear.
-It flies through the sky at mach speed.\xfffeIf the seal on its chest is removed,\xfffeits energy becomes uncontrollable.
-A Pokémon whose entire body is a\xfffeblade. If the blade gets chipped in\xfffebattle, it sharpens it with river rocks.
-It leads a group of Pawniard.\xfffeThey fight frantically to become boss.\xfffeLosers are expelled from the group.
-Even when it deals a violent\xfffeheadbutt, its bushy body hair\xfffeabsorbs the damage.
-It can crush berries with its legs.\xfffeIt has the disposition to bravely\xfffestand against strong adversaries.
-It fights for its friends without any\xffferegard to danger. It can grab a car\xfffeand carry it up to the heavens.
-Since its wings are small, it can't fly.\xfffeWhen it's close to evolving,\xfffeit throws off its skeleton adornments.
-It gathers bones to make its nest.\xfffeIt clutches weak prey in its talons\xfffeand carries it back to its nest of bones.
-It sucks up air through the hole in\xfffeits tail to fuel the flame in its body.\xfffeIt's Durant's natural predator.
-Its body is covered in steel armor.\xfffeIt gathers into mobs to counter\xfffethe attacks of preying Heatmor.
-It wants to bite everything.\xfffeIt'll eat anything as food.\xfffeIt's risky to approach carelessly.
-It eats all the prey in a region,\xfffethen moves on to the next.\xfffeThe two heads don't get along.
-A brutal Pokémon that flies through the\xfffesky on its six wings, marking anything\xfffethat moves as an enemy to attack.
-People believe this Pokémon was born\xfffefrom the sun. When it evolves, its\xfffeentire body is wrapped in flames.
-It's said that when the surface was\xfffeblackened by volcanic ash, Volcarona's\xfffeflame became a substitute for the sun.
-A legendary Pokémon that fights humans\xfffein order to protect Pokémon. It has\xfffea serene nature.
-It battles humans in order to protect\xfffePokémon that lost their habitats\xfffein human wars.
-A Pokémon that challenges humans\xfffeto protect its comrades. Its legend has\xfffebeen passed down for generations.
-Its lower half is wrapped in a cloud-\xfffelike body of energy. It flies\xfffethrough the sky at 300 km/h.
-The lands Thundurus passes through are\xfffeleft with countless scars and scorch\xfffemarks from fallen thunder.
-A Pokémon that appears in myths.\xfffeIt spouts flames from its tail,\xfffescorching everything.
-Its tail produces electricity.\xfffeIt conceals its body in a thundercloud\xfffeand flies through the skies of Unova.
-Since the lands that Landorus visits\xfffebear large harvests of crops,\xfffeit's called the god of agriculture.
-It produces powerful freezing energy\xfffeinside its body, but its body is frozen\xfffeby the chill that seeps out.
-Spouting water from its hooves, it glides\xfffeacross the water's surface. It fights\xfffewith special foot techniques.
-It sings with a unique vocalization, and\xfffefreely manipulates the emotions of\xfffecreatures who hear its melody.
-300,000,000 years ago, it was feared\xfffeas the ultimate hunter.\xfffeTeam Plasma modified it.
+This Pokémon brings victory. It is said\xfffethat Trainers with Victini always win,\xffferegardless of the type of encounter.
+It is very intelligent and calm.\xfffeBeing exposed to lots of sunlight makes\xfffeits movements swifter.
+It moves along the ground as if sliding.\xfffeIts swift movements befuddle its foes,\xfffeand it then attacks with a vine whip.
+It can stop its opponents'\xfffemovements with just a glare. It takes\xfffein solar energy and boosts it internally.
+It can deftly dodge its foe's attacks\xfffewhile shooting fireballs from its nose.\xfffeIt roasts berries before it eats them.
+When its internal fire flares up, its\xfffemovements grow sharper and faster.\xfffeWhen in trouble, it emits smoke.
+It can throw a fire punch by setting its\xfffefists on fire with its fiery chin. It cares\xfffedeeply about its friends.
+It fights using the scalchop on its\xfffestomach. In response to an attack,\xfffeit retaliates immediately by slashing.
+Strict training is how it learns its\xfffeflowing double-scalchop technique.
+One swing of the sword incorporated in\xfffeits armor can fell an opponent. A simple\xfffeglare from one of them quiets everybody.
+Using food stored in cheek pouches,\xfffethey can keep watch for days. They use\xfffetheir tails to communicate with others.
+When they see an enemy, their tails\xfffestand high, and they spit the seeds of\xfffeberries stored in their cheek pouches.
+It faces strong opponents with great\xfffecourage. But, when at a disadvantage in\xfffea fight, this intelligent Pokémon flees.
+It has black, cape-like fur that is\xfffevery hard and decreases the amount\xfffeof damage it receives.
+It rescues people stranded by\xfffeblizzards in the mountains. Its\xfffeshaggy fur shields it from the cold.
+They steal from people for fun, but their\xfffevictims can't help but forgive them.\xfffeTheir deceptively cute act is perfect.
+These Pokémon vanish and appear\xfffeunexpectedly. Many Trainers are drawn\xfffeto their beautiful form and fur.
+This Pokémon dwells deep in the forest.\xfffeEating a leaf from its head whisks\xfffeweariness away as if by magic.
+Ill tempered, it fights by swinging its\xfffebarbed tail around wildly. The leaf\xfffegrowing on its head is very bitter.
+When it is angered, the temperature\xfffeof its head tuft reaches 600° F.\xfffeIt uses its tuft to roast berries.
+It loves sweets because they become\xfffeenergy for the fire burning inside\xfffeits body.
+The water stored inside the tuft on\xfffeits head is full of nutrients. Plants\xfffethat receive its water grow large.
+The tuft on its head holds water. When\xfffethe level runs low, it replenishes the\xfffetuft by siphoning up water with its tail.
+Munna always float in the air. People\xfffewhose dreams are eaten by them\xfffeforget what the dreams had been about.
+The mist emanating from their foreheads\xfffeis packed with the dreams of people\xfffeand Pokémon.
+Each follows its Trainer's orders as\xfffebest it can, but they sometimes fail to\xfffeunderstand complicated commands.
+It can return to its Trainer's location\xffferegardless of the distance\xfffeseparating them.
+Males swing their head plumage to\xfffethreaten opponents. The females' flying\xfffeabilities surpass those of the males.
+Its mane shines when it discharges\xfffeelectricity. They use their flashing\xfffemanes to communicate with one another.
+They have lightning-like movements.\xfffeWhen Zebstrika run at full speed,\xfffethe sound of thunder reverberates.
+Its ear is hexagonal in shape.\xfffeCompressed underground,\xfffeits body is as hard as steel.
+When it overflows with power,\xfffethe orange crystal on its body glows.\xfffeIt looks for underground water in caves.
+Compressing the energy from its\xfffeinternal core lets it fire off an attack\xfffecapable of blowing away a mountain.
+Its habitat is dark forests and caves.\xfffeIt emits ultrasonic waves from its\xfffenose to learn about its surroundings.
+It emits sound waves of various\xfffefrequencies from its nose, including\xfffesome powerful enough to destroy rocks.
+It can dig through the ground\xfffeat a speed of 30 mph. It could give\xfffea car running aboveground a good race.
+It can help in tunnel construction.\xfffeIts drill has evolved into steel strong\xfffeenough to bore through iron plates.
+It touches others with the feelers on\xfffeits ears, using the sound of their\xfffeheartbeats to tell how they are feeling.
+It fights by swinging a piece of lumber\xfffearound. It is close to evolving when it\xfffecan handle the lumber without difficulty.
+This Pokémon is so muscular and strongly\xfffebuilt that even a group of wrestlers\xfffecould not make it budge an inch.
+It is thought that Conkeldurr taught\xfffehumans how to make concrete more\xfffethan 2,000 years ago.
+They warn others of danger by\xfffevibrating their cheeks to create\xfffea high-pitched sound.
+When they vibrate the bumps on their\xfffeheads, they can make waves in water\xfffeor earthquake-like vibrations on land.
+They shoot paralyzing liquid from their\xfffehead bumps. They use vibration to hurt\xfffetheir opponents.
+When it tightens its belt, it becomes\xfffestronger. Wild Throh use vines to weave\xfffetheir own belts.
+The sound of Sawk punching boulders\xfffeand trees can be heard all the way from\xfffethe mountains where they train.
+Leavanny dress it in clothes they made\xfffefor it when it hatched. It hides its head\xfffein its hood while it is sleeping.
+Forests where Swadloon live have superb\xfffefoliage because the nutrients they make\xfffefrom fallen leaves nourish the plant life.
+Upon finding a small Pokémon, it weaves\xfffeclothing for it from leaves, using the\xfffecutters on its arms and sticky silk.
+Its bite injects a potent poison, enough\xfffeto paralyze large bird Pokémon that try\xfffeto prey on it.
+Protected by a hard shell, it spins\xfffeits body like a wheel and crashes\xfffefuriously into its enemies.
+With quick movements, it chases down\xfffeits foes, attacking relentlessly with\xfffeits horns until it prevails.
+When attacked, it escapes by shooting\xfffecotton from its body. The cotton serves\xfffeas a decoy to distract the attacker.
+Like the wind, it can slip through any\xfffegap, no matter how small. It leaves\xfffeballs of white fluff behind.
+The leaves on its head are very bitter.\xfffeEating one of these leaves is known\xfffeto refresh a tired body.
+Even veteran Trainers face a challenge\xfffein getting its beautiful flower to bloom.\xfffeThis Pokémon is popular with celebrities.
+Red and blue Basculin get along so\xfffepoorly, they'll start fighting instantly.\xfffeThese Pokémon are very hostile.
+They live buried in the sands of the\xfffedesert. The sun-warmed sands prevent\xfffetheir body temperature from dropping.
+They live in groups of a few individuals.\xfffeProtective membranes shield their eyes\xfffefrom sandstorms.
+They never allow prey to escape.\xfffeTheir jaws are so powerful, they can\xfffecrush the body of an automobile.
+When its internal fire is burning, it\xfffecannot calm down and it runs around.\xfffeWhen the fire diminishes, it falls asleep.
+Its internal fire burns at 2,500° F,\xfffemaking enough power that it can\xfffedestroy a dump truck with one punch.
+It uses an up-tempo song and dance\xfffeto drive away the bird Pokémon that\xfffeprey on its flower seeds.
+This Pokémon can easily melt holes in\xfffehard rocks with a liquid secreted from\xfffeits mouth.
+Competing for territory, Crustle\xfffefight viciously. The one whose boulder\xfffeis broken is the loser of the battle.
+Its skin has a rubbery elasticity, so\xfffeit can reduce damage by defensively\xfffepulling its skin up to its neck.
+Groups of them beat up anything\xfffethat enters their territory. Each can\xfffespit acidic liquid from its mouth.
+They never vary the route they fly,\xfffebecause their memories of guarding\xfffean ancient city remain steadfast.
+Each of them carries a mask that used\xfffeto be its face when it was human.\xfffeSometimes they look at it and cry.
+It has been said that they swallow those\xfffewho get too close and turn them into\xfffemummies. They like to eat gold nuggets.
+Restored from a fossil, this Pokémon\xfffecan dive to depths beyond half a mile.
+They can live both in the ocean and on\xfffeland. A slap from one of them is enough\xfffeto open a hole in the bottom of a tanker.
+Said to be an ancestor of bird Pokémon,\xfffethey were unable to fly and moved about\xfffeby hopping from one branch to another.
+They are intelligent and will cooperate\xfffeto catch prey. From the ground, they\xfffeuse a running start to take flight.
+Inhaling the gas they belch will make\xfffeyou sleep for a week. They prefer\xfffeunsanitary places.
+It clenches opponents with its left arm\xfffeand finishes them off with foul-smelling\xfffepoison gas belched from its mouth.
+It changes into the forms of others\xfffeto surprise them. Apparently, it\xfffeoften transforms into a silent child.
+Bonds between these Pokémon are very\xfffestrong. It protects the safety of its\xfffepack by tricking its opponents.
+They greet one another by rubbing each\xfffeother with their tails, which are always\xfffekept well groomed and clean.
+Their white fur is coated in a special oil\xfffethat makes it easy for them to\xfffedeflect attacks.
+Their ribbonlike feelers increase their\xfffepsychic power. They are always staring\xfffeat something.
+They use hypnosis to control people and\xfffePokémon. Tales of Gothorita leading\xfffepeople astray are told in every corner.
+Starry skies thousands of light-years\xfffeaway are visible in the space distorted\xfffeby their intense psychic power.
+They drive away attackers by unleashing\xfffepsychic power. They can use telepathy\xfffeto talk with others.
+Since they have two divided brains,\xfffeat times they suddenly try to take two\xfffedifferent actions at once.
+When Reuniclus shake hands, a network\xfffeforms between their brains, increasing\xfffetheir psychic power.
+These bird Pokémon are excellent divers.\xfffeThey swim around in the water eating\xfffetheir favorite food--peat moss.
+Swanna start to dance at dusk.\xfffeThe one dancing in the middle is\xfffethe leader of the flock.
+The temperature of their breath\xfffeis -58° F. They create snow crystals and\xfffemake snow fall in the areas around them.
+Snowy mountains are this Pokémon's\xfffehabitat. During an ancient ice age, they\xfffemoved to southern areas.
+Swallowing large amounts of water, they\xfffemake snow clouds inside their bodies and\xfffeattack their foes with violent blizzards.
+The color and scent of their fur changes\xfffeto match the mountain grass. When they\xfffesense hostility, they hide in the grass.
+They migrate according to the seasons.\xfffePeople can tell the season by looking at\xfffeSawsbuck's horns.
+The energy made in its cheeks' electric\xfffepouches is stored inside its membrane\xfffeand released while it is gliding.
+These mysterious Pokémon evolve when\xfffethey receive electrical stimulation while\xfffethey are in the same place as Shelmet.
+They fly around at high speed, striking\xfffewith their pointed spears. Even when in\xfffetrouble, they face opponents bravely.
+It lures people in with its Poké Ball\xfffepattern, then releases poison spores.\xfffeWhy it resembles a Poké Ball is unknown.
+It lures prey close by dancing and\xfffewaving its arm caps, which resemble\xfffePoké Balls, in a swaying motion.
+With its thin, veil-like arms wrapped\xfffearound the body of its opponent,\xfffeit sinks to the ocean floor.
+The fate of the ships and crew that\xfffewander into Jellicent's habitat:\xfffeall sunken, all lost, all vanished.
+The special membrane enveloping\xfffeAlomomola has the ability to heal wounds.
+Joltik that live in cities have learned\xfffea technique for sucking electricity\xfffefrom the outlets in houses.
+When attacked, they create an\xfffeelectric barrier by spitting out\xfffemany electrically charged threads.
+When threatened, it attacks by\xfffeshooting a barrage of spikes, which gives\xfffeit a chance to escape by rolling away.
+It fights by swinging around its three\xfffespiky feelers. A hit from these steel\xfffespikes can reduce a boulder to rubble.
+The two minigears that mesh together\xfffeare predetermined. Each will rebound\xfffefrom other minigears without meshing.
+By changing the direction in which it\xffferotates, it communicates its feelings to\xfffeothers. When angry, it rotates faster.
+Its red core functions as an energy\xfffetank. It fires the charged energy\xfffethrough its spikes into an area.
+While one alone doesn't have much power,\xfffea chain of many Tynamo can be as\xfffepowerful as lightning.
+They coil around foes and shock them\xfffewith electricity-generating organs that\xfffeseem simply to be circular patterns.
+They crawl out of the ocean using their\xfffearms. They will attack prey on shore and\xfffeimmediately drag it into the ocean.
+It uses its strong psychic power\xfffeto squeeze its opponent's brain,\xfffecausing unendurable headaches.
+It can manipulate an opponent's memory.\xfffeApparently, it communicates by flashing\xfffeits three different-colored fingers.
+Litwick shines a light that absorbs the\xfffelife energy of people and Pokémon,\xfffewhich becomes the fuel that it burns.
+This ominous Pokémon is feared.\xfffeThrough cities it wanders, searching\xfffefor the spirits of the fallen.
+It absorbs a spirit, which it then burns.\xfffeBy waving the flames on its arms,\xfffeit puts its foes into a hypnotic trance.
+They use their tusks to crush the\xfffeberries they eat. Repeated regrowth\xfffemakes their tusks strong and sharp.
+Since a broken tusk will not grow back,\xfffethey diligently sharpen their tusks on\xffferiver rocks after they've been fighting.
+They are kind but can be relentless\xfffewhen defending territory. They challenge\xfffefoes with tusks that can cut steel.
+When it is not feeling well, its mucus\xfffegets watery and the power of its\xfffeIce-type moves decreases.
+It can make its breath freeze at will.\xfffeVery able in the water, it swims around\xfffein northern seas and catches prey.
+When its body temperature goes up, it\xfffeturns into steam and vanishes. When its\xfffetemperature lowers, it returns to ice.
+When attacked, it defends itself by\xfffeclosing the lid of its shell. It can spit\xfffea sticky, poisonous liquid.
+When its body dries out, it weakens.\xfffeSo, to prevent dehydration, it wraps\xfffeitself in many layers of thin membrane.
+Its skin is very hard, so it is unhurt\xfffeeven if stepped on by sumo wrestlers.\xfffeIt smiles when transmitting electricity.
+In fights, they dominate with onslaughts\xfffeof flowing, continuous attacks. With\xfffetheir sharp claws, they cut enemies.
+It wields the fur on its arms like a whip.\xfffeIts arm attacks come with such rapidity\xfffethat they cannot even be seen.
+It warms its body by absorbing sunlight\xfffewith its wings. When its body temperature\xfffefalls, it can no longer move.
+The energy that burns inside it\xfffeenables it to move, but no one has yet\xfffebeen able to identify this energy.
+It flies across the sky at Mach speeds.\xfffeRemoving the seal on its chest makes\xfffeits internal energy go out of control.
+Blades comprise this Pokémon's entire\xfffebody. If battling dulls the blades, it\xfffesharpens them on stones by the river.
+It leads a group of Pawniard.\xfffeIt battles to become the boss, but will\xfffebe driven from the group if it loses.
+Their fluffy fur absorbs damage,\xfffeeven if they strike foes with a\xfffefierce headbutt.
+They crush berries with their talons.\xfffeThey bravely stand up to any opponent,\xfffeno matter how strong it is.
+They fight for their friends without any\xfffethought about danger to themselves.\xfffeOne can carry a car while flying.
+Its wings are too tiny to allow it to fly.\xfffeAs the time approaches for it to evolve,\xfffeit discards the bones it was wearing.
+It makes a nest out of bones it finds.\xfffeIt grabs weakened prey in its talons\xfffeand hauls it to its nest of bones.
+It breathes through a hole in its tail\xfffewhile it burns with an internal fire.\xfffeDurant is its prey.
+They attack in groups, covering\xfffethemselves in steel armor to\xfffeprotect themselves from Heatmor.
+It tends to bite everything, and it\xfffeis not a picky eater. Approaching it\xfffecarelessly is dangerous.
+After it has eaten up all the food in\xfffeits territory, it moves to another\xfffearea. Its two heads do not get along.
+This brutal Pokémon travels the skies on\xfffeits six wings. Anything that moves seems\xfffelike a foe to it, triggering its attack.
+This Pokémon was believed to have\xfffebeen born from the sun. When it evolves,\xfffeits entire body is engulfed in flames.
+When volcanic ash darkened the\xfffeatmosphere, it is said that Volcarona's\xfffefire provided a replacement for the sun.
+This legendary Pokémon battled against\xfffehumans to protect Pokémon.\xfffeIts personality is calm and composed.
+This Pokémon came to the defense of\xfffePokémon that had lost their homes in\xfffea war among humans.
+This Pokémon fought humans in order\xfffeto protect its friends. Legends about it\xfffecontinue to be passed down.
+The lower half of its body is wrapped in\xfffea cloud of energy. It zooms through\xfffethe sky at 200 mph.
+Countless charred remains mar the\xfffelandscape of places through which\xfffeThundurus has passed.
+This Pokémon appears in legends.\xfffeIt sends flames into the air from its\xfffetail, burning up everything around it.
+Concealing itself in lightning clouds,\xfffeit flies throughout the Unova region.\xfffeIt creates electricity in its tail.
+Lands visited by Landorus grant such\xfffebountiful crops that it has been hailed\xfffeas “The Guardian of the Fields."
+It generates a powerful, freezing\xfffeenergy inside itself, but its body became\xfffefrozen when the energy leaked out.
+By blasting water from its hooves, it can\xfffeglide across water. It excels at using\xfffeleg moves while battling.
+Its melodies are sung with a special\xfffevocalization method that can control\xfffethe feelings of those who hear it.
+Over 300 million years ago, it was feared\xfffeas the strongest of hunters.\xfffeIt has been modified by Team Plasma.

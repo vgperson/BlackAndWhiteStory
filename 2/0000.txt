@@ -1,79 +1,79 @@
-﻿N/A
+No Answer
 Black
 White
-Boy
-Girl
+Male
+Female
 Battle
 Trade
-City
-Country
+The City
+The Country
 Smart
 Athletic
 Time
 Money
-Looks
-Personality
+Appearance
+Substance
 Cool
 Cute
-Funny
+Strange
 Tepig
 Oshawott
 Snivy
-Sea
-River
-Mountain
-Class
-Break
+The Beach
+A River
+The Mountains
+Classes
+Breaks
 Lunch
 Family
 Friends
 Self
 Spring
 Summer
-Fall
+Autumn
 Winter
 Sweet
 Spicy
 Sour
 Bitter
-Funny
+Fun
 Cool
-Nice
+Kind
 Rich
-Battling
+Battles
 Collecting
-Storyline
+The Story
 Pokémon
-Language
+English
 Math
 Science
 Social Studies
-Language
+English
 Math
 Science
 Social Studies
 Trainer
 Professor
-Plasma Grunt
+Team Plasma
 Pokémon
 Play Outside
-Go Shopping
-Read Books
-Play Games
-Sleep
+Shopping
+Reading
+Video Games
+Sleeping Late
 Pop
 Rock
 Jazz
 Rap
-Classic
+Classical
 News
 Drama
 Comedy
 Sports
-Anime
+Cartoons
 Action
 Sci-Fi
-Love
+Romance
 Suspense
 Comedy
 Horror
@@ -89,20 +89,20 @@ Blue
 Yellow
 White
 Black
-Fitness
+Exercising
 Reading
 Music
 Movies
-Travel
+Traveling
 Cooking
 Fishing
-Games
+Video Games
 Student
 Office Worker
 Creator
 Self-Employed
-Govt. Official
-Housewife
+Public Official
+Homemaker
 Artist
 Job-Hopper
 Chili
@@ -133,14 +133,14 @@ Ghost
 Dragon
 Dark
 Steel
-0 - 10 hours
-10 - 20 hours
-20 - 30 hours
-30 - 40 hours
-40 - 50 hours
-50 - 60 hours
-60 - 70 hours
-70 - 80 hours
-80 - 90 hours
-90 - 100 hours
-100  hours
+0-10 Hours
+10-20 Hours
+20-30 Hours
+30-40 Hours
+40-50 Hours
+50-60 Hours
+60-70 Hours
+70-80 Hours
+80-90 Hours
+90-100 Hours
+100+ Hours

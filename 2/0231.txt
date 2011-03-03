@@ -28,7 +28,7 @@ Bosnia and Herzegovina
 Botswana
 Brazil
 British Virgin Islands
-Brunei
+Brunei Darussalam
 Bulgaria
 Burkina Faso
 Burundi
@@ -43,19 +43,19 @@ Channel Islands
 Chile
 China
 Christmas Island
-Columbia
+Colombia
 Comoros
-Republic of the Congo
+Congo
 Cook Islands
 Costa Rica
-Cote d'Ivoire
+Côte d'Ivoire
 Croatia
 Cuba
 Cyprus
 Czech Republic
 North Korea
 Democratic Republic of the Congo
-Eastern Timor
+Timor-Leste
 Denmark
 Djibouti
 Dominica
@@ -102,7 +102,7 @@ Isle of Man
 Israel
 Italy
 Jamaica
-Svalbard
+Jan Mayen Island
 Japan
 Jordan
 Kashmir
@@ -110,7 +110,7 @@ Kazakhstan
 Kenya
 Kiribati
 Kuwait
-Kirghiz
+Kyrgyzstan
 Laos
 Latvia
 Lebanon
@@ -120,7 +120,7 @@ Libya
 Liechtenstein
 Lithuania
 Luxembourg
-Macedonia
+Macedonia (FYROM)
 Madagascar
 Malawi
 Malaysia
@@ -151,8 +151,8 @@ Nicaragua
 Niger
 Nigeria
 Niue
-Norfolk
-Mariana Islands
+Norfolk Island
+Northern Mariana Islands
 Norway
 Oman
 Pakistan
@@ -170,9 +170,9 @@ Puerto Rico
 Qatar
 South Korea
 Moldova
-Reunion
+Réunion
 Romania
-Russia
+Russian Federation
 Rwanda
 Saint Helena
 Saint Kitts and Nevis
@@ -218,12 +218,12 @@ Ukraine
 United Arab Emirates
 United Kingdom
 Tanzania
-Unites States
-American Virgin Islands
+United States of America
+United States Virgin Islands
 Uruguay
 Uzbekistan
 Vanuatu
-Vatican City
+Holy See (Vatican City State)
 Venezuela
 Vietnam
 Wallis and Futuna

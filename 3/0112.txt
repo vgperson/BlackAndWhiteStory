@@ -1,46 +1,46 @@
-﻿Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
-Can I take a quick look\xfffeat your Pokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
-Oh! And you've found Klink?!\xfffeYou're quite the Trainer!\xf000븁\x0000
-Hrm...\xfffeYou haven't found Klink yet...\xf000븁\x0000\xfffeBut still, that's quite a Pokédex!\xf000븁\x0000
-Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Juniper!\xf000븁\x0000That's right! My daughter is the\xfffeone who made your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts\xfffeof things about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
-So in commemoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
-\xf000Ā\x0001\x0000's Pokédex was upgraded!
-Juniper: There are some Pokémon that\xfffeare of the same species,\xf000븀\x0000but have different forms.\xf000븁\x0000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it easier\xf000븀\x0000to search for Pokémon!\xf000븁\x0000
-???: Professor Juniper,\xfffewho's this Trainer?\xf000븁\x0000
-Juniper: Oh! ...Oh!\xfffeSorry, I'm sorry.\xf000븁\x0000\xfffeSkyla, this is \xf000Ā\x0001\x0000,\xfffean acquaintance of my daughter!\xf000븁\x0000\xf000Ā\x0001\x0000's journeying through Unova,\xfffeaiming to complete the Pokédex.\xf000븁\x0000
-Skyla: I see! Then you'll probably\xfffechallenge the gym here, right?\xf000븀\x0000\xfffeWow! I'm looking forward to it!\xf000븁\x0000
-Juniper: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\xf000븁\x0000I'm sure you'll just soar right\xfffethrough the gym here!\xf000븁\x0000
-Well, Skyla, if anything comes up\xfffeagain, I'm counting on you!\xf000븁\x0000
-Skyla: ...Professor, my plane's\xfffea cargo plane!\xf000븁\x0000It carries luggage, not people.\xf000븁\x0000...Not to mention places like Kanto\xfffeand Sinnoh aren't easy destinations!\xf000븁\x0000
-Juniper: Hey, now, don't be\xfffeso harsh while you're making\xf000븀\x0000\xfffesuch a cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two,\xfffehope we meet again!\xf000븁\x0000
-Skyla: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-renowned\xfffePokémon professor!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to\xf000븀\x0000challenge my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to\xf000븀\x0000challenge my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
-Earlier, when I was flying\xfffemy cargo plane...\xf000븁\x0000I saw something atop\xfffethe Celestial Tower.\xf000븁\x0000It was a weakened Pokémon,\xfffeI'm sure of it!\xf000븁\x0000
-I can't very well ignore it,\xfffenow can I?\xf000븁\x0000So I'm going ahead and investigating!\xf000븁\x0000That said, I'm going to the\xfffeCelestial Tower on Route 7...\xf000븀\x0000And if you want, you can come too.\xf000븁\x0000
-Miss Skyla?\xf000븁\x0000She finished her business with her cargo\xfffeand went off somewhere...\xf000븁\x0000Maybe check out the\xfffeCelestial Tower on Route 7?
-N: \xf000븉\x0001\x0001...To understand each other,\xfffeTrainers struggle through battle,\xf000븀\x0000and wound Pokémon in the process.\xf000븁\x0000Am I the only one? The only one\xfffewho sees how very painful it is?\xf000븁\x0000Regardless... I have\xfffespoken to your Pokémon...\xf000븁\x0000...Since the day I was born,\xfffeI have been brought up with Pokémon.\xf000븀\x0000It's more comfortable to me\xf000븀\x0000than talking with people.\xf000븁\x0000So I know Pokémon cannot ever lie.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001\xf000ā\x0001\x0000...\xf000븁\x0000Would you tell me what\xfffekind of Trainer \xf000Ā\x0001\x0001 is?\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...I see. So you were born\xfffeand raised in Nuvema Town,\xf000븀\x0000together with your mother...\xf000븁\x0000Taking the opportunity presented to\xfffeyou by the Pokédex, you are\xf000븀\x0000out on a journey to see the world...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001Even so, for whatever reason, this\xfffe\xf000ā\x0001\x0001 seems to believe in you...\xf000븀\x0000How splendid...!\xf000븁\x0000If only all people could get\xfffealong with Pokémon as you all do...\xf000븁\x0000Yet the fate of Pokémon and humans\xfffeis left in the hands of those\xf000븀\x0000who use Pokémon for themselves...\xf000븁\x0000Ghetsis is having Team Plasma\xfffesearch for a special stone.\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001The paired Light Stone and Dark Stone...\xfffethey are what we seek.\xf000븁\x0000The body of the legendary Pokémon\xfffewas destroyed, and it sleeps\xf000븀\x0000in the form of a stone,\xf000븀\x0000awaiting the hero's return...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001I will revive the legendary Pokémon\xfffefrom its slumber.\xf000븁\x0000And I will befriend it, and the world\xfffewill recognize me as a hero...\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001...My dream is to make this\xfffea world without strife.\xf000븁\x0000If the world is changed by force,\xfffethere will be those who oppose it.\xf000븁\x0000And when there is opposition,\xfffethose wounded are the innocent Pokémon\xf000븀\x0000whom foolish Trainers abuse...\xf000븁\x0000Yes... Pokémon are not\xfffeplaythings for people to control!\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001As such...\xf000븁\x0000It pains me a little to separate\xfffeTrainers from their Pokémon\xf000븀\x0000when there are ones like you\xf000븀\x0000who respect each other...\xf000븉\x0001\x0000\xf000븁\x0000
-Airplanes! Behold their form!\xfffeAnd the design that gives them flight!\xf000븁\x0000\xfffeAnd the mechanics behind that flight...\xfffethey let nothing go to waste!
-The Mistralton airport\xfffeonly flies cargo planes.\xf000븁\x0000\xfffeWhen Trainers want to fly,\xfffethat's what the move Fly is for!
-Miss Skyla's grandpa was\xfffea legendary airplane pilot!\xf000븁\x0000\xfffeOh, Miss Skyla is this town's\xfffegym leader, of course!\xf000븀\x0000\xfffeShe's such a kind girl!
-Pokémon and people cleared desolate\xfffeland so that everyone could live on it...\xf000븁\x0000\xfffeI'm certain that optimistic spirit\xfffewill never change!
-If you're careful, it doesn't matter\xfffeif you play on the runway!\xf000븁\x0000\xfffeThe cargo planes only set out\xfffeabout once a day.
-There seem to be a fair number\xfffewho have had their Pokémon stolen\xf000븀\x0000by Team Plasma...
-When you want yummy vegetables,\xfffegrowing them naturally is best!\xf000븁\x0000Having to endure changing weather\xfffealways seems to help the taste!\xf000븁\x0000You can tell because Pokémon often\xfffeeat them while they're growing...
-Using a greenhouse is the\xfffebest way to grow vegetables!\xf000븁\x0000The temperature and nourishment\xfffecan all be systematically controlled.\xf000븁\x0000With nothing going to waste,\xfffethe vegetables end up perfectly tasty!
-Ahhh!\xfffeYou found our treasure!!\xf000븁\x0000
-You found it!!\xf000븁\x0000
-Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hide\xf000븀\x0000that Technical Machine, but...\xf000븁\x0000But since we're not worthy,\xfffeyou can use it, mister!\xf000븁\x0000We can get another one\xfffefrom miss Skyla anyway!\xf000븁\x0000
-Oh, geez...\xf000븁\x0000Our Pokémon aren't worthy!\xfffeWe were trying to hide\xf000븀\x0000that Technical Machine, but...\xf000븁\x0000But since we're not worthy,\xfffeyou can use it, miss!\xf000븁\x0000We can get another one\xfffefrom miss Skyla anyway!\xf000븁\x0000
-UUUUUSE IIIIIT!!\xf000븁\x0000
-See ya! Buh-bye!!\xf000븁\x0000
-Mistralton City\xfffeWhere the wind brings flowers!
-Mistralton Cargo Service\xfffeQuick and Safe!
-Mistralton Pokémon Gym\xfffeLeader: Skyla\xf000븀\x0000\xfffeGirl Soaring the Skies
+Oh! Hey!\xfffe\xf000Ā\x0001\x0000, right?\xf000븁\x0000
+Let me see your Pokédex for a moment.\xf000븁\x0000\xfffeWhat do we have here?\xf000븁\x0000\xfffeSo, you've found \xf000Ȃ\x0001\x0000 Pokémon, eh?\xf000븁\x0000
+Staggering! You've seen a Klink!\xfffeYou're becoming quite the Trainer.\xf000븁\x0000
+Hmmm...\xfffeYou haven't seen a Klink yet, eh?\xf000븁\x0000\xfffeStill, that's a great Pokédex!\xf000븁\x0000
+Excuse me! I was a little excited\xfffeand forgot my manners.\xf000븁\x0000\xfffeMy name is Juniper, too! Cedric Juniper.\xf000븁\x0000\xfffeHeh! The professor who gave you\xfffethe Pokédex is my daughter!\xf000븁\x0000\xfffeThat girl has told me a lot about you.\xf000븁\x0000\xfffeIt really makes my day to meet you!\xf000븁\x0000
+In honor of our meeting,\xfffeI'm going to upgrade your Pokédex!\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokédex has\xfffebeen upgraded!
+Cedric: Some Pokémon can change forms\xfffeeven when it's the same individual.\xf000븁\x0000\xfffeIf you have already seen a form, you\xfffecan check it with this whenever you want.\xf000븁\x0000\xfffeI also added a function to make\xfffesearching easier.\xf000븁\x0000
+???: Professor, who's that Trainer?\xf000븁\x0000
+Cedric: Oh! I forgot my introductions!\xfffeSkyla, this is a friend of my daughter's.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 is traveling around\xfffeUnova to complete the Pokédex.\xf000븁\x0000
+Skyla: Oh, I see! So that means you'll\xfffebe challenging the Gym!\xf000븀\x0000\xfffeOh boy! I'm really looking forward to it!\xf000븁\x0000
+Cedric: That's right, \xf000Ā\x0001\x0000.\xfffeYou should challenge this Gym!\xf000븁\x0000\xfffeIf nothing else, this Gym\xfffeis really out there!\xf000븁\x0000
+See you, Skyla. If something comes\xfffeup again, I'll let you know!\xf000븁\x0000
+Skyla: Professor, my plane\xfffeis a cargo plane!\xf000븁\x0000\xfffeIt carries cargo, not people!\xf000븁\x0000\xfffeAnd you're talking as if places like Kanto\xfffeand Sinnoh are right around the corner!\xf000븁\x0000
+Cedric: Aww, Skyla.\xfffeIf you keep frowning, your face might\xf000븀\x0000\xfffefreeze like that, and that'd be a shame.\xf000븁\x0000\xfffePeople and Pokémon, we all have\xfffeto help each other out!\xf000븁\x0000\xfffeSee you later!\xf000븁\x0000
+Skyla: Sheesh!\xf000븁\x0000\xfffeIt's hard to believe a happy-go-lucky\xfffeguy like that could be a world-renowned\xf000븀\x0000\xfffePokémon professor.\xf000븁\x0000
+Heads-up, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAs a Gym Leader, I'd be happy to have\xfffeyou challenge the Gym, but there's\xf000븀\x0000\xfffesomething I need to take care of first.\xf000븁\x0000
+Heads-up, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAs a Gym Leader, I'd be happy to have\xfffeyou challenge the Gym, but there's\xf000븀\x0000\xfffesomething I need to take care of first.\xf000븁\x0000
+Just now, as I was flying the\xfffecargo plane, I saw something\xf000븀\x0000\xfffeon top of the Celestial Tower.\xf000븁\x0000
+I'm sure that it is a sick Pokémon!\xfffeIf it is, I can't just leave it there!\xf000븁\x0000\xfffeI have to look into this right away.\xf000븁\x0000\xfffeI'm leaving for Route 7's Celestial Tower.\xfffeYou can come along if you want.\xf000븁\x0000
+Skyla completed her cargo-plane run.\xfffeShe must have gone somewhere after.\xf000븁\x0000\xfffeMaybe to the Celestial Tower on Route 7?
+N: \xf000븉\x0001\x0001They may say it is for understanding\xfffeone another better, but what Trainers\xf000븀\x0000\xfffereally use battles for is to compete...\xf000븀\x0000\xfffeAnd they hurt each other's Pokémon!\xf000븁\x0000\xfffeAm I the only one who finds this\xfffeterribly painful?\xf000븁\x0000\xfffeWhatever...\xfffeI'm going to talk to your Pokémon.\xf000븁\x0000\xfffeI've been living with Pokémon\xfffesince I was born, so it's easier for\xf000븀\x0000\xfffeme to talk with them than with people.\xf000븁\x0000\xfffe...Because Pokémon never tell lies.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Hey, \xf000ā\x0001\x0000.\xf000븁\x0000\xfffeWould you tell me what kind of Trainer\xfffe\xf000Ā\x0001\x0001 is?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001OK, OK, got it.\xf000븁\x0000\xfffeSo \xf000Ā\x0001\x0001 was born in Nuvema Town,\xfffelives with Mom, and was given the Pokédex\xf000븀\x0000\xfffeto start off a journey to see the world.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Still, this \xf000ā\x0001\x0001 trusts you\xfffefor some reason. That's good!\xf000븁\x0000\xfffeIf every person and Pokémon cared about\xfffeone another like you two do,\xf000븀\x0000\xfffeI could watch over the future of people\xf000븀\x0000\xfffeand Pokémon without having to liberate\xf000븀\x0000\xfffePokémon from people who just use them.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Ghetsis is using Team Plasma\xfffeto search for some special stones--\xf000븁\x0000\xfffethe Light Stone and the Dark Stone...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001These stones hold the essence of two\xfffelegendary Pokémon. It is said that when\xf000븀\x0000\xfffethey lost their physical form, they fell\xf000븀\x0000\xfffeinto a slumber and were transformed.\xf000븁\x0000\xfffeNow, they wait for the hero's arrival...\xf000븁\x0000\xfffeI shall resurrect a legendary\xfffeDragon-type Pokémon from one of\xf000븀\x0000\xfffethese stones, and become its friend.\xf000븁\x0000\xfffeThat will show the world that\xfffeI am the new hero.\xf000븀\x0000\xfffeEveryone will follow what I say!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001My vision is to change the world\xfffewithout using force.\xf000븁\x0000\xfffeTrying to change the world by force\xfffewill just make others resist.\xf000븁\x0000\xfffeIf people resist, the ones that will be\xfffehurt are the innocent Pokémon\xf000븀\x0000\xfffeused by foolish Trainers.\xf000븁\x0000\xfffeYou understand.\xf000븁\x0000\xfffePokémon are not just tools\xfffefor people to use!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001As a result...\xf000븁\x0000\xfffePokémon and Trainers who care about\xfffeone another, like you and your Pokémon,\xf000븀\x0000\xfffewill be separated.\xf000븀\x0000\xfffeAnd that does break my heart a little. \xf000븉\x0001\x0000\xf000븁\x0000
+Planes! Their shapes!\xfffeThey are perfectly designed to fly!\xf000븁\x0000\xfffeThere is no excess in the\xfffemechanics for flying!
+The only planes that fly out of\xfffeMistralton Airport are cargo planes.\xf000븁\x0000\xfffeIf Trainers want to fly, they can go\xfffewith a Pokémon that knows the move Fly.
+Skyla's grandfather was\xfffea legendary Pilot.\xf000븁\x0000\xfffeSkyla is our city's Gym Leader.\xfffeShe's a really nice person!
+Pokémon and people worked together\xfffeto open up desolate land and make\xf000븀\x0000\xfffea place where everyone could live.\xf000븁\x0000\xfffeI'm certain that this cooperative\xfffespirit will remain unchanged.
+It's dangerous to play in a landing strip,\xfffebut you should be OK on ours.\xf000븁\x0000\xfffeWe only have one cargo flight a day.
+I hear many people have had their\xfffePokémon stolen by Team Plasma...
+If you want to eat delicious vegetables,\xfffethe ones grown in the wild are the best.\xf000븁\x0000\xfffeAs the weather and the seasons change,\xfffewild vegetables get more and more tasty.\xf000븁\x0000\xfffeEven Pokémon like to eat wild vegetables!
+Vegetables grown in a greenhouse\xfffeare the best.\xf000븁\x0000\xfffeThe temperature and their nutrients\xfffeare all managed systematically.\xf000븁\x0000\xfffeVegetables grown in a completely\xfffeefficient way taste extra delicious!
+Oh! You found our treasure!\xf000븁\x0000
+Found it!\xf000븁\x0000
+Just kidding.\xf000븁\x0000\xfffeWe don't have a Pokémon, so we planned\xfffeto hide this TM until we got one.\xf000븁\x0000\xfffeBut that would be a waste, so--here!\xfffeYou can use it!\xf000븁\x0000\xfffeWe'll get another one from Skyla.\xf000븁\x0000
+Just kidding.\xf000븁\x0000\xfffeWe don't have a Pokémon, so we planned\xfffeto hide this TM until we got one.\xf000븁\x0000\xfffeBut that would be a waste, so--here!\xfffeYou can use it!\xf000븁\x0000\xfffeWe'll get another one from Skyla.\xf000븁\x0000
+Yoooo-ooou can uuu-uuuuuse it!\xf000븁\x0000
+See you! Bye-bye!\xf000븁\x0000
+Mistralton City\xfffeStrewn with Windblown Leaves
+Mistralton Cargo Service\xfffeOur slogan is “Quick and Safe!"
+Mistralton City Pokémon Gym\xfffeLeader: Skyla\xf000븀\x0000\xfffeThe Highflying Girl

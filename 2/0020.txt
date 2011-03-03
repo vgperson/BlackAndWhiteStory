@@ -1,13 +1,2 @@
-Ｃ－ＧＥＡＲ
-ＩＲ
-Ｗｉｒｅｌｅｓｓ
-ＧａｍｅＳｙｎｃ
-Ｔｒａｄｅ
-Ｂａｔｔｌｅ
-ＦｒｉｅｎｄＣｏｄｅ
-Ｃａｒｄ
-Ｃ－ＧＥＡＲ＞ＩＲ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＢＡＴＴＬＥ
-Ｃ－ＧＥＡＲ＞ＩＲ＞ＴＲＡＤＥ
-Ｃ－ＧＥＡＲ＞ＧＡＭＥＳＹＮＣ
-Ｃ－ＧＥＡＲ＞ＷＩＲＥＬＥＳＳ
+Use a Poké Ball after\xfffelowering its HP!
+Professor Juniper used\xfffea Poké Ball!

@@ -1,23 +1,22 @@
-ホッ ホッ フォッ\xfffeホワイトフォレストへ ようこそ\xf000븁\x0000\xfffeしぜんと ともに \xfffeポケモンと ともに くらす\xf000븀\x0000\xfffeそれが このホワイトフォレスト\xf000븁\x0000\xfffeきみも もりのこえを きいてみなさい\xfffeウエルカムと いっておるよ\xf000븁\x0000\xfffeホッ ホッ フォッー\xf000븁\x0000
-わたしは この もりと ともにいきる\xfffeポケモンを しらべておるんだが\xf000븁\x0000\xfffe\xf000ā\x0001\x0000が このもりに\xfffeすんでいる はずなんだ\xf000븁\x0000
-フォー！\xfffeそれは \xf000ā\x0001\x0000！\xf000븁\x0000\xfffeこの もりに すんでたんだ！\xf000븁\x0000
-しかも きょう つかまえたんだ\xf000븁\x0000\xfffeホホー\xfffeそうかそうか このホワイトフォレストにも\xf000븀\x0000\xfffe\xf000ā\x0001\x0000が いるなんてなぁ\xf000븀\x0000\xfffeフォッ フォッ フォッ\xf000븁\x0000\xfffeそんな きみに\xfffeこれを あげちゃおう\xf000븁\x0000
-また あした\xfffeここに きておくれ\xf000븁\x0000\xfffeもりも ウエルカムを\xfffeいってくれる だろうから
-きょうは ほんとうに\xfffeありがとう\xf000븁\x0000\xfffeまた あしたな\xfffeシー ユー トゥモロー！\xf000븀\x0000\xfffeと もりが ささやいておる\xf000븁\x0000
-わたしは このもりと ともにいきる\xfffeポケモンを しらべておるんだが\xf000븁\x0000\xfffeさいきんは ポケモンが いなくてな\xfffeもりも かなしんでおる……
-もし この もりで \xf000ā\x0001\x0000を\xfffeみかけたら わたしに みせておくれ\xf000븁\x0000\xfffeそれは この もりと ポケモンが\xfffeいきている しょうこ なんだ
-しかし きょう つかまえた\xfffe\xf000ā\x0001\x0000では ないな\xf000븁\x0000\xfffeいまでも \xf000ā\x0001\x0000は\xfffeこの もりと ともに いきているのか……\xf000븀\x0000\xfffeもりも それを しりたがっておる
-きょうも そらが きれいだなー\xfffeあしたも きっと はれるよ！
-いっしょに きのみを\xfffeとって こようぜ！
-あしたの ごはんにするから\xfffeきのみ とってきてね
-ぼくが いっしょうけんめい\xfffeそだてた ポケモンで\xf000븀\x0000トリプルバトル しようよ！
-トリプルバトルは ポケモン\xfffe３びきでの あたらしい しょうぶ！\xf000븁\x0000たたかえる ポケモンを\xfffe３びきは ようい してください！
-そうか…… きみの そだてた\xfffeポケモン みてみたかったな
-もっと ちゃんと\xfffeポケモンを そだてるぞ！
-わたし この ポケモンと\xfffeずっと いっしょに くらしているの\xf000븁\x0000ねえ いっしょに\xfffeトリプルバトル しましょ？
-トリプルバトルを するには\xfffeたたかえる ポケモンを\xf000븀\x0000３びきは ようい してくださいね
-そう……\xfffeまた いつか みせてね！
-かんがえることが おおくって\xfffeでも それが たのしいのね\xf000븀\x0000トリプルバトルって！
-ローテーションバトルの こうかてきな\xfffeたたかいかたを しらべたいの\xf000븁\x0000よければ あいて してくれるかしら？
-トレーナーなら もっと\xfffeせっきょくてきに きてよ
-よければ おともだちとも\xfffeローテーションバトルを してみてね
+Ho! Hoo!\xfffeWelcome to White Forest!\xf000븁\x0000\xfffeIn White Forest, people live\xfffein harmony with nature and with Pokémon.\xf000븁\x0000\xfffePlease listen to the voice of the forest.\xf000븁\x0000\xfffeIt's saying “Bienvenue!"\xfffeHo! Hoo! Hoo!\xf000븁\x0000
+I do research into the Pokémon\xfffethat live in this forest.\xf000븁\x0000\xfffeIn theory, you should find \xf000ā\x0001\x0000\xfffeliving in this forest.\xf000븁\x0000
+Hoo!\xfffeThat's \xf000ā\x0001\x0000!\xf000븁\x0000\xfffeSo it lives in this forest, too!\xf000븁\x0000
+What's more, you caught it today!\xfffeHo hoo!\xf000븁\x0000\xfffeThis means there are \xf000ā\x0001\x0000\xfffein White Forest.\xf000븁\x0000\xfffeFor you, my skilled Pokémon catcher--\xfffethis small trifle. Hoo!\xf000븁\x0000
+If you return here tomorrow, I'm sure\xfffethe forest will say “Bienvenue" again!
+Thank you very much for today.\xfffeSee you again tomorrow!\xf000븁\x0000\xfffeThe forest is murmuring, “À très vite!"\xf000븁\x0000
+I'm researching the Pokémon\xfffethat live in this forest. Hoo!\xf000븁\x0000\xfffeBut there haven't been any Pokémon\xffferecently, and the forest is forlorn.
+If you see \xf000ā\x0001\x0000 in this forest,\xfffeplease let me know.\xf000븁\x0000\xfffeThat will be proof that Pokémon\xfffeare living in this forest.
+But--that \xf000ā\x0001\x0000 wasn't caught\xfffetoday, was it? Hoo!\xf000븁\x0000\xfffeWhat I want to know is whether\xfffe\xf000ā\x0001\x0000 is still living in the forest.\xf000븁\x0000\xfffeThe forest itself wants to know, too!
+Did you notice the sky's beauty today?\xfffeTomorrow will be fine, too!
+Let's go Berry picking together!
+I need Berries for tomorrow's dinner,\xfffeso go pick some, OK?
+Let's have a Triple Battle with the\xfffePokémon I have worked so hard to raise!
+A Triple Battle is a new style of battle\xfffein which you use three Pokémon!\xf000븁\x0000\xfffePlease get three Pokémon together\xfffeto use in battle!
+Oh... I wanted to see\xfffethe Pokémon you've raised.
+I'll work even harder raising my Pokémon!
+I have always lived with these Pokémon.\xf000븁\x0000\xfffeHmm. How would you like to try a\xfffeTriple Battle with me?
+In order to have a Triple Battle,\xfffeyou need to have at least three\xf000븀\x0000\xfffePokémon able to battle.
+Oh...\xfffeI hope I'll get to see them another time!
+There are so many things to consider,\xfffebut that is part of the fun of\xf000븀\x0000\xfffeTriple Battles!
+
+

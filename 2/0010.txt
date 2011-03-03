@@ -1,21 +1,55 @@
-﻿Name
-Occupation
-Hobby
-Playtime
-\xf000đ\x0001\x0000
-\xf000đ\x0001\x0000
-\xf000봃\x0001\x0000\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Hometown
-\xf000Ĥ\x0001\x0000\xfffe\xf000ĥ\x0001\x0001
-Thanks Received\xfffeChance-Upon Count
-\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000\xfffe\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0001
-\xf000Ȅ\x0001\x0001
-\xf000Ȃ\x0001\x0002:\xf000ȁ\x0001\x0003
-Chanced Upon At: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 AM
-Chanced Upon At: \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001 PM
-Currently fighting\xfffea wild \xf000ā\x0001\x0000.
-Currently fighting\xfffea special Pokémon.
-Currently battling \xf000Ď\x0001\x0000's\xfffe\xf000Ā\x0001\x0001.
-Currently battling\xfffea gym leader.
-Currently battling\xfffea special Trainer.
-Currently moving\xfffe\xf000ą\x0001\x0000.
+\xf000Ă\x0001\x0000 is selected.
+
+Release this Pokémon?
+\xf000Ă\x0001\x0000 was released.
+Bye-bye, \xf000Ă\x0001\x0000!
+Your party's full!
+That's your last Pokémon!
+What do you want to do?
+Jump to which Box?
+Please pick a theme.
+Pick the wallpaper.
+Continue Box operations?
+The Box is full.
+The Bag is full.
+Took the \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 is now being held.
+Which one will you take?
+Place it in which Box?
+
+
+
+Take this \xf000ĉ\x0001\x0000?
+Mail can't be taken away.
+\xf000ĉ\x0001\x0000 is selected.
+Put away \xf000ĉ\x0001\x0000?
+Placed \xf000ĉ\x0001\x0000 in the Bag.
+It can hold an item.
+Please remove the Mail.
+You can't release an Egg.
+\xf000Ă\x0001\x0000 came back!
+Was it worried about you?
+An Egg can't hold an item.
+Touch the Mark!
+
+
+
+
+DEPOSIT POKÉMON
+WITHDRAW POKÉMON
+MOVE POKÉMON
+MOVE ITEMS
+BATTLE BOX
+SELECT A SLEEPY POKÉMON
+Mail cannot be moved!
+It cannot hold \xf000ĉ\x0001\x0000!
+It has Mail!
+You're out of Pokémon that can fight!
+Mail cannot be moved!
+It cannot hold Mail here.
+Eggs cannot be selected!
+\xf000Ă\x0001\x0000 will be tucked in.\xfffeOK?
+This Pokémon doesn't seem\xfffesleepy now.
+Select another Pokémon?
+Your Battle Box is locked.\xfffeYou cannot move your Pokémon.
+Your Battle Box is locked.\xfffeItems cannot be given or taken.

@@ -1,47 +1,28 @@
-﻿Beauty
-Happiness
-Strangeness
-Recommend
-Cleverness
-Letdown
-Coolness
-Sadness
-Cuteness
-Easy
-Chagrin
-Healthy
-Too Bad
-Joyful
-Downhearted
-Unbelievable
-Like
-Hate
-Boredom
-Precious
-Alright
-Love
-Sturdiness
-Fun
-No Good
-Sluggish
-Exciting
-Specialty
-Nice
-Tears
-Bad At
-LOL
-Happy
-Rip 'n' Tear
-Surprise
-Delicate
-Uneasy
-Want
-Satisfy
-Difficult
-Rare
-Hella
-Ew
-Nuts
-Love-Love
-Tremble
-Laugh
+
+
+
+
+
+
+
+
+
+
+
+
+
+USE
+CONFIRM
+QUIT
+EDIT
+ADD NEW MESSAGES
+SELECT
+DELETE
+QUIT
+Registered message list:\xfffePlease select the message\xfffeyou want to use.
+Please choose a message type\xfffeor the place you want\xfffeyour word or phrase to go.
+Please choose where you want\xfffeyour word or phrase to be placed.
+GROUP MODE:\xfffePlease choose a word or phrase\xfffefrom the group.
+ABC MODE:\xfffePlease choose a letter to\xfffenarrow down your choices.
+ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
+GROUP MODE:\xfffePlease choose a group of words\xfffeor phrases that'll go in that place.

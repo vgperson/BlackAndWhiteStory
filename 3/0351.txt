@@ -1,21 +1,21 @@
-﻿The Xtransceiver is ringing.
-\xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
-Mom: \xf000Ā\x0001\x0000!\xf000븁\x0000
-I finally caught up...\xfffeYou're already this far, huh?\xf000븁\x0000Professor Juniper told me you were\xfffeprobably heading for Striaton City\xf000븀\x0000\xfffearound now, so...\xf000븁\x0000\xfffeHere's another present from mom!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffePut these on!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
-Wear those Running Shoes, and\xfffeyou can get anywhere in a flash!\xf000븁\x0000\xfffeHere, I'll read these instructions,\xfffeand you listen.\xf000븁\x0000\xfffe"Press the B button\xfffeto use the Running Shoes\xf000븀\x0000\xfffeand run faster than ever before!"\xf000븁\x0000\xfffe"Put on a pair of Running Shoes\xfffeand run your heart out!"\xf000븁\x0000\xfffe...they say.\xf000븁\x0000\xfffeI found them, bought and never used,\xfffewhile I was cleaning up your room.\xf000븀\x0000...I think I should do that more often.\xf000븁\x0000
-You know you're not alone,\xffferight, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeYou've always got friends\xfffein your Pokémon.\xf000븁\x0000\xfffeAnd your mother's always,\xfffealways thinking about you!\xf000븁\x0000\xfffeSo enjoy the journey!\xfffeThat's what matters!\xf000븁\x0000
-Bianca: Hey! \xf000Ā\x0001\x0000!\xf000븁\x0000
-Bianca: \xf000Ā\x0001\x0000! Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Bianca: Heyyy there!\xfffeLet's Pokémon battle!\xf000븁\x0000I caught some new Pokémon\xfffeand got them a little stronger!\xf000븁\x0000Well, let's begin!\xf000븁\x0000
-Bianca: Phew...\xf000븁\x0000You sure are strong, \xf000Ā\x0001\x0000,\xfffeand that's the truth!\xf000븁\x0000I'll be sure to train my Pokémon\xfffeso they won't lose, either!\xf000븀\x0000Okay, bye-bye!!\xf000븁\x0000
-Hey, you!\xf000븁\x0000\xfffeI'm gonna do something\xfffetotally awesome, wanna see?
-Alright! Get this!!\xf000븁\x0000
-YEAAAAAHHHHH!!
-Ha! See that?!\xf000븁\x0000\xfffeJumping down ledges as a shortcut\xfffeowns hard, doesn't it?!
-Sheesh, don't be lame!
-When your Pokémon aren't faring well,\xfffeand you don't want to fight...\xf000븀\x0000Make sure you stay on the path!\xf000븁\x0000Pokémon'll only pop out\xfffeif you walk through the grass.
-A Pokémon battle with a Trainer is a\xfffetrue battle, one that can't be escaped!
+The Xtransceiver is ringing.
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
+Mom: \xf000Ā\x0001\x0000?\xf000븁\x0000
+I finally caught up with you...\xfffeAnd look how far you've come already!\xf000븁\x0000\xfffeProfessor Juniper said that you were\xfffeprobably headed for Striaton City by now.\xf000븁\x0000\xfffeI have another present for you.\xfffe\xf000Ā\x0001\x0000! Try these on!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received a pair of\xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
+When you're wearing the Running Shoes,\xfffeyou can go anywhere in a flash!\xf000븁\x0000\xfffeLet me read you the instructions...\xf000븁\x0000\xfffe“Hold the B Button to run faster than\xfffenormal. Put on the Running Shoes and\xf000븀\x0000\xfffetear around to your heart's content!"\xf000븁\x0000\xfffeThat's what it says.\xf000븁\x0000\xfffeI bought these a long time ago\xfffeand stashed them away somewhere.\xf000븁\x0000\xfffeI found them when I was cleaning up.\xfffeGuess it's good to clean occasionally!\xf000븁\x0000
+\xf000Ā\x0001\x0000, you understand that\xfffeyou're never really alone, right?\xf000븁\x0000\xfffeYou're with Pokémon, you have friends,\xfffeand you're always in my thoughts.\xf000븁\x0000\xfffeThat's all right, then. Enjoy your trip!\xf000븁\x0000
+Bianca: Ohhhhh! Hi, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000! C'mon, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bianca: Hey, listen!\xfffeLet's have a Pokémon battle!\xf000븁\x0000\xfffePleeeease? The Pokémon I caught\xfffehave become a little stronger!\xf000븁\x0000\xfffeReady or not, here I come!\xf000븁\x0000
+Bianca: Woo-hoo!\xf000븁\x0000\xfffeYou are a tough cookie, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI'm gonna work hard on training my\xfffePokémon so we won't lose anymore!\xf000븀\x0000\xfffeOK, bye-bye!\xf000븁\x0000
+Hey, you!\xf000븁\x0000\xfffeI'm gonna do something amazing!\xfffeWanna watch?
+OK! Wait one second!\xf000븁\x0000
+Wooo!
+Hey! Were you watching?\xf000븁\x0000\xfffeYou can take a shortcut by\xfffejumping off ledges! Amazing, eh?
+No need to be shy!
+When your Pokémon don't have\xfffeenough energy to fight...\xf000븀\x0000\xfffeJust walk on the road!\xf000븁\x0000\xfffePokémon only appear in the tall grass!
+Battles between Pokémon Trainers\xfffeare serious affairs you can't run from!
 Route 2
 Route 2
-Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon that participate in battle\xfffegain experience points!\xf000븁\x0000\xfffePokémon continuing to fight\xfffemakes them grow continually stronger!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon that participate in battle\xfffereceive Exp. Points.\xf000븁\x0000\xfffeHave your Pokémon battle often,\xfffeand make them stronger and stronger!

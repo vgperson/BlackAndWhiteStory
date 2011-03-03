@@ -1,2 +1,2 @@
-﻿You and your Pokémon\xfffeare looking lively!\xf000븁\x0000If you're ever tired, talk to me\xfffeand I'll let you take a break!
-Oh, aren't your Pokémon\xfffea little under the weather?\xf000븁\x0000Don't hold off!\xfffeYou can rest here whenever!\xf000븁\x0000
+Both you and your Pokémon are healthy\xfffeand energetic!\xf000븁\x0000\xfffeIf you get tired, please talk to me.\xfffeI'll let you take a nice long rest.
+Oh, your Pokémon look pretty tired.\xfffeDon't be shy. Take a nice long rest!\xf000븁\x0000

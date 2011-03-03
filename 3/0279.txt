@@ -1,35 +1,35 @@
-﻿... ... ...\xf000븁\x0000... ...You?\xf000븁\x0000
-Lord Ghetsis is gone.\xf000븁\x0000...After escaping from the castle,\xfffehe went somewhere on his own.\xf000븁\x0000
-We vowed to protect\xfffeLord Ghetsis's life.\xf000븁\x0000And now we have been ordered\xfffeto never search for him...\xf000븁\x0000
-Also, Lord Ghetsis said\xfffeto give this to you...\xf000븁\x0000
-Take this from me...\xf000븁\x0000
-And this too...\xf000븁\x0000
-...Where did Lord Ghetsis\xfffeobtain these items?\xf000븀\x0000What was he planning?\xf000븀\x0000Why give them to you?\xf000븀\x0000We have been yet unable\xf000븀\x0000to ascertain these things.\xf000븁\x0000...Is he testing you?\xfffe...Is he using you?\xf000븁\x0000
-We, the Dark Trinity,\xfffehave been, are, and will always be\xf000븀\x0000Lord Ghetsis's devoted.\xf000븁\x0000And Lord Ghetsis's ambitions\xfffecan never be stopped!\xf000븁\x0000
-...We will not\xfffemeet you again.\xf000븁\x0000So long!\xf000븁\x0000
-Are you here to see Wonder\xfffeBridge's famed Patrat pageant?
-You got it!\xfffeWhew, I am PUMPED!\xf000븁\x0000
-Really... Well, uh, I think it's\xfffepretty great! So come later!
-Alright, Team Patrat!\xfffeAll units, ASSEMBLE!\xf000븁\x0000
-The Patrat with\xfffeyour prize is...\xf000븁\x0000
-This Patrat! The one with\xfffethe most dazzling smile!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
-This Patrat! The one with\xfffethe cutest dimples!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
-This Patrat! The one with\xfffethe most stylin' eyebrows!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
-This Patrat! The one with\xfffethe biggest stomach!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
-Now! Show me the\xfffePatrat with the prize!\xf000븁\x0000
-You think that Patrat\xfffehas the \xf000ĉ\x0001\x0000?
-Your answer is...!!\xfffe...\xf000븀\x0000... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ... ... ...\xf000븀\x0000CORRRRRECT!\xf000븁\x0000You win the \xf000ĉ\x0001\x0000!\xfffePatrat, give 'em their patreat!\xf000븁\x0000
-Your answer is...!!\xfffe...\xf000븀\x0000... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000Sorry, it's wrongo...\xf000븁\x0000
-Well then, the Patrat pageant...\xfffehas come to its conclusion!\xf000븀\x0000Thanks for participating!!\xf000븁\x0000
-Wanna see the\xfffePatrat pageant again?\xf000븁\x0000We've got to make preparations!\xfffeCome again tomorrow!
-Migyuu?!
-Old Man: Boyo!\xfffeI've got something great!\xf000븀\x0000And it's juuuuust for you...!\xf000븁\x0000A mythical Pokémon! The great\xfffeMagikarp, for a scant $500!\xf000븀\x0000Will you buy?
-Old Man: Girly!\xfffeI've got something great!\xf000븀\x0000And it's juuuuust for you...!\xf000븁\x0000A mythical Pokémon! The great\xfffeMagikarp, for a scant $500!\xf000븀\x0000Will you buy?
-\xf000Ā\x0001\x0000 bought\xfffea Magikarp for $500!
-Give a nickname to\xfffethe bought Magikarp?
-You don't seem to have enough!
-You're full on Pokémon!
-Ah, your loss...
-Old Man: Right, and I don't\xfffedo Pokémon refunds!
-Aah...\xfffeWhat a superb view...
-Huh... uh...?\xfffeDid she... j-just vanish?
+...\xfffe...You, huh.\xf000븁\x0000
+Ghetsis is gone.\xf000븁\x0000\xfffeHe went off somewhere alone\xfffeafter we rescued him from the castle.\xf000븁\x0000
+From the day Ghetsis saved our lives,\xfffewe have sworn to be loyal to him.\xf000븁\x0000\xfffeEven now, after he ordered\xfffeus not to search for him.\xf000븁\x0000
+Also, Ghetsis said to give you this...\xf000븁\x0000
+As well as this...\xf000븁\x0000
+And this, also.\xf000븁\x0000
+Ghetsis...\xfffeWhere did he find these?\xf000븀\x0000\xfffeWhat was he planning to do with them?\xf000븀\x0000\xfffeWhy did he give them to you?\xf000븀\x0000\xfffeThere's no way to know now.\xf000븁\x0000\xfffeIs he testing you?\xfffeOr...using you?\xf000븁\x0000
+We, the Shadow Triad, have always\xfffebeen and will always be the\xf000븀\x0000\xfffeloyal servants of Ghetsis.\xf000븁\x0000\xfffeAnd Ghetsis's ambitions will never cease!\xf000븁\x0000
+Never shall we meet again.\xf000븁\x0000\xfffeFarewell!\xf000븁\x0000
+Will you come see the famous Patrat\xfffeshow at Marvelous Bridge?
+OK!\xfffeI'm going to get all fired up!\xf000븁\x0000
+Oh... I'm confident you will be greatly\xfffeentertained, so come again sometime!
+Ready all Patrat!\xfffeEveryone gather up!\xf000븁\x0000
+The Patrat that I will have you\xfffefollow today is...\xf000븁\x0000
+This--the li'l Patrat with\xfffethe brightest smile!\xf000븁\x0000\xfffeIt's holding a \xf000ĉ\x0001\x0000!\xfffeReady, set, go!\xf000븁\x0000
+This--the li'l Patrat with the\xfffecutest dimples!\xf000븁\x0000\xfffeIt's holding a \xf000ĉ\x0001\x0000!\xfffeReady, set, go!\xf000븁\x0000
+This--the li'l Patrat with the\xfffetrendiest eyebrows!\xf000븁\x0000\xfffeIt's holding a \xf000ĉ\x0001\x0000!\xfffeReady, set, go!\xf000븁\x0000
+This--the li'l Patrat with the\xfffebiggest belly!\xf000븁\x0000\xfffeIt's holding a \xf000ĉ\x0001\x0000!\xfffeReady, set, go!\xf000븁\x0000
+OK! Find the Patrat that\xfffeI asked you to follow!
+That Patrat is holding\xfffea \xf000ĉ\x0001\x0000, right?
+You are...\xfffe...\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffetotally correct!\xf000븁\x0000\xfffeReceive your prize, a \xf000ĉ\x0001\x0000,\xfffefrom that Patrat!\xf000븁\x0000
+You are...\xfffe...\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffeinconceivably incorrect! I'm sorry...\xf000븁\x0000
+That marks the grand finale of\xfffeour Patrat show!\xf000븀\x0000\xfffeThank you, one and all!\xf000븁\x0000
+You want to see the Patrat again?\xf000븁\x0000\xfffeThere are a lot of preparations and\xfffesuch to make, so come back tomorrow!
+Skreeet?
+Man: Son!\xfffeI have a deal for YOU! And for you alone.\xf000븁\x0000\xfffeHere's your chance. I will sell you the\xfffesecret Pokémon Magikarp...\xf000븀\x0000\xfffeFor an unbelievable $500!\xf000븁\x0000\xfffeHow about it? Interested?
+Man: Miss!\xfffeI have a deal for YOU! And for you alone.\xf000븁\x0000\xfffeHere's your chance. I will sell you the\xfffesecret Pokémon Magikarp...\xf000븀\x0000\xfffeFor an unbelievable $500!\xf000븁\x0000\xfffeHow about it? Interested?
+\xf000Ā\x0001\x0000 bought the Magikarp\xfffefor $500.
+Would you like to give a\xfffenickname to this Magikarp?
+Looks like you don't have enough money.
+You have no room in your party!
+Oh, that's too bad...
+Man: Oh, yeah...\xfffeReturns not accepted, got that?
+Ahh...\xfffeSuch magnificent scenery...
+Huh... Wha...\xfffeD-did she just disappear?

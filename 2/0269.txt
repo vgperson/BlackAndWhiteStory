@@ -1,496 +1,496 @@
-???.?kg
-6.9kg
-13.0kg
-100.0kg
-8.5kg
-19.0kg
-90.5kg
-9.0kg
-22.5kg
-85.5kg
-2.9kg
-9.9kg
-32.0kg
-3.2kg
-10.0kg
-29.5kg
-1.8kg
-30.0kg
-39.5kg
-3.5kg
-18.5kg
-2.0kg
-38.0kg
-6.9kg
-65.0kg
-6.0kg
-30.0kg
-12.0kg
-29.5kg
-7.0kg
-20.0kg
-60.0kg
-9.0kg
-19.5kg
-62.0kg
-7.5kg
-40.0kg
-9.9kg
-19.9kg
-5.5kg
-12.0kg
-7.5kg
-55.0kg
-5.4kg
-8.6kg
-18.6kg
-5.4kg
-29.5kg
-30.0kg
-12.5kg
-0.8kg
-33.3kg
-4.2kg
-32.0kg
-19.6kg
-76.6kg
-28.0kg
-32.0kg
-19.0kg
-155.0kg
-12.4kg
-20.0kg
-54.0kg
-19.5kg
-56.5kg
-48.0kg
-19.5kg
-70.5kg
-130.0kg
-4.0kg
-6.4kg
-15.5kg
-45.5kg
-55.0kg
-20.0kg
-105.0kg
-300.0kg
-30.0kg
-95.0kg
-36.0kg
-78.5kg
-6.0kg
-60.0kg
-15.0kg
-39.2kg
-85.2kg
-90.0kg
-120.0kg
-30.0kg
-30.0kg
-4.0kg
-132.5kg
-0.1kg
-0.1kg
-40.5kg
-210.0kg
-32.4kg
-75.6kg
-6.5kg
-60.0kg
-10.4kg
-66.6kg
-2.5kg
-120.0kg
-6.5kg
-45.0kg
-49.8kg
-50.2kg
-65.5kg
-1.0kg
-9.5kg
-115.0kg
-120.0kg
-34.6kg
-35.0kg
-80.0kg
-8.0kg
-25.0kg
-15.0kg
-39.0kg
-34.5kg
-80.0kg
-54.5kg
-56.0kg
-40.6kg
-30.0kg
-44.5kg
-55.0kg
-88.4kg
-10.0kg
-235.0kg
-220.0kg
-4.0kg
-6.5kg
-29.0kg
-24.5kg
-25.0kg
-36.5kg
-7.5kg
-35.0kg
-11.5kg
-40.5kg
-59.0kg
-460.0kg
-55.4kg
-52.6kg
-60.0kg
-3.3kg
-16.5kg
-210.0kg
-122.0kg
-4.0kg
-6.4kg
-15.8kg
-100.5kg
-7.9kg
-19.0kg
-79.5kg
-9.5kg
-25.0kg
-88.8kg
-6.0kg
-32.5kg
-21.2kg
-40.8kg
-10.8kg
-35.6kg
-8.5kg
-33.5kg
-75.0kg
-12.0kg
-22.5kg
-2.0kg
-3.0kg
-1.0kg
-1.5kg
-3.2kg
-2.0kg
-15.0kg
-7.8kg
-13.3kg
-61.5kg
-5.8kg
-8.5kg
-28.5kg
-38.0kg
-33.9kg
-0.5kg
-1.0kg
-3.0kg
-11.5kg
-1.8kg
-8.5kg
-38.0kg
-8.5kg
-75.0kg
-26.5kg
-27.0kg
-2.1kg
-79.5kg
-1.0kg
-5.0kg
-28.5kg
-41.5kg
-7.2kg
-125.8kg
-14.0kg
-64.8kg
-400.0kg
-7.8kg
-48.7kg
-3.9kg
-118.0kg
-20.5kg
-54.0kg
-28.0kg
-8.8kg
-125.8kg
-35.0kg
-55.0kg
-6.5kg
-55.8kg
-5.0kg
-12.0kg
-28.5kg
-16.0kg
-220.0kg
-50.5kg
-10.8kg
-35.0kg
-152.0kg
-33.5kg
-120.0kg
-32.5kg
-71.2kg
-58.0kg
-21.0kg
-48.0kg
-6.0kg
-23.5kg
-21.4kg
-75.5kg
-46.8kg
-178.0kg
-198.0kg
-187.0kg
-72.0kg
-152.0kg
-202.0kg
-216.0kg
-199.0kg
-5.0kg
-5.0kg
-21.6kg
-52.2kg
-2.5kg
-19.5kg
-52.0kg
-7.6kg
-28.0kg
-81.9kg
-13.6kg
-37.0kg
-17.5kg
-32.5kg
-3.6kg
-10.0kg
-28.4kg
-11.5kg
-31.6kg
-2.6kg
-32.5kg
-55.0kg
-4.0kg
-28.0kg
-59.6kg
-2.3kg
-19.8kg
-9.5kg
-28.0kg
-6.6kg
-20.2kg
-48.4kg
-1.7kg
-3.6kg
-4.5kg
-39.2kg
-24.0kg
-46.5kg
-130.5kg
-5.5kg
-12.0kg
-1.2kg
-16.3kg
-40.5kg
-84.0kg
-86.4kg
-253.8kg
-2.0kg
-97.0kg
-11.0kg
-32.6kg
-11.0kg
-11.5kg
-60.0kg
-120.0kg
-360.0kg
-11.2kg
-31.5kg
-15.2kg
-40.2kg
-4.2kg
-4.2kg
-17.7kg
-17.7kg
-2.0kg
-10.3kg
-80.0kg
-20.8kg
-88.8kg
-130.0kg
-398.0kg
-24.0kg
-220.0kg
-80.4kg
-30.6kg
-71.5kg
-5.0kg
-15.0kg
-15.3kg
-82.0kg
-51.3kg
-77.4kg
-1.2kg
-20.6kg
-40.3kg
-52.5kg
-168.0kg
-154.0kg
-1.9kg
-23.6kg
-11.5kg
-32.8kg
-21.5kg
-108.0kg
-23.8kg
-60.4kg
-12.5kg
-68.2kg
-7.4kg
-162.0kg
-0.8kg
-22.0kg
-2.3kg
-12.5kg
-15.0kg
-30.6kg
-100.0kg
-1.0kg
-47.0kg
-14.0kg
-16.8kg
-256.5kg
-39.5kg
-87.6kg
-150.6kg
-52.5kg
-27.0kg
-22.6kg
-23.4kg
-8.7kg
-42.1kg
-110.5kg
-102.6kg
-95.2kg
-202.5kg
-550.0kg
-230.0kg
-175.0kg
-205.0kg
-40.0kg
-60.0kg
-352.0kg
-950.0kg
-206.5kg
-1.1kg
-60.8kg
-10.2kg
-97.0kg
-310.0kg
-6.2kg
-22.0kg
-55.0kg
-5.2kg
-23.0kg
-84.5kg
-2.0kg
-15.5kg
-24.9kg
-20.0kg
-31.5kg
-2.2kg
-25.5kg
-9.5kg
-30.5kg
-42.0kg
-1.2kg
-14.5kg
-31.5kg
-102.5kg
-57.0kg
-149.5kg
-3.4kg
-6.5kg
-23.3kg
-5.5kg
-38.5kg
-3.9kg
-29.5kg
-33.5kg
-3.3kg
-9.3kg
-6.3kg
-29.9kg
-20.3kg
-1.2kg
-15.0kg
-5.5kg
-33.3kg
-4.4kg
-27.3kg
-3.9kg
-43.8kg
-0.6kg
-19.2kg
-38.0kg
-60.5kg
-187.0kg
-15.0kg
-13.0kg
-24.4kg
-1.9kg
-108.0kg
-20.5kg
-56.0kg
-95.0kg
-105.0kg
-20.2kg
-54.0kg
-49.5kg
-300.0kg
-12.0kg
-61.5kg
-23.0kg
-44.4kg
-27.0kg
-7.0kg
-24.0kg
-65.0kg
-50.5kg
-135.5kg
-34.0kg
-180.0kg
-140.0kg
-282.8kg
-128.6kg
-138.6kg
-68.0kg
-38.0kg
-51.5kg
-25.5kg
-25.9kg
-42.5kg
-291.0kg
-34.0kg
-52.0kg
-340.0kg
-106.6kg
-26.6kg
-0.3kg
-0.3kg
-0.3kg
-0.3kg
-683.0kg
-336.0kg
-430.0kg
-420.0kg
-750.0kg
-85.6kg
-3.1kg
-1.4kg
-50.5kg
-2.1kg
-320.0kg
-650.0 kg
-5.2kg
+????.? lbs.
+15.2 lbs.
+28.7 lbs.
+220.5 lbs.
+18.7 lbs.
+41.9 lbs.
+199.5 lbs.
+19.8 lbs.
+49.6 lbs.
+188.5 lbs.
+6.4 lbs.
+21.8 lbs.
+70.5 lbs.
+7.1 lbs.
+22.0 lbs.
+65.0 lbs.
+4.0 lbs.
+66.1 lbs.
+87.1 lbs.
+7.7 lbs.
+40.8 lbs.
+4.4 lbs.
+83.8 lbs.
+15.2 lbs.
+143.3 lbs.
+13.2 lbs.
+66.1 lbs.
+26.5 lbs.
+65.0 lbs.
+15.4 lbs.
+44.1 lbs.
+132.3 lbs.
+19.8 lbs.
+43.0 lbs.
+136.7 lbs.
+16.5 lbs.
+88.2 lbs.
+21.8 lbs.
+43.9 lbs.
+12.1 lbs.
+26.5 lbs.
+16.5 lbs.
+121.3 lbs.
+11.9 lbs.
+19.0 lbs.
+41.0 lbs.
+11.9 lbs.
+65.0 lbs.
+66.1 lbs.
+27.6 lbs.
+1.8 lbs.
+73.4 lbs.
+9.3 lbs.
+70.5 lbs.
+43.2 lbs.
+168.9 lbs.
+61.7 lbs.
+70.5 lbs.
+41.9 lbs.
+341.7 lbs.
+27.3 lbs.
+44.1 lbs.
+119.0 lbs.
+43.0 lbs.
+124.6 lbs.
+105.8 lbs.
+43.0 lbs.
+155.4 lbs.
+286.6 lbs.
+8.8 lbs.
+14.1 lbs.
+34.2 lbs.
+100.3 lbs.
+121.3 lbs.
+44.1 lbs.
+231.5 lbs.
+661.4 lbs.
+66.1 lbs.
+209.4 lbs.
+79.4 lbs.
+173.1 lbs.
+13.2 lbs.
+132.3 lbs.
+33.1 lbs.
+86.4 lbs.
+187.8 lbs.
+198.4 lbs.
+264.6 lbs.
+66.1 lbs.
+66.1 lbs.
+8.8 lbs.
+292.1 lbs.
+0.2 lbs.
+0.2 lbs.
+89.3 lbs.
+463.0 lbs.
+71.4 lbs.
+166.7 lbs.
+14.3 lbs.
+132.3 lbs.
+22.9 lbs.
+146.8 lbs.
+5.5 lbs.
+264.6 lbs.
+14.3 lbs.
+99.2 lbs.
+109.8 lbs.
+110.7 lbs.
+144.4 lbs.
+2.2 lbs.
+20.9 lbs.
+253.5 lbs.
+264.6 lbs.
+76.3 lbs.
+77.2 lbs.
+176.4 lbs.
+17.6 lbs.
+55.1 lbs.
+33.1 lbs.
+86.0 lbs.
+76.1 lbs.
+176.4 lbs.
+120.1 lbs.
+123.5 lbs.
+89.5 lbs.
+66.1 lbs.
+98.1 lbs.
+121.3 lbs.
+194.9 lbs.
+22.0 lbs.
+518.1 lbs.
+485.0 lbs.
+8.8 lbs.
+14.3 lbs.
+63.9 lbs.
+54.0 lbs.
+55.1 lbs.
+80.5 lbs.
+16.5 lbs.
+77.2 lbs.
+25.4 lbs.
+89.3 lbs.
+130.1 lbs.
+1014.1 lbs.
+122.1 lbs.
+116.0 lbs.
+132.3 lbs.
+7.3 lbs.
+36.4 lbs.
+463.0 lbs.
+269.0 lbs.
+8.8 lbs.
+14.1 lbs.
+34.8 lbs.
+221.6 lbs.
+17.4 lbs.
+41.9 lbs.
+175.3 lbs.
+20.9 lbs.
+55.1 lbs.
+195.8 lbs.
+13.2 lbs.
+71.6 lbs.
+46.7 lbs.
+89.9 lbs.
+23.8 lbs.
+78.5 lbs.
+18.7 lbs.
+73.9 lbs.
+165.3 lbs.
+26.5 lbs.
+49.6 lbs.
+4.4 lbs.
+6.6 lbs.
+2.2 lbs.
+3.3 lbs.
+7.1 lbs.
+4.4 lbs.
+33.1 lbs.
+17.2 lbs.
+29.3 lbs.
+135.6 lbs.
+12.8 lbs.
+18.7 lbs.
+62.8 lbs.
+83.8 lbs.
+74.7 lbs.
+1.1 lbs.
+2.2 lbs.
+6.6 lbs.
+25.4 lbs.
+4.0 lbs.
+18.7 lbs.
+83.8 lbs.
+18.7 lbs.
+165.3 lbs.
+58.4 lbs.
+59.5 lbs.
+4.6 lbs.
+175.3 lbs.
+2.2 lbs.
+11.0 lbs.
+62.8 lbs.
+91.5 lbs.
+15.9 lbs.
+277.3 lbs.
+30.9 lbs.
+142.9 lbs.
+881.8 lbs.
+17.2 lbs.
+107.4 lbs.
+8.6 lbs.
+260.1 lbs.
+45.2 lbs.
+119.0 lbs.
+61.7 lbs.
+19.4 lbs.
+277.3 lbs.
+77.2 lbs.
+121.3 lbs.
+14.3 lbs.
+123.0 lbs.
+11.0 lbs.
+26.5 lbs.
+62.8 lbs.
+35.3 lbs.
+485.0 lbs.
+111.3 lbs.
+23.8 lbs.
+77.2 lbs.
+335.1 lbs.
+73.9 lbs.
+264.6 lbs.
+71.6 lbs.
+157.0 lbs.
+127.9 lbs.
+46.3 lbs.
+105.8 lbs.
+13.2 lbs.
+51.8 lbs.
+47.2 lbs.
+166.4 lbs.
+103.2 lbs.
+392.4 lbs.
+436.5 lbs.
+412.3 lbs.
+158.7 lbs.
+335.1 lbs.
+445.3 lbs.
+476.2 lbs.
+438.7 lbs.
+11.0 lbs.
+11.0 lbs.
+47.6 lbs.
+115.1 lbs.
+5.5 lbs.
+43.0 lbs.
+114.6 lbs.
+16.8 lbs.
+61.7 lbs.
+180.6 lbs.
+30.0 lbs.
+81.6 lbs.
+38.6 lbs.
+71.6 lbs.
+7.9 lbs.
+22.0 lbs.
+62.6 lbs.
+25.4 lbs.
+69.7 lbs.
+5.7 lbs.
+71.6 lbs.
+121.3 lbs.
+8.8 lbs.
+61.7 lbs.
+131.4 lbs.
+5.1 lbs.
+43.7 lbs.
+20.9 lbs.
+61.7 lbs.
+14.6 lbs.
+44.5 lbs.
+106.7 lbs.
+3.7 lbs.
+7.9 lbs.
+9.9 lbs.
+86.4 lbs.
+52.9 lbs.
+102.5 lbs.
+287.7 lbs.
+12.1 lbs.
+26.5 lbs.
+2.6 lbs.
+35.9 lbs.
+89.3 lbs.
+185.2 lbs.
+190.5 lbs.
+559.5 lbs.
+4.4 lbs.
+213.8 lbs.
+24.3 lbs.
+71.9 lbs.
+24.3 lbs.
+25.4 lbs.
+132.3 lbs.
+264.6 lbs.
+793.7 lbs.
+24.7 lbs.
+69.4 lbs.
+33.5 lbs.
+88.6 lbs.
+9.3 lbs.
+9.3 lbs.
+39.0 lbs.
+39.0 lbs.
+4.4 lbs.
+22.7 lbs.
+176.4 lbs.
+45.9 lbs.
+195.8 lbs.
+286.6 lbs.
+877.4 lbs.
+52.9 lbs.
+485.0 lbs.
+177.2 lbs.
+67.5 lbs.
+157.6 lbs.
+11.0 lbs.
+33.1 lbs.
+33.7 lbs.
+180.8 lbs.
+113.1 lbs.
+170.6 lbs.
+2.6 lbs.
+45.4 lbs.
+88.8 lbs.
+115.7 lbs.
+370.4 lbs.
+339.5 lbs.
+4.2 lbs.
+52.0 lbs.
+25.4 lbs.
+72.3 lbs.
+47.4 lbs.
+238.1 lbs.
+52.5 lbs.
+133.2 lbs.
+27.6 lbs.
+150.4 lbs.
+16.3 lbs.
+357.1 lbs.
+1.8 lbs.
+48.5 lbs.
+5.1 lbs.
+27.6 lbs.
+33.1 lbs.
+67.5 lbs.
+220.5 lbs.
+2.2 lbs.
+103.6 lbs.
+30.9 lbs.
+37.0 lbs.
+565.5 lbs.
+87.1 lbs.
+193.1 lbs.
+332.0 lbs.
+115.7 lbs.
+59.5 lbs.
+49.8 lbs.
+51.6 lbs.
+19.2 lbs.
+92.8 lbs.
+243.6 lbs.
+226.2 lbs.
+209.9 lbs.
+446.4 lbs.
+1212.5 lbs.
+507.1 lbs.
+385.8 lbs.
+451.9 lbs.
+88.2 lbs.
+132.3 lbs.
+776.0 lbs.
+2094.4 lbs.
+455.2 lbs.
+2.4 lbs.
+134.0 lbs.
+22.5 lbs.
+213.8 lbs.
+683.4 lbs.
+13.7 lbs.
+48.5 lbs.
+121.3 lbs.
+11.5 lbs.
+50.7 lbs.
+186.3 lbs.
+4.4 lbs.
+34.2 lbs.
+54.9 lbs.
+44.1 lbs.
+69.4 lbs.
+4.9 lbs.
+56.2 lbs.
+20.9 lbs.
+67.2 lbs.
+92.6 lbs.
+2.6 lbs.
+32.0 lbs.
+69.4 lbs.
+226.0 lbs.
+125.7 lbs.
+329.6 lbs.
+7.5 lbs.
+14.3 lbs.
+51.4 lbs.
+12.1 lbs.
+84.9 lbs.
+8.6 lbs.
+65.0 lbs.
+73.9 lbs.
+7.3 lbs.
+20.5 lbs.
+13.9 lbs.
+65.9 lbs.
+44.8 lbs.
+2.6 lbs.
+33.1 lbs.
+12.1 lbs.
+73.4 lbs.
+9.7 lbs.
+60.2 lbs.
+8.6 lbs.
+96.6 lbs.
+1.3 lbs.
+42.3 lbs.
+83.8 lbs.
+133.4 lbs.
+412.3 lbs.
+33.1 lbs.
+28.7 lbs.
+53.8 lbs.
+4.2 lbs.
+238.1 lbs.
+45.2 lbs.
+123.5 lbs.
+209.4 lbs.
+231.5 lbs.
+44.5 lbs.
+119.0 lbs.
+109.1 lbs.
+661.4 lbs.
+26.5 lbs.
+135.6 lbs.
+50.7 lbs.
+97.9 lbs.
+59.5 lbs.
+15.4 lbs.
+52.9 lbs.
+143.3 lbs.
+111.3 lbs.
+298.7 lbs.
+75.0 lbs.
+396.8 lbs.
+308.6 lbs.
+623.5 lbs.
+283.5 lbs.
+305.6 lbs.
+149.9 lbs.
+83.8 lbs.
+113.5 lbs.
+56.2 lbs.
+57.1 lbs.
+93.7 lbs.
+641.5 lbs.
+75.0 lbs.
+114.6 lbs.
+749.6 lbs.
+235.0 lbs.
+58.6 lbs.
+0.7 lbs.
+0.7 lbs.
+0.7 lbs.
+0.7 lbs.
+1505.8 lbs.
+740.8 lbs.
+948.0 lbs.
+925.9 lbs.
+1653.5 lbs.
+188.7 lbs.
+6.8 lbs.
+3.1 lbs.
+111.3 lbs.
+4.6 lbs.
+705.5 lbs.
+1433.0 lbs.
+11.5 lbs.

@@ -1,9 +1,9 @@
-﻿Well now...\xf000븁\x0000\xfffeThe gym leader Elesa\xfffetook a likin' to you, huh?\xf000븁\x0000\xfffeGuess I ought to take a looksee\xfffeat skill of that caliber!\xf000븁\x0000
-Clay: So I see!\xfffeAnd am I ever pleased!\xf000븁\x0000\xfffeAfter all my years of battlin',\xfffeI knew there had ta be somebody\xf000븀\x0000with talent like yours.\xf000븁\x0000\xfffeHeh!\xfffeGo on, take this!\xf000븁\x0000
-\xf000Ā\x0001\x0000received\xfffethe Quake Badge from Clay!\xf000븁\x0000
-Five badges, eh?\xf000븁\x0000In that case, Pokémon up ta\xfffeLevel 60'll obey you.\xf000븁\x0000Next up,\xfffetake this TM!\xf000븁\x0000\xfffe...Or so I'd say if I didn't have\xfffea lil' somethin' to attend to.\xf000븁\x0000\xfffeCome up to the cave at the\xfffeend of Route 6! I'll be waitin'!
-Clay: What's the matter?\xf000븁\x0000\xfffeCome up to the cave at the\xfffeend of Route 6! I'll be waitin'!
-I still ain't sure\xfffejust how able ya are, but...\xf000븁\x0000\xfffeThink ya wanna go somewhere,\xfffeand ya can go anywhere.\xf000븁\x0000\xfffeThink ya wanna do somethin',\xfffeand ya can, anytime.\xf000븁\x0000\xfffeAnd it's alright to do\xfffewhat ya like, y'know?\xf000븁\x0000\xfffeThe only limit...\xfffeis yerself!
-Clay: ...Heh!\xfffeRemember what I said?\xf000븁\x0000Think ya wanna go somewhere,\xfffeand ya can go anywhere.\xf000븁\x0000\xfffeThink ya wanna do somethin',\xfffeand ya can, anytime.\xf000븁\x0000\xfffeAnd it's alright to do\xfffewhat ya like, y'know?\xf000븁\x0000\xfffeThe only limit...\xfffeis yerself!
-This lift can't\xfffego any higher!
-This lift can't\xfffego any lower!
+Well...\xf000븁\x0000\xfffeThink it's about time to see fer myself\xfffewhat it is about yer skills that made a\xf000븀\x0000\xfffeGym Leader like Elesa take such a\xf000븀\x0000\xfffeshine to ya.\xf000븁\x0000
+Mrrrmph. I see. But I sure don't like it!\xf000븁\x0000\xfffeFer such a young 'un, ya have an imposin'\xfffebattle style.\xf000븁\x0000\xfffeI know ya got people who can dig up\xfffeyer potential.\xf000븁\x0000\xfffeMrmph.\xfffeHere! Take this!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received the Quake Badge\xfffefrom Clay!\xf000븁\x0000
+So this is yer fifth Badge, huh?\xf000븁\x0000\xfffeIf that's so, Pokémon up to Lv. 60\xfffewill obey ya.\xf000븁\x0000\xfffeAlso, I'll give ya this TM.\xf000븁\x0000\xfffe...Well, that was the plan, but I just\xffferemembered there's somethin' I want.\xf000븁\x0000\xfffeWait in front of the cave at the end of\xfffeRoute 6, wouldja?
+Clay: What's the problem?\xf000븁\x0000\xfffeGo wait in front of the cave at the end\xfffeof Route 6!
+I don't know how much potential ya got,\xfffebut if ya think ya can go, go wherever,\xf000븀\x0000\xfffeand if ya think ya can do somethin',\xf000븀\x0000\xfffekeep doin' it.\xf000븁\x0000\xfffeDo things how ya want!\xfffeDecide yer own limits.
+Clay: Mrrmph! You, huh?\xfffeRemember what I done told ya?\xf000븁\x0000\xfffeIf ya think ya can go, go wherever,\xfffeand if ya think ya can do somethin',\xf000븀\x0000\xfffekeep doin' it.\xf000븁\x0000\xfffeDo things how ya want!\xfffeDecide yer own limits.
+This elevator can't go any higher!
+This elevator can't go any lower!

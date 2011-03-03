@@ -1,8 +1,8 @@
-﻿This?\xf000븁\x0000This is the freezer storage!\xf000븁\x0000There are workers\xfffeand wild Pokémon inside!
-If he told you to search\xfffefor Team Plasma, Mr. Clay\xf000븀\x0000must think pretty highly of you!
-Cheren: \xf000Ā\x0001\x0000...\xf000븁\x0000You don't think Team Plasma\xfffecould be in there, do you...?\xf000븁\x0000...I hate cold places, but\xfffeI suppose we'll have to check.\xf000븀\x0000What a pain...
-Cheren: ...\xf000Ā\x0001\x0000, would you\xfffehurry up and look inside?
-Go through the hole in that fence\xfffeto get to the freezer storage.
-Only a little cargo, use Pokémon.\xfffeA lot of cargo, use ships!\xf000븁\x0000Whatever you're dealing with,\xfffethere's a best way to deal with it!
-A helmet is an valuable tool\xfffefor protecting yourself from impacts!\xf000븁\x0000Your Pokémon should\xfffewear them, too!\xf000븁\x0000
-The Rocky Helmet is a\xfffewondrous item that, when held...\xf000븁\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000븁\x0000..."Landing a blow" being\xfffeany move that strikes directly!
+You want to know about this place?\xfffeThis is the Cold Storage.\xf000븁\x0000\xfffeInside, there are Workers\xfffewith their Pokémon!
+The reason why Clay is having you look\xfffefor Team Plasma is 'cause he is testing\xf000븀\x0000\xfffeyour abilities.
+Cheren: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeDo you think Team Plasma could be\xfffein there?\xf000븁\x0000\xfffeI don't like cold places, but we have\xfffeto check. What a bother.
+Cheren: All right, \xf000Ā\x0001\x0000.\xfffeLet's get this over with.
+You can get to the Cold Storage through\xfffethe gap between the fence and the\xf000븀\x0000\xfffecontainer over there.
+For a few loads, send it by Pokémon.\xfffeFor a lot of loads, send it by ship.\xf000븁\x0000\xfffeUse the best method for your needs!
+A helmet is an important tool for\xfffeshock protection!\xf000븁\x0000\xfffeIt's good to let your Pokémon\xfffehave one, too!\xf000븁\x0000
+If you let a Pokémon hold a Rocky Helmet,\xfffethe foe will also be damaged if that foe's\xf000븀\x0000\xfffemove makes physical contact.

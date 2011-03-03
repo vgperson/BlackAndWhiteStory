@@ -1,17 +1,17 @@
-﻿The move Fly lets you visit\xfffepriorly-visited Pokémon Centers.\xf000븁\x0000Without a destination,\xfffeyour Pokémon won't want to fly!
-I know planes extremely well,\xfffeso I can make adjustments to them!\xf000븁\x0000\xfffeI know Pokémon extremely well,\xfffeso I can make them stronger!
-Flying and psychic Pokémon are\xfffeuseful for places too high to reach!\xf000븁\x0000\xfffeI don't even want to imagine what it'd\xfffebe like not having Pokémon around!
-Churururuwa!!
-Thanks to this control tower, people\xfffecan fly over areas without landmarks\xf000븀\x0000\xfffewithout need to worry.\xf000븁\x0000\xfffeSo I know!\xfffeIf Trainers lead them well,\xf000븀\x0000\xfffePokémon can fight without worry!
-I dream of becoming a pilot\xfffeand flying out endlessly...\xf000븀\x0000\xfffeIt still sticks with me now!
-Welcome to Mistralton, the town of sky!\xfffeTake this in commemoration!\xf000븁\x0000
-Give Sharp Beak to a Pokémon\xfffeto increase the power of flying attacks!\xf000븀\x0000...That's what it does.
-Good day!\xf000븁\x0000\xfffeDelivering much with swiftness!\xfffeWe're Mistralton Cargo Service!
-Sweets, lovely Sweet Hearts! ♪\xfffeCheck your feelings together...\xf000븁\x0000If they're super-affectionate,\xfffeyou'll get so many sweets! ♪\xf000븀\x0000So sweet and enchanting... ♪\xf000븁\x0000
-Oh? You have\xfffesome Sweet Hearts!\xf000븁\x0000Will you trade ten Sweet Hearts\xfffefor one of my Heart Scales?
-I'm in a special\xfffekind of mood today!\xf000븁\x0000Will you trade five Sweet Hearts\xfffefor one of my Heart Scales?
-Bring me a lot of Sweet Hearts,\xfffeand I'll trade you some good stuff!
-Hooray!\xfffeYou're full of heart!\xf000븁\x0000
-Huh? Oh, that's a shame!\xfffeOh, that's AWFUL!\xf000븁\x0000You're already full\xfffeon Heart Scales!
-Really, now...\xfffeWhat a shame, what a shame...
-Handed over the Sweet Hearts\xfffeand received a \xf000ĉ\x0001\x0000 in exchange!\xf000븁\x0000
+When you use the move Fly, you can\xfffereturn to a Pokémon Center\xf000븀\x0000\xfffeyou've already visited.\xf000븁\x0000\xfffeBut if Pokémon don't know their\xfffedestinations, they cannot fly there!
+Because I know a lot about planes,\xfffeI can maintain them!\xf000븁\x0000\xfffeBecause I know a lot about Pokémon,\xfffeI can be strong!
+For the places that I cannot reach,\xfffeI ask Flying- or Psychic-type Pokémon\xf000븀\x0000\xfffefor help sometimes.\xf000븁\x0000\xfffeI cannot even imagine everyday life\xfffewithout Pokémon.
+Chulululuwa!
+Because of this control tower, planes\xfffecan fly safely in the sky where there\xf000븀\x0000\xfffeare no roads.\xf000븁\x0000\xfffeFrom that, I take this lesson:\xfffeIf Trainers lead Pokémon correctly,\xf000븀\x0000\xfffePokémon will feel safe and fight well.
+My dream was to become a Pilot and\xfffefly away, far away...\xf000븀\x0000\xfffeI still have that dream in my heart.
+Welcome to the sky city, Mistralton!\xfffeTake this as a keepsake!\xf000븁\x0000
+If a Pokémon holds an item called\xfffeSharp Beak, its Flying-type\xf000븀\x0000\xfffemoves will be powered up!
+Hello!\xf000븁\x0000\xfffeDeliver a lot of cargo quickly!\xfffeThis is Mistralton Cargo Service.
+Sweets, lovely Sweet Heart! ♪\xfffeCheck feelings between two people.\xf000븁\x0000\xfffeIf you are a great match, you can\xfffeget sweet on Sweet Heart! ♪\xf000븀\x0000\xfffeMeltingly sweet Sweet Heart! ♪\xf000븁\x0000
+Oh, uh, you?\xfffeYou have Sweet Heart!\xf000븁\x0000\xfffeWill you trade ten pieces of your\xfffeSweet Heart for my Heart Scale?
+
+If you bring a lot of Sweet Heart pieces,\xfffeI will trade you for something happy!
+Yaaaay!\xfffeI have a lot of your heart!\xf000븁\x0000
+Oh... What a pity.\xfffeWhat a great pity!\xf000븁\x0000\xfffeYou must have a lot of\xfffeHeart Scales already.
+OK...\xfffeAww...that's too bad.
+Gave the Sweet Hearts and received\xfffea \xf000ĉ\x0001\x0000 in return.\xf000븁\x0000

@@ -1,23 +1,23 @@
-﻿My name is Judge!\xf000븁\x0000Well, that's not my real name,\xfffebut everyone calls me Judge!\xf000븁\x0000For whatever reason, I can\xfffesee into Pokémon's potential...\xf000븁\x0000Basically, I can "judge"\xfffetheir inherent power!\xf000븁\x0000If you wish,\xfffeI can judge the potential\xf000븀\x0000of any of your Pokémon!\xf000븁\x0000
-You there! If you wish,\xfffeI can judge the capabilities\xf000븀\x0000of any of your Pokémon!\xf000븁\x0000
-...Really?\xfffeYou don't need my judgement?
-Judge an egg?!\xfffeThat's a tall order!
-I see, yes...\xf000븁\x0000This Pokémon has\xfffea fair degree of potential...\xf000븁\x0000This is what I judge.\xf000븁\x0000
-I see, yes...\xf000븁\x0000This Pokémon has\xfffeaverage potential...\xf000븁\x0000This is what I judge.\xf000븁\x0000
-I see, yes...\xf000븁\x0000This Pokémon has\xfffeexcellent potential...\xf000븁\x0000This is what I judge.\xf000븁\x0000
-I see, yes...\xf000븁\x0000This Pokémon has\xfffefantastic potential...\xf000븁\x0000This is what I judge.\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... HP, perhaps?\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... Attack, perhaps?\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... Defense, perhaps?\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... Sp. Attack, perhaps?\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... Sp. Defense, perhaps?\xf000븁\x0000
-By the way, I feel its potential is\xfffestrongest in... Speed, perhaps?\xf000븁\x0000
-Its Attack also\xfffegives me a good feeling.\xf000븁\x0000
-Yes, its Defense also\xfffegives me a good feeling.\xf000븁\x0000
-Its Sp. Attack, too,\xfffegives me a good feeling.\xf000븁\x0000
-Similarly, its Sp. Defense\xfffegives me a good feeling.\xf000븁\x0000
-Additionally, its Speed\xfffegives me a good feeling.\xf000븁\x0000
-Its power is so-so.\xfffeThis is what I judge!
-Its power is significant!\xfffeThis is what I judge!
-Its power is amazing!\xfffeThis is what I judge!
-Its power is ultimate!\xfffeThis is what I judge!
+You can call me the Judge.\xf000븁\x0000\xfffeHeh heh, that's actually not my real\xfffename, but it's what everyone calls me.\xf000븁\x0000\xfffeIt's because of this weird power I have.\xfffeIt's a gift, really.\xf000븁\x0000\xfffeI can discern--judge, you might say--the\xfffeoverall potential of individual Pokémon.\xf000븁\x0000\xfffeIf you'd like, I could judge the\xfffeintriguing potential of your Pokémon.\xf000븁\x0000
+If you'd like, I could judge the\xfffeintriguing potential of your Pokémon.\xf000븁\x0000
+...Oh?\xfffeYou don't need me to judge. I get it.
+Judge an Egg?!\xfffeThat's a tall order even for me!
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon's potential is\xfffedecent all around.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon's potential is\xfffeabove average overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon has\xffferelatively superior potential overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+I see, I see...\xf000븁\x0000\xfffeThis Pokémon has\xfffeoutstanding potential overall.\xf000븁\x0000\xfffeThat's my determination, and it's final.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its HP.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Attack stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Defense stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Sp. Atk stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Sp. Def stat.\xf000븁\x0000
+Incidentally, I would say the best\xfffepotential lies in its Speed stat.\xf000븁\x0000
+And its Attack stat\xfffeis also good.\xf000븁\x0000
+I see. Its Defense stat\xfffeis also good.\xf000븁\x0000
+Its Sp. Atk stat\xfffeis equally good.\xf000븁\x0000
+Its Sp. Def stat\xfffeis good as well.\xf000븁\x0000
+Well, its Speed stat\xfffeis also good.\xf000븁\x0000
+It's rather decent in that regard.\xfffeThat's how I judged it.
+It's very good in that regard.\xfffeThat's how I judged it.
+It's fantastic in that regard.\xfffeThat's how I judged it.
+It can't be better in that regard.\xfffeThat's how I judged it.

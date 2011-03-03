@@ -1,31 +1,31 @@
-﻿... ... ... ...
-This kid looked lonely,\xfffeso I was reading him a storybook!\xf000븀\x0000\xfffeYou listen too, mister!\xf000븁\x0000
-This kid looked lonely,\xfffeso I was reading him a storybook!\xf000븀\x0000\xfffeYou listen too, miss!\xf000븁\x0000
-Lemme continue with the story!\xf000븁\x0000\xfffe... ... ... ...\xfffeThe Zorua, made all alone,\xf000븀\x0000\xfffesearched for its mother...\xf000븁\x0000
-Have you seen Zorua?\xfffeLook, it's a Pokémon like this!\xf000븁\x0000
-Zorua has the power\xfffeto fool people!\xf000븁\x0000\xfffeThat can be scary,\xfffebut I still like Zorua!\xf000븀\x0000\xfffeI mean, it's really cute!\xf000븁\x0000\xfffe...Huh?\xfffeWhy are you turning red?!
-Castelia City is so sprawling,\xfffeit makes my eyes go dizzy...\xf000븀\x0000\xfffeAnd I always get lost!
-This kid's lost!\xfffeHe looks lonely... so, mister,\xf000븀\x0000\xfffeyou should talk to him too!
-This kid's lost!\xfffeHe looks lonely... so, miss,\xf000븀\x0000\xfffeyou should talk to him too!
-Kyuooooon!
+...
+'Cause he is alone and looks lonely,\xfffeI was reading a book to him!\xf000븀\x0000\xfffeI will read it to you, too!\xf000븁\x0000
+'Cause he is alone and looks lonely,\xfffeI was reading a book to him!\xf000븀\x0000\xfffeI will read it to you, too!\xf000븁\x0000
+Here, I'll keep reading!\xf000븁\x0000\xfffe...\xfffeZorua, who was left alone, wandered\xf000븀\x0000\xfffearound looking for its mother...\xf000븁\x0000
+Have you seen Zorua? See, it's\xfffethe Pokémon that looks like this!\xf000븁\x0000
+They say Zorua has the power\xfffeto bewitch people!\xf000븁\x0000\xfffeIt would be scary if I were bewitched,\xfffebut I like Zorua!\xf000븀\x0000\xfffe'Cause it's cute!\xf000븁\x0000\xfffe...Huh?\xfffeWhy are you blushing?
+Castelia City is so big\xfffethat I feel dizzy.\xf000븀\x0000\xfffeEven I can get lost!
+This little boy got lost!\xfffeHe looks lonely, so\xf000븀\x0000\xfffeplease talk to him!
+This little boy got lost!\xfffeHe looks lonely, so \xf000븀\x0000\xfffeplease talk to him!
+Yip yap!
 Lululalala!
-You exposed Zorua!\xfffeAwesome stuff!\xf000븁\x0000
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000
-Befriend Zorua?
-Zorua joined you!
-Zorua was transferred\xfffeto an open Box!
-......Kyun?\xf000븁\x0000
-It doesn't seem to notice\xfffethat Celebi's not with you!
-So Zorua was waiting here\xfffeto meet its friend Celebi!\xf000븀\x0000\xfffeWell, I'm relieved!\xf000븁\x0000
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, mister,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, miss,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-You won't take it along...?\xfffeIt looks so lonely...\xf000븁\x0000
-You won't take it along...?\xfffeIt looks so lonely...
-Zorua's waiting!
-You got a Poké Ball, mister?\xf000븁\x0000
-You got a Poké Ball, miss?\xf000븁\x0000
-...You won't take it along?\xf000븁\x0000
-It's a bronze Pokémon statue\xfffewith a mysterious air about it.
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, mister,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Zorua and Celebi seem\xfffelike they're great friends!\xf000븁\x0000\xfffeI bet it wants to go with\xfffeCelebi! I'm sure of it!\xf000븁\x0000\xfffe...But, uh, miss,\xfffeCAN you take Zorua?\xf000븁\x0000\xfffeDon't you have too many\xfffePokémon in your party?
-Give a nickname to\xfffethe befriended Zorua?
+Oh, that little boy was really Zorua!\xfffeSo cooooool!\xf000븁\x0000
+It looks like Zorua and Celebi are really\xfffegood friends!\xf000븁\x0000\xfffeI'm sure Zorua wants to go with you\xfffeand Celebi!\xf000븁\x0000
+Will you add Zorua to your party?
+Zorua joined your party!
+
+...Yip?\xf000븁\x0000
+
+Zorua had been waiting for Celebi here!\xfffeNow, I am relieved!\xf000븁\x0000
+It looks like Zorua and Celebi are really\xfffegood friends!\xf000븁\x0000\xfffeI'm sure Zorua wants to go with you\xfffeand Celebi!\xf000븁\x0000\xfffe...But do you have room for Zorua\xfffein your party?\xf000븁\x0000\xfffeYou can't take more than six Pokémon\xfffewith you. Right?
+It looks like Zorua and Celebi are really\xfffegood friends!\xf000븁\x0000\xfffeI'm sure Zorua wants to go with you\xfffeand Celebi!\xf000븁\x0000\xfffe...But do you have room for Zorua\xfffein your party?\xf000븁\x0000\xfffeYou can't take more than six Pokémon\xfffewith you. Right?
+So you won't take Zorua with you...\xfffePoor thing. It looks lonely...\xf000븁\x0000
+So you won't take Zorua with you...\xfffePoor thing. It looks lonely...
+Zorua is waiting for you!
+Trainer, do you have a Poké Ball?\xf000븁\x0000
+Trainer, do you have a Poké Ball?\xf000븁\x0000
+...Can't you take Zorua with you?\xf000븁\x0000
+
+It looks like Zorua and Celebi are really\xfffegood friends!\xf000븁\x0000\xfffeI'm sure Zorua wants to go with you\xfffeand Celebi!\xf000븁\x0000\xfffe...But do you have room for Zorua\xfffein your party?\xf000븁\x0000\xfffeYou can't take more than six Pokémon\xfffewith you. Right?\xf000븁\x0000
+It looks like Zorua and Celebi are really\xfffegood friends!\xf000븁\x0000\xfffeI'm sure Zorua wants to go with you\xfffeand Celebi!\xf000븁\x0000\xfffe...But do you have room for Zorua\xfffein your party?\xf000븁\x0000\xfffeYou can't take more than six Pokémon\xfffewith you. Right?\xf000븁\x0000
+Would you like to give a nickname\xfffeto the Zorua who joined your party?

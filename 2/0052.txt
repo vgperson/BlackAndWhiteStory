@@ -1,47 +1,10 @@
-﻿Battle
-Trade
-Back
-Battle For Two
-Battle For Four
-Single Battle
-Double Battle
-Triple Battle
-Please begin IR communication\xfffewith your battle partner.
-Please begin IR communication\xfffewith your trade partner.
-Became the leader!
-Please begin IR communication\xfffewith your battle leader.
-Please wait a moment.
-Friend Code
-Feeling\xfffeCheck
-Quit?
-Please begin IR communication\xfffewith your trade partner.
-Pokémon Trade
-Party
-Trade?
-Lv.\xf000Ȃ\x0001\x0000
-Finish?
-Traded.
-Please wait a moment.
-Your play contents differ,\xfffeso you will be returned to the start.
-Save your progress thus far?
-Yes
-No
-Saving the game.\xfffePlease don't turn off the power.
-Starting trade.\xfffePlease wait.
-Starting battle.\xfffePlease wait.
-Rotation Battle
-Please begin IR communication with\xfffeyour Friend Code trade partner.
-Your Friend List is full.\xfffeYou cannot record any more friends.
-\xf000봂\x0000Registered: \xfffe\xf000봂\x0000\xf000ȁ\x0001\x0000／３２
-Decision
-Is this nunber of members okay?
-Please begin IR communication\xfffewith all musical participants.
-Please begin IR communication\xfffewith your musical leader.
-Connecting with \xf000Ȁ\x0001\x0000\xfffe Confirm to continue
-Fight with Battle Box
-Fight with Party
-Recorded on Friend List!
-Friend List updated!
-You need two or more\xfffePokémonto trade. 
-There is already\xfffeanother save file written,\xf000븀\x0000so you could not save!\xf000븁\x0000For details,\xfffeplease consult the\xfffeinstruction manual.
-Please begin IR communication with\xfffethe friend you wish to play with.
+Tap the Touch Screen ten times\xfffein any rhythm you like.
+Check complete. Create an Infrared\xfffeConnection with the other Trainer.
+Checking...\xfffePlease maintain the Infrared Connection.
+You've created an Infrared Connection!
+The connection was interrupted.\xfffePlease realign your infrared Game Cards.
+
+
+RHYTHM CHECK
+
+

@@ -1,4 +1,4 @@
-﻿TESPXTHOJL\xfffePUOFUTJM
+TESPXTHOJL\xfffePUOFUTJM
 IUVSUPUEBFM\xfffeTFNJSQ
 FWBSCTJHOJL
 FQPITFTPMSFWFO\xfffeHOJL
@@ -18,5 +18,5 @@ FWPMIUJXTUDBHOJL
 EFSUBIUIHVPGHOJL
 UTPMTUFHHOJLPO
 HOJLFWBSCOPPH\xf000븁\x0000
-The wall moved,\xfffeallowing further progress!
-It seems you can go up here!\xf000븁\x0000Continue to the upper floor?
+The wall moved, and you can proceed now!
+It looks like you can climb up here!\xf000븁\x0000\xfffeWill you proceed to the upper floor?

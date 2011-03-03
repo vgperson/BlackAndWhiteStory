@@ -1,72 +1,72 @@
-﻿Test Message
-It's locked and won't open.
-Today, there are \xf000Ȁ\x0001\x0003 Trainers\xfffeaboard the Royal Unova.\xf000븀\x0000\xfffeYou have beaten \xf000Ȁ\x0001\x0004.\xf000븁\x0000\xfffeThe ship has set sail.\xfffeWill you disembark?
-Today, there are \xf000Ȁ\x0001\x0003 Trainers\xfffeaboard the Royal Unova.\xf000븁\x0000\xfffeThe ship has set sail.\xfffeWill you disembark?
-"So many rooms! Such a huge ship!\xfffeI'm worried about finding Trainers!"\xf000븁\x0000\xfffeIs this you? I'll give you a tip!\xfffeWant to hear some sagacity?
-Some people get engrossed in\xfffeconversation until the whistle blows!\xf000븁\x0000\xfffeYou'll find guests like that\xfffein the cabins, too!
-Ahead is the Royal Unova's\xfffefamous observation deck.
-Today, the blue-doored rooms do\xfffenot seem to have any Trainers at all.
-Today, the blue-doored rooms\xfffewould seem to have\xf000븀\x0000\xfffe\xf000Ȁ\x0001\x0002 Trainer(s) within.
-We're flying across the sea!\xfffeWhat a wonder of the world!
-Go to the observation deck?\xfffeOr fight Trainers in the cabins?\xf000븀\x0000\xfffeI have no friggin' clue...!
-I'm trying to run and match the\xfffemovement of the waves...\xf000븀\x0000\xfffeBut it's really, really hard!
-Fight on the ship, or gaze upon\xfffescenery from the deck...\xf000븀\x0000\xfffeThis cruise is truly the best!
-Which room do I enter?!\xfffeI... I can't decide!
-I came from Johto for my job, but...\xfffethis place is bursting with excitement!
-Are you Unova-born?\xf000븁\x0000I came from Johto\xfffefor my job, but...\xf000븁\x0000Things are so different overseas!\xfffeEverything's so... weird!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...But, uh...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000I mean... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Well, huh!\xf000븁\x0000
-Ahh! The whistle's blowing!\xfffeSorry, I'll stop talking...\xf000븁\x0000\xfffeBut thanks!\xfffeThat was a nice chat!
-Between work, I battle!\xfffeThis too is a pleasure!\xf000븁\x0000
-Between work, I managed\xfffea pretty good battle!!
-There are yet more Pokémon\xfffebeyond the sea!\xf000븀\x0000I can't contain myself!
-I'm on a leg-stretching break from\xfffelazing about in my luxurious cabin!
-I came all the way from Sinnoh\xfffeon word that strong Trainers\xf000븀\x0000were to gather here!\xf000븀\x0000Let's enjoy a Pokémon battle!\xf000븁\x0000
-That Pokémon battle\xffferocked the boat!\xf000븁\x0000I've never seen Pokémon\xfffethat good before...\xf000븀\x0000Color me pleased!
-It seems many of the\xfffeTrainers aboard this ship\xf000븀\x0000\xfffecame from across the sea.\xf000븁\x0000And yes, I too,\xfffefrom Kanto!
-Did you go to the observation deck?\xfffeThe view is incredible up there!
-As I teeter-totter,\xfffeI'll Pokémon battle!\xf000븀\x0000\xfffeI'm tittering with excitement!\xf000븁\x0000
-Welp, I lost...\xfffeShould I go watch the scenery?
-Whoa! Amazing!\xf000븁\x0000What's so astounding, you ask?\xfffeThis ship, man, this SHIP!\xf000븁\x0000What about it, you ask?\xfffeUm... well, er, it's INCREDIBLE!
-Bam! Pokémon battle!\xf000븁\x0000...Except I don't have\xfffeany Pokémon with me!!
-Oho, Trainer!\xf000븁\x0000I am no mere shorts-fancier!\xfffeLet me show you my splendor!\xf000븁\x0000
-Ouch! I lost!\xfffeYou wear the pants!
-I'm, um, I'm, uh!\xfffeI'm on a boat! With my Pokémon!\xf000븀\x0000\xfffeOh, I just LOVE this ship!
-Hey there!\xfffeWanna talk with me?\xf000븁\x0000I just came\xfffefrom Nimbasa City!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Yeah, right?\xf000븀\x0000And... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Say whaaat!\xf000븁\x0000
-Oh! The whistle!\xf000븁\x0000\xfffeSorry, I was really into my story...\xfffeBut that was fun, thanks!
-I'm a Trainer who hails\xfffefrom a far-off land!\xf000븀\x0000\xfffeI'll show you my rarest Pokémon!\xf000븁\x0000
-Weren't my Pokémon\xfffejust SO rare?!\xf000븁\x0000Personally, Wormadam\xfffeis my favorite!
-Doesn't this gorgeous ship perfectly\xfffesuit a millionaire such as myself?
-The whistle blows five times!\xfffeEven if you pretend you don't hear,\xf000븀\x0000\xfffethe fifth whistle means the end...
-Let me show you an elegant battle\xfffeaboard this ship of refinement!\xf000븁\x0000
-Even when I lose, I do not\xfffeforget my elegance.\xf000븀\x0000\xfffeThat makes me a Rich Boy!
-Oh, room service?\xf000븁\x0000The Royal Unova Tea\xfffereally hit the spot!
-I have no objection to the\xfffebeautiful scenery outside, but...\xf000븁\x0000I am quite partial to the royal\xfffeatmosphere of the guest rooms!
-Dance a waltz, and make Pokémon\xfffebattles into a royal performance!\xf000븁\x0000
-The royal Pokémon battle\xfffehas concluded by my hand...
-To you, I'm a Trainer from\xfffesomewhere way overseas.\xf000븁\x0000\xfffeTo me, you're a Trainer from\xfffesomewhere way overseas!
-Oh, what a delightful guest!\xfffeShall we have some tea?\xf000븀\x0000\xfffeYes, sit right there!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...And yet...\xf000븀\x0000It meant... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Naturally!\xf000븁\x0000
-Profoundly sorry.\xfffeI found myself deep in talk.\xf000븀\x0000\xfffeIt was a pleasure. Thank you!
-Hoh-hoh-hoh! Pokémon battle?\xf000븁\x0000I'm tired of relaxing in the rooms!\xfffeLet's cheek dance!\xf000븁\x0000
-Two hands, three hands go up...\xfffeNope, there's no beating youth!
-Looking for Pokémon Trainers?\xfffeSorry, I wouldn't know.\xf000븀\x0000Maybe ask some sailors?
-Oh-hoh, my-my!\xfffeWhat an adorable guest.\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...my, yes!\xf000븀\x0000Thereupon... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...as such.\xf000븁\x0000
-Oh dear! The whistle sounds!\xfffeI am sorry.\xf000븀\x0000\xfffeI was much too into the conversation!
-Oh, such a cute Trainer...\xfffeMight we Pokémon battle?\xf000븁\x0000
-I'm not just a pretty face!\xfffeI'm powerful in Pokémon battles too!
-Echoing in the depths of my stomach!\xfffeThe whistle's sound emboldens me!
-Hey! Good on you for coming\xfffeto talk to this old man!\xf000븁\x0000I've got some juicy stuff to say.\xfffeSomebody's gotta hear this!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...'course!\xf000븀\x0000And that meant... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...duh!\xf000븁\x0000
-...Did I really talk that long?\xfffeSorry, so sorry...\xf000븀\x0000\xfffeBut that was really great, thanks!
-I'm just looking for someone\xfffewho's stronger than me!\xf000븁\x0000I've crossed mountains, rivers,\xfffeand seas to come here!\xf000븁\x0000My special Pokémon have\xfffeovercome countless difficulties...\xf000븀\x0000So let's just have a plain battle!\xf000븁\x0000
-So you're stronger than me?\xfffeMe who's crossed the world?!\xf000븁\x0000\xfffeYou know, I've come to realize\xfffethis world is outrageously huge!
-I'm a Trainer! (2)
-Battle's over! (2)
-Todaaay...\xf000븁\x0000\xfffeThere's \xf000Ȁ\x0001\x0000 on the ship's left,\xfffeand \xf000Ȁ\x0001\x0001 on the ship's right!
-Todaaay...\xf000븁\x0000\xfffeThere's... none on the ship's left,\xfffeand \xf000Ȁ\x0001\x0001 on the ship's right!
-Todaaay...\xf000븁\x0000\xfffeThere's \xf000Ȁ\x0001\x0000 on the ship's left,\xfffeand... none on the ship's right!
-Change your mind, I'll be here\xfffeto give you a sage tip anytime!
-Want to hear a tip\xfffeabout finding Trainers?
-Certainly.\xfffePlease wait a moment.\xf000븁\x0000
-Certainly.\xfffePlease continue to enjoy yourself.
-You've defeated all the\xfffeTrainers on the ship!
-Thank you for boarding\xfffethe Royal Unova!\xf000븁\x0000\xfffeToday, there are \xf000Ȁ\x0001\x0003 Trainers\xfffeaboard the Royal Unova.\xf000븀\x0000\xfffePlease, enjoy yourself!\xf000븁\x0000
-Today, there are \xf000Ȁ\x0001\x0003 Trainers\xfffeaboard the Royal Unova.\xf000븀\x0000\xfffeYou have... ah! Congratulations!\xf000븁\x0000\xfffeYou were victorious\xfffeover all the Trainers!\xf000븁\x0000\xfffeThe ship has set sail,\xfffebut will you disembark?
-Thank you for boarding with us.\xf000븁\x0000The cruise will arrive back\xfffeat Castelia City momentarily.\xf000븁\x0000
+
+
+The number of Trainers on the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeAnd you've won against \xf000Ȁ\x0001\x0004.\xf000븁\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
+The number of Trainers on the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븁\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
+There are a lot of cabins in this big ship!\xfffeI would like to give you advice 'cause\xf000븀\x0000\xfffeyou need help finding Trainers!\xf000븁\x0000\xfffeDo you want to listen to my hint?
+Some guests like to tell really long\xfffestories, and they just keep talking\xf000븀\x0000\xfffeuntil they hear a whistle!
+The Royal Unova's renowned observation\xfffedeck is just ahead.
+If you’re looking in the cabins with\xfffeblue doors for someone to battle,\xf000븀\x0000\xfffeyou’ll find only one Trainer there today.
+It seems the number of Trainers in the\xfffecabins with blue doors today is \xf000Ȁ\x0001\x0002.
+It's running on the ocean!\xfffeWhat a peculiar thing to see!
+I can't make up my mind whether to go to\xfffethe observation deck or battle some\xf000븀\x0000\xfffeTrainers in the cabins.
+I'm running with the rhythm of the waves,\xfffebut it's a real challenge!
+Having battles on the ship and seeing\xfffethe scenery from the deck...\xf000븀\x0000\xfffeThis ship is the best!
+I'm still wondering which cabin to enter.
+I came here from Johto for business,\xfffebut everything is dynamic here.
+Are you from Unova?\xfffeI came here from Johto for business.\xf000븁\x0000\xfffeAs I thought, a foreign region is\xfffeso different! What's the difference?\xf000븁\x0000\xfffe... ... ... ...\xfffe... ... ... ... so,\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffeWell, ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ... Don't you agree?\xf000븁\x0000
+Oh! A whistle is blowing!\xfffeSorry to keep you so long...\xf000븁\x0000\xfffeBut it was fun to talk with you.\xfffeThank you!
+A battle break from work!\xfffeIt is particularly fun.\xf000븁\x0000
+I had a great battle on my break\xfffefrom work.
+There are yet more Pokémon across\xfffethe water!\xf000븁\x0000\xfffeThe excitement never stops!
+I am having a relaxing time in this\xfffeopulent cabin.
+I heard that strong Trainers gather\xfffehere, so I came all the way from Sinnoh!\xf000븁\x0000\xfffeLet me enjoy some Pokémon battles!\xf000븁\x0000
+I can have Pokémon battles while\xfffeI'm being rocked in the ship.\xf000븁\x0000\xfffePlus, I can see Pokémon that are rarely\xfffeseen. I am soooo happy!
+I heard a lot of Trainers in this ship\xfffeare from the other side of the ocean.\xf000븁\x0000\xfffeSpeaking of which, I am also from Kanto!
+Did you go to the observation deck?\xfffeYou can see an incredible view!
+Having Pokémon battles while on the ship,\xfffebeing rocked by the ocean waves...\xf000븀\x0000\xfffeIsn't it exciting?\xf000븁\x0000
+I lost...\xfffeMaybe I will go check out the view...
+Cool! Cool!\xf000븁\x0000\xfffeWhat is cool?\xfffeThis ship! This ship!\xf000븁\x0000\xfffe...Which part is cool?\xfffeHmmmm... It's just cool!
+A Pokémon battle!\xf000븁\x0000\xfffeI thought about it, but...\xfffeI don't have any Pokémon with me!
+OK, Trainer! I will give you a practical\xfffedemonstration that I am not just some\xf000븀\x0000\xfffekid who wears shorts!\xf000븁\x0000
+Argh! I lost!\xfffeI take off my socks to you!
+Listen! Listen!\xfffeI love this ship 'cause I can\xf000븀\x0000\xfffebring my Pokémon on board!
+Hey! Will you listen to my story?\xf000븁\x0000\xfffeThe other day, I went to Nimbasa City!\xf000븁\x0000\xfffe... ... ... ... ...\xfffe... ... ... ... I know, right?\xf000븀\x0000\xfffeThen, ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... That's what I heard, anyway!\xf000븁\x0000
+Oh! A whistle!\xf000븁\x0000\xfffeI apologize for making you listen\xfffeto my long story...\xf000븀\x0000\xfffeBut it was fun talking to you. Thanks!
+I am a Trainer.\xfffeI came from a faraway region.\xf000븀\x0000\xfffeI will show you my rarely seen Pokémon!\xf000븁\x0000
+My Pokémon! Weren't they unusual?\xfffeIn particular, Wormadam is my favorite!
+This gorgeous ship suits a rich person\xfffelike me très bien. Am I right?
+They blow a whistle five times!\xfffeEven if I pretend I don't hear it,\xf000븀\x0000\xfffewhen they blow five times, it's the end...
+I will show you a graceful battle\xfffeon this elegant ship!\xf000븁\x0000
+Even if I lose the battle, I will not lose\xfffemy grace.\xf000븀\x0000\xfffeThat's how a Rich Boy behaves.
+Oh, their room service?\xf000븁\x0000\xfffeI tried the specialty, Royal Unova tea.\xfffeIt tasted wonderful!
+The beautiful scenery outside the window\xfffeis perfection, but I also like the royal\xf000븀\x0000\xfffeatmosphere inside the cabin.
+With a few waltz steps, I will\xfffechoreograph a royal Pokémon battle!\xf000븁\x0000
+I am enraptured with the royal\xfffePokémon battle...
+From your standpoint,\xfffeI am a Trainer from beyond the sea,\xf000븀\x0000\xfffeand from my standpoint,\xf000븀\x0000\xfffeyou are a Trainer from beyond the sea!
+Oh, what a cute guest!\xfffeWould you like a cup of tea?\xf000븀\x0000\xfffeCome! Sit there and listen to my story!\xf000븁\x0000\xfffe... ... ... ... ...\xfffe... ... ... but\xf000븀\x0000\xfffeit ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ..., you see!\xf000븁\x0000
+Sorry, sorry.\xfffeI talked too much.\xf000븀\x0000\xfffeIt was fun, though. Thank you!
+Heh heh. A Pokémon battle?\xf000븁\x0000\xfffeI got tired of relaxing in my cabin.\xfffeWell, let's dance, Trainer!\xf000븁\x0000
+You see two or three moves ahead.\xfffeSure enough, I can't win against youth!
+Are you looking for Pokémon Trainers?\xfffeSorry, I don't know where to find them.\xf000븁\x0000\xfffeBut the crew may know where they are.
+Oh, look at you!\xfffeWhat a cute guest!\xf000븁\x0000\xfffeI could talk to you for ages.\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... exactly.\xf000븀\x0000\xfffeThen, ... ... ... ... \xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... That's how it is!\xf000븁\x0000
+Oh, my! The sound of a whistle!\xfffeI am so sorry.\xf000븀\x0000\xfffeI rambled on too much!
+Hi there! You are such a cute guest.\xfffeMay I have a Pokémon battle with you?\xf000븁\x0000
+You're not only cute--you're also\xfffestrong in Pokémon battles!
+Oh, I can feel the sound in my stomach!\xfffeThe sound of that whistle is powerful!
+You! Did you talk to me?\xfffeYou came at the right time!\xf000븁\x0000\xfffeI have a very funny story.\xfffeI wanted to tell the story to someone.\xf000븁\x0000\xfffe... ... ... ... ...\xfffe... ... ... ... That's the thing!\xf000븁\x0000\xfffeThen, ... ... ...\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... ... ...\xf000븀\x0000\xfffe... ... ... That's how it ends.\xf000븁\x0000
+Oops. Did I talk your ear off? Sorry,\xfffesorry. But I had a great time. Thanks!
+To look for someone stronger than me,\xfffeI crossed over the mountains,\xf000븀\x0000\xfffecrossed over the sea, and came here.\xf000븁\x0000\xfffeMy Pokémon are special because\xfffethey went through a lot of difficulties.\xf000븁\x0000\xfffeNow, let's have a fair battle!\xf000븁\x0000
+I can't believe you're stronger than me.\xfffeI have traveled around the world!\xf000븁\x0000\xfffeNow I understand...\xfffethe world is ridiculously big!
+
+
+Today...\xf000븁\x0000\xfffeAs for people, we have \xf000Ȁ\x0001\x0000 on the\xfffeport side and \xf000Ȁ\x0001\x0001 on the starboard side.
+Today...\xf000븁\x0000\xfffeThe number of people on the starboard\xfffeside is \xf000Ȁ\x0001\x0001, and...none on the port side.
+Today...\xf000븁\x0000\xfffeThe number of people on the port side is\xfffe\xf000Ȁ\x0001\x0000, and...none on the starboard side.
+If you're so inclined, speak to me.\xfffeI will give you a hint anytime.
+Do you want to know a hint\xfffeabout looking for Trainers?
+Certainly. Just a moment, please.\xf000븁\x0000
+Certainly.\xfffePlease continue to have a great time!
+Won against every Trainer on the ship!
+Thank you very much for sailing with us\xfffeon the Royal Unova.\xf000븁\x0000\xfffeThe number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffePlease enjoy the trip.\xf000븁\x0000
+The number of Trainers aboard the\xfffeRoyal Unova today is \xf000Ȁ\x0001\x0003.\xf000븀\x0000\xfffeYou... Congratulations!\xf000븁\x0000\xfffeYou've won against every Trainer\xfffeon the ship!\xf000븁\x0000\xfffeThe ship is nearing the port.\xfffeWould you like to get off the ship?
+Thank you for sailing with us.\xf000븁\x0000\xfffeThis cruise ship will arrive\xfffein Castelia City shortly.\xf000븁\x0000

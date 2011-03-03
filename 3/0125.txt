@@ -1,80 +1,80 @@
-﻿Alder: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
-That lying Ghetsis...\xf000븁\x0000\xfffeHe's desperately trying to fool\xfffeeveryone with his phony speeches.\xf000븁\x0000
-Ghetsis: It is so!\xf000븁\x0000\xfffeThrough Lord N, we have joined\xfffeforces with the legendary Pokémon!\xf000븁\x0000\xfffeA brand new land shall be created!\xf000븁\x0000\xfffeThis shall be a reliving of\xfffethe legendary hero's construction\xf000븀\x0000\xfffeof our Unova!
+Alder: Hello, \xf000Ā\x0001\x0000.\xfffeThis way.\xf000븁\x0000
+Ghetsis... What a liar.\xf000븁\x0000\xfffeDesperately trying to con\xfffeeveryone with his speech.\xf000븁\x0000
+That's correct!\xf000븁\x0000\xfffeOur lord N has combined his power with\xfffethe legendary Dragon-type Pokémon\xf000븀\x0000\xfffeand intends to create a new world.\xf000븁\x0000\xfffeWe herald the return of the hero of\xfffeUnova, founder of this region.
 Hero?
-Dragon?!
+Dragon?
 Legend!
-Pokémon are creatures whose sheer\xfffepotential is limited by humans.\xf000븁\x0000
-We are beings who feel they must\xfffestudy a great many things.\xf000븁\x0000
-If we wish to see their\xfffetrue magnificence, we should\xf000븀\x0000\xfffeliberate them from our control!
-Liberate?
+Pokémon are different from people.\xf000븁\x0000\xfffeThey are living beings who contain\xfffeunknown potential.\xf000븁\x0000
+They are living beings from whom we\xfffehumans have much to learn.\xf000븁\x0000
+They are beings whose greatness we\xfffeshould acknowledge!\xf000븁\x0000\xfffeBeings who should be freed\xfffefrom our oppression!
+Freed?
 Pokémon?
-Create a new land, together\xfffewith we of Team Plasma!\xf000븁\x0000\xfffeFor a new land where Pokémon,\xfffepeople, all shall be free...\xf000븀\x0000\xfffeEveryone, please let your Pokémon go!\xf000븁\x0000\xfffeAnd thus, I, Ghetsis,\xfffeconclude my speech.\xf000븁\x0000\xfffeThank you for your attention.\xf000븁\x0000
-Old Man: Hm, so we...\xf000븁\x0000We've been torturing Pokémon...?\xf000븁\x0000
-Woman: Ooogh...\xf000븁\x0000Should I give up my Pokémon\xfffelike Team Plasma says...?\xf000븁\x0000
-Woman: ...But that's...!\xf000븁\x0000I can't! I'd be so lonely\xfffewithout my Pokémon!\xf000븁\x0000
-Iris: Man! Now THAT\xfffewas a weirdo speech!\xf000븁\x0000
-If Pokémon wanted nothing\xfffeto do with people, they would\xf000븀\x0000\xfffewillfully free themselves...\xf000븁\x0000\xfffeIf they despised Poké Balls, their\xfffefeelings on the matter would not\xf000븀\x0000\xfffeand could not be held back.\xf000븁\x0000
-Alder: Shall we go, \xf000Ā\x0001\x0000? \xf000븁\x0000
-Alder: Long time no see, Iris, Drayden.\xf000븁\x0000
-Iris: Oh! Uncle Alder and\xfffethe mister from before!\xf000븁\x0000
-Iris: Oh! Uncle Alder and\xfffethe missy from before!\xf000븁\x0000
-Drayden: ...What is it?\xf000븁\x0000\xfffeWhat could the Champion who\xfffeleft the Pokémon League\xf000븀\x0000\xfffeto wander the land want from me?\xf000븁\x0000
-Alder: Frankly...!\xf000븁\x0000I want you to tell me about the\xfffelegendary dragon Pokémon!\xf000븁\x0000
-Iris: Y'mean Reshiram? Or maybe Zekrom?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
-Iris: Y'mean Zekrom? Or maybe Reshiram?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
-Drayden: That shady Ghetsis man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Reshiram...\xf000븁\x0000
-Drayden: That shady Ghetsis man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Zekrom...\xf000븁\x0000
-Alder: Right!\xf000븁\x0000That Trainer N told \xf000Ā\x0001\x0000 here to\xfffesearch for another dragon Pokémon\xf000븀\x0000or something.\xf000븁\x0000
-Drayden: ...I don't follow.\xf000븁\x0000Is this N planning to have the\xfffetwo dragon Pokémon fight\xf000븀\x0000to prove his own convictions?\xf000븁\x0000
-Iris: Huhhh?!\xf000븁\x0000He's already made friends with\xfffethe dragon Pokémon?!\xf000븁\x0000
-Alder: Correct, Iris.\xf000븁\x0000Fighting with Pokémon is done\xfffeboth for fellow Trainers...\xf000븁\x0000And for Trainers and Pokémon\xfffeto understand each other.\xf000븁\x0000
-Well then... I'll head\xfffefor the Pokémon League!\xf000븁\x0000No, in this case, it would\xfffebe returning, wouldn't it...?\xf000븁\x0000I'll beat N, of course!\xf000븁\x0000I'll teach him how wonderful this\xfffeworld where we can live in harmony\xf000븀\x0000with Pokémon is!\xf000븁\x0000And, \xf000Ā\x0001\x0000! As the Champion,\xfffeI'll be waiting for you!\xf000븁\x0000So once you have the Opelucid gym\xfffebadge, come to the League.\xf000븁\x0000Of course, the Opelucid gym\xfffeleader is tough!\xf000븁\x0000
-Well, I'm leaving it to you,\xfffeDrayden, Iris!\xf000븁\x0000
-Iris: ...Aww, he left...\xf000븁\x0000\xfffeAre things gonna be okay? He\xfffelooked a little frightened there.\xf000븁\x0000
-Drayden: ...Don't worry, Iris.\xf000븁\x0000\xfffeHe's the strongest Trainer\xfffein Unova, remember.\xf000븁\x0000
-Now, \xf000Ā\x0001\x0000? Come to my house.\xf000븁\x0000Like Alder said, I can teach you\xfffeabout the legendary dragon Pokémon.\xf000븀\x0000Iris, you lead the way.\xf000븁\x0000
-Iris: The tale of Reshiram and Zekrom\xfffeis a tale of two Pokémon!\xf000븀\x0000We'll tell it to you!\xf000븁\x0000I can lead you anywhere\xfffearound Opelucid! This way!\xf000븁\x0000
-Iris: The tale of Zekrom and Reshiram\xfffeis a tale of two Pokémon!\xf000븀\x0000We'll tell it to you!\xf000븁\x0000I can lead you anywhere\xfffearound Opelucid! This way!\xf000븁\x0000
-Iris: And that way!\xf000븁\x0000
-Iris: Just a lil' more!!\xf000븁\x0000
-Iris: It's here!\xf000븁\x0000
-A challenger?\xf000븁\x0000\xfffeI apologize. The gym leader is\xfffeat home at the moment.
-Releasing all Pokémon...\xfffeTrainers and gym leaders\xf000븀\x0000both ceasing to exist...\xf000븁\x0000The world would certainly change,\xfffefor better or for worse...
-The thoughts of all the people\xfffein this town never change...\xf000븀\x0000they only accumulate.
-This town is in a state\xfffeof constant change!\xf000븁\x0000And when it changes, if the people\xfffeget a chance to contribute\xf000븀\x0000their thoughts, that's just great!
-...I remember the days I trained\xfffewith my Pokémon to become strong.\xf000븁\x0000But if it's to make my\xfffebeloved Pokémon perfect...\xf000븀\x0000then perhaps I could release it...
-I believe there are things that can't be\xfffechanged, no matter how inconvenient.
-I think there are things that have to\xfffechange, no matter how attached you are.
-Hey! Um, that N guy has\xfffethe legendary Pokémon following him,\xf000븀\x0000so I guess that means he's a hero!\xf000븀\x0000So the world's gonna change?!
-I much prefer old things over new things.\xfffeThey're just so much more relaxing!
-I like new things way better than old!\xfffeOn account of being way more sweet!
-...But that's...!\xf000븁\x0000I can't! I'd be so lonely\xfffewithout my Pokémon!\xf000븁\x0000I mean, I don't really think\xfffeI'm using Pokémon like tools... am I...?
-The gym leader is little Iris!\xf000븁\x0000\xfffeShe's still a kid, but even Mayor Drayden\xffferecognizes her sheer potential!
-Gym leader Drayden is\xfffethe mayor that's led Opelucid City.\xf000븁\x0000\xfffeHe's always wrestling his\xfffePokémon to train himself!
-Hm, so we...\xf000븁\x0000We've been torturing Pokémon...?
-I'll always walk\xfffewith my Pokémon!\xf000븁\x0000Even if we do part...\xfffeit won't be because anyone said so,\xf000븀\x0000but because my Pokémon and I decided it.
-I'll always walk\xfffewith my Pokémon!\xf000븁\x0000I recognize that simply being with\xfffePokémon isn't to be taken for granted,\xf000븀\x0000but to be held in high regard.
-The legendary Pokémon is\xffferepresentative of Unova itself...\xf000븁\x0000Does that mean Team Plasma\xfffeis really right...? Who knows.
-When you seek the ideal...\xfffeWell, it's different for all people...\xf000븀\x0000And different for all Pokémon.\xf000븁\x0000This town places importance on history,\xfffeso it seems to seek the ideal...
-When you seek the truth...\xfffeWell, it's different for all people...\xf000븀\x0000And different for all Pokémon.\xf000븁\x0000This town places importance on change,\xfffeso it seems to seek the truth...
-This melody is filled\xfffewith the hopes of ancient peoples...\xf000븀\x0000to revive them in the present!
-This melody is filled\xfffewith our hopes...\xf000븀\x0000to be sent into the future!
-Juniper: ...Hiiiii! Did Iris\xfffetoughen you up?\xf000븁\x0000
-Juniper: ...Hiiiii! Did Drayden\xfffetoughen you up?\xf000븁\x0000
-Oh, I come bearing a report on methods\xfffeto revive the legendary Zekrom.\xf000븁\x0000Telling it to you over the Live\xfffeCaster seemed pretty inexcusable...\xf000븁\x0000So, we came to a conclusion...\xf000븁\x0000But we still don't really\xfffeknow anything, unfortunately.\xf000븁\x0000
-Oh, I come bearing a report on methods\xfffeto revive the legendary Reshiram.\xf000븁\x0000Telling it to you over the Live\xfffeCaster seemed pretty inexcusable...\xf000븁\x0000So, we came to a conclusion...\xf000븁\x0000But we still don't really\xfffeknow anything, unfortunately.\xf000븁\x0000
-We're sure that the\xfffePokémon will awaken if it\xf000븀\x0000recognizes somebody's strength...\xf000븁\x0000And aren't you more\xfffeimpressive than anybody?!\xf000븁\x0000You've collected all eight Unova\xfffegym badges, haven't you?\xf000븁\x0000You're a real bruiser now!\xf000븁\x0000You may not realize it yourself,\xfffebut you've changed hugely\xf000븀\x0000since you set out from Nuvema!\xf000븁\x0000Now, as for where a Pokémon Trainer\xfffewho's done visiting all the gyms\xf000븀\x0000is to go next...\xf000븁\x0000Allow me to guide you!\xf000븁\x0000
-Juniper: If you pass through this gate\xfffeand go through Route 10,\xf000븀\x0000there'll be badge-checking gates.\xf000븁\x0000Cross Victory Road beyond those,\xfffeand you're finally at\xf000븀\x0000the Pokémon League!\xf000븁\x0000
-I remember back when I was leading you\xfffearound Accumula's Pokémon Center...\xf000븁\x0000Hey, \xf000Ā\x0001\x0000, do you regret having\xfffejourneyed with your Pokémon at all?
-Juniper: Oh! Alright, that's fine!\xfffeNo need to go into the details, now.\xf000븁\x0000But still, I'm very glad you three\xfffechose to go journeying with Pokémon!\xf000븁\x0000
-Juniper: Well, thank you!\xfffeThat's the best reply I could expect!\xf000븁\x0000And I, too, am very glad I\xfffegifted you three those Pokémon!\xf000븁\x0000Because once again, it's given\xfffeway to more fantastic meetings\xf000븀\x0000between people and Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000, take this present of mine!\xf000븁\x0000
-Juniper: That Master Ball is the\xfffeultimate Poké Ball, always bound\xf000븀\x0000to catch any Pokémon!\xf000븁\x0000This may be the only real assistance\xfffeI can give you, but...\xf000븁\x0000\xf000Ā\x0001\x0000, keep being \xf000Ā\x0001\x0000!\xfffeAnd whatever happens,\xf000븀\x0000keep your bearings,\xf000븀\x0000and sally forth with your Pokémon!\xf000븁\x0000Seeeee yaaaaa!!\xf000븁\x0000
-Opelucid City\xfffeWhere past and future entwine!
+We, Team Plasma, invite you to join us!\xf000븁\x0000\xfffeWe all want to create a new world where\xfffepeople and Pokémon are both free!\xf000븁\x0000\xfffeLadies and gentlemen, I ask you now...\xfffePlease, release your Pokémon.\xf000븁\x0000\xfffeAnd so I end my plea to you today.\xf000븁\x0000\xfffeThank you one and all for your attention.\xf000븁\x0000
+Is it true?\xf000븁\x0000\xfffeHave we been making Pokémon suffer?\xf000븁\x0000
+Hmm...\xf000븁\x0000\xfffeMaybe we should release our Pokémon\xfffelike Team Plasma says...\xf000븁\x0000
+No way!\xf000븁\x0000\xfffeWithout Pokémon, I'll be lonely and sad!\xf000븁\x0000
+What was that about?\xfffeThat speech was off-the-charts strange!\xf000븁\x0000
+The cooperation of people and Pokémon is\xfffehow Unova came to exist to begin with.\xf000븁\x0000\xfffeIf a Pokémon really didn't want\xfffeanything to do with humans,\xf000븀\x0000\xfffeit would simply leave...\xf000븁\x0000\xfffeCapturing a Pokémon in a Poké Ball\xfffedoesn't mean you've captured its heart.\xf000븁\x0000
+Alder: Let's go, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Alder: It's been a while, Iris\xfffeand Drayden.\xf000븁\x0000
+Iris: Oh! Mr. Alder!\xfffe...And the guy who helped out that time.\xf000븁\x0000
+Iris: Oh! Mr. Alder!\xfffe...And the girl who helped out that time.\xf000븁\x0000
+Drayden: What's wrong?\xf000븁\x0000\xfffeWhat does the wandering Champion who\xfffeleft the Pokémon League need from us?\xf000븁\x0000
+Alder: Briefly, my request is this.\xf000븁\x0000\xfffeTell us about the legendary\xfffeDragon-type Pokémon!\xf000븁\x0000
+Iris: Are you talking about Reshiram?\xfffeOr Zekrom?\xf000븀\x0000\xfffeWhat's the sudden interest?\xf000븁\x0000
+Iris: Are you talking about Zekrom?\xfffeOr Reshiram?\xf000븀\x0000\xfffeWhat's the sudden interest?\xf000븁\x0000
+Drayden: Moments ago, a troublemaker\xfffeknown as Ghetsis was here.\xf000븁\x0000\xfffeHe said a Trainer named N has\xfffereawakened Reshiram...\xf000븁\x0000
+Drayden: Moments ago, a troublemaker\xfffeknown as Ghetsis was here.\xf000븁\x0000\xfffeHe said a Trainer named N has\xfffereawakened Zekrom...\xf000븁\x0000
+Alder: Yes!\xf000븁\x0000\xfffeThat Trainer called N apparently told\xfffe\xf000Ā\x0001\x0000 here to search for the\xf000븀\x0000\xfffeother Dragon-type Pokémon!\xf000븁\x0000
+Drayden: Let me check that I have\xfffethis straight.\xf000븁\x0000\xfffeThis N, or what have you, presumes\xfffeto set the two Dragon-type Pokémon\xf000븀\x0000\xfffeagainst each other in battle\xf000븀\x0000\xfffeto test his convictions?\xf000븁\x0000
+Iris: Oh, no!\xf000븁\x0000\xfffeThe Dragon-type Pokémon\xfffeget along so well!\xf000븁\x0000
+Alder: That's right, Iris.\xf000븁\x0000\xfffeThe ones who make Pokémon battle\xfffeare the Trainers...\xf000븁\x0000\xfffeAnd it's so the Trainers and the Pokémon\xfffecan get to know each other better.\xf000븁\x0000
+I'm going to the Pokémon League.\xf000븁\x0000\xfffeNo, I guess in this case I should say I'm\xfffe“returning" to the Pokémon League!\xf000븁\x0000\xfffeOf course, I'll defeat N!\xf000븁\x0000\xfffeI'll teach him about the beauty of this\xfffeworld, where Pokémon and Trainers\xf000븀\x0000\xfffelive together in harmony!\xf000븁\x0000\xfffeAlso, \xf000Ā\x0001\x0000, I'll await your arrival.\xf000븁\x0000\xfffeOnce you've obtained the Opelucid Badge,\xfffecome to the League!\xf000븁\x0000\xfffeThe Opelucid Gym Leader is tough.\xfffeTake care!\xf000븁\x0000
+Farewell.\xfffeI'm counting on you, Drayden and Iris!\xf000븁\x0000
+Iris: Aww...\xfffeHe's gone.\xf000븁\x0000\xfffeIs he OK?\xfffeHe looked kinda scary.\xf000븁\x0000
+Drayden: Don't worry, Iris.\xf000븁\x0000\xfffeHe is the strongest Trainer\xfffein all of Unova.\xf000븁\x0000
+Well, \xf000Ā\x0001\x0000, is it?\xfffeCome to my home.\xf000븁\x0000\xfffeAs Alder asked, I'll tell you\xfffeeverything I can about the\xf000븀\x0000\xfffelegendary Dragon-type Pokémon.\xf000븁\x0000\xfffeIris, child, please show the way.\xf000븁\x0000
+Iris: You bet! If it's Opelucid City,\xfffeI can take you anywhere.\xf000븁\x0000\xfffeAs for the story of Reshiram and Zekrom,\xfffewe'll tell you all we know about it!\xf000븁\x0000\xfffeThis way!\xf000븁\x0000
+Iris: You bet! If it's Opelucid City,\xfffeI can take you anywhere.\xf000븁\x0000\xfffeAs for the story of Zekrom and Reshiram,\xfffewe'll tell you all we know about it!\xf000븁\x0000\xfffeThis way!\xf000븁\x0000
+Iris: That way!\xf000븁\x0000
+Iris: Just a little farther!\xf000븁\x0000
+Iris: This is it!\xf000븁\x0000
+A challenger?\xf000븁\x0000\xfffeI'm sorry, but currently,\xfffeour Gym Leader is at home.
+If all Pokémon are released, Trainers and\xfffeGym Leaders will no longer exist.\xf000븁\x0000\xfffeFor better or worse, the world\xfffewould surely change...
+The memories of everyone who has lived\xfffein this city have built up over the years\xf000븀\x0000\xfffewithout changing much.
+This city changes endlessly.\xf000븁\x0000\xfffeAnd every change is engraved in the\xfffememories of the people who live here.
+I spent so many happy days training my\xfffePokémon as we grew stronger together...\xf000븁\x0000\xfffeIf it will make my beloved Pokémon\xfffea perfect being, however,\xf000븀\x0000\xfffeI can't help but let it go.
+Even if it is inconvenient, I think\xfffesome things shouldn't be changed.
+Even if you love them, I think\xfffesome things have to be changed.
+Hey hey! That person called N had the\xfffelegendary Pokémon with him, so he has\xf000븀\x0000\xfffeto be the legendary hero, right?\xf000븁\x0000\xfffeHe's going to change the world, isn't he?
+I like older things better than new ones.\xfffeThey're just more relaxing!
+I like newer things better than old ones.\xfffeThey're just so cool!
+...No way! Without Pokémon, I'll be too\xfffelonely and sad!\xf000븁\x0000\xfffeBut am I only using my Pokémon, then...?
+The Gym Leader Iris is still a child, but\xfffethe mayor Drayden has recognized\xf000븀\x0000\xfffeher power!
+The Gym Leader Drayden is the mayor who\xfffeleads Opelucid.\xf000븁\x0000\xfffeHe is always training by wrestling\xfffewith Pokémon.
+So, have we really been making\xfffeour Pokémon suffer...?
+Yes, I will keep moving forward together\xfffewith my Pokémon.\xf000븁\x0000\xfffeEven if I were to part ways with my\xfffePokémon, it wouldn't be because someone\xf000븀\x0000\xfffeelse said to, but because we decided to.
+I'll definitely keep moving forward\xfffetogether with my Pokémon.\xf000븁\x0000\xfffeI won't take their company for granted.\xfffeI'll appreciate how amazing that is!
+The legendary Pokémon is the symbol\xfffeof Unova.\xf000븁\x0000\xfffeDoes that mean Team Plasma is right?\xfffe...I don't know.
+Pursuing ideals is different from person\xfffeto person and Pokémon to Pokémon.\xf000븁\x0000\xfffeIn this city, it seems the ideal is\xfffeto cherish the past.
+The truth people pursue is different\xfffefrom person to person and\xf000븀\x0000\xfffePokémon to Pokémon.\xf000븁\x0000\xfffeIn this city, it seems the truth is\xfffeconstant change.
+The hopes of an ancient people are put\xfffeinto this melody...\xf000븁\x0000\xfffeI will bring them back to us now.
+Our hopes are put into this melody...\xfffeI will send them to the future.
+Professor Juniper: ...Hello!\xfffeHow was Iris doing?\xf000븁\x0000
+Professor Juniper: ...Hello!\xfffeWas Drayden as tough as ever?\xf000븁\x0000
+Oh, I came to report on how to\xffferesurrect the legendary Zekrom.\xf000븁\x0000\xfffeI thought it would be better to tell you\xfffein person than over the Xtransceiver.\xf000븁\x0000\xfffeAnd as for the conclusion...\xfffeWell, I haven't figured it out yet.\xf000븁\x0000\xfffeI'm sure the Pokémon will wake up\xfffewhen it deems someone worthy.\xf000븁\x0000
+Oh, I came to report on how to\xffferesurrect the legendary Reshiram.\xf000븁\x0000\xfffeI thought it would be better to tell you\xfffein person than over the Xtransceiver.\xf000븁\x0000\xfffeAnd as for the conclusion...\xfffeWell, I haven't figured it out yet.\xf000븁\x0000\xfffeI'm sure the Pokémon will wake up\xfffewhen it deems someone worthy.\xf000븁\x0000
+More importantly, aren't you amazing!\xf000븁\x0000\xfffeYou have all eight of Unova's Gym Badges\xfffenow, right?\xf000븁\x0000\xfffeYou've become so strong!\xf000븁\x0000\xfffeYou probably don't even know it, but\xfffeyou've changed a lot since you left\xf000븀\x0000\xfffeNuvema Town.\xf000븁\x0000\xfffeWell then, I'll show you where such a\xfffestrong Trainer should head next!\xf000븁\x0000
+Professor Juniper: Pass through that\xfffegate, go down Route 10, and you'll arrive\xf000븀\x0000\xfffeat the Badge Check Gates!\xf000븁\x0000\xfffeOnce you get through Victory Road,\xfffewhich is past the gates, you're finally\xf000븀\x0000\xfffeat the Pokémon League!\xf000븁\x0000
+Oh, that just made me think of when I was\xfffeshowing you around the Pokémon Center\xf000븀\x0000\xfffein Accumula Town.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000? Do you regret setting out\xfffeon your Pokémon journey?
+Professor Juniper: Oh! That's OK,\xfffedon't worry! You don't have to tell\xf000븀\x0000\xfffeme everything.\xf000븁\x0000\xfffeBut I'm very happy that you three\xfffechose to train Pokémon!\xf000븁\x0000\xfffeBecause they create chances to meet\xfffemore wonderful people and Pokémon!\xf000븁\x0000
+Professor Juniper: Thanks! That's the\xfffegreatest answer you could give!\xf000븁\x0000\xfffeI was really happy to be able to give\xfffeyou three those Pokémon as a present!\xf000븁\x0000\xfffeBecause Pokémon create chances to meet\xfffemore wonderful people and Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000, this is a present for you!\xf000븁\x0000
+Professor Juniper: This Master Ball is\xfffethe most powerful kind of Poké Ball.\xf000븁\x0000\xfffeIt can catch any Pokémon without fail.\xf000븁\x0000\xfffeThis is the only way I can support you,\xfffeexcept to say...\xf000븀\x0000\xfffeBe true to yourself.\xf000븁\x0000\xfffeNo matter what happens, stay strong\xfffeand keep going with your Pokémon!\xf000븁\x0000\xfffeSee you!\xf000븁\x0000
+Opelucid City\xfffeTime's Dividing Line
 Drayden's House
-Battle Mansion\xfffeTriple Battling galore!
-Battle Mansion\xfffeRotation Battling galore!
-Trainer Tips\xf000븁\x0000\xfffe\xfffeMayor Drayden will teach Trainers\xfffehe has recognized as strong\xf000븁\x0000\xfffethe most powerful\xfffedragon-type move!\xf000븁\x0000\xfffeGo to Mayor Drayden's house\xfffefor further details!
-Opelucid Pokémon Gym\xfffeLeader: Iris\xf000븀\x0000\xfffeDaughter of the Dragonheart
-Opelucid Pokémon Gym\xfffeLeader: Drayden\xf000븀\x0000\xfffeThe Spartan Mayor
+Battle House\xfffeTriple Battle!
+Battle House\xfffeRotation Battle!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeMayor Drayden will teach you if he\xffferecognizes you as a strong Trainer.\xf000븁\x0000\xfffeVisit his home to learn the\xfffemost powerful Dragon-type move!
+Opelucid City Pokémon Gym\xfffeLeader: Iris\xf000븀\x0000\xfffeThe Girl Who Knows\xf000븀\x0000\xfffethe Hearts of Dragons
+Opelucid City Pokémon Gym\xfffeLeader: Drayden\xf000븀\x0000\xfffeThe Spartan Mayor

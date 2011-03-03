@@ -1,7 +1,7 @@
-﻿－－－－－－－－－－
-Mysterious Place
-Faraway Place
-\xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
+－－－－－－－－－－
+Mystery Zone
+Faraway place
+\xf000Ā\x0001\x0000’s \xf000ą\x0001\x0001
 Nuvema Town
 Accumula Town
 Striaton City
@@ -28,7 +28,7 @@ Route 13
 Route 14
 Route 15
 Route 16
-Waterway 17
+Route 17
 Route 18
 Dreamyard
 Pinwheel Forest
@@ -44,24 +44,24 @@ Undella Town
 Anville Town
 Pokémon League
 N's Castle
-Royal Unova Route
+Royal Unova
 Gear Station
 Battle Subway
-Musical Hall
+Musical Theater
 Black City
 White Forest
-United Tower
+Unity Tower
 Wellspring Cave
 Mistralton Cave
-Meditative Plains
+Rumination Field
 Celestial Tower
 Moor of Icirrus
 Shopping Mall
 Challenger's Cave
-Shift Factory
+Poké Transfer Lab
 Giant Chasm
-Liberty Island
-P2 Lab
+Liberty Garden
+P2 Laboratory
 Skyarrow Bridge
 Driftveil Drawbridge
 Tubeline Bridge
@@ -71,9 +71,9 @@ Entralink
 Abundant Shrine
 Undella Bay
 Lostlorn Forest
-Cellar of Trials
-Room of Conduct
-Entralink Forest
+Trial Chamber
+Guidance Chamber
+Entree Forest
 Nimbasa City
 Driftveil City
 Mistralton City
@@ -86,8 +86,8 @@ Cold Storage
 Chargestone Cave
 Twist Mountain
 Dragonspiral Tower
-Great Hall
-Hobomoe Drawbridge
+Giant Chasm
+Driftveil Drawbridge
 Tubeline Bridge
 Village Bridge
 Marvelous Bridge
@@ -112,6 +112,6 @@ Nimbasa Gate
 Opelucid Gate
 Black Gate
 White Gate
-Village Gate
-Road Gate
+Bridge Gate
+Route Gate
 Abyssal Ruins

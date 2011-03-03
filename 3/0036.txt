@@ -1,28 +1,28 @@
-﻿Cheren: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000I just challenged the\xfffegym leader Burgh.\xf000븁\x0000
-He's definitely quite the gym leader...\xf000븁\x0000I got the badge, but it was\xfffehonestly pretty tricky.\xf000븁\x0000Well, not like I was going to have\xfffeany problems with bug types, anyway.\xf000븁\x0000
-I'm going to keep beating\xfffeall the gym leaders in Unova.\xf000븁\x0000Then I'll head for the Pokémon\xfffeLeague and beat the Champion!\xf000븁\x0000Once I do that, everyone'll recognize\xfffeme as a powerful Trainer...\xf000븁\x0000I really feel that's\xfffewhat I'm living for...\xf000븁\x0000
-Burgh: Oho?\xf000븁\x0000You... Yes, you fought Team Plasma\xfffein Pinwheel Forest...\xf000븁\x0000And I believe your name was...\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here\xfffeto challenge my gym?\xf000븁\x0000
-Burgh: Oho?\xf000븁\x0000You... Yes, you fought Team Plasma\xfffein Pinwheel Forest...\xf000븁\x0000And I believe your name was...\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here\xfffeto challenge my gym?\xf000븁\x0000
-Aww... er, I know it's awful of me,\xfffebut could you wait a little longer?\xf000븁\x0000I've heard word that\xfffeTeam Plasma is in town!\xf000븁\x0000You need to come too!\xfffeHead to Prime Pier!!\xf000븁\x0000
-Burgh: ...\xf000븁\x0000There's no doubt,\xfffethis is the place.\xf000븁\x0000
-Grunt: Nope, sorry!\xf000븁\x0000There's no Plasma members\xfffeor Sages in here!\xf000븁\x0000You think I'm lying?\xfffeWanna fight about it?
-Grunt: ...Hmph.\xfffeNow scram!\xf000븁\x0000
-Grunt: Grrr!\xf000븁\x0000I'll take this weakling,\xfffeso you two go for\xf000븀\x0000the strong one over there!\xf000븁\x0000
-Pokémon are worked to their limit by\xfffeweak Trainers! Think about how THEY feel!
-Get it?\xfffeSo we take people's Pokémon!!
-Burgh: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
-Burgh: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
-Burgh: ...It seems battling is the\xfffeonly way we're getting in.
-Grunt: This is bad...\xf000븁\x0000This is awful, terrible,\xfffeworst, worst, worst!\xf000븁\x0000Team Plasma's been smashed again!\xfffePlasmashed, you could say!\xf000븁\x0000We'll have to report back\xfffeto the Sage for now...!\xf000븁\x0000
-Iris: ...Whew, I got lost.\xf000븁\x0000Even trying to work out directions over\xfffeXtransceiver, it's all moonspeak to me!\xf000븁\x0000
-Burgh: Team Plasma is right here.\xf000븁\x0000So maybe the Pokémon\xfffethey stole will be, too!\xf000븀\x0000Okay, I'm going in!\xf000븁\x0000
-Iris: Alrighty!\xfffeI'm fighting too this time!\xf000븀\x0000Hey, and missy Bianca, too!\xf000븁\x0000
-Bianca: H-Hold up, though...\xf000븁\x0000\xf000Ā\x0001\x0000, you need to come too!\xf000븁\x0000
+Cheren: Hey, \xf000Ā\x0001\x0000.\xfffeI just challenged the Gym Leader Burgh.\xf000븁\x0000
+He's a seasoned Gym Leader.\xfffeHe made me work for that Gym Badge!\xf000븁\x0000\xfffeBut for me, Bug-type Pokémon\xfffearen't much of a challenge.\xf000븁\x0000
+I'm going to keep winning like this against\xfffeall of the Unova region's Gym Leaders!\xf000븁\x0000\xfffeThen, I'll head for the Pokémon League\xfffeand outperform the Champion!\xf000븁\x0000\xfffeIf I do that, everyone will admit\xfffewhat a strong Trainer I am...\xf000븁\x0000\xfffeThat will make me feel truly alive...\xf000븁\x0000
+Burgh: Ah hah!\xf000븁\x0000\xfffeYou're the one who fought\xfffeTeam Plasma in Pinwheel Forest...\xf000븁\x0000\xfffeIf I remember, your name is...\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeCome to challenge the Gym, I suppose?\xf000븁\x0000
+Burgh: Ah hah!\xf000븁\x0000\xfffeYou're the one who fought\xfffeTeam Plasma in Pinwheel Forest...\xf000븁\x0000\xfffeIf I remember, your name is...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeCome to challenge the Gym, I suppose?\xf000븁\x0000
+Aww. Sorry, but could you wait a bit?\xf000븁\x0000\xfffeI was informed that Team Plasma\xfffehas shown up!\xf000븁\x0000\xfffeIn fact... Come with me!\xfffeI'm going to the dock at Prime Pier!\xf000븁\x0000
+Burgh: This is definitely the place.\xf000븁\x0000
+Team Plasma: No one's here! Not a soul!\xf000븁\x0000\xfffeNo other Team Plasma members, nor any\xfffeof the Seven Sages, are inside.\xf000븁\x0000\xfffe...If you think I'm lying, why don't\xfffewe have a little battle and find out?
+Team Plasma: Don't scare me like that.\xfffeCome on!\xf000븁\x0000
+Team Plasma: I...had a thought!\xf000븁\x0000\xfffeI'll take care of this weak-looking runt,\xfffeso you can show off by handling\xf000븀\x0000\xfffethat tough-looking guy over there!\xf000븁\x0000
+Think about how a Pokémon feels when\xfffeit's being used by a pathetic Trainer!
+What's your problem with\xfffetaking people's Pokémon?!
+Burgh: Oh, please!\xfffe\xf000Ā\x0001\x0000, I'll leave that one to you!\xf000븁\x0000
+Burgh: Oh, please!\xfffe\xf000Ā\x0001\x0000, I'll leave that one to you!\xf000븁\x0000
+Burgh: Looks like our only\xfffeoption is to battle them and go on in.
+Team Plasma: This is bad...\xf000븁\x0000\xfffeBadbadbadbadbadbadbad!\xf000븁\x0000\xfffeBad for Team Plasma!\xfffeOr Plasbad, for short!\xf000븁\x0000\xfffeIt's in my best interest to go\xfffereport to the Seven Sages right now!\xf000븁\x0000
+Iris: Phew, we got lost.\xf000븁\x0000\xfffeEven with directions from the\xfffeXtransceiver, I couldn't figure it out!\xf000븁\x0000
+Burgh: Team Plasma is inside.\xf000븁\x0000\xfffeThe stolen Pokémon may be in\xfffethere as well.\xf000븀\x0000\xfffeOK, I'm going in!\xf000븁\x0000
+Iris: OK! This time, I'll join the fight!\xf000븁\x0000\xfffeCome on, Bianca. You, too!\xf000븁\x0000
+Bianca: W-wait!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! You come, too!\xf000븁\x0000
 The Xtransceiver is ringing.
-\xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
-What the gym leader is looking for is\xfffea bond between the challenger and\xf000븀\x0000their Pokémon... a definite relationship!
-Before you challenge the gym,\xfffeask yourself: do I have enough Potions?\xf000븀\x0000And make SURE you're sure that you do!
-As Pokémon Trainers, no one\xfffehas a reason to become stronger.\xf000븁\x0000But loving your Pokémon\xfffeand playing together with them...\xf000븀\x0000That's something everyone can do.
-My bag has six Poké Balls! More than\xfffeenough to catch anything with moves!\xf000븁\x0000...Okay, actually, I'd like some\xfffeGreat Balls and Ultra Balls...\xf000븁\x0000But unless I get more gym badges,\xfffethe Friendly Shop won't sell me any.
-My Pokémon are just the kyootest!\xf000븁\x0000When I come home totally beat,\xfffethey're always there to refresh me!
-Castelia Pokémon Gym\xf000븁\x0000\xfffeLeader: Burgh\xf000븀\x0000\xfffeThe Insect Artist
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
+What Gym Leaders test is the strength\xfffeof the bond between the challenger\xf000븀\x0000\xfffeand his or her Pokémon!
+Before challenging the Gym, you'll want\xfffeto be sure you have enough Potions.
+Being a Pokémon Trainer doesn't\xfffenecessarily make someone stronger.\xf000븁\x0000\xfffeBut everyone can love their Pokémon\xfffeand enjoy playing together.
+I have six Poké Balls in my Bag!\xf000븁\x0000\xfffeBut, really, what I want is\xfffeGreat Balls and Ultra Balls!\xf000븁\x0000\xfffeYou can't buy them at the Poké Mart\xfffeuntil you've collected Badges, though.
+My Pokémon is soooo cute!\xf000븁\x0000\xfffeIt always makes me feel better\xfffewhen I come home!
+Castelia City Pokémon Gym\xfffeLeader: Burgh\xf000븀\x0000\xfffePremier Insect Artist

@@ -1,20 +1,48 @@
-こんにちは！\xfffe\xf000Ĝ\x0001\x0000
-\xf000Ĝ\x0001\x0000 です！\xfffeよろしくおねがいします
-\xf000Ĝ\x0001\x0000 だいすき！\xfffe\xf000Ĝ\x0001\x0001 も すき！
-すきな \xf000Ĝ\x0001\x0000 は\xfffe\xf000Ĝ\x0001\x0001 です！
-すきな \xf000Ĝ\x0001\x0000 は\xfffeなんですか？
-\xf000Ĝ\x0001\x0000 の ためなら\xfffeなんだって できる！
-\xf000Ĝ\x0001\x0000 は\xfffe\xf000Ĝ\x0001\x0001 なの？
-\xf000Ĝ\x0001\x0000 の こと\xfffeどう おもう？
-\xf000Ĝ\x0001\x0000 って\xfffe\xf000Ĝ\x0001\x0001 できると おもう？
-\xf000Ĝ\x0001\x0000 って\xfffe\xf000Ĝ\x0001\x0001 ！
-\xf000Ĝ\x0001\x0000 が\xfffeきになります
-やっぱり\xfffe\xf000Ĝ\x0001\x0000 だよね！
-\xf000Ĝ\x0001\x0000 こそ\xfffe\xf000Ĝ\x0001\x0001 なのだ！
-この \xf000Ĝ\x0001\x0000 は\xfffe\xf000Ĝ\x0001\x0001 なんだよー
-\xf000Ĝ\x0001\x0000 な りゆうは\xfffe\xf000Ĝ\x0001\x0001 だからです
-\xf000Ĝ\x0001\x0000 って\xfffeしってる？
-じつは \xf000Ĝ\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001 なんです
-さいきん \xf000Ĝ\x0001\x0000 が\xfffe\xf000Ĝ\x0001\x0001 なんだよ
-\xf000Ĝ\x0001\x0000 って\xfffeおいしいのかな……？
-まいにち かかさず\xfffe\xf000Ĝ\x0001\x0000 してます
+こんにちは
+HELLO
+BONJOUR
+CIAO
+HALLO
+HOLA
+안녕하세요
+HELLO
+...
+THANKS
+NO PROBLEM
+NOPE
+YES
+HERE GOES
+LET'S GO
+HERE I COME
+WELCOME
+GREETINGS
+WELL DONE
+GIVE ME
+SORRY
+FORGIVE ME
+I'M SORRY
+GOOD-BYE
+THANK YOU
+I'VE ARRIVED
+PARDON ME
+SO SORRY
+SEE YA
+EXCUSE ME
+OK THEN
+GO AHEAD
+CHEERS
+WHAT'S UP?
+NO
+HI
+YEP
+YEAH, YEAH
+BYE-BYE
+MEET YOU
+BYE FOR NOW
+HELLO?
+HI THERE
+NO WAY
+YAHOO
+YO
+WELCOME
+REGARDS

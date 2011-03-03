@@ -1,200 +1,52 @@
-﻿●●
-A wild \xf000ā\x0001\x0000 appeared!
-A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
-Oh! \xf000ā\x0001\x0000 appeared!
-\xf000ā\x0001\x0000 appeared!
-A \xfffe\xf000ā\x0001\x0000 appeared\xfffein the dream!
-\xf000ā\x0001\x0000 appeared!
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븀\x0000
-You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
-Go! \xf000Ă\x0001\x0000!
-Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
-Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000and \xf000Ă\x0001\x0004!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000and \xf000Ă\x0001\x0003!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002.\xf000븀\x0000Will you switch your Pokémon?
-You're in charge, \xf000Ă\x0001\x0000!
-Go for it, \xf000Ă\x0001\x0000!
-Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
-Your foe's weak!\xfffeGet 'em, \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000, switch out!\xfffeCome back!
-\xf000Ă\x0001\x0000, come back!
-\xf000Ă\x0001\x0000, enough!\xfffeGet back!
-\xf000Ă\x0001\x0000, OK!\xfffeCome back!
-\xf000Ă\x0001\x0000, good!\xfffeCome back!
-\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 withdrew\xfffe\xf000Ă\x0001\x0002!
-\xf000Ā\x0001\x0000 withdrew\xfffe\xf000Ă\x0001\x0001!
-Hit \xf000Ȁ\x0001\x0000 time(s)!
-\xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ā\x0001\x0000 used\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ď\x0001\x0000's \xf000Ā\x0001\x0001\xfffeused a \xf000ĉ\x0001\x0002!
-\xf000Ā\x0001\x0000 shot a\xfffe\xf000ĉ\x0001\x0002 to \xf000Ă\x0001\x0001!!
-The Wonder Launcher\xfffecan't be used now!
-\xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
-\xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the left!
-\xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!
-\xf000Ā\x0001\x0000 rotated Pokémon\xfffeto the right!
-\xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-\xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated \xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeand \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
-Player defeated\xfffe\xf000Ā\x0001\x0000!
-Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player lost to\xfffe\xf000Ā\x0001\x0000!
-Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
-Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
-\xf000Ā\x0001\x0000 dropped\xfffe$\xf000Ȅ\x0001\x0001 in panic!
-\xf000Ā\x0001\x0000 paid out\xfffe$\xf000Ȅ\x0001\x0001 to the winner!
-... ... ... ...\xf000븁\x0000\xf000Ā\x0001\x0000 whited out!
-\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
-\xf000Ā\x0001\x0000 picked up $\xf000Ȅ\x0001\x0001!
-\xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
-Oh, no!\xfffeThe Pokémon broke free!
-Aww!\xfffeIt appeared to be caught!
-Aargh!\xfffeAlmost had it!
-Shoot!\xfffeIt was so close, too!
-Gotcha!\xfffe\xf000ā\x0001\x0000 was caught!
-\xf000ā\x0001\x0000's data was\xfffeadded to the Pokédex!
-The Trainer blocked the Ball!\xf000븁\x0000Don't be a thief!
-But it had no effect!
-What will \xf000Č\x0001\x0000 do?
-What will \xf000Ā\x0001\x0000 do?
-\xf000븉\x0001<But it failed!
-Got away safely!
-Couldn't run!
-Can't escape!
-The wild \xf000Ă\x0001\x0000\xffferan away!
-No! There's no running\xfffefrom a Trainer battle!
-Do you want to give up?
-It's super effective!
-It's not very effective...
-It hurt itself in its\xfffeconfusion!
-A critical hit!
-But there was\xfffeno PP left for the move!
-Thanks to \xf000Ā\x0001\x0000's aid,\xfffe\xf000Ă\x0001\x0001's HP was recovered!
-The sunlight turned harsh!
-It started to rain!
-A sandstorm brewed!
-It started to hail!
-Fog started rolling in!
-The sunlight returned to normal.
-It stopped raining.
-The sandstorm subsided.
-The hail stopped falling.
-The fog cleared.
-The weather effect disappeared!
-The sandstorm blew wildly!
-The storm blew fiercely!
-It's a one-hit KO!
-\xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001!
-Because of \xf000ĉ\x0001\x0000,\xfffeonly \xf000ć\x0001\x0001 can be used!
-\xf000Č\x0001\x0000 can only\xfffeuse \xf000ć\x0001\x0001!
-All stat changes were\xfffeeliminated!
-But nothing happened!
-\xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
-Magnitude 4!
-Magnitude 5!
-Magnitude 6!
-Magnitude 7!
-Magnitude 8!
-Magnitude 9!
-Magnitude 10!!!
-A bell chimed!
-A soothing aroma wafted\xfffethrough the area!
-The battlers shared\xfffetheir pain!
-Fire's power was weakened!
-Electricity's power was weakened!
-The twisted dimensions returned to\xfffenormal!
-Gravity intensified!
-Gravity returned to normal!
-All Pokémon hearing the song\xfffewill faint in three turns!
-User randomly used\xfffe\xf000ć\x0001\x0000!
-Nature Power changed\xfffeto \xf000ć\x0001\x0000!
-Coins scattered everywhere!
-It was too weak to make\xfffea substitute!
-Reflect raised your team's\xfffeDefense!
-The foe's Reflect raised\xfffeits team's Defense!
-Your team's Reflect\xfffewore off!
-The foe's Reflect\xfffewore off!
-Light Screen raised your team's\xfffeSpecial Defense!
-The foe's Light Screen raised\xfffeits team's Special Defense!
-Your team's Light Screen\xfffewore off!
-The foe's Light Screen\xfffewore off!
-Your team became cloaked in\xfffea mystical veil!
-The foe's team became\xfffecloaked in a mystical veil!
-Your team is no longer protected\xfffeby Safeguard!
-The foe is no longer protected\xfffeby Safeguard!
-Your team became\xfffeshrouded in mist!
-The foe's team became\xfffeshrouded in mist!
-The mist around\xfffeyour team vanished!
-The mist around\xfffethe foe vanished!
-The tailwind blew from\xfffebehind your team!
-The tailwind blew from\xfffebehind the foe!
-Your team's tailwind petered out!
-The foe's tailwind petered out!
-The Lucky Chant shielded your team\xfffefrom critical hits!
-The Lucky Chant shielded the foe\xfffefrom critical hits!
-Your team's Lucky Chant wore off!
-The foe's Lucky Chant wore off!
-Spikes were scattered all around\xfffeyour team's feet!
-Spikes were scattered all around\xfffethe feet of the enemy team!
-The spikes scattered all around\xfffeyour team's feet went away!
-The spikes scattered all around\xfffethe feet of the enemy team went away!
-Poison spikes were scattered all\xfffearound your team's feet!
-Poison spikes were scattered all\xfffearound the enemy team's feet!
-The poison spikes disappeared from\xfffearound your team's feet!
-The poison spikes disappeared from\xfffearound the enemy team's feet!
-Pointed stones float in the air\xfffearound your team!
-Pointed stones float in the air\xfffearound the enemy team!
-The pointed stones floating\xfffe around your team went away!
-The pointed stones floating\xfffe around the enemy team went away!
-Your team is protected\xfffeby Wide Guard!
-The enemy team is protected\xfffeby Wide Guard!
-Your team is protected\xfffeby Fast Guard!
-The enemy team is protected\xfffeby Fast Guard!
-A rainbow reached across\xfffethe sky above your team!
-A rainbow reached across\xfffethe sky above the enemy team!
-The rainbow disappeared from\xfffethe sky above your team!
-The rainbow disappeared from\xfffethe sky above the enemy team!
-Your team was engulfed\xfffein a sea of fire!
-The enemy team was engulfed\xfffein a sea of fire!
-The sea of fire around\xfffeyour team disappeared!
-The sea of fire around\xfffethe enemy team disappeared!
-Wetlands extended out\xfffearound your team!
-Wetlands extended out\xfffearound the enemy team!
-The wetlands around\xfffeyour team disappeared!
-The wetlands around\xfffethe enemy team disappeared!
-Your team was made\xfffetoo nervous to eat berries!
-The enemy team was made\xfffetoo nervous to eat berries!
-An area that reverses Defense\xfffeand Sp. Defense was created!
-Wonder Room ceased, and\xfffeDefense and Sp. Defense returned to normal!
-An area that removes the effect\xfffeof held items was created!
-Magic Room ceased, and\xfffehold items regained their effect!
-\xf000ĉ\x0001\x0000 increased\xfffe\xf000ć\x0001\x0001's power!
-The time limit ran out!\xfffeThe battle will be ended!
-The battle went on too long,\xfffeso playback will be suspended!
-Daruma mode activated!
-Daruma mode ceased!
-Two moves turned into one!\xfffeIt's a combination move!
-\xf000Č\x0001\x0000 won't obey!
-\xf000Č\x0001\x0000 is\xfffeloafing around!
-\xf000Č\x0001\x0000 turned away!
-\xf000Č\x0001\x0000 pretended\xfffenot to notice!
-\xf000Č\x0001\x0000 ignored orders!
-\xf000Č\x0001\x0000 began to nap!
-\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
-Reset Move!!
-But there's nowhere\xfffeto use this item!
-\xf000Č\x0001\x0000 can't act freely\xfffebecause of Freefall!
-Chose to give in.
-(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002
+HP/PP
+RESTORE
+STATUS
+RESTORE
+
+
+BATTLE ITEMS
+POKÉ BALLS
+LAST USED ITEM
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+x\xf000Ȃ\x0001\x0000
+
+HP/PP
+RESTORE
+STATUS
+RESTORE
+POKÉ BALLS
+BATTLE ITEMS
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+USE
+
+
+
+
+
+
+
+
+
+
+
+
+It's no good! It's impossible to aim\xfffewhen there are two Pokémon!
+There is no room left in the PC!
+
+It's no good! It's impossible to aim\xfffeat a Pokémon that's not in sight!
+
+It's not charged enough.
+Juniper's words echoed...\xfffeThere's a time and\xf000븀\x0000\xfffeplace for everything! But not now.
+It's impossible to aim\xfffewithout being focused!

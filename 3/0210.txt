@@ -1,11 +1,11 @@
-﻿Grunt: Ugh, you're strong...\xf000븁\x0000But that strength only comes as\xfffea result of you Trainers\xf000븀\x0000controlling Pokémon, doesn't it?!\xf000븁\x0000
-Cheren: ...So you want\xfffeto liberate Pokémon...\xf000븁\x0000If that's what you desire,\xfffeyou can very well try.\xf000븁\x0000But resorting to force and\xfffestealing everyone's Pokémon\xf000븀\x0000is just wrong, no matter what.\xf000븀\x0000That's not strength!\xf000븁\x0000
-Grunt: Oh, buddy!\xfffeSo here you were!\xf000븁\x0000We found it!\xfffeWe need to head to the tower!\xf000븁\x0000
-Hear that?! Team Plasma has\xfffeobtained the power that will\xf000븀\x0000change this Pokémon-abusing world!\xf000븁\x0000
-Grunt: That's right!\xf000븁\x0000If a mistaken world needs to be righted,\xfffebrute force is the natural answer!\xf000븁\x0000Now, we'll be off to\xfffeour king, Lord N!!\xf000븁\x0000
-Cheren: I'm... not sure what they might\xfffehave gotten their hands on, but...\xf000븁\x0000They're real pests, even going so far\xfffeas getting stronger\xf000븀\x0000just to annoy everyone...\xf000븁\x0000
-\xf000Ā\x0001\x0000..\xfffeI'm going to stay here a little longer.\xf000븁\x0000I need to think for a while.\xf000븁\x0000About what it means\xfffeto be Champion...\xf000븁\x0000What do I want to do\xfffeonce I become strong...?\xf000븁\x0000And who was I doing it for\xfffein the first place...?\xf000븁\x0000
-\xf000Ā\x0001\x0000..\xfffeI'm going to stay here a little longer.\xf000븁\x0000I need to think for a while.\xf000븁\x0000About what it means\xfffeto be Champion...\xf000븁\x0000What do I want to do\xfffeonce I become strong...?\xf000븁\x0000And who was I doing it for\xfffein the first place...?
-Search empty places like this,\xfffeand you might find something good!
-Search empty places like this,\xfffeand you might find something good!\xf000븁\x0000Here! Take this fossil\xfffeI found a while ago!\xf000븁\x0000
-I might find another\xfffefossil by tomorrow,\xf000븀\x0000so come again if you want!
+Team Plasma: Huh. Pretty strong...\xf000븁\x0000\xfffeBut you're only strong because you\xfffeTrainers are controlling Pokémon!\xf000븁\x0000
+Cheren: So if you want to set\xfffePokémon free...\xf000븁\x0000\xfffeIf that's what you want, you should\xfffestart with your own.\xf000븁\x0000\xfffeBut taking people's Pokémon by force\xfffeis not right.\xf000븁\x0000\xfffeThat is not real strength!\xf000븁\x0000
+Team Plasma: Hey, there you are!\xf000븁\x0000\xfffeWe found that thing we were looking for.\xfffeWe should head for the tower now!\xf000븁\x0000
+Get this! Team Plasma has obtained\xfffethe power to change this world\xf000븀\x0000\xfffeand end people's control over Pokémon.\xf000븁\x0000
+Team Plasma: That's right!\xf000븁\x0000\xfffeWe must use force in order to right\xfffethe wrongs of the world.\xf000븁\x0000\xfffeNow, let's gather around our king.\xfffeOur lord N!\xf000븁\x0000
+Cheren: Those guys... I don't know what\xfffethey've found, but they go the extra\xf000븀\x0000\xfffemile to gain power and cause trouble.\xf000븀\x0000\xfffeWhat a bothersome bunch...\xf000븁\x0000
+\xf000Ā\x0001\x0000... I'm going to stay here\xfffefor a while.\xf000븁\x0000\xfffeI want to think a little bit about what\xfffethe Champion asked me...\xf000븁\x0000\xfffeWhat do I want to do with my power\xfffeafter I get strong?\xf000븁\x0000\xfffeAnd why do I want to be strong in the\xfffefirst place?\xf000븁\x0000
+\xf000Ā\x0001\x0000... I'm going to stay here\xfffefor a while.\xf000븁\x0000\xfffeI want to think a little bit about what\xfffethe Champion asked me...\xf000븁\x0000\xfffeWhat do I want to do with my power\xfffeafter I get strong?\xf000븁\x0000\xfffeAnd why do I want to be strong in the\xfffefirst place?
+If you look for something in an empty\xfffeplace like this, you can discover things!
+If you look for something in an empty\xfffeplace like this, you can discover things!\xf000븁\x0000\xfffeLike this Fossil I just found! Take this!\xf000븁\x0000
+If you come again tomorrow, you might be\xfffeable to find a Fossil of your own.\xf000븀\x0000\xfffeSo come on out and play if ya want!

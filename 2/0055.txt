@@ -1,5 +1,5 @@
-Items
-Medicine
+ITEMS
+MEDICINE
 TMs & HMs
-Berries
-Key Items
+BERRIES
+KEY ITEMS

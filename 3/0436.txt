@@ -1,38 +1,37 @@
-﻿Juniper: Hiiiii, \xf000Ā\x0001\x0000!!\xf000븁\x0000To walk down all roads with a Pokémon!\xfffeThat's the joy of a Trainer!\xf000븁\x0000Meaning! I need to tell you about\xfffethe most important place for a Trainer,\xf000븀\x0000so come on in!\xf000븁\x0000
-People... there's going to be\xfffea very important speech soon.\xf000븁\x0000Please wait a while longer.
-Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.
-Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.\xf000븁\x0000
-no data
-Cheren: The Professor's waiting in front\xfffeof the Pokémon Center, isn't she?\xf000븁\x0000I'll be fine.\xfffeI already know about Pokémon Centers.\xf000븁\x0000I just want to get fighting!\xfffeHow else will I get stronger?!
-Something looks to be\xfffegoing on in the plaza!\xf000븁\x0000
-Hm, should we check it out?\xf000븁\x0000
-Cheren: \xf000Ā\x0001\x0000!\xfffeCome see this!\xf000븁\x0000
-I am Ghetsis...\xf000븁\x0000Ghetsis of Team Plasma.\xf000븁\x0000What I have to tell you all today\xfffeconcerns the liberation of Pokémon.
+Professor Juniper: Ah, \xf000Ā\x0001\x0000!\xfffeThere you are!\xf000븁\x0000\xfffeTraveling with your Pokémon is truly one\xfffeof the joys of being a Trainer!\xf000븁\x0000\xfffePlease follow me.\xf000븁\x0000\xfffeI'd like to show you the most important\xfffeplace for a Trainer to know!\xf000븁\x0000
+Please listen, everyone.\xf000븁\x0000\xfffeWe have something important to talk\xfffeto you about. Wait here for a moment.
+Please excuse me...\xfffeWe are still preparing.\xf000븁\x0000\xfffeIf you could continue to be patient...
+Please excuse me...\xfffeWe are still preparing.\xf000븁\x0000\xfffeIf you could continue to be patient...\xf000븁\x0000
+
+Cheren: Wasn't that the professor\xfffewaiting in front of the Pokémon Center?\xf000븁\x0000\xfffeI know about the Pokémon Center\xfffealready. Anyway, I want to battle soon!\xf000븁\x0000\xfffeReal battles are the best way to become\xfffestronger, you know!
+Sounds like something's going\xfffeon in the plaza!\xf000븁\x0000
+Well, let's have a little look-see.\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000, come here a sec.\xf000븁\x0000
+My name is Ghetsis.\xf000븁\x0000\xfffeI am here representing Team Plasma.\xf000븁\x0000\xfffeToday, ladies and gentlemen, I would like\xfffeto talk to you about Pokémon liberation.
 Huh?
 What?
-Ghetsis: We humans have lived\xfffetogether with Pokémon.\xf000븁\x0000We require things from each other,\xfffeand consider some partners...\xf000븁\x0000All would seem to think\xfffethis is the case, in fact.\xf000븁\x0000Yet, is it really true?\xf000븁\x0000We humans all entertain\xfffeonly that same thought...\xf000븁\x0000Has there never been the consideration\xfffethat it might not be?\xf000븁\x0000
-Trainers order Pokémon\xfffeto do whatever they please...\xf000븁\x0000They work them hard under the\xfffeguise of being partners...\xf000븁\x0000What if that were to be prevented by\xfffesomeone to clearly divide them?
-Gasp!
-Uh...
-Wha?
-Ghetsis: Don't you agree, everyone?\xf000븁\x0000Pokémon are creatures whose sheer\xfffepotential is limited by humans.\xf000븁\x0000We are beings who feel they must\xfffestudy a great many things.\xf000븁\x0000But what should we humans do to be\xfffeambassador to the oppressed Pokémon?
-Wha?
-Liberate?
-Ghetsis: Correct!\xfffeWe must liberate the Pokémon!!\xf000븁\x0000And once we do, humans and Pokémon\xfffewill for the first time\xf000븀\x0000stand as equals.\xf000븁\x0000Everyone, please do consider\xfffewhat must be done\xf000븀\x0000to properly get along with Pokémon.\xf000븁\x0000And thus, I, Ghetsis,\xfffeconclude my speech.\xf000븁\x0000Thank you for your attention.\xf000븁\x0000
-Old Man: That speech...\xfffeHm, what should we do?\xf000븁\x0000
-Young Man: Liberate Pokémon?\xfffeNow THAT'S a crazy idea!\xf000븁\x0000
-???: \xf000븉\x0001\x0001Your Pokémon...\xf000븁\x0000They speak to me...\xf000븉\x0001\x0000\xf000븁\x0000
-Cheren: ...Boy, you talk fast, don't you?\xf000븁\x0000Also, they... speak to you?\xfffeWhat an odd thing to say.\xf000븁\x0000
-???: \xf000븉\x0001\x0001Yes, they do.\xf000븁\x0000So...\xfffeperhaps you cannot hear them...?\xf000븀\x0000Pitiable...\xf000븁\x0000My name is N.\xf000븉\x0001\x0001\xf000븁\x0000
-Cheren: ...Well, I'm Cheren,\xfffeand this is \xf000Ā\x0001\x0000.\xf000븁\x0000We were asked to complete the Pokédex,\xfffeso we're on a journey to do that.\xf000븁\x0000Though my primary goal\xfffeis to be the Champion...\xf000븁\x0000
-N: \xf000븉\x0001\x0001The Pokédex, hm...?\xf000븁\x0000That would require a great many Pokémon\xfffeto be imprisoned in Poké Balls...\xf000븁\x0000I, too, am a Trainer,\xfffebut I am always doubting.\xf000븁\x0000Am I making my Pokémon\xfffehappy, I ask...?\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001Hm. \xf000Ā\x0001\x0000, was it?\xf000븁\x0000Let me hear more of\xfffeyour Pokémon's voices!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001Restrained to imprisonment\xfffein Poké Balls...\xf000븁\x0000Pokémon cannot be perfect creatures.\xf000븁\x0000For the sake of my friends, the Pokémon,\xfffethe world must be changed.\xf000븉\x0001\x0000\xf000븁\x0000
-Cheren: ...What a weirdo.\xf000븁\x0000But don't worry, it's all right.\xf000븁\x0000Trainers and Pokémon\xfffealways help each other out!\xf000븁\x0000Well, I'll go on ahead.\xf000븁\x0000Off to the next town... I want to\xfffefight Striaton City's gym leader.\xf000븁\x0000You should battle all\xfffethe gym leaders, too.\xf000븁\x0000The best way for Trainers to get stronger\xfffeis to challenge the gym leaders\xf000븀\x0000across the land.\xf000븁\x0000
-Oh?\xf000븁\x0000Hey, has anyone ever told you\xfffeyou look sorta like your Pokémon?
-Let an old man\xfffeimpart some advice...\xf000븁\x0000Listening? You can have six Pokémon\xfffein your party at once!
-Pokémon strive to the limits\xfffeof their power for people's sake.\xf000븁\x0000And people love Pokémon in return.\xf000븁\x0000It's a mutual relationship!\xfffeThat's what I think.
-This wonderful scenery,\xfffethese splendid tones...\xf000븁\x0000Ah, how I love this place...\xfffeIt brings me such joy!
-Wild Pokémon may leap\xfffeout of grass to attack you, but...\xf000븁\x0000Speak to a Pokémon's heart,\xfffeand you can befriend it!
-Accumula Town\xfffeProsperity in overgrowth!
-no data
+Ghetsis: I'm sure most of you believe\xfffethat we humans and Pokémon are partners\xf000븀\x0000\xfffethat have come to live together because\xf000븀\x0000\xfffewe want and need each other.\xf000븁\x0000\xfffeHowever...\xfffeIs that really the truth?\xf000븁\x0000\xfffeHave you ever considered that perhaps\xfffewe humans...\xf000븀\x0000\xfffeonly assume that this is the truth?\xf000븁\x0000
+Pokémon are subject to the selfish\xfffecommands of Trainers...\xf000븁\x0000\xfffeThey get pushed around when they are\xfffeour “partners" at work...\xf000븁\x0000\xfffeCan anyone say with confidence that\xfffethere is no truth in what I'm saying?
+Yikes!
+No way.
+I don't know...
+Ghetsis: Now, ladies and gentlemen,\xfffePokémon are different from humans.\xf000븁\x0000\xfffeThey are living beings that contain\xfffeunknown potential.\xf000븁\x0000\xfffeThey are living beings from whom we\xfffehumans have much to learn.\xf000븁\x0000\xfffeTell me, what is our responsibility toward\xfffethese wonderful beings called Pokémon?
+What could it be?
+Liberation?
+Ghetsis: That's right!\xfffeWe must liberate the Pokémon!\xf000븁\x0000\xfffeThen, and only then, will humans\xfffeand Pokémon truly be equals.\xf000븁\x0000\xfffeEveryone, I end my words here today by\xfffeimploring you to consider the relationship\xf000븀\x0000\xfffebetween people and Pokémon...\xf000븀\x0000\xfffeand the correct way to proceed.\xf000븁\x0000\xfffeWe sincerely appreciate your attention.\xf000븁\x0000
+Older Man: About that speech...\xfffeWhat do you think we should do?\xf000븁\x0000
+Younger Man: Liberate Pokémon?\xfffeThat's not even possible!\xf000븁\x0000
+???: \xf000븉\x0001\x0001Your Pokémon...\xf000븁\x0000\xfffeJust now, it was saying...\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: Slow down. You talk too fast.\xf000븁\x0000\xfffeAnd what's this about Pokémon...talking?\xfffeThat's an odd thing to say.\xf000븁\x0000
+???: \xf000븉\x0001\x0001Yes, they're talking.\xf000븁\x0000\xfffeOh.\xfffeThen, you two can't hear it, either...\xf000븀\x0000\xfffeHow sad.\xf000븁\x0000\xfffeMy name is N.\xf000븉\x0001\x0001\xf000븁\x0000
+Cheren: My name is Cheren,\xfffeand this is \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeWe were asked to complete the Pokédex,\xfffeand we just left on our journey.\xf000븁\x0000\xfffeMy main goal is to become the\xfffeChampion, though.\xf000븁\x0000
+N: \xf000븉\x0001\x0001The Pokédex, eh?\xf000븁\x0000\xfffeSo... You're going to confine many, many\xfffePokémon in Poké Balls for that, then.\xf000븁\x0000\xfffeI'm a Trainer, too,\xfffebut I can't help wondering...\xf000븁\x0000\xfffeAre Pokémon really happy that way?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Well, \xf000Ā\x0001\x0000, is it?\xfffeLet me hear your Pokémon's voice again!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001As long as Pokémon are confined\xfffein Poké Balls...\xf000븁\x0000\xfffePokémon will never become\xfffeperfect beings.\xf000븁\x0000\xfffeI have to change the world for\xfffePokémon, because they're my friends.\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: Huh... Strange guy.\xf000븁\x0000\xfffeBut I'm not going to worry about it.\xf000븁\x0000\xfffeTrainers and Pokémon help\xfffeeach other out!\xf000븁\x0000\xfffeListen, I'm going on ahead.\xf000븁\x0000\xfffeI want to battle the Gym Leader\xfffein the next town--Striaton City.\xf000븁\x0000\xfffeAim to battle Gym Leader after\xfffeGym Leader. The best way for a Trainer\xf000븀\x0000\xfffeto become stronger is to challenge\xf000븀\x0000\xfffethe Gym Leaders in each area.\xf000븁\x0000
+What's this?\xf000븁\x0000\xfffeYou and your Pokémon\xfffesomehow resemble each other!
+Let me give you the benefit of\xfffemy experience.\xf000븁\x0000\xfffeYou listening? The number of Pokémon\xfffeyou can take with you at one time is six!
+Pokémon do everything in\xfffetheir power for people.\xf000븁\x0000\xfffePeople treat these Pokémon\xfffewith love and affection.\xf000븁\x0000\xfffeThat's what I think our\xfffemutual relationship is.
+Beautiful scenery and relaxing sounds...\xf000븁\x0000\xfffeOh, man. I sure do loooove this place.\xfffeSure makes me feel happy.
+Some wild Pokémon jump out of the\xfffetall grass and attack...\xf000븁\x0000\xfffeBut you can make friends with those\xfffePokémon if you reach out to them!
+Accumula Town\xfffeThe Fast-Growing Town!

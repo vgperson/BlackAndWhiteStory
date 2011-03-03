@@ -1,14 +1,14 @@
-﻿Jaro: You're the powerful Pokémon Trainer\xfffewho came to Dragonspiral Tower!\xf000븁\x0000
-Did you join your heart\xfffewith Reshiram?\xf000븁\x0000
-Did you become friends\xfffewith Reshiram?\xf000븁\x0000
-Did you join your heart\xfffewith Zekrom?\xf000븁\x0000
-Did you become friends\xfffewith Zekrom?\xf000븁\x0000
-In this world, as long as\xfffeyou understand yourself...\xf000븁\x0000You can make the heavens,\xfffethe ends of the earth,\xf000븀\x0000the furthest things seem\xf000븀\x0000to be right beside you...\xf000븀\x0000That's what they say.\xf000븁\x0000Like Lord N and his Pokémon,\xfffeyou and your Pokémon\xf000븀\x0000have a mutual understanding.\xf000븁\x0000Thus, take this.\xf000븁\x0000
-Jaro: ...The legend of Unova is that of\xfffea new world's creation through the\xf000븀\x0000combined forces of man and Pokémon!\xf000븁\x0000That simple fact carries\xfffea reassuring message.\xf000븁\x0000If those that change the world are\xfffeheroes, then anyone can be a hero.\xf000븁\x0000Through everyone's respective changes,\xfffethe whole world can gradually change.\xf000븁\x0000
-Looker: Alright, then...\xfffeI'm an international policeman!\xf000븁\x0000So tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
-Jaro: Well, I don't mind.\xf000븁\x0000Team Plasma changed me,\xfffebut the world refused to change...\xf000븀\x0000I'm expectant of what you all\xf000븀\x0000will do with it.\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Besides Ghetsis, I guess this leaves\xfffe\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Okay, \xf000Ā\x0001\x0000...\xfffeThere's something I need to tell you.\xf000븁\x0000I've heard intel that, somewhere\xfffereally far away from here,\xf000븀\x0000there's been sighting of an N-ish person\xf000븀\x0000with a dragon Pokémon.\xf000븁\x0000I'm going to go and see\xfffeif it's really true!\xf000븀\x0000Well, see you again someday!\xf000븁\x0000
+Giallo: Greetings to you, strong Pokémon\xfffeTrainer who came to Dragonspiral Tower.\xf000븁\x0000
+Are you and Zekrom building\xfffea mutual understanding?\xf000븁\x0000
+Are you not making friends\xfffewith Zekrom?\xf000븁\x0000
+Are you and Reshiram building\xfffea mutual understanding?\xf000븁\x0000
+Are you not making friends with Reshiram?\xf000븁\x0000
+There is a saying...\xf000븁\x0000\xfffeIf somewhere in this world there is\xfffesomeone who understands you,\xf000븀\x0000\xfffeit feels like that person is right beside\xf000븀\x0000\xfffeyou, even if you’re as far apart as the\xf000븀\x0000\xfffeend of the land and the top of the sky.\xf000븁\x0000\xfffeAs my lord N and his Pokémon understand\xfffeone another, so, too, do you and your\xf000븀\x0000\xfffePokémon understand one another.\xf000븁\x0000\xfffeWhich is my reason for giving you this...\xf000븁\x0000
+Giallo: The legend of Unova is about\xfffePokémon and people working together\xf000븀\x0000\xfffeto build a new world!\xf000븁\x0000\xfffeThe message is that simple\xfffeand that strong.\xf000븁\x0000\xfffeIf changing the world makes you a hero,\xfffeanyone can become a hero.\xf000븁\x0000\xfffeAs each of us changes what is\xfffein our power to change, so the world\xf000븀\x0000\xfffeitself changes.\xf000븁\x0000
+Looker: Regarding Team Plasma...\xf000븁\x0000\xfffeI am an officer of the International\xfffePolice, and you must supply the\xf000븀\x0000\xfffeinformation I request!\xf000븁\x0000
+Giallo: Indeed, I shall.\xf000븁\x0000\xfffeTeam Plasma changed me, but it could not\xfffechange the world. I'm looking forward to\xf000븀\x0000\xfffeseeing how you lot will do.\xf000븁\x0000
+Looker: I beg you will accept my thanks!\xf000븁\x0000\xfffeNow, Ghetsis notwithstanding,\xfffethere yet remains but \xf000Ȁ\x0001\x0000 of the\xf000븀\x0000\xfffeSeven Sages still at large.\xf000븁\x0000\xfffeWhat do they think of?\xfffeWhat do they hope for?\xf000븁\x0000\xfffeI am intensely interested to know this.\xfffeTo depart at once!\xf000븁\x0000
+Looker: I thank you extremely!\xf000븁\x0000\xfffeCuriously, \xf000Ā\x0001\x0000...\xfffeThere is a topic on which we must speak.\xf000븁\x0000\xfffeA report has reached my ears of someone\xfffefar from here. Indeed, this someone has\xf000븀\x0000\xfffespotted a person like N and a...\xf000븀\x0000\xfffedragon Pokémon.\xf000븁\x0000\xfffeI depart to substantiate the substance\xfffeof this information.\xf000븀\x0000\xfffeUntil next time, I say cheers to you!\xf000븁\x0000
 Route 14
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou can have up to\xfffe24 boxes in your PC!\xf000븁\x0000\xfffeIn other words,\xfffeyou can store up to 720 Pokémon!
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen you changing the title\xfffeon your Trainer card...\xf000븁\x0000\xfffeYour appearance to others in the\xfffeUnion Room and Chance-Upon Log\xf000븁\x0000\xfffewill be based on your title!\xf000븁\x0000\xfffeChange your introduction and character\xfffeto appeal to your personality!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeThe maximum number of Boxes is now 24!\xf000븁\x0000\xfffeIn other words, you can store\xfffe720 Pokémon!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeChange your type on the Trainer Card\xfffeto change how other players see you.\xf000븁\x0000\xfffeYou'll look different to others in the\xfffeUnion Room and the Tag Log!\xf000븁\x0000\xfffeMatch it with your introduction or\xfffecharacter to show your individuality!

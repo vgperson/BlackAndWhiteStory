@@ -1,39 +1,38 @@
-﻿Ghetsis: So this is the\xfffegym leader Burgh...\xf000븁\x0000
-Burgh: Team Plasma...\xfffeAre you the ones stealing\xf000븀\x0000what you want from people?\xf000븁\x0000
-Sumura: Hiding out in plain sight near\xfffehis gym seemed like an interesting idea,\xf000븀\x0000but it sure let him find us quickly...\xf000븁\x0000
-Ghetsis: Quite so...\xf000븁\x0000Well, we've already established\xfffea magnificent hideout.\xf000븁\x0000Now, are you familiar with\xfffethe legend of Unova's formation?\xf000븁\x0000
-Iris: Yeah, I know that! The one\xfffewith the white dragon Pokémon, right?!\xf000븁\x0000
-Iris: Yeah, I know that! The one\xfffewith the black dragon Pokémon, right?!\xf000븁\x0000
-Ghetsis: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepursued a truth to answer that.\xf000븁\x0000And a white dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts of all\xf000븀\x0000by creating Unova.\xf000븁\x0000
-Ghetsis: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepursued that ideal.\xf000븁\x0000And a black dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts of all\xf000븀\x0000by creating Unova.\xf000븁\x0000
-And once more! The hero and the\xfffePokémon shall be revived here\xf000븀\x0000in Unova to capture people's hearts!\xf000븁\x0000A remarkably simple\xfffedesire of mine...\xf000븀\x0000rather, of Team Plasma's!\xf000븁\x0000
-Burgh: There are many people\xfffehere in Castelia City...\xf000븁\x0000Their lifestyles and ways of\xfffethinking are all incredibly diverse.\xf000븁\x0000So honestly, what are you saying? 'Cause\xfffeI really think you're missing something.
-Huh?
-Like what?
-Burgh: But everyone shares\xfffea similarity in one respect:\xf000븀\x0000their valuing of Pokémon.\xf000븁\x0000We communicate with even our\xfffeclosest friends through Pokémon!\xf000븀\x0000Through battling or trading...\xf000븁\x0000
-Oh, about the speech at Accumula?\xf000븁\x0000I'm thankful that you gave me\xfffea chance to reconsider what\xf000븀\x0000it meant to get along with Pokémon.\xf000븁\x0000And so I swore...!\xf000븁\x0000I would earnestly stand\xfffeface to face with Pokémon!\xf000븁\x0000But what you're doing isn't exactly\xfffestrengthening the bonds between\xf000븀\x0000people and Pokémon, now is it?\xf000븁\x0000
-Ghetsis: Wahahaha!\xf000븁\x0000Don't think of it as\xfffeseizing so much as dividing.\xf000븁\x0000I have plenty of good sense.\xfffeAnd I love humans, really.\xf000븁\x0000After all, our king has brought\xfffetogether we Seven Sages to be\xf000븀\x0000an assembly of wisdom from all nations.\xf000븁\x0000Very well! For now,\xfffeI'll leave you to your opinion...\xf000븁\x0000
-That girl over there...\xfffeGive her back her Pokémon.\xf000븁\x0000
-Bianca: Th-Thank you!\xf000븁\x0000Munnie! Welcome back!\xf000븁\x0000
-Iris: Missy!!\xf000븁\x0000Don't you see how villainous these guys\xfffeare for taking your beloved Pokémon?!\xf000븁\x0000
-Bianca: Y-Yeah... But I'm just\xfffeso happy Munni is safe...\xf000븁\x0000
-Ghetsis: What a beautiful sight!\xfffeFellowship between man and Pokémon!\xf000븁\x0000But we must still liberate\xfffePokémon from foolish humans.\xf000븁\x0000And for that purpose, we must re-enact\xfffethe legend to change people's hearts...\xf000븁\x0000Well then, take care...\xf000븁\x0000
-Iris: And why exactly did you\xfffelet those scoundrels go?!\xf000븁\x0000
-Burgh: ...Hrm.\xf000븁\x0000What else could we do, given\xfffethe stolen Pokémon at stake?\xf000븁\x0000
-Bianca: It's all right!\xfffeThank you, Iris!\xf000븀\x0000Nobody got hurt or anything.\xf000븁\x0000More than anything, it's just about\xfffemeeting my precious Pokémon again!\xf000븁\x0000
-Iris: Awright...\xfffeI guess it's fine, then...\xf000븁\x0000
-Burgh: So, what will\xfffeyou all do now?\xf000븁\x0000
-Bianca: ...I kinda wanna look\xfffearound Castelia City, but, uh...\xf000븁\x0000
-Iris: You're in luck!\xf000븁\x0000Don't worry, I'll keep bein'\xfffeyour bodyguard, missy Bianca!!\xf000븁\x0000
-Bianca: Oh, Iris...\xf000븁\x0000
-Burgh: Hm, alright.\xf000븁\x0000Iris is an extraordinary\xfffePokémon Trainer, although she\xf000븀\x0000doesn't care much for this city.\xf000븁\x0000But anyway, people and Pokémon\xfffeneed to help each other!\xf000븀\x0000Cooperation and all that!!\xf000븁\x0000
-Iris: Oh, and you, good sir!\xf000븁\x0000Thanks for lookin' for the\xfffePokémon! Take this!\xf000븁\x0000
-Iris: Oh, and you, other missy!\xf000븁\x0000Thanks for lookin' for the\xfffePokémon! Take this!\xf000븁\x0000
-Iris: See ya later!!
-Wh...?
-Hold up!
-Burgh: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
-Burgh: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
-no data
-no data
-no data
+Ghetsis: My word, if it isn't\xfffethe Gym Leader, Burgh.\xf000븁\x0000
+Burgh: So, what would you say is the\xfffeguiding principle of Team Plasma, anyway?\xf000븁\x0000\xfffe“Take what you want from people"?\xf000븁\x0000
+Bronius: I thought it would be amusing\xfffeto prepare a hideout right in front of a\xf000븀\x0000\xfffePokémon Gym, but we were detected\xf000븀\x0000\xfffemore quickly than I imagined.\xf000븁\x0000
+Ghetsis: Indeed...\xf000븁\x0000\xfffeNo matter. We already have an\xfffeexceptional base of operations.\xf000븁\x0000\xfffeIs everyone familiar with the legend\xfffeof the founding of the Unova region?\xf000븁\x0000
+Iris: I am! It's the white\xfffeDragon-type Pokémon, right?\xf000븁\x0000
+Iris: I am! It's the black\xfffeDragon-type Pokémon, right?\xf000븁\x0000
+Ghetsis: The truth is this...\xf000븁\x0000\xfffeThe white dragon appeared before a hero\xfffewho sought the true way to knit together\xf000븀\x0000\xfffea world full of many warring people.\xf000븁\x0000\xfffeThis white Dragon-type Pokémon shared\xfffeits knowledge--and bared its fangs\xf000븀\x0000\xfffeat those who stood against it.\xf000븁\x0000\xfffeTogether, the power of this Pokémon and\xfffethe hero brought unity to the hearts of\xf000븀\x0000\xfffeeveryone in the land,\xf000븀\x0000\xfffeand that is how Unova was created.\xf000븁\x0000
+Ghetsis: The truth is this...\xf000븁\x0000\xfffeThe black dragon appeared before a hero\xfffewho sought the ideal way to knit\xf000븀\x0000\xfffetogether a world full of warring people.\xf000븁\x0000\xfffeThis black Dragon-type Pokémon shared\xfffeits knowledge--and bared its fangs\xf000븀\x0000\xfffeat those who stood against it.\xf000븁\x0000\xfffeTogether, the power of this Pokémon and\xfffethe hero brought unity to the hearts of\xf000븀\x0000\xfffeeveryone in the land,\xf000븀\x0000\xfffeand that is how Unova was created.\xf000븁\x0000
+We shall bring back the hero and\xfffethat Pokémon to Unova once again!\xf000븁\x0000\xfffeIf we can win people's hearts and minds,\xfffewe can easily create the world that\xf000븀\x0000\xfffeI--I mean, Team Plasma--desires!\xf000븁\x0000
+Burgh: Here in Castelia, we have\xfffea lot of different kinds of people.\xf000븁\x0000\xfffeEveryone's ways of thinking and\xfffelifestyles are very different.\xf000븁\x0000\xfffeHonestly, there's something about what\xfffeyou're saying I don't quite understand.
+Yes?
+What is it?
+Burgh: One thing we all have in\xfffecommon is that we all care a lot\xf000븀\x0000\xfffeabout Pokémon.\xf000븁\x0000\xfffeEven people meeting for the first time\xfffecan talk about Pokémon.\xf000븀\x0000\xfffeTalk or battle or trade...\xf000븁\x0000
+Remember your speech at Accumula Town?\xf000븁\x0000\xfffeYou were responsible for leading me to\xffferethink my relationship with Pokémon.\xf000븀\x0000\xfffeFor that, I thank you.\xf000븁\x0000\xfffeAt that time, I made a promise...\xf000븁\x0000\xfffeI swore to myself that I would dedicate\xfffemyself to Pokémon even more strongly!\xf000븁\x0000\xfffeWhat you guys are doing... Aren't you\xfffegoing to strengthen the bond between\xf000븀\x0000\xfffepeople and Pokémon even more?\xf000븁\x0000
+Ghetsis: Myah-ha-ha-ha!\xf000븁\x0000\xfffeYou are quite hard to figure out--a little\xfffemore intelligent than I'd expected.\xf000븁\x0000\xfffeI am fond of intelligent people, you see.\xfffeYou'll enjoy hearing about this...\xf000븁\x0000\xfffeFrom every corner of the world,\xfffeI have gathered knowledgeable people\xf000븀\x0000\xfffefor our king's benefit.\xf000븁\x0000\xfffeYou could call them the Seven Sages.\xf000븁\x0000\xfffeVery well! We will submit to your\xfffeopinion and be on our way.\xf000븁\x0000
+That girl over there...\xfffeReturn her Pokémon!\xf000븁\x0000
+Bianca: Th-thank you!\xf000븁\x0000\xfffeMunny, I'm so glad to see you again!\xf000븁\x0000
+Iris: Bianca!\xf000븁\x0000\xfffeWhy are you thanking them?\xfffeThey take people's precious Pokémon!\xf000븁\x0000
+Bianca: It's just... I'm...I'm so happy\xfffethat my Munna is safe.\xf000븁\x0000
+Ghetsis: The friendship between Pokémon\xfffeand people can be very touching.\xf000븁\x0000\xfffeBut, in order to liberate Pokémon from\xfffefoolish people, we will revive the legend\xf000븀\x0000\xfffeof Unova--and win the hearts and minds\xf000븀\x0000\xfffeof everyone. Farewell...\xf000븁\x0000
+Iris: What are you doing?\xfffeWhy are you letting them get away?!\xf000븁\x0000
+Burgh: Gah!\xf000븁\x0000\xfffeWhat do we do if anything's happened\xfffeto the other stolen Pokémon?\xf000븁\x0000
+Bianca: It's OK. Thank you, Iris!\xf000븁\x0000\xfffeNo one was hurt. More than anything,\xfffeI got my darling Pokémon back again!\xf000븁\x0000
+Iris: OK, if you're happy...\xf000븁\x0000
+Burgh: What is everyone\xfffeplanning to do now?\xf000븁\x0000
+Bianca: Oh, it would be sensational to\xfffelook around Castelia City, but...\xf000븁\x0000
+Iris: Don't worry!\xfffeI'll keep on being your bodyguard!\xf000븁\x0000
+Bianca: Iris...\xf000븁\x0000
+Burgh: Uh-hm. That's great!\xf000븁\x0000\xfffeIris is a dazzling Pokémon Trainer,\xfffebut maybe not at home in the\xf000븀\x0000\xfffebig city yet.\xf000븁\x0000\xfffeSo, a little give-and-take, hm! People and\xfffePokémon need to help each other out!\xf000븁\x0000
+Iris: Also, thanks for looking\xfffefor the Pokémon!\xf000븁\x0000\xfffeHere, this is for you!\xf000븁\x0000
+Iris: Also, thanks for looking\xfffefor the Pokémon!\xf000븁\x0000\xfffeHere, this is for you!\xf000븁\x0000
+Iris: See you!\xf000븁\x0000
+Wha...
+Waaait!
+Burgh: Well, then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting in the Gym.\xf000븁\x0000
+Burgh: Well, then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting in the Gym.\xf000븁\x0000
+
+

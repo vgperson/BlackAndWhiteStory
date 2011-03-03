@@ -1,15 +1,15 @@
-﻿This is a Poké Ball I got\xfffea really long time ago...\xf000븀\x0000\xfffeHow about I give it to you?\xf000븁\x0000
-Without a Poké Ball,\xfffeyou can't catch Pokémon!\xf000븁\x0000\xfffeThere are many kinds of Poké Balls,\xfffeso use them well.
-Chee-chee!
-Hey there!\xfffeLet's play Rock Paper Pokémon!
-Well, gosh...\xfffeYou're boring!
-Okay, here goes!\xfffeRoooock, Papeeeer...
-You're fire,\xfffeand I'm grass...\xf000븁\x0000Grass-types are\xfffeweak to fire-types...\xf000븀\x0000Which means I lose...
-You're fire,\xfffeand I'm water...\xf000븁\x0000Fire-types are\xfffeweak to water-types!\xf000븀\x0000Which means I win!
-You're water,\xfffeand I'm fire...\xf000븁\x0000Fire-types are\xfffeweak to water-types...\xf000븀\x0000Which means I lose...
-You're water,\xfffeand I'm grass...\xf000븁\x0000Water-types are\xfffeweak to grass-types!\xf000븀\x0000Which means I win!
-You're grass,\xfffeand I'm water...\xf000븁\x0000Water-types are\xfffeweak to grass-types...\xf000븀\x0000Which means I lose...
-You're grass,\xfffeand I'm fire...\xf000븁\x0000Grass-types are\xfffeweak to fire-types!\xf000븀\x0000Which means I win!
-Fire!
-Grass!
-Water!
+This is a Poké Ball I got in the past.\xfffeI'm going to give it to you.\xf000븁\x0000
+You can't catch a Pokémon\xfffeif you don't have a Poké Ball!\xf000븁\x0000\xfffeThere are many types of Poké Balls,\xfffeso use the best one for the job.
+Skree skree!
+Hi, hi!\xfffeLet's play Pokémon rock-paper-scissors!
+Oh, that's no fun!
+Here goes!\xfffePokémon rock-paper-scissors...
+Your Pokémon is Fire type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I lose.
+Your Pokémon is Fire type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I win!
+Your Pokémon is Water type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I lose.
+Your Pokémon is Water type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I win!
+Your Pokémon is Grass type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I lose.
+Your Pokémon is Grass type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I win!
+FIRE
+GRASS
+WATER

@@ -1,10 +1,10 @@
-﻿Ghetsis: Welcome,\xfffepossessor of the Dark Stone.\xf000븁\x0000
-Ghetsis: Welcome,\xfffepossessor of the Light Stone.\xf000븁\x0000
-This castle, once\xfffeconcealed under the Pokémon League,\xf000븀\x0000is a sign that Unova will change.\xf000븁\x0000
-The lord of the castle has\xfffetamed the legendary Pokémon\xf000븀\x0000and surpassed the Champion...\xf000븀\x0000the ultimate Trainer!\xf000븁\x0000Furthermore, his heart burns with ideas\xfffeof what he wishes to do with the world!\xf000븁\x0000If you wouldn't call him a hero,\xfffethen just who would you?\xf000븁\x0000
-Once the stage has been put in order,\xfffewe will capture people's hearts!\xf000븁\x0000A remarkably simple desire of mine...\xffferather, of Team Plasma's!\xf000븁\x0000With only us in control of Pokémon,\xfffewe will rule the powerless.\xf000븁\x0000
-It's been so long!\xf000븁\x0000I've lived in hiding so my plan\xfffewould not be exposed...\xf000븀\x0000But those days of suffering are over!!\xf000븁\x0000
-Now, continue!\xf000븁\x0000
-And will you too\xfffebecome a hero...?\xf000븀\x0000Well, it couldn't hurt to try!\xf000븁\x0000
-Ghetsis: Now!\xfffePossessor of the Dark Stone!\xf000븁\x0000Shall you too become\xfffea hero in the room beyond?\xf000븀\x0000Well, it couldn't hurt to try!
-Ghetsis: Now!\xfffePossessor of the Light Stone!\xf000븁\x0000Shall you too become\xfffea hero in the room beyond?\xf000븀\x0000Well, it couldn't hurt to try!
+Ghetsis: Welcome,\xfffeholder of the Dark Stone.\xf000븁\x0000
+Ghetsis: Welcome,\xfffeholder of the Light Stone.\xf000븁\x0000
+The castle that appeared as if it were\xfffeenveloping the Pokémon League\xf000븀\x0000\xfffeis a symbol.\xf000븀\x0000\xfffeIt means Unova will change.\xf000븁\x0000
+The king of this castle is the strongest\xfffeTrainer in the world.\xf000븁\x0000\xfffeHe is accompanied by the\xfffelegendary Pokémon.\xf000븁\x0000\xfffeHe has defeated the Champion.\xf000븁\x0000\xfffeAdded to all that, his heart burns\xfffewith the desire to improve the world.\xf000븁\x0000\xfffeIf that's not what makes a hero,\xfffewhat more do you need?\xf000븁\x0000
+Now that the stage is set, we can\xfffeseize people's minds and hearts.\xf000븁\x0000\xfffeWe can bring into being the world\xfffethat I--no, that Team Plasma--desires\xf000븀\x0000\xfffemore easily than you can imagine!\xf000븁\x0000\xfffeWe and only we will use Pokémon, and\xfffewe shall rule the powerless populace!\xf000븁\x0000
+I've been waiting so long for this!\xf000븁\x0000\xfffeI've kept my silence so no one\xfffecould piece together what I planned.\xf000븀\x0000\xfffeNow, those painful days are at an end!\xf000븁\x0000
+Go! Onward!\xf000븁\x0000
+Discover whether you have what\xfffeit takes to be a hero!\xf000븁\x0000
+Ghetsis: Go!\xfffeHolder of the Dark Stone!\xf000븁\x0000\xfffeIn this room, you can learn whether\xfffeyou, too, can be a hero!
+Ghetsis: Go!\xfffeHolder of the Light Stone!\xf000븁\x0000\xfffeIn this room, you can learn whether\xfffeyou, too, can be a hero!

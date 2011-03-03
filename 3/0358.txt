@@ -1,16 +1,16 @@
-﻿Hey! Trainer!\xf000븁\x0000There's some worrisome\xfffestuff going on ahead...\xf000븀\x0000Sorry, but you can't go through now.\xf000븁\x0000Go while away your time\xfffechallenging the Castelia City gym!
-Hey! Trainer!\xf000븁\x0000There's some troublesome\xfffestuff going on ahead...\xf000븀\x0000Sorry, but you can't go through now.\xf000븁\x0000Go while away your time\xfffechallenging the Castelia City gym!\xf000븁\x0000
-In Desert Resort,\xfffethe desert beyond...\xf000븁\x0000There seem to be some ruins\xfffethat have become a sightseeing spot.
-Cheren: Should I catch some ground-types?\xfffeOr just train my Pokémon?\xf000븁\x0000Which will make me stronger...?
-Cheren: Hey, \xf000Ā\x0001\x0000.\xf000븁\x0000I've been waiting for you\xfffeto get the Beetle Badge.\xf000븁\x0000It may be sudden,\xfffebut I want to see...\xf000븀\x0000which of us is the stronger Trainer?\xf000븁\x0000
-Cheren: ...I see.\xf000븁\x0000Perhaps the reason you're so strong\xfffeis because of your trust with Pokémon.\xf000븁\x0000But, no problem.\xfffeMe, \xf000ā\x0001\x0000...\xf000븀\x0000we'll all get stronger!\xf000븁\x0000
+Hey! Trainer!\xf000븁\x0000\xfffeThere is a bit of a problem up ahead.\xfffeSorry, but you can't pass now.\xf000븁\x0000\xfffeYou should go kill some time by\xfffechallenging the Castelia City Gym!
+Hey! Trainer!\xf000븁\x0000\xfffeThere is a bit of a problem up ahead.\xfffeSorry, but you can't pass now.\xf000븁\x0000\xfffeYou should go kill some time by\xfffechallenging the Castelia City Gym!\xf000븁\x0000
+Deep in the desert ahead of here,\xfffeat the Desert Resort,\xf000븀\x0000\xfffethere are some ruins that have\xf000븀\x0000\xfffebecome a little tourist destination!
+Cheren: I believe it would be wise for me\xfffeto catch some Ground-type Pokémon.\xf000븁\x0000\xfffeOr perhaps I should strengthen my\xfffePokémon. What's my best path forward?
+Cheren: Hey, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI've been waiting for you to get\xfffethe Insect Badge.\xf000븁\x0000\xfffeAnd now it's time to see which one of us\xfffeis the stronger Trainer!\xf000븁\x0000
+Cheren: It's now clear to me.\xf000븁\x0000\xfffeThe reason you are so tough is the trust\xfffebetween you and your Pokémon.\xf000븁\x0000\xfffeBut...that shouldn't be a problem.\xf000븁\x0000\xfffeI can get more out of \xf000ā\x0001\x0000\xfffeand my other Pokémon, too.\xf000븁\x0000
 The Xtransceiver is ringing.
-\xf000Ā\x0001\x0000 connected\xfffeto the Xtransceiver.\xf000븁\x0000
-Cheren: ...So.\xf000븁\x0000To get to the Nimbasa City gate,\xfffewe just proceed straight\xf000븀\x0000through Route 4 here.\xf000븁\x0000
-Something about watching the\xfffefreeway just makes me feel fulfilled...
-Ruins buried under the desert...\xfffeAh, how romantic!
-Oho! Trainer!\xfffeLook at the color of the sand...\xf000븁\x0000There's thick and\xfffeless thick sand, see?\xf000븁\x0000Pokémon may lurk in\xfffethick-looking sand!
+\xf000Ā\x0001\x0000 picked up the Xtransceiver.\xf000븁\x0000
+Cheren: Nimbasa City's gate is\xfffestraight down Route 4.\xf000븁\x0000
+When I look at the freeway,\xfffeI feel exhilarated!
+Ruins buried in the desert...\xfffeIt's like a grand adventure in a story.
+Oh! Trainer, take a look at the sand.\xf000븁\x0000\xfffeDo you see how some areas are lighter?\xfffeAnd some of the sand looks...darker...\xf000븁\x0000\xfffePokémon are hiding in the darker sand!
 Route 4
-Route 4
-Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffea form of energy called PP...\xf000븁\x0000\xfffeNamely, Power Points,\xfffeand each move has a set amount.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeWhen your Pokémon runs out of PP,\xfffeget to a Pokémon Center!
-Tired workmen,\xfffecome to the prefab near Castelia City!
+
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon have a source of energy\xfffefor using moves.\xf000븁\x0000\xfffeIt's called PP, meaning Power Points.\xfffeThey have PP for each move.\xf000븁\x0000\xfffeWhen a move has no PP remaining,\xfffethat Pokémon cannot use that move.\xf000븁\x0000\xfffeThat's a good time to head for\xfffethe Pokémon Center!
+Tired Workers should head\xfffeto the prefab house by Castelia City!

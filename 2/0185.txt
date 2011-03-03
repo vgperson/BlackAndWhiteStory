@@ -1,107 +1,107 @@
-﻿Fly to where?
-Dummy
-A small countryside town with\xfffea pleasant, portentous breeze.
-Pokémon Lab
-Boasts an impressive view\xfffethanks to its hilly terrain.
+Fly to where?
+
+A rural town whose sea breezes give\xfffethe sense of something coming.
+Juniper Pokémon Lab
+This town offers great views\xfffedue to its many hills.
 Pokémon Center
-Many people have moved here\xfffeand call it their hometown.
-Striaton Gym
+Entry stairs built in memory of a\xfffeformer home in a snowier climate.
+Striaton City Gym
 Pokémon Center
-Trainer's School
+Trainers' School
 Fennel's Lab
-A town that continues to thrive\xfffewith nearly 100-year-old storehouses.
-Nacrene Gym
+A city established in restored\xfffestorehouses built 100 years ago.
+Nacrene City Gym
 Pokémon Center
 Nacrene Museum
-Cafe Soco
-A metropolis with skyscrapers\xfffethat seem to pierce the clouds.
-Castelia Gym
+Café Warehouse
+A big city with skyscrapers\xfffepiercing the clouds.
+Castelia City Gym
 Pokémon Center
-Survey HQ
-Name Rater
+Passerby Analytics
+Name-Rating Services
 Pokémon Massage
 Royal Unova
-A lively city full of amusement\xfffeand lined with theme parks.
-Nimbasa Gym
+A bustling city of entertainment,\xfffewith many theme parks.
+Nimbasa City Gym
 Pokémon Center
-Musical Hall
+Musical Theater
 Battle Subway
 Big Stadium
-Little Court
-Known as the Gateway to Unova.\xfffeA port city that trades many goods.
-Driftveil Gym
+Small Court
+A port town distributing many goods,\xfffeand a gateway to the Unova region.
+Driftveil City Gym
 Pokémon Center
 Driftveil Market
 Move Tutor's House
-Vegetables raised near the runway\xfffeare transported by cargo plane.
-Mistralton Gym
+Vegetables are grown by the runway\xfffeand transported by cargo plane.
+Mistralton City Gym
 Pokémon Center
-Move Family House
+Move Family's House
 Cargo Service
-In winter, the town is covered in\xfffethick snow, making it a snowscape.
-Icirrus Gym
+In winter, the city is covered with\xfffesnow as far as the eye can see.
+Icirrus City Gym
 Pokémon Center
-Pokémon Fanclub
-A town that respects history,\xfffestill treasuring what it always has.
-A changing town that dismisses\xfffethe past to pursue convenience.
-Opelucid Gym
+Pokémon Fan Club
+A city that respects history\xfffeand values old things.
+A convenient city of rapid change,\xfffeshowing no traces of the past.
+Opelucid City Gym
 Pokémon Center
-Battle Mansion
-A place only challenged by Trainers\xfffewho have conquered all Pokémon gyms.
+Battle House
+Only Trainers who win at all the\xfffePokémon Gyms may challenge it.
 Pokémon Center
-A town that protects its ancient\xfffecustoms and lives systematically.
+A town where all honor old customs,\xfffeliving as methodically as clockwork.
 Pokémon Center
-In summer, vacationers gather\xfffeand make it into a beach resort.
+A summer retreat with a beach full of\xfffepeople who enjoy summer vacations.
 Pokémon Center
-A base town for railroad cars\xfffeto stop and make adjustments.
-A modern-style city that continues\xfffeto grow as people gather.
+A city with a rail yard where\xfffetrains park for an overhaul.
+A modern city of ongoing development\xfffethat draws people to it.
 Pokémon Center
-A gathering place for those around\xfffethe world who long to live with nature.
+A place of nature's bounty, it\xfffeattracts people who long for nature.
 Pokémon Center
-A very tall tower for communication\xfffewith people of all nations.
-An facility that studies Pokémon\xfffefrom other far-off regions.
-The remains of a factory, now used as\xfffea playground for children and Pokémon.
-Filled with fallen, hollowed trees\xfffethat can be passed through.
-Though a popular tourist spot and\xfffeknown as a resort, it's a harsh desert.
-The ruins of an ancient civilization\xfffewhose glory was buried in the sands.
-Many gathered goods are preserved\xfffeat a fixed temperature here.
-A cave where the repelling of\xfffeelectrified rocks causes them to float.
-Highly popular as a mine where\xfffehigh-quality ore can be extracted.
-The oldest tower in Unova, though who\xfffebuilt it and when are a mystery.
-Its steep slopes make the final barrier\xfffebefore the Pokémon League.
-A massive hole which is said\xfffeto bring calamity when approached.
-An island that prays for a world where\xfffePokémon and people freely live together.
-A secretive laboratory\xfffelying on a small island.
-Seeping rainwater has\xfffeformed puddles underground.
-A cave forgotten by people, where\xfffea legendary spirit was sealed away.
-A tall tower with a great bell\xfffesaid to purify the spirit.
-Wetlands where dents in the flat plain\xfffehave allowed puddles of water to form.
-The same air flows through\xfffeas when former people lived here.
-A sea famous worldwide\xfffefor its sparkling waves.
-Not particularly complicated, but\xfffeknown as mysterious and confusing.
-A calm route along the coast\xfffewith nice scenery and few Trainers.
-A route with a calming air on\xfffewhich excited Trainers try their might.
-A long route with many twists and turns,\xfffeowed to all the grass and ponds.
-Due to sandstorms, construction of\xfffethe route between cities is slow.
-A route with a busy atmosphere\xfffewhere performers gather.
-A route with thick, plentiful trees\xfffethat show nature's glory.
-It has thin log bridges to allow one to\xfffeproceed without going through tall grass.
-Pokémon lurk in the damp land,\xfffemuddy from numerous rainy days.
-A smooth, paved road\xfffewhere bike-lovers gather.
-Shopping Mall
-The route to the badge gates,\xfffewhere skilled Trainers gather.
-A stream that goes around the\xffferoutes, filled with beautiful sights.
-Rolling, gentle hills make it\xfffea joy to simply walk along.
-A route famous for its beach\xfffethat passes through the sea.
-A route shrouded in fog formed\xfffefrom the waterfall's splashing water.
-The rugged cliffs can be walked,\xfffebut the route is still rough.
-Many people visiting Nimbasa City\xfffeon foot stop to rest here.
-Currents caused by the terrain\xfffemake it impossible to advance freely.
-There are researches who point out\xfffeits former connection to Desert Resort.
-Unova's oldest bridge, supported\xfffeby four main towers.
-A drawbridge designed to raise\xfffeand lower with the moving of ships.
-A town of steel, undaunted by\xfffethe subway running through.
-An old town where Unova's\xfffepioneers first settled.
-A cutting-edge bridge designed\xfffeto withstand any attack.
-A place in the middle of Unova\xfffethat houses a mysterious power.
-Trainers looking for more strength\xfffecome regardless of the danger.
+A skyscraper where people from\xfffeall over the world can communicate.
+A facility to study Pokémon\xfffefrom faraway regions.
+A plant site used as a playground\xfffefor children and Pokémon.
+You can go through hollows\xfffeof fallen trees, too.
+It is a popular place for tourists,\xfffebut too harsh to be a resort.
+Ancient ruins with a glorious history,\xfffeburied in the sand as time went by.
+A lot of collected products are\xfffestored at a constant temperature.
+A cave where electrically charged\xfffestones float.
+It has a reputation as a mine\xfffelittered with valuable ore.
+The oldest tower in the Unova\xffferegion. No one knows its history.
+These steep slopes are the last\xfffeobstacle before the Pokémon League!
+Legend says if you approach this\xfffebig chasm, disasters surely follow.
+An island symbol of hope for a world\xfffewhere humans and Pokémon live free.
+Team Plasma's secret lab is located\xfffeon a quiet little island.
+This underwater pool grew from\xffferainwater soaking into the ground.
+A forgotten cave sealed with\xfffehints of a legend's presence.
+A tall tower with a large bell whose\xfffetones are said to purify the spirit.
+They say water collecting in hollows\xfffeon the flat land created the moor.
+People once lived in this village, and\xfffeit still feels the same as it did then.
+A world-famous sea of shining waves.
+A mysterious forest where people get\xfffelost despite the simple landscape.
+A small road by the shore, where you\xfffecan enjoy the seascape in peace.
+A pastoral road where novice\xfffeTrainers can challenge one another.
+A long and winding road with lots\xfffeof ponds and tall grass.
+A sandstorm delayed the road\xfffeconstruction to connect two cities.
+A busy road where\xfffeperformers gather.
+A road with many trees\xfffefor nature lovers.
+Raised walkways help you\xfffeavoid the tall grass.
+It rains a lot here, and the marshy\xfffeswamp holds many Pokémon.
+This paved road attracts\xfffethose who love bikes.
+Shopping Mall Nine
+A road leading to the Badge Check\xfffeGates, chock full of showoffs.
+Limpid streams carved beautiful\xfffescenery on this road.
+A place of fun, where it's enjoyable\xfffejust walking over its gentle hills.
+This seaside route is famous for\xfffesand bars that cross the ocean.
+A road covered with mist from\xfffethe waterfalls.
+A road whose sharp cliffs may scare\xfffesome people off.
+Many who visit Nimbasa City\xfffedrop by to take a break.
+The fast current here makes it\xfffedifficult to surf.
+Some researchers believe it was once\xfffecontiguous with Desert Resort.
+The biggest, longest bridge in Unova\xfffehas four supporting towers.
+A drawbridge raises and lowers,\xfffedepending on the ship schedules.
+A sturdy steel bridge that won't\xfffebudge an inch when trains cross it.
+An old bridge that settlers of the\xfffeUnova region built and now live on.
+The most advanced bridge in Unova,\xfffedesigned to soften any impact.
+In the middle of the Unova region,\xfffeit is a place of mysterious power.
+Trainers seeking further strength\xfffeenter the cavern despite the risks.

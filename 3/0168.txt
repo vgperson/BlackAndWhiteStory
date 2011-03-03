@@ -1,13 +1,13 @@
-﻿I've got two Pokémon fossils here,\xfffebut they're heavy...\xf000븁\x0000Would you take\xfffethe one you prefer?
-The Lid Fossil!\xf000븁\x0000It seems to be the fossil of\xfffean ancient Pokémon\xf000븀\x0000that freely swam the seas!\xf000븁\x0000
-The Wing Fossil!\xf000븁\x0000It seems to be from an ancient\xfffebird Pokémon living in the woods...\xf000븀\x0000...But it couldn't fly.\xf000븁\x0000
-Huh...?\xfffeBut I'm just GIVING these away!
-I knew you'd come crawling back!\xf000븁\x0000\xfffeAlright! So which fossil\xfffedo you want me to give you?
-The museum in Nacrene City...\xf000븁\x0000\xfffeThey say you can turn fossils\xfffeback into Pokémon there!\xf000븁\x0000\xfffeI guess that has something to do\xfffewith Lenora's love of bones and fossils!
-Lid Fossil
-Wing Fossil
-Quit
-Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!
-Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!\xf000븁\x0000
-As you sink down into the sand,\xfffeyou can get all the way to the bottom!
-I know two things\xfffeabout quicksand!\xf000븁\x0000You'll always sink\xfffein the very center!\xf000븁\x0000And if you run on it,\xfffethe sand will suck you in!
+I've been carrying two Pokémon Fossils,\xfffebut they're just so heavy...\xf000븁\x0000\xfffeWould you take one of them off my hands?
+Oh, you like the Cover Fossil?\xf000븁\x0000\xfffeI heard it is the Fossil of a Pokémon\xfffethat used to swim in the ancient sea!\xf000븁\x0000
+Oh, you like the Plume Fossil?\xf000븁\x0000\xfffeIt is the Fossil of a bird Pokémon\xfffethat lived in an ancient forest.\xf000븀\x0000\xfffe...But they say it couldn't fly.\xf000븁\x0000
+Oh, won't you please take one?\xfffeThey're really weighing me down.
+Oh, did you change your mind? Great!\xfffeYou can have your choice of Fossils!
+The museum in Nacrene City...\xf000븁\x0000\xfffeI hear Pokémon can be restored from\xfffeFossils there.\xf000븁\x0000\xfffe'Cause Lenora loves bones and Fossils!
+Cover Fossil
+Plume Fossil
+Cancel
+Trainer! You still can't move ahead\xfffe'cause there is so much sand!\xf000븁\x0000\xfffeI will do my best to remove the sand.\xfffeGive me a second!
+Trainer! You still can't move ahead\xfffe'cause there is so much sand!\xf000븁\x0000\xfffeI will do my best to remove the sand.\xfffeGive me a second!\xf000븁\x0000
+There! The sand is cleared away, so now\xfffeyou can proceed.
+There are two things I've learned\xfffeabout quicksand!\xf000븁\x0000\xfffeIf you try to walk through the middle,\xfffeyou'll fall.\xf000븁\x0000\xfffeAnd if you try to run through it,\xfffeyou'll fall.

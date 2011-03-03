@@ -1,8 +1,8 @@
-﻿Head straight ahead, and bam,\xfffeon your side, it's a maze of nature!\xf000븁\x0000Which will Pinwheel Forest\xfffebe for you? Path, or maze?
-Burgh: Just ahead of us is\xfffePinwheel Forest.\xf000븁\x0000\xfffeIf they did escape into the forest,\xfffeit could be troublesome.\xf000븁\x0000
-Yo! Traveling Trainer!\xfffeYou train Pokémon, I'm sure?\xf000븀\x0000Then you can try using this!\xf000븁\x0000
-Rock Smash is a move that\xfffesometimes lowers the target's defense!\xf000븁\x0000It'll be super-effective against leader\xfffeLenora's favorite normal-type Pokémon!
-There's a rock here...\xf000븁\x0000\xfffeHave \xf000Ă\x0001\x0000\xfffetry to smash it?
-\xf000Ă\x0001\x0000\xfffesmashed the rock!\xf000븁\x0000The rock crumbled\xfffeinto pieces!!\xf000븁\x0000
-There's a rock here...
-Ahead: Pinwheel Forest\xfffe...You have Antidotes, right?
+If you go straight, it doesn't take long.\xfffeBut if you go the wrong way, it's a maze.\xf000븁\x0000\xfffeIs Pinwheel Forest a\xfffepath or a maze for you?
+Burgh: This leads to Pinwheel Forest.\xf000븁\x0000\xfffeIf they manage to scuttle off into the\xfffeforest, we might have trouble.\xf000븁\x0000
+Yo! Traveling Trainer!\xfffeAre your Pokémon getting stronger?\xf000븀\x0000\xfffeHere! This might come in handy!\xf000븁\x0000
+Rock Smash is a move that sometimes\xfffereduces your foe's Defense stat.\xf000븁\x0000\xfffeIt is super effective against Normal-type\xfffePokémon, which Gym Leader Lenora likes!
+It's a challenge rock.\xf000븁\x0000\xfffeWould you like to have \xf000Ă\x0001\x0000\xfffesmash the rock?
+\xf000Ă\x0001\x0000 tried to smash the\xfffechallenge rock.\xf000븁\x0000\xfffeA piece of the rock broke away!\xf000븁\x0000
+It's a challenge rock.
+Pinwheel Forest\xfffeDid you remember to pack an Antidote?

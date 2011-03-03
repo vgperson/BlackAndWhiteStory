@@ -1,18 +1,25 @@
-﻿Entralink
-    Live\xfffe   Caster
-Union Room
-\xf000ȁ\x0001\x0000
-Wireless Connection
-In
-No
-Yes
-No
-Back
-Save your progress thus far?
-Now saving.\xfffePlease wait.
-C-Gear
-In
-No
-Entralink\xfffe Connect...
-Entralink\xfffe Guest: \xf000Ȁ\x0001\x0000
-Entralink\xfffe Mission
+Hardy
+Lonely
+Brave
+Adamant
+Naughty
+Bold
+Docile
+Relaxed
+Impish
+Lax
+Timid
+Hasty
+Serious
+Jolly
+Naive
+Modest
+Mild
+Quiet
+Bashful
+Rash
+Calm
+Gentle
+Sassy
+Careful
+Quirky

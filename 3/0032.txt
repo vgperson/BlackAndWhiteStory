@@ -1,15 +1,15 @@
-﻿Good day, Trainer!\xf000븁\x0000Make sure to think about giving\xfffePotions to your traveling companions!
-It's always good to\xfffebuy more Poké Balls!\xf000븁\x0000Even if you're just running into\xfffePokémon you've already caught!
-Hey, you there!\xf000븁\x0000When you play, do you prefer\xfffeto do it outside or inside?
-I see, I see, yes, yes!\xf000븁\x0000Do you care about what everyone\xfffeknows, or what no one knows?
-Oh, really!\xf000븁\x0000
-In my opinion, you seem like\xfffea straightforward person!
-You seem like\xfffea rather active type!
-Your curiosity seems\xfffeto know no bounds!
-You must be\xfffea very quiet person!
-You sound like\xfffesome kind of maniac!
+Hello, Trainer!\xfffeI think Potions are important for a trip!
+I should have bought more Poké Balls!\xf000븁\x0000\xfffeA Pokémon I wanted to catch\xfffejust came out, and I missed it!
+Hi! I have some questions for you!\xf000븁\x0000\xfffeIf you want to play, which do you prefer:\xfffeoutside or at home?
+I see, I see!\xf000븁\x0000\xfffeThen, which one are you interested in:\xfffethe thing everybody knows\xf000븀\x0000\xfffeor the thing nobody knows?
+Oh, really?\xf000븁\x0000
+In my view, you are a person with\xfffecommon sense!
+I'd say you are quite active!
+I'd say you are very curious!
+I'd say you are quite composed!
+I'd say you are quite relaxed!
 Outside
-Inside
-Either
-What everyone knows
-What no one knows
+At home
+Neither
+The thing everybody knows
+The thing nobody knows

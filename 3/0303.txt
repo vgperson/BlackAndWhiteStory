@@ -1,53 +1,53 @@
-テストメッセージ
-ハイリンクの ちからで\xfffeすがたが へんかした！
-だれかのせかい に\xfffeいって みたかな？\xf000븁\x0000しまにかかる かけはしから\xfffeだれかのせかいに いけるはずだ\xf000븁\x0000
-さて ハイリンクについて\xfffeききたいことは あるかな？
-もし わからないことが あれば\xfffeむすめたちにも はなしを きくといい
-だれかのせかいに はいりこみ\xfffeおおくのひとを たすけるのだ
-ハイリンクは だれかのせかいと\xfffeつながる ふしぎな ばしょ\xf000븁\x0000このハイリンクに かかる\xfffeかけはしを わたれば\xf000븀\x0000だれかのせかいに いけるだろう\xf000븁\x0000そこで そのせかいの ぼうけんしゃを\xfffeたすけることが できるはずだ\xf000븁\x0000
-このきが もっている パワーを\xfffeデルパワーと よんでいる\xf000븁\x0000デルパワーは １つだけ\xfffeＣギアに とうろく することができ\xf000븁\x0000Ｃギアの\xfffe「すれちがいログ」から\xf000븀\x0000すれちがった あいてにむけて\xf000븀\x0000つかうことが できるのだ\xf000븁\x0000いいか？ デルパワーを つかうには\xfffeデルダマが ひつようだ\xf000븁\x0000だれかのせかいで ミッションを\xfffeおこない デルダマを あつめるのだ\xf000븁\x0000
-ハイリンク とは？
-デルパワー とは？
-Quit
-おやおや\xfffeだれか きたな……\xf000븀\x0000ようこそ ハイリンクへ\xf000븁\x0000…… …… ……\xfffe……うむ？\xf000븀\x0000そのようすだと ここが どこか\xf000븀\x0000わからない ようだな\xf000븁\x0000
-……ここは\xfffeイッシュの ちゅうしんにある\xf000븀\x0000ハイリンクと よばれる しまだ\xf000븁\x0000ハイリンクは だれかのせかいと\xfffeつながる ふしぎな しま\xf000븁\x0000この しまから つながる\xfffeだれかのせかいに いけば\xf000븀\x0000そのせかいの ぼうけんしゃに\xf000븀\x0000であうことが できる\xf000븁\x0000
-そして おぬしは\xfffeその ぼうけんしゃを\xf000븀\x0000たすけることが できるのだ\xf000븁\x0000…… …… ……\xfffe……おぬし！\xf000븁\x0000もし そのひとを\xfffeたすけたいと おもうなら\xf000븀\x0000このしまの かけはしを わたり\xf000븀\x0000だれかのせかいに いってみるのだ\xf000븁\x0000そこに おぬしをまっている\xfffeだれかが いるはずだ
-この かけはしは\xfffeだれかのせかいと つながります\xf000븁\x0000
-かけはしの せつぞくに ついて\xfffeしりたいことは ありますか？
-かけはしの うえにのると\xfffeはしを せつぞくする あいてを\xf000븀\x0000さがし はじめます\xf000븁\x0000あいてを みつけ\xfffeはしが せつぞく できれば\xf000븀\x0000はしを わたり あいてのせかいへ\xf000븀\x0000いくことが できるでしょう\xf000븁\x0000
-この かけはしは\xfffeハイリンクの まわりにある\xf000븀\x0000まちや どうろで\xf000븀\x0000ぼうけんを つづけている\xf000븀\x0000あいてと つながります\xf000븁\x0000はしを わたれば そのあいてを\xfffeたすけることが できます\xf000븁\x0000
-さあ かけはしの うえに\xfffeのって ください\xf000븁\x0000しばらくして あいてと つながれば\xfffeはしを わたることが できます
-せつぞくの しかたは？
-だれと つながる？
-Quit
-この かけはしは\xfffeだれかのせかいと つながります\xf000븁\x0000
-かけはしの せつぞくに ついて\xfffeしりたいことは ありますか？
-かけはしの うえにのると\xfffeはしを せつぞくする あいてを\xf000븀\x0000さがし はじめます\xf000븁\x0000あいてを みつけ\xfffeはしが せつぞく できれば\xf000븀\x0000はしを わたり あいてのせかいへ\xf000븀\x0000いくことが できるでしょう\xf000븁\x0000
-この かけはしは\xfffeハイリンクの まわりにある\xf000븀\x0000まちや どうろで\xf000븀\x0000ぼうけんを つづけている\xf000븀\x0000あいてと つながります\xf000븁\x0000はしを わたれば そのあいてを\xfffeたすけることが できます\xf000븁\x0000
-さあ かけはしの うえに\xfffeのって ください\xf000븁\x0000しばらくして あいてと つながれば\xfffeはしを わたることが できます
-せつぞくの しかたは？
-だれと つながる？
-Quit
-ゆめと げんじつを つなぐ\xfffeハイリンクのもり\xf000븁\x0000ここでは ゆめが\xfffeげんじつになると いわれています\xf000븁\x0000
-ハイリンクのもり について\xfffeしりたいことは ありますか？
-ハイリンクのもり は\xfffeゆめで おきたことが\xf000븀\x0000げんじつとなる ばしょです\xf000븁\x0000ゆめをみた ポケモンが\xfffe「ゲームシンク」で めざめたとき\xf000븁\x0000その ゆめは このもりで\xfffeまさゆめに なるのです\xf000븁\x0000
-ゆめでであった ポケモンは\xfffeハイリンクの 「もりのひろば」に\xf000븀\x0000あらわれます\xf000븁\x0000もりのひろば に\xfffeあらわれた ポケモンは\xf000븁\x0000きっと あなたの なかまに\xfffeなってくれます\xf000븁\x0000また ひろばにいる ポケモンを\xfffe「もりのおく」に いどうさせれば\xf000븁\x0000いつまでも もりのおくで\xfffeあなたを まってくれるでしょう\xf000븁\x0000
-ポケモンが ゆめから さめたとき\xfffeこのもりに きてください
-ハイリンクのもり とは？
-もりのひろば もりのおく とは？
-Quit
-このばしょから もとのせかいに\xfffeもどることが できます\xf000븁\x0000もし もとのせかいに\xfffeもどりたく なったら\xf000븀\x0000いつでも ここにきてください
-……\xfffeようこそ だれかのせかいへ\xf000븁\x0000おぬしは ここで\xfffeこのせかいの ぼうけんしゃを\xf000븀\x0000たすけることが できる\xf000븁\x0000さあ このきに ふれ\xfffeミッションを うけるのだ\xf000븁\x0000
-……さて なにか\xfffeききたいことは あるかな？
-さあ ミッションを うけ\xfffeぼうけんしゃを たすけるのだ
-このせかいで たびをする\xfffeぼうけんしゃを たすけるため\xf000븁\x0000このきに ふれ\xfffeミッションを うけるのだ\xf000븁\x0000
-ミッション とは\xfffeこのせかいの ぼうけんしゃを\xf000븀\x0000たすける ほうほうだ\xf000븁\x0000このきを しらべれば\xfffeミッションを うけることが できる\xf000븁\x0000さあ ミッションをうけ\xfffeぼうけんしゃのもとへ いくのだ\xf000븁\x0000
-ここ だれかのせかい では\xfffeじゆうに ワープすることができる\xf000븁\x0000……このせかいは おぬしの\xfffeゆめで できているのだ\xf000븁\x0000おぬしが イメージすれば\xfffeそこに ワープすることが できる\xf000븁\x0000さあ ミッションを うけ\xfffeぼうけんしゃの もとへいくのだ\xf000븁\x0000
-ミッション とは？
-ワープ とは？
-Quit
-まずは ハイリンクに\xfffeかかる かけはしを わたり\xf000븀\x0000だれかのせかいに いってみるのだ\xf000븁\x0000そこに おぬしをまつ\xfffeだれかが いるはずだ
-おお！\xfffeミッションを えらんだか！\xf000븀\x0000さあ ミッションを たっせいするため\xf000븀\x0000ぼうけんしゃの もとへいくのだ！\xf000븁\x0000ぼうけんしゃの いばしょは\xfffeしたの ちずに のっている\xf000븁\x0000ちずを タッチすれば\xfffeそこまで ワープできるはずだ\xf000븁\x0000ちずを たよりに\xfffeぼうけんしゃに であい\xf000븀\x0000ミッションを たっせいするのだ！
-……おお\xfffeすばらしい！\xf000븀\x0000ミッションを たっせいしたな！\xf000븀\x0000ここまで やるとはな……\xf000븁\x0000……これで\xfffeハイリンクに しあわせが あつまり\xf000븀\x0000きがすこし せいちょうした\xf000븁\x0000このきは おおきく\xfffeせいちょう することで\xf000븀\x0000ふしぎな パワーが\xf000븀\x0000あつまって くるのだ\xf000븁\x0000……うむ もしかしたら\xfffeおぬしは そのパワーを\xf000븀\x0000うけとれる かもしれない\xf000븁\x0000このきを しらべて\xfffeその ふしぎな パワー……\xf000븀\x0000デルパワーを うけとって みなさい
-うむ ミッションを\xfffeしっぱい したな\xf000븁\x0000……なにごとにも\xfffeしっぱいは つきものだ\xf000븁\x0000また はしをわたり もういちど\xfffeチャレンジ すればよい\xf000븁\x0000ちずを よくみて ぼうけんしゃを\xfffeさがすのが コツだ
-おおぉ！\xfffeデルパワーを うけとったか！\xf000븀\x0000その パワーを もらえるとは……\xf000븀\x0000……すばらしい\xf000븀\x0000じつに すばらしい！\xf000븁\x0000その デルパワーは\xfffeすれちがった あいてを\xf000븀\x0000たすけることができる パワーだ\xf000븁\x0000あとで Ｃギアの\xfffe「すれちがいログ」を みるといい\xf000븁\x0000…… …… ……\xfffe…… …… ……\xf000븁\x0000……さて これで\xfffeおしえられることは なくなった\xf000븁\x0000ハイリンクで おおくの\xfffeぼうけんしゃを たすけ\xf000븀\x0000たくさんの しあわせを あつめるのだ\xf000븁\x0000…… …… ……\xfffe…… …… ……\xf000븁\x0000この ハイリンクの パワーは\xfffeすべて おぬしの ものだ\xf000븁\x0000たくさんの しあわせを あつめ\xfffeすべての パワーを てにいれるのだ！
+
+
+
+Is there anything you'd like to know\xfffeabout the Entralink?
+If there is anything you don't\xfffeunderstand, you may ask the girls, too.
+
+The Entralink is a mysterious place to\xfffeconnect with someone's world.\xf000븁\x0000\xfffeIf you cross a bridge in the Entralink,\xfffeyou will be able to go to someone's world.\xf000븁\x0000\xfffeThere, you should be able to help the\xfffeadventurer in that world.\xf000븁\x0000
+The power stored in this tree is called\xfffePass Power.\xf000븁\x0000\xfffeYou can register only one Pass Power in\xfffeyour C-Gear. You use it by aiming at\xf000븀\x0000\xfffepeople you pass by with the\xf000븀\x0000\xfffeTag Log.\xf000븁\x0000\xfffeBut you need a Pass Orb to use\xfffePass Power.\xf000븁\x0000\xfffeCarry out a mission in someone else's\xfffeworld and collect Pass Orbs.\xf000븁\x0000
+Entralink
+Pass Power
+Cancel
+Oh, someone showed up...\xfffeWelcome to the Entralink.\xf000븁\x0000\xfffeHm?\xf000븁\x0000\xfffeJudging by the look of you, you don't\xfffeseem to know where you are.\xf000븁\x0000
+This is an island called the Entralink.\xfffeIt's located in the center of the\xf000븀\x0000\xfffeUnova region.\xf000븁\x0000\xfffeThe Entralink is a mysterious place where\xfffeyou can connect with someone's world.\xf000븁\x0000\xfffeIf you go to someone's world by passing\xfffethrough this island, you will be able to\xf000븀\x0000\xfffemeet an adventurer in the world.\xf000븁\x0000
+And you can help that adventurer.\xf000븁\x0000\xfffeYes! If you want to help, cross a bridge\xfffein this island and go to someone's world.\xf000븁\x0000\xfffeThere must be someone who is waiting\xfffefor you there!
+This bridge will connect to someone\xfffeelse's world.\xf000븁\x0000
+Is there anything you'd like to know\xfffeabout a connection at a bridge?
+When you are on a bridge, a search will\xfffestart to find a person to connect with.\xf000븁\x0000\xfffeIf the bridge connects, you will be able\xfffeto cross into that person's world.\xf000븁\x0000
+This bridge will connect to the world of a\xfffeperson who is having an adventurous\xf000븀\x0000\xfffejourney in a town or on a road\xf000븀\x0000\xfffearound the Entralink.\xf000븁\x0000\xfffeIf you cross the bridge, you will be able\xfffeto help with that person's adventure.\xf000븁\x0000
+Now, please go to the bridge.\xf000븁\x0000\xfffeIf it connects to someone else's world,\xfffeyou'll be able to cross.
+How to connect
+Connecting with someone
+Cancel
+This bridge will connect to someone\xfffeelse's world.\xf000븁\x0000
+Is there anything you'd like to know\xfffeabout a connection at a bridge?
+When you are on a bridge, a search will\xfffestart to find a person to connect with.\xf000븁\x0000\xfffeIf the bridge connects, you will be able\xfffeto cross into that person's world.\xf000븁\x0000
+This bridge will connect to the world of a\xfffeperson who is having an adventurous\xf000븀\x0000\xfffejourney in a town or on a road\xf000븀\x0000\xfffearound the Entralink.\xf000븁\x0000\xfffeIf you cross the bridge, you will be able\xfffeto help with that person's adventure.\xf000븁\x0000
+Now, please go to the bridge.\xf000븁\x0000\xfffeIf it connects to someone else's world,\xfffeyou'll be able to cross.
+How to connect
+Connecting with someone
+Cancel
+The Entree Forest connects dreams\xfffeand reality.\xf000븁\x0000\xfffePeople say dreams come true here.\xf000븁\x0000
+Is there anything you'd like to know\xfffeabout the Entree Forest?
+The Entree Forest is a place where\xfffedreams come true.\xf000븁\x0000\xfffeWhen a dreaming Pokémon wakes up in\xfffeGame Sync, its dream will come true in\xf000븀\x0000\xfffethis forest.\xf000븁\x0000
+Pokémon that your Pokémon met in its\xfffedream will show up in the Entralink\xf000븀\x0000\xfffein a Forest Clearing.\xf000븁\x0000\xfffePokémon in a Forest Clearing will be\xfffeyour friends for sure!\xf000븁\x0000\xfffeIf you move the Pokémon to the Deepest\xfffeClearing, they will wait for you there.\xf000븁\x0000
+When your Pokémon wakes up from a\xfffedream, please come to this forest.
+Entree Forest
+Forest Clearing and Deepest Clearing
+Cancel
+You can go back to the original world\xfffefrom this place.\xf000븁\x0000\xfffeIf you want to go back to the original\xfffeworld, please come back here.
+Welcome to someone else's world.\xf000븁\x0000\xfffeHere, you can help the adventurer in\xfffethis world.\xf000븁\x0000\xfffeNow, touch this tree to receive\xfffea mission.\xf000븁\x0000
+Is there anything you'd like to know?
+Now, receive a mission and\xfffehelp the adventurer.
+To help the adventurer traveling in this\xfffeworld, touch this tree and receive\xf000븀\x0000\xfffea mission.\xf000븁\x0000
+A mission is a means to help the\xfffeadventurer in this world.\xf000븁\x0000\xfffeIf you check this tree, you can receive\xfffea mission.\xf000븁\x0000\xfffeNow, receive a mission and go find\xfffethe adventurer.\xf000븁\x0000
+In this world, you can travel by warping\xfffearound, because this world is made of\xf000븀\x0000\xfffeyour dream.\xf000븁\x0000\xfffeIf you imagine a place, you can\xfffewarp there.\xf000븁\x0000\xfffeNow, receive a mission and go find\xfffethe adventurer.\xf000븁\x0000
+Mission
+Warp
+Cancel
+First, cross a bridge in the Entralink,\xfffeand go to someone's world.\xf000븁\x0000\xfffeThere must be someone who is waiting\xfffefor you there.
+You've chosen a mission!\xfffeIn order to accomplish the mission,\xf000븀\x0000\xfffego find the adventurer!\xf000븁\x0000\xfffeThe adventurer's location is shown on\xfffethe map below.\xf000븁\x0000\xfffeTouch the place on the map and you can\xfffewarp there.\xf000븁\x0000\xfffeRely on the map, meet the adventurer,\xfffeand accomplish the mission!
+Wonderful! You accomplished the mission!\xfffeI didn't expect you to make it this far...\xf000븁\x0000\xfffeYour success brought happiness to the\xfffeEntralink, and the tree grew a little bit.\xf000븁\x0000\xfffeMysterious power will gather here as this\xfffetree grows bigger.\xf000븁\x0000\xfffeYou may be able to receive this power!\xf000븁\x0000\xfffeTouch this tree and try to receive the\xfffemysterious power...\xf000븀\x0000\xfffePass Power.
+Oh, it seems you've failed in the mission.\xfffeWell, nobody's perfect.\xf000븁\x0000\xfffePlease cross the bridge and try it again!\xf000븁\x0000\xfffeThe tip is to look at the map closely and\xfffefind the adventurer.
+Oooooh! You've received a Pass Power!\xfffeIt's wonderful! Really wonderful!\xf000븁\x0000\xfffePass Power can help people who\xfffepassed by.\xf000븁\x0000\xfffeCheck the Tag Log in your\xfffeC-Gear later.\xf000븁\x0000\xfffe...Well, that's really all I can\xfffeteach you.\xf000븁\x0000\xfffeThe power of this Entralink is all yours.\xf000븁\x0000\xfffeHelp a lot of adventurers via the\xfffeEntralink, and collect a lot of happiness.\xf000븁\x0000\xfffeCollect a lot of happiness, and get\xfffeall the powers!

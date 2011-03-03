@@ -1,34 +1,33 @@
-﻿Return to Castelia City?
-We'll be departing soon.\xfffePlease prepare to board.\xf000븁\x0000
-Come and tell me anytime\xfffeyou're ready to return to Castelia City!
-These Team Plasma guys...\xf000븁\x0000\xfffeThey're always doing\xfffesuch horrible things...!
-The smell of the sea\xfffemakes me feel great!
+Do you want to go back to Castelia City?
+We are just about to leave, so please\xfffeget on board and wait a moment.\xf000븁\x0000
+Just come talk to me when you want\xfffeto return to Castelia City!
+That Team Plasma...\xf000븁\x0000\xfffeThey sure do terrible things!
+The smell of the ocean is so soothing!
 Waaah! I'm scared!
-Big bro beat up\xfffethe bad guys!
-Big sis beat up\xfffethe bad guys!
-You're making my grandson cry!\xfffeMaking light of your elders...\xf000븀\x0000\xfffeS-Sob...!
-I'm truly thankful that\xfffeyou helped my grandchild!
-Huhhh?! Don't bother me!\xf000븁\x0000\xfffeJust sit down and be obedient\xfffeand we won't have to get rough!
-What are they hoping to do\xfffeby occupying the island...?\xf000븀\x0000\xfffeReeeal suspicious, these guys!
-If only I have unearthed the\xfffesecrets of the island sooner...\xf000븁\x0000\xfffeNo, no, it's nothing!\xfffeJ-Just talking to myself...!
-The only thing in Memorial Park\xfffeis the old lighthouse...\xf000븀\x0000\xfffeWhat are they even planning...?
-I can't believe how many people\xfffeuse Pokémon for misdeeds...!
-Even my Pokémon\xfffecouldn't oppose them...!\xf000븀\x0000\xfffeTeam Plasma, you jerks!
-I'm glad a strong Trainer like you\xfffecould be such a lifesaver for us!
-It's been so boring lately\xfffewith the utter lack of tourists...
-...200 years ago, a millionaire\xfffebought up this island.\xf000븁\x0000\xfffeHe wished for a world where\xfffepeople and Pokémon lived together\xf000븀\x0000\xfffeas freely as they liked...\xf000븀\x0000\xfffeSo he named it Liberty Island.
-Wharf #2\xfffeBut in terms of sightseeing,\xf000븀\x0000\xfffeit's definitely Wharf #1!
-Liberty Lighthouse\xf000븁\x0000\xfffeOnly authorized personnel\xfffeare allowed entry!
-The police force came, er,\xffferunning here on defense ships!\xf000븁\x0000\xfffeThanks to their efforts,\xfffewe caught a load of bad guys!
-Is the Pokémon alright?\xf000븁\x0000\xfffeThe island's been so\xfffequiet after that incident...
-Team Plasma never dies!
-Not giving up yet!
-I won't let evil stand!
-Hurry up and move it!
-Juniper: Thanks to \xf000Ā\x0001\x0000, those\xfffeevil-doers have been taken away!\xf000븁\x0000
-Victini is a mystical Pokémon that\xffferadiates energy from its body...\xf000븁\x0000That energy can fill people or Pokémon\xfffeto make them much more powerful!\xf000븁\x0000Of course, some wished to abuse it\xfffefor their own selfish designs...\xf000븁\x0000The millionaire who made the cellar\xfffedeeply wanted to help Victini,\xf000븀\x0000and he was not mistaken there...\xf000븁\x0000Of course, he could've done\xfffea better job of hiding the room!\xf000븁\x0000Thanks to you, \xf000Ā\x0001\x0000,\xfffeVictini has received a new fate,\xf000븀\x0000one sans Team Plasma's evil abuse...\xf000븁\x0000It's your duty to make sure that\xfffeVictini's abilities are not misused!\xf000븁\x0000
-So...\xf000븁\x0000Victini's number in the\xfffeUnova Dex is 000.\xf000븁\x0000It's meant to show other Trainers\xfffejourneying with a Pokédex\xf000븀\x0000Victini's victory-granting power...\xf000븁\x0000I've heard that's\xfffethe intent, at least.\xf000븁\x0000
-Professor Juniper!\xf000븁\x0000\xfffeThe villains have been\xfffeloaded onto the ship!\xf000븁\x0000\xfffeWe're returning to Castelia City!\xfffeYou must board too, Professor!\xf000븁\x0000
-Juniper: Thanks,\xfffeI'll be right there!\xf000븁\x0000
-The abilities of Pokémon...\xf000븁\x0000I can't imagine what possesses villainous\xfffehearts to abuse their magnificence...\xf000븁\x0000After all, the future brought by respect\xfffefor each other as Pokémon and people\xf000븀\x0000gleams so brightly!\xf000븁\x0000
-no data
+You sure took care of\xfffethose bad guys, mister!
+You sure took care of\xfffethose bad guys, miss!
+Making my grandchild cry!\xf000븁\x0000\xfffeIf they are underestimating me because\xfffeI'm old... Grrr!
+Thank you very much for\xfffesaving my grandchild.
+Shut your trap!\xf000븁\x0000\xfffeIf you stay here quietly,\xfffewe won't be rough.
+What do they hope to accomplish\xfffeby occupying the island?\xf000븀\x0000\xfffeWhat a sketchy group!
+If I had known this island's secret\xfffeearlier, I would've...\xf000븁\x0000\xfffeWhat? No! Nothing!\xfffeJust talking to myself!
+What are they doing in this little\xfffememorial park? There's nothing here\xf000븀\x0000\xfffebut an old lighthouse...
+Too many people use Pokémon\xfffefor bad deeds!
+This officer's Pokémon couldn't stand up\xfffeto them!\xf000븀\x0000\xfffeThat blasted Team Plasma!
+I'm really glad a strong Trainer\xfffelike you is around!
+Recently, I've been bored because\xfffethe number of tourists has decreased.
+Two hundred years ago, an ultra-rich\xfffefamily bought this island and named it\xf000븀\x0000\xfffeLiberty Garden.\xf000븁\x0000\xfffeIt's a place where people and Pokémon\xfffecould live freely.
+Dock 2\xfffeTo board the tour boat, go to Dock 1.
+This lighthouse shines with the light\xfffeof freedom.\xf000븁\x0000\xfffeOnly authorized personnel may enter.
+My fellow officers rushed here by\xfffepolice boat!\xf000븁\x0000\xfffeThanks to them, we rounded up\xfffethese baddies!
+How's that Pokémon doing?\xf000븁\x0000\xfffeThe island sure has been quiet since\xfffethat incident.
+Team Plasma forever!
+We won't give up!
+You're irredeemable!
+Get moving!
+Professor Juniper: Thanks to you,\xfffe\xf000Ā\x0001\x0000, this group that was\xf000븀\x0000\xfffeup to no good has been captured!\xf000븁\x0000
+Victini is a mythical Pokémon that is said\xfffeto radiate energy from its body...\xf000븁\x0000\xfffeWhen Pokémon or people come into contact\xfffewith that energy, it fills up their bodies,\xf000븀\x0000\xfffeand they exhibit more power than usual.\xf000븁\x0000\xfffeThat's why there was no end to the\xfffepeople who wanted to use Victini for\xf000븀\x0000\xfffetheir own evil ends...\xf000븁\x0000\xfffeI'm sure the rich person who built this\xfffeunderground room for Victini was\xf000븀\x0000\xfffesincerely trying to help it.\xf000븁\x0000\xfffeBut I think shutting the poor thing up in\xfffethis room was a mistake.\xf000븁\x0000\xfffeThanks to you, Victini has a new destiny\xfffethat does not involve being used in\xf000븀\x0000\xfffeTeam Plasma's schemes.\xf000븁\x0000\xfffeMaking sure no one misuses Victini's\xfffepowers is now your duty!\xf000븁\x0000
+Also...\xf000븁\x0000\xfffeIn the Unova Pokédex, Victini was\xfffeassigned a special number: zero.\xf000븁\x0000\xfffeI've heard the special number was\xfffeassigned in the hope that Victini's power\xf000븀\x0000\xfffeto bring victory would be shared with the\xf000븀\x0000\xfffeTrainer who travels with this Pokédex...\xf000븁\x0000
+Professor Juniper!\xf000븁\x0000\xfffeWe cornered the crooks with our\xfffehigh-speed police boat!\xf000븁\x0000\xfffeWe will return to Castelia City!\xfffePlease come on board, too!\xf000븁\x0000
+Professor Juniper: Thank you!\xfffeI'll be right there!\xf000븁\x0000
+I can't believe it when people are led\xfffeastray by Pokémon's astounding abilities\xf000븀\x0000\xfffeand try to misuse them...\xf000븁\x0000\xfffeBut it's only when we face Pokémon with a\xfffegood heart that we can make a\xf000븀\x0000\xfffebrighter future!\xf000븁\x0000

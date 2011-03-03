@@ -1,53 +1,53 @@
-﻿Cheren: Okay, let's go.\xf000븁\x0000
-Bianca: Professor!\xf000븁\x0000
-Hi there!\xf000븁\x0000I've been waiting for you,\xfffeboys and girls!\xf000븁\x0000Allow me to introduce myself.\xf000븁\x0000My name's...\xf000븁\x0000
-Cheren: ...Professor Juniper?\xfffeWe already know your name.\xf000븁\x0000
-Juniper: Well!\xfffeAren't YOU so suave, Cheren?\xf000븁\x0000Today's a day worth commemorating!\xfffeSo make sure you stand up straight, huh?\xf000븁\x0000Now then, back to my introduction...\xf000븁\x0000My name's Juniper!\xf000븁\x0000I investigate when exactly the creatures\xfffewe know as Pokémon were born.\xf000븁\x0000
-Ah, magnificent! You've already had\xfffesome Pokémon battles, I see.\xf000븁\x0000Could it mean that\xfffeyour Pokémon have already begun\xf000븀\x0000putting their trust in you...?\xf000븀\x0000Yes, I feel it must!\xf000븁\x0000By the way, will you give\xfffea nickname to your Pokémon?
-Juniper: I see, I see...\xfffeSo the nickname \xf000Ă\x0001\x0000 is okay?
-Juniper: \xf000Ă\x0001\x0000, huh?\xfffeTalk about a great name!\xf000븁\x0000
-Juniper: I see, I see...\xfffeNo nickname for you.\xf000븀\x0000Well, some are like that.\xf000븁\x0000
-Juniper: Now then, the reason\xfffeI gave you all Pokémon...\xf000븁\x0000
-Cheren: For the Pokédex, right?\xf000븁\x0000
-Bianca: Pokédex...?\xf000븁\x0000
-Juniper: Oh, marvelous!\xfffeSpot on, Cheren!\xf000븁\x0000You're always studying up\xfffeon Pokémon, eh?\xf000븁\x0000That said... Well,\xfffelet me explain it formally for you all!\xf000븁\x0000
-A Pokédex is...!\xf000븁\x0000A high-tech device that will automatically\xffferecord the Pokémon you meet!\xf000븁\x0000So, seeing as \xf000Ā\x0001\x0000 and you two\xfffeare going to a great many places,\xf000븀\x0000I want you to see all the Pokémon\xf000븀\x0000throughout the Unova region!\xf000븁\x0000
-Now then, listen to me...\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeCheren! Bianca!\xf000븁\x0000Go, and embark on a journey\xfffeto complete the Pokédex!
-Juniper: Why, I never!\xf000븁\x0000What I WANTED to hear\xfffewas that you'll scour the world!\xf000븁\x0000Have some courage! They're just words!!\xf000븁\x0000Seeing as \xf000Ā\x0001\x0000 and you two\xfffeare going to a great many places,\xf000븀\x0000I want you to see all the Pokémon\xf000븀\x0000throughout the Unova region!\xf000븁\x0000
-Bianca: YESSSSS!\xf000븁\x0000I mean, yes, ma'am!\xf000븁\x0000
-Cheren: Thank you very much!\xf000븁\x0000It's all thanks to you that I could become\xfffea Pokémon Trainer like I always dreamed.\xf000븁\x0000
-Juniper: Thanks, everyone!\xfffeThat's the best reply I could expect!\xf000븁\x0000
+
+
+Hi there!\xfffeI've been waiting for you young people!\xf000븁\x0000\xfffeLet me introduce myself again.\xfffeMy name is...\xf000븁\x0000
+Cheren: Professor Juniper?\xfffeWe know your name.\xf000븁\x0000
+Professor Juniper: Come, come, Cheren!\xfffeThis is not a time to take things lightly.\xf000븁\x0000\xfffeToday is a day to remember always, so\xfffeit's best to behave with some formality.\xf000븁\x0000\xfffeThat being so, once again, my name is\xfffeProfessor Juniper, and I am researching\xf000븀\x0000\xfffewhen and how the creatures called\xf000븀\x0000\xfffePokémon came into existence.\xf000븁\x0000
+Oh, that's unusual!\xfffeYou've already had a Pokémon battle!\xf000븁\x0000\xfffeSo maybe that's why...\xf000븁\x0000\xfffeIt feels as though your Pokémon have\xfffealready begun to trust you!\xf000븁\x0000\xfffeBy the way, would you like to give your\xfffePokémon a nickname?
+Professor Juniper: Uh-huh, I see.\xfffeAre you OK with the nickname \xf000Ă\x0001\x0000?
+Professor Juniper: \xf000Ă\x0001\x0000 is its\xfffename. That is such a great name!\xf000븁\x0000
+Professor Juniper: You aren't planning\xfffeto use a nickname? Well, that's fine, too.\xf000븁\x0000
+Professor Juniper: As for why I gave all\xfffeof you Pokémon...\xf000븁\x0000
+Cheren: It's for the Pokédex, right?\xf000븁\x0000
+Bianca: Pokédex?\xf000븁\x0000
+Professor Juniper: I am astonished.\xfffeNice work, Cheren!\xf000븁\x0000\xfffeYou have already studied Pokémon\xfffeextensively, haven't you?\xf000븁\x0000\xfffeStill, let me explain everything from the\xfffebeginning, for everyone's sake.\xf000븁\x0000
+The Pokédex is a high-tech device that\xfffeautomatically records the Pokémon\xf000븀\x0000\xfffeyou encounter!\xf000븁\x0000\xfffeSo, I want you three to visit many\xfffeplaces and meet all of the Pokémon\xf000븀\x0000\xfffein the Unova region!\xf000븁\x0000
+This is my request.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffeCheren! Bianca!\xf000븁\x0000\xfffeYou'll go on an adventure to\xfffecomplete the Pokédex, will you not?
+Professor Juniper: Here is what I need\xfffefrom you!\xf000븁\x0000\xfffeWhat I want to hear are the courageous\xfffewords of people who will blaze new\xf000븀\x0000\xfffepaths around the world!\xf000븁\x0000\xfffeI want you three to travel to many\xfffedistant places and meet all of the\xf000븀\x0000\xfffePokémon in the Unova region!
+Bianca: OK!\xf000븁\x0000\xfffeI mean... Yes, professor!\xf000븁\x0000
+Cheren: Thank you very much.\xf000븁\x0000\xfffeBecause of you, I can become a Pokémon\xfffeTrainer, exactly as I've always wished.\xf000븁\x0000
+Professor Juniper: All of you, thanks!\xf000븁\x0000\xfffeYou have given me the best\xfffepossible answer!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained the \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
-Juniper: Now, the next step.\xf000븁\x0000I'll tell you how you can find Pokémon,\xfffeso come onto Route 1!\xf000븁\x0000
-Bianca: Well, if the Professor asked us...\xfffeI guess it's okay to go adventuring?\xf000븁\x0000And... it'll be okay to search for what\xfffeto do with our lives along the way, right?\xf000븁\x0000
-Cheren: Yeah.\xf000븁\x0000As we go along completing our Pokédex,\xfffewe can wander however we see fit.
-Bianca: I'm getting kinda nervous...\xf000븁\x0000Hey, \xf000Ā\x0001\x0000, what are you gonna do\xfffewith your \xf000ā\x0001\x0001?
-Cheren: ...I've finally become\xfffea Pokémon Trainer.\xf000븁\x0000And I'll fight other Trainers\xfffeto get stronger, I will!
-Juniper: Hiiiii there, \xf000Ā\x0001\x0000!\xfffeHow you been feeling lately?\xf000븁\x0000
-Juniper's Dad: Ho there, \xf000Ā\x0001\x0000!\xfffeFinding Pokémon out there?\xf000븁\x0000Unova... why, of course, the whole\xfffeworld has so many Pokémon in it!
-no data
-no data
-no data
-Juniper's Dad: Yo there, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Giri-giri-giri!!
-Bianca: I'm working as\xfffeProfessor Juniper's assistant!\xf000븁\x0000It just occurred to me when\xfffeI was looking through my Pokédex...\xf000븁\x0000All the Pokémon I met on my journey...\xfffeI want to know more and more\xf000븀\x0000about the little guys!\xf000븁\x0000
-Oh yeah!\xf000븁\x0000Do you know, \xf000Ā\x0001\x0000?\xfffeAbout Pokémon swarms?
-Bianca: Well, that's our \xf000Ā\x0001\x0000!\xf000븁\x0000A swarm is when tons of\xfffePokémon roam in the grass.\xf000븁\x0000Look at the news tickers\xfffeinside the route gates...\xf000븁\x0000And you can tell where in Unova\xfffethere are swarms taking place!\xf000븁\x0000
-Bianca: Ohoho...\xfffeWell, I'll tell you, then!\xf000븁\x0000First of all, a swarm is when tons of\xfffePokémon roam in the grass.\xf000븁\x0000As for how you can tell\xfffethere's a swarm going on...\xf000븁\x0000Look at the news tickers inside the\xffferoute gates! Kinda rules, doesn't it?\xf000븁\x0000
-Pokémon research\xfffetakes a lot of studying...\xf000븁\x0000But I went out journeying and\xfffefound this was what I wanted to do,\xf000븀\x0000so I don't care! It's fun!\xf000븁\x0000But hey, \xf000Ā\x0001\x0000, you should\xfffehave Pokémon battles with me\xf000븀\x0000from time to time, too!\xf000븁\x0000I mean, that way I can know\xfffeeven more about Pokémon!
-Bianca: Didya know, \xf000Ā\x0001\x0000?\xf000븁\x0000If the Pokémon Feebas gets traded to\xfffesomeone while holding a Prism Scale...\xf000븀\x0000it'll evolve! DAAANG!\xf000븁\x0000Pokémon are seriously\xfffefantastic creatures!
-Bianca: Didya know, \xf000Ā\x0001\x0000?\xf000븁\x0000There are rocks all covered\xfffewith moss in Pinwheel Forest.\xf000븁\x0000There are Pokémon that'll evolve if they\xfffelevel up in Pinwheel Forest,\xf000븀\x0000all thanks to those rocks!!\xf000븁\x0000Pokémon are seriously\xfffefantastic creatures!
-Bianca: Didya know, \xf000Ā\x0001\x0000?\xf000븁\x0000Deep in Twist Mountain, there are\xffferocks covered in ice.\xf000븁\x0000And there are Pokémon that'll\xfffeevolve if they level up nearby!\xf000븁\x0000Pokémon are seriously\xfffefantastic creatures!
-Bianca: Didya know, \xf000Ā\x0001\x0000?\xf000븁\x0000Some Pokémon will evolve if they\xfffelevel up and know a specific move!\xf000븁\x0000Pokémon are seriously\xfffefantastic creatures!
-Bianca: Didya know, \xf000Ā\x0001\x0000?\xf000븁\x0000There are Pokémon that'll evolve\xfffeif they level up at night\xf000븁\x0000while holding a certain item!\xf000븁\x0000Pokémon are seriously\xfffefantastic creatures!
-Bianca: Oh, \xf000Ā\x0001\x0000!\xf000븁\x0000You wanna have a Pokémon\xfffebattle with me today?
-Bianca: Alright! \xf000Ā\x0001\x0000!\xf000븁\x0000We're battling indoors,\xfffeso don't you get too excited!\xf000븁\x0000
-Bianca: HUHHHHH?!\xf000븁\x0000Hold on a... oooh, man,\xfffetalk about a letdown...
-Bianca: Called it! You wanna\xfffehave a Pokémon battle, eh?
-Bianca: Whewww!\xf000븁\x0000Man, \xf000Ā\x0001\x0000, you are just SUCH\xfffea super strong Trainer, you know?!\xf000븁\x0000I love the Pokémon battles\xfffeyou fight, \xf000Ā\x0001\x0000!\xf000븁\x0000I mean, even your Pokémon\xfffelook really happy!
-Professor Juniper and... someone...\xfffeThere's a man smiling beside her.
-Father and daughter...\xfffeA photo of the two Professor Junipers.
-Adventure Rule No. 1:\xfffeOpen the menu with X!
-Adventure Rule No. 2:\xfffeSave your game with "Save"!
-It's full of books\xfffewritten about Pokémon!
-Plenty of records and research\xfffereports concerning Pokémon!
+Professor Juniper: Next, I need to teach\xfffeyou how to meet Pokémon.\xf000븁\x0000\xfffePlease meet me at Route 1, OK?\xf000븁\x0000
+Bianca: S-since the professor asked us,\xfffeit's OK to go on an adventure, right?\xf000븁\x0000\xfffeI can explore and maybe find out what\xfffeI want to do in life. I think I'd like that.\xf000븁\x0000
+Cheren: Of course.\xf000븁\x0000\xfffeWe can travel however we want\xfffewhile we complete the Pokédex.
+Bianca: For some reason,\xfffemy heart is pounding, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeWhat are you and \xf000ā\x0001\x0001 going to do?
+Cheren: Finally, I can become\xfffea Pokémon Trainer.\xf000븁\x0000\xfffeI'll have real battles with other\xfffeTrainers and get stronger. Wait and see!
+Professor Juniper: Why, hello,\xfffe\xf000Ā\x0001\x0000! How have you been lately?\xf000븁\x0000
+Cedric: Hey, \xf000Ā\x0001\x0000!\xfffeAre you meeting lots of Pokémon?\xf000븁\x0000\xfffeThere really are lots of Pokémon\xfffein the Unova region and the\xf000븀\x0000\xffferest of the world!
+
+
+
+Cedric: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Skreet! Skreet!
+Bianca: Professor Juniper is\xfffeletting me help out.\xf000븁\x0000\xfffeWhen I was looking at my Pokédex,\xfffeI realized something...\xf000븁\x0000\xfffeI met so many Pokémon during my journey.\xf000븁\x0000\xfffeI just want to learn more and more\xfffeand more about the little darlings!\xf000븁\x0000
+Oh yeah! That's right.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, do you know\xfffeabout massive outbreaks of Pokémon?
+Bianca: I knew you'd know, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI'm sure you also know that lots of a\xfffecertain Pokémon appear in the grass all\xf000븀\x0000\xfffeover, and that if you look at the electric\xf000븀\x0000\xfffesigns in the Route gates, you can see\xf000븀\x0000\xfffewhere the mass outbreaks are happening\xf000븀\x0000\xfffein the Unova region!\xf000븁\x0000
+Bianca: Tee-hee!\xfffeOK, then, I'll tell you about it.\xf000븁\x0000\xfffeFirst of all, lots of a certain Pokémon\xfffeappear in the grass all over.\xf000븁\x0000\xfffeIf you look at the electric signs in the\xfffeRoute gates, you can see where the\xf000븀\x0000\xfffemass outbreaks are happening in the\xf000븀\x0000\xfffeUnova region! Isn't that amazing!\xf000븁\x0000
+I have to study lots of Pokémon\xffferesearch, but I don't mind. This is\xf000븀\x0000\xfffethe answer I found during my adventure!\xf000븀\x0000\xfffeIt's actually a lot of fun!\xf000븁\x0000\xfffeAnd I have an idea! Every now and then,\xfffecome have a Pokémon battle with me, OK?\xf000븁\x0000\xfffe'Cause by doing that, I'll learn\xfffea lot more about Pokémon!
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeIf you give a Pokémon called Feebas\xfffea Prism Scale and trade it with someone,\xf000븀\x0000\xfffeapparently it evolves.\xf000븁\x0000\xfffeIsn't that amazing?\xf000븁\x0000\xfffePokémon sure are mysterious beings,\xfffearen't they?
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeIn Pinwheel Forest, there is a rock\xfffethat's covered in moss.\xf000븁\x0000\xfffeIt might be related to the rock, I dunno,\xfffebut there is a Pokémon that evolves\xf000븀\x0000\xfffewhen it levels up in Pinwheel Forest!\xf000븁\x0000\xfffePokémon sure are mysterious beings,\xfffearen't they?
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeDeep in Twist Mountain,\xfffethere's an ice-covered rock.\xf000븁\x0000\xfffeThere is a Pokémon that evolves\xfffewhen it levels up near that rock.\xf000븁\x0000\xfffePokémon sure are mysterious beings,\xfffearen't they?
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeThere are Pokémon that evolve when they\xfffelevel up knowing a certain move!\xf000븁\x0000\xfffePokémon sure are mysterious beings,\xfffearen't they?
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeThere are Pokémon that evolve when\xfffeyou give them a certain item and they\xf000븀\x0000\xfffelevel up at night!\xf000븁\x0000\xfffePokémon sure are mysterious beings,\xfffearen't they?
+Bianca: Oh, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWould you have a Pokémon\xfffebattle with me today?
+Bianca: Great! \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWe're battling indoors, so\xfffedon't get too worked up!\xf000븁\x0000
+Bianca: Whaaaaat!\xf000븁\x0000\xfffeWait...\xfffeNo, I'm pretty disappointed...
+Bianca: Oh, so you will have a\xfffePokémon battle with me, then?
+Bianca: Phew!\xfffeI'm totally sure, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeYou're really a strong Trainer.\xf000븁\x0000\xfffeI love your style of Pokémon\xfffebattling, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeSomehow your Pokémon look like\xfffethey're having so much fun!
+Who is this with Professor Juniper?\xfffeThere's a smiling man in the picture.
+Father and daughter...\xf000븁\x0000\xfffeIt's a picture of the two\xfffeProfessor Junipers.
+Adventure Rule No. 1\xfffeThe X Button opens the menu.
+Adventure Rule No. 2\xfffeRecord your progress with SAVE.
+There are lots of books about Pokémon!
+There are lots of materials and\xffferesearch reports about Pokémon!

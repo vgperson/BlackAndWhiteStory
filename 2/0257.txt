@@ -1,650 +1,494 @@
-????? Pok\x00e9mon
-Seed Pok\x00e9mon
-Seed Pok\x00e9mon
-Seed Pok\x00e9mon
-Lizard Pok\x00e9mon
-Flame Pok\x00e9mon
-Flame Pok\x00e9mon
-Tiny Turtle Pok\x00e9mon
-Turtle Pok\x00e9mon
-Shellfish Pok\x00e9mon
-Worm Pok\x00e9mon
-Cocoon Pok\x00e9mon
-Butterfly Pok\x00e9mon
-Hairy Bug Pok\x00e9mon
-Cocoon Pok\x00e9mon
-Poison Bee Pok\x00e9mon
-Tiny Bird Pok\x00e9mon
-Bird Pok\x00e9mon
-Bird Pok\x00e9mon
-Mouse Pok\x00e9mon
-Mouse Pok\x00e9mon
-Tiny Bird Pok\x00e9mon
-Beak Pok\x00e9mon
-Snake Pok\x00e9mon
-Cobra Pok\x00e9mon
-Mouse Pok\x00e9mon
-Mouse Pok\x00e9mon
-Mouse Pok\x00e9mon
-Mouse Pok\x00e9mon
-Poison Pin Pok\x00e9mon
-Poison Pin Pok\x00e9mon
-Drill Pok\x00e9mon
-Poison Pin Pok\x00e9mon
-Poison Pin Pok\x00e9mon
-Drill Pok\x00e9mon
-Fairy Pok\x00e9mon
-Fairy Pok\x00e9mon
-Fox Pok\x00e9mon
-Fox Pok\x00e9mon
-Balloon Pok\x00e9mon
-Balloon Pok\x00e9mon
-Bat Pok\x00e9mon
-Bat Pok\x00e9mon
-Weed Pok\x00e9mon
-Weed Pok\x00e9mon
-Flower Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Insect Pok\x00e9mon
-Poison Moth Pok\x00e9mon
-Mole Pok\x00e9mon
-Mole Pok\x00e9mon
-Scratch Cat Pok\x00e9mon
-Classy Cat Pok\x00e9mon
-Duck Pok\x00e9mon
-Duck Pok\x00e9mon
-Pig Monkey Pok\x00e9mon
-Pig Monkey Pok\x00e9mon
-Puppy Pok\x00e9mon
-Legendary Pok\x00e9mon
-Tadpole Pok\x00e9mon
-Tadpole Pok\x00e9mon
-Tadpole Pok\x00e9mon
-Psi Pok\x00e9mon
-Psi Pok\x00e9mon
-Psi Pok\x00e9mon
-Superpower Pok\x00e9mon
-Superpower Pok\x00e9mon
-Superpower Pok\x00e9mon
-Flower Pok\x00e9mon
-Flycatcher Pok\x00e9mon
-Flycatcher Pok\x00e9mon
-Jellyfish Pok\x00e9mon
-Jellyfish Pok\x00e9mon
-Rock Pok\x00e9mon
-Rock Pok\x00e9mon
-Megaton Pok\x00e9mon
-Fire Horse Pok\x00e9mon
-Fire Horse Pok\x00e9mon
-Dopey Pok\x00e9mon
-Hermit Crab Pok\x00e9mon
-Magnet Pok\x00e9mon
-Magnet Pok\x00e9mon
-Wild Duck Pok\x00e9mon
-Twin Bird Pok\x00e9mon
-Triple Bird Pok\x00e9mon
-Sea Lion Pok\x00e9mon
-Sea Lion Pok\x00e9mon
-Sludge Pok\x00e9mon
-Sludge Pok\x00e9mon
-Bivalve Pok\x00e9mon
-Bivalve Pok\x00e9mon
-Gas Pok\x00e9mon
-Gas Pok\x00e9mon
-Shadow Pok\x00e9mon
-Rock Snake Pok\x00e9mon
-Hypnosis Pok\x00e9mon
-Hypnosis Pok\x00e9mon
-River Crab Pok\x00e9mon
-Pincer Pok\x00e9mon
-Ball Pok\x00e9mon
-Ball Pok\x00e9mon
-Egg Pok\x00e9mon
-Coconut Pok\x00e9mon
-Lonely Pok\x00e9mon
-Bone Keeper Pok\x00e9mon
-Kicking Pok\x00e9mon
-Punching Pok\x00e9mon
-Licking Pok\x00e9mon
-Poison Gas Pok\x00e9mon
-Poison Gas Pok\x00e9mon
-Spikes Pok\x00e9mon
-Drill Pok\x00e9mon
-Egg Pok\x00e9mon
-Vine Pok\x00e9mon
-Parent Pok\x00e9mon
-Dragon Pok\x00e9mon
-Dragon Pok\x00e9mon
-Goldfish Pok\x00e9mon
-Goldfish Pok\x00e9mon
-Star Shape Pok\x00e9mon
-Mysterious Pok\x00e9mon
-Barrier Pok\x00e9mon
-Mantis Pok\x00e9mon
-Human Shape Pok\x00e9mon
-Electric Pok\x00e9mon
-Spitfire Pok\x00e9mon
-Stag Beetle Pok\x00e9mon
-Wild Bull Pok\x00e9mon
-Fish Pok\x00e9mon
-Atrocious Pok\x00e9mon
-Transport Pok\x00e9mon
-Transform Pok\x00e9mon
-Evolution Pok\x00e9mon
-Bubble Jet Pok\x00e9mon
-Lightning Pok\x00e9mon
-Flame Pok\x00e9mon
-Virtual Pok\x00e9mon
-Spiral Pok\x00e9mon
-Spiral Pok\x00e9mon
-Shellfish Pok\x00e9mon
-Shellfish Pok\x00e9mon
-Fossil Pok\x00e9mon
-Sleeping Pok\x00e9mon
-Freeze Pok\x00e9mon
-Electric Pok\x00e9mon
-Flame Pok\x00e9mon
-Dragon Pok\x00e9mon
-Dragon Pok\x00e9mon
-Dragon Pok\x00e9mon
-Genetic Pok\x00e9mon
-New Species Pok\x00e9mon
-Leaf Pok\x00e9mon
-Leaf Pok\x00e9mon
-Herb Pok\x00e9mon
-Fire Mouse Pok\x00e9mon
-Volcano Pok\x00e9mon
-Volcano Pok\x00e9mon
-Big Jaw Pok\x00e9mon
-Big Jaw Pok\x00e9mon
-Big Jaw Pok\x00e9mon
-Scout Pok\x00e9mon
-Long Body Pok\x00e9mon
-Owl Pok\x00e9mon
-Owl Pok\x00e9mon
-Five Star Pok\x00e9mon
-Five Star Pok\x00e9mon
-String Spit Pok\x00e9mon
-Long Leg Pok\x00e9mon
-Bat Pok\x00e9mon
-Angler Pok\x00e9mon
-Light Pok\x00e9mon
-Tiny Mouse Pok\x00e9mon
-Star Shape Pok\x00e9mon
-Balloon Pok\x00e9mon
-Spike Ball Pok\x00e9mon
-Happiness Pok\x00e9mon
-Tiny Bird Pok\x00e9mon
-Mystic Pok\x00e9mon
-Wool Pok\x00e9mon
-Wool Pok\x00e9mon
-Light Pok\x00e9mon
-Flower Pok\x00e9mon
-Aqua Mouse Pok\x00e9mon
-Aqua Rabbit Pok\x00e9mon
-Imitation Pok\x00e9mon
-Frog Pok\x00e9mon
-Cottonweed Pok\x00e9mon
-Cottonweed Pok\x00e9mon
-Cottonweed Pok\x00e9mon
-Long Tail Pok\x00e9mon
-Seed Pok\x00e9mon
-Sun Pok\x00e9mon
-Clear Wing Pok\x00e9mon
-Water Fish Pok\x00e9mon
-Water Fish Pok\x00e9mon
-Sun Pok\x00e9mon
-Moonlight Pok\x00e9mon
-Darkness Pok\x00e9mon
-Royal Pok\x00e9mon
-Screech Pok\x00e9mon
-Symbol Pok\x00e9mon
-Patient Pok\x00e9mon
-Long Neck Pok\x00e9mon
-Bagworm Pok\x00e9mon
-Bagworm Pok\x00e9mon
-Land Snake Pok\x00e9mon
-FlyScorpion Pok\x00e9mon
-Iron Snake Pok\x00e9mon
-Fairy Pok\x00e9mon
-Fairy Pok\x00e9mon
-Balloon Pok\x00e9mon
-Pincer Pok\x00e9mon
-Mold Pok\x00e9mon
-Single Horn Pok\x00e9mon
-Sharp Claw Pok\x00e9mon
-Little Bear Pok\x00e9mon
-Hibernator Pok\x00e9mon
-Lava Pok\x00e9mon
-Lava Pok\x00e9mon
-Pig Pok\x00e9mon
-Swine Pok\x00e9mon
-Coral Pok\x00e9mon
-Jet Pok\x00e9mon
-Jet Pok\x00e9mon
-Delivery Pok\x00e9mon
-Kite Pok\x00e9mon
-Armor Bird Pok\x00e9mon
-Dark Pok\x00e9mon
-Dark Pok\x00e9mon
-Dragon Pok\x00e9mon
-Long Nose Pok\x00e9mon
-Armor Pok\x00e9mon
-Virtual Pok\x00e9mon
-Big Horn Pok\x00e9mon
-Painter Pok\x00e9mon
-Scuffle Pok\x00e9mon
-Handstand Pok\x00e9mon
-Kiss Pok\x00e9mon
-Electric Pok\x00e9mon
-Live Coal Pok\x00e9mon
-Milk Cow Pok\x00e9mon
-Happiness Pok\x00e9mon
-Thunder Pok\x00e9mon
-Volcano Pok\x00e9mon
-Aurora Pok\x00e9mon
-Rock Skin Pok\x00e9mon
-Hard Shell Pok\x00e9mon
-Armor Pok\x00e9mon
-Diving Pok\x00e9mon
-Rainbow Pok\x00e9mon
-Time Travel Pok\x00e9mon
-Wood Gecko Pok\x00e9mon
-Wood Gecko Pok\x00e9mon
-Forest Pok\x00e9mon
-Chick Pok\x00e9mon
-Young Fowl Pok\x00e9mon
-Blaze Pok\x00e9mon
-Mud Fish Pok\x00e9mon
-Mud Fish Pok\x00e9mon
-Mud Fish Pok\x00e9mon
-Bite Pok\x00e9mon
-Bite Pok\x00e9mon
-TinyRaccoon Pok\x00e9mon
-Rushing Pok\x00e9mon
-Worm Pok\x00e9mon
-Cocoon Pok\x00e9mon
-Butterfly Pok\x00e9mon
-Cocoon Pok\x00e9mon
-Poison Moth Pok\x00e9mon
-Water Weed Pok\x00e9mon
-Jolly Pok\x00e9mon
-Carefree Pok\x00e9mon
-Acorn Pok\x00e9mon
-Wily Pok\x00e9mon
-Wicked Pok\x00e9mon
-TinySwallow Pok\x00e9mon
-Swallow Pok\x00e9mon
-Seagull Pok\x00e9mon
-Water Bird Pok\x00e9mon
-Feeling Pok\x00e9mon
-Emotion Pok\x00e9mon
-Embrace Pok\x00e9mon
-Pond Skater Pok\x00e9mon
-Eyeball Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Slacker Pok\x00e9mon
-Wild Monkey Pok\x00e9mon
-Lazy Pok\x00e9mon
-Trainee Pok\x00e9mon
-Ninja Pok\x00e9mon
-Shed Pok\x00e9mon
-Whisper Pok\x00e9mon
-Big Voice Pok\x00e9mon
-Loud Noise Pok\x00e9mon
-Guts Pok\x00e9mon
-Arm Thrust Pok\x00e9mon
-Polka Dot Pok\x00e9mon
-Compass Pok\x00e9mon
-Kitten Pok\x00e9mon
-Prim Pok\x00e9mon
-Darkness Pok\x00e9mon
-Deceiver Pok\x00e9mon
-Iron Armor Pok\x00e9mon
-Iron Armor Pok\x00e9mon
-Iron Armor Pok\x00e9mon
-Meditate Pok\x00e9mon
-Meditate Pok\x00e9mon
-Lightning Pok\x00e9mon
-Discharge Pok\x00e9mon
-Cheering Pok\x00e9mon
-Cheering Pok\x00e9mon
-Firefly Pok\x00e9mon
-Firefly Pok\x00e9mon
-Thorn Pok\x00e9mon
-Stomach Pok\x00e9mon
-Poison Bag Pok\x00e9mon
-Savage Pok\x00e9mon
-Brutal Pok\x00e9mon
-Ball Whale Pok\x00e9mon
-Float Whale Pok\x00e9mon
-Numb Pok\x00e9mon
-Eruption Pok\x00e9mon
-Coal Pok\x00e9mon
-Bounce Pok\x00e9mon
-Manipulate Pok\x00e9mon
-Spot Panda Pok\x00e9mon
-Ant Pit Pok\x00e9mon
-Vibration Pok\x00e9mon
-Mystic Pok\x00e9mon
-Cactus Pok\x00e9mon
-Scarecrow Pok\x00e9mon
-Cotton Bird Pok\x00e9mon
-Humming Pok\x00e9mon
-Cat Ferret Pok\x00e9mon
-Fang Snake Pok\x00e9mon
-Meteorite Pok\x00e9mon
-Meteorite Pok\x00e9mon
-Whiskers Pok\x00e9mon
-Whiskers Pok\x00e9mon
-Ruffian Pok\x00e9mon
-Rogue Pok\x00e9mon
-Clay Doll Pok\x00e9mon
-Clay Doll Pok\x00e9mon
-Sea Lily Pok\x00e9mon
-Barnacle Pok\x00e9mon
-Old Shrimp Pok\x00e9mon
-Plate Pok\x00e9mon
-Fish Pok\x00e9mon
-Tender Pok\x00e9mon
-Weather Pok\x00e9mon
-Color Swap Pok\x00e9mon
-Puppet Pok\x00e9mon
-Marionette Pok\x00e9mon
-Requiem Pok\x00e9mon
-Beckon Pok\x00e9mon
-Fruit Pok\x00e9mon
-Wind Chime Pok\x00e9mon
-Disaster Pok\x00e9mon
-Bright Pok\x00e9mon
-Snow Hat Pok\x00e9mon
-Face Pok\x00e9mon
-Clap Pok\x00e9mon
-Ball Roll Pok\x00e9mon
-Ice Break Pok\x00e9mon
-Bivalve Pok\x00e9mon
-Deep Sea Pok\x00e9mon
-South Sea Pok\x00e9mon
-Longevity Pok\x00e9mon
-Rendezvous Pok\x00e9mon
-Rock Head Pok\x00e9mon
-Endurance Pok\x00e9mon
-Dragon Pok\x00e9mon
-Iron Ball Pok\x00e9mon
-Iron Claw Pok\x00e9mon
-Iron Leg Pok\x00e9mon
-Rock Peak Pok\x00e9mon
-Iceberg Pok\x00e9mon
-Iron Pok\x00e9mon
-Eon Pok\x00e9mon
-Eon Pok\x00e9mon
-Sea Basin Pok\x00e9mon
-Continent Pok\x00e9mon
-Sky High Pok\x00e9mon
-Wish Pok\x00e9mon
-DNA Pok\x00e9mon
-Tiny Leaf Pok\x00e9mon
-Grove Pok\x00e9mon
-Continent Pok\x00e9mon
-Chimp Pok\x00e9mon
-Playful Pok\x00e9mon
-Flame Pok\x00e9mon
-Penguin Pok\x00e9mon
-Penguin Pok\x00e9mon
-Emperor Pok\x00e9mon
-Starling Pok\x00e9mon
-Starling Pok\x00e9mon
-Predator Pok\x00e9mon
-Plump Mouse Pok\x00e9mon
-Beaver Pok\x00e9mon
-Cricket Pok\x00e9mon
-Cricket Pok\x00e9mon
-Flash Pok\x00e9mon
-Spark Pok\x00e9mon
-Gleam Eyes Pok\x00e9mon
-Bud Pok\x00e9mon
-Bouquet Pok\x00e9mon
-Head Butt Pok\x00e9mon
-Head Butt Pok\x00e9mon
-Shield Pok\x00e9mon
-Shield Pok\x00e9mon
-Bagworm Pok\x00e9mon
-Bagworm Pok\x00e9mon
-Moth Pok\x00e9mon
-Tiny Bee Pok\x00e9mon
-Beehive Pok\x00e9mon
-EleSquirrel Pok\x00e9mon
-Sea Weasel Pok\x00e9mon
-Sea Weasel Pok\x00e9mon
-Cherry Pok\x00e9mon
-Blossom Pok\x00e9mon
-Sea Slug Pok\x00e9mon
-Sea Slug Pok\x00e9mon
-Long Tail Pok\x00e9mon
-Balloon Pok\x00e9mon
-Blimp Pok\x00e9mon
-Rabbit Pok\x00e9mon
-Rabbit Pok\x00e9mon
-Magical Pok\x00e9mon
-Big Boss Pok\x00e9mon
-Catty Pok\x00e9mon
-Tiger Cat Pok\x00e9mon
-Bell Pok\x00e9mon
-Skunk Pok\x00e9mon
-Skunk Pok\x00e9mon
-Bronze Pok\x00e9mon
-Bronze Bell Pok\x00e9mon
-Bonsai Pok\x00e9mon
-Mime Pok\x00e9mon
-Playhouse Pok\x00e9mon
-Music Note Pok\x00e9mon
-Forbidden Pok\x00e9mon
-Land Shark Pok\x00e9mon
-Cave Pok\x00e9mon
-Mach Pok\x00e9mon
-Big Eater Pok\x00e9mon
-Emanation Pok\x00e9mon
-Aura Pok\x00e9mon
-Hippo Pok\x00e9mon
-Heavyweight Pok\x00e9mon
-Scorpion Pok\x00e9mon
-Ogre Scorp Pok\x00e9mon
-Toxic Mouth Pok\x00e9mon
-Toxic Mouth Pok\x00e9mon
-Bug Catcher Pok\x00e9mon
-Wing Fish Pok\x00e9mon
-Neon Pok\x00e9mon
-Kite Pok\x00e9mon
-Frost Tree Pok\x00e9mon
-Frost Tree Pok\x00e9mon
-Sharp Claw Pok\x00e9mon
-Magnet Area Pok\x00e9mon
-Licking Pok\x00e9mon
-Drill Pok\x00e9mon
-Vine Pok\x00e9mon
-Thunderbolt Pok\x00e9mon
-Blast Pok\x00e9mon
-Jubilee Pok\x00e9mon
-Ogre Darner Pok\x00e9mon
-Verdant Pok\x00e9mon
-Fresh Snow Pok\x00e9mon
-Fang Scorp Pok\x00e9mon
-Twin Tusk Pok\x00e9mon
-Virtual Pok\x00e9mon
-Blade Pok\x00e9mon
-Compass Pok\x00e9mon
-Gripper Pok\x00e9mon
-Snow Land Pok\x00e9mon
-Plasma Pok\x00e9mon
-Knowledge Pok\x00e9mon
-Emotion Pok\x00e9mon
-Willpower Pok\x00e9mon
-Temporal Pok\x00e9mon
-Spatial Pok\x00e9mon
-Lava Dome Pok\x00e9mon
-Colossal Pok\x00e9mon
-Renegade Pok\x00e9mon
-Lunar Pok\x00e9mon
-Sea Drifter Pok\x00e9mon
-Seafaring Pok\x00e9mon
-Pitch-Black Pok\x00e9mon
-Gratitude Pok\x00e9mon
-Alpha Pok\x00e9mon
-Victory Pok\x00e9mon
-Grass Snake Pok\x00e9mon
-Grass Snake Pok\x00e9mon
-Royal Pok\x00e9mon
-Fire Pig Pok\x00e9mon
-Fire Pig Pok\x00e9mon
-Big Fire Pig Pok\x00e9mon
-Sea Otter Pok\x00e9mon
-Training Pok\x00e9mon
-Dignity Pok\x00e9mon
-Scout Pok\x00e9mon
-Lookout Pok\x00e9mon
-Puppy Pok\x00e9mon
-Loyal Dog Pok\x00e9mon
-Leniency Pok\x00e9mon
-Devious Pok\x00e9mon
-Cruel Pok\x00e9mon
-Grass Monkey Pok\x00e9mon
-Thorn Monkey Pok\x00e9mon
-High Temp Pok\x00e9mon
-Sparking Pok\x00e9mon
-Spray Pok\x00e9mon
-Water Pour Pok\x00e9mon
-Dream Eater Pok\x00e9mon
-Drowsing Pok\x00e9mon
-Tiny Pigeon Pok\x00e9mon
-Pigeon Pok\x00e9mon
-Pride Pok\x00e9mon
-Electrified Pok\x00e9mon
-Lightning Pok\x00e9mon
-Mantle Pok\x00e9mon
-Ore Pok\x00e9mon
-Compressed Pok\x00e9mon
-Bat Pok\x00e9mon
-Courtship Pok\x00e9mon
-Mole Pok\x00e9mon
-Subterrene Pok\x00e9mon
-Hearing Pok\x00e9mon
-Muscle Pok\x00e9mon
-Muscle Pok\x00e9mon
-Muscle Pok\x00e9mon
-Tadpole Pok\x00e9mon
-Vibration Pok\x00e9mon
-Vibration Pok\x00e9mon
-Judo Pok\x00e9mon
-Karate Pok\x00e9mon
-Sewing Pok\x00e9mon
-Forest Cloak Pok\x00e9mon
-Parental Pok\x00e9mon
-Centipede Pok\x00e9mon
-Cocooned Pok\x00e9mon
-Megapede Pok\x00e9mon
-Cotton Ball Pok\x00e9mon
-Wind Rider Pok\x00e9mon
-Root Pok\x00e9mon
-Floral Pok\x00e9mon
-Hostile Pok\x00e9mon
-Desert Croc Pok\x00e9mon
-Desert Croc Pok\x00e9mon
-Menace Pok\x00e9mon
-Daruma Pok\x00e9mon
-Blazing Pok\x00e9mon
-Cactus Pok\x00e9mon
-Stone Hermit Pok\x00e9mon
-Rock Hermit Pok\x00e9mon
-Molting Pok\x00e9mon
-Scoundrel Pok\x00e9mon
-Pseudo-Bird Pok\x00e9mon
-Spirit Pok\x00e9mon
-Coffin Pok\x00e9mon
-Relic Turtle Pok\x00e9mon
-Relic Turtle Pok\x00e9mon
-Elder Bird Pok\x00e9mon
-Elder Bird Pok\x00e9mon
-Garbage Bag Pok\x00e9mon
-Garbage Dump Pok\x00e9mon
-Tricky Fox Pok\x00e9mon
-Illusion Fox Pok\x00e9mon
-Chinchilla Pok\x00e9mon
-Scarf Pok\x00e9mon
-Gaze Pok\x00e9mon
-Manipulation Pok\x00e9mon
-Astral Body Pok\x00e9mon
-Cell Pok\x00e9mon
-Mitosis Pok\x00e9mon
-Multiplying Pok\x00e9mon
-Waterfowl Pok\x00e9mon
-White Bird Pok\x00e9mon
-Fresh Snow Pok\x00e9mon
-Snow Pok\x00e9mon
-Blizzard Pok\x00e9mon
-Season Pok\x00e9mon
-Season Pok\x00e9mon
-Sky Squirrel Pok\x00e9mon
-Ringside Pok\x00e9mon
-Cavalry Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Mushroom Pok\x00e9mon
-Floating Pok\x00e9mon
-Floating Pok\x00e9mon
-Caring Pok\x00e9mon
-Clinging Pok\x00e9mon
-EleSpider Pok\x00e9mon
-Thorny Leech Pok\x00e9mon
-Thorny Ball Pok\x00e9mon
-Gear Pok\x00e9mon
-Gear Pok\x00e9mon
-Gear Pok\x00e9mon
-Electric Eel Pok\x00e9mon
-Electric Fish Pok\x00e9mon
-Electric Fish Pok\x00e9mon
-Brain Pok\x00e9mon
-Brain Pok\x00e9mon
-Candle Pok\x00e9mon
-Lamp Pok\x00e9mon
-Temptation Pok\x00e9mon
-Tusk Pok\x00e9mon
-Axe Jaw Pok\x00e9mon
-Axe Jaw Pok\x00e9mon
-Freezing Pok\x00e9mon
-Freezer Pok\x00e9mon
-Crystal Pok\x00e9mon
-Snail Pok\x00e9mon
-Deshelled Pok\x00e9mon
-Trap Pok\x00e9mon
-Martial Arts Pok\x00e9mon
-Martial Arts Pok\x00e9mon
-Cave Pok\x00e9mon
-Golem Pok\x00e9mon
-Golem Pok\x00e9mon
-Sharp Edge Pok\x00e9mon
-Blade Pok\x00e9mon
-Headbutt Bull Pok\x00e9mon
-Baby Eagle Pok\x00e9mon
-Valiant Pok\x00e9mon
-Diaper Pok\x00e9mon
-Bone Eagle Pok\x00e9mon
-Anteater Pok\x00e9mon
-Iron Ant Pok\x00e9mon
-Wild Pok\x00e9mon
-Violent Pok\x00e9mon
-Brutal Pok\x00e9mon
-Torchlight Pok\x00e9mon
-Sun Pok\x00e9mon
-Iron Will Pok\x00e9mon
-Cavern Pok\x00e9mon
-Grassland Pok\x00e9mon
-Whirlwind Pok\x00e9mon
-Thunderstorm Pok\x00e9mon
-Vast White Pok\x00e9mon
-Deep Black Pok\x00e9mon
-Fertility Pok\x00e9mon
-Boundary Pok\x00e9mon
-Foal Pok\x00e9mon
-Melody Pok\x00e9mon
-Paleozoic Pok\x00e9mon
+―――――
+フシギダネ
+フシギソウ
+フシギバナ
+ヒトカゲ
+リザード
+リザードン
+ゼニガメ
+カメール
+カメックス
+キャタピー
+トランセル
+バタフリー
+ビードル
+コクーン
+スピアー
+ポッポ
+ピジョン
+ピジョット
+コラッタ
+ラッタ
+オニスズメ
+オニドリル
+アーボ
+アーボック
+ピカチュウ
+ライチュウ
+サンド
+サンドパン
+ニドラン♀
+ニドリーナ
+ニドクイン
+ニドラン♂
+ニドリーノ
+ニドキング
+ピッピ
+ピクシー
+ロコン
+キュウコン
+プリン
+プクリン
+ズバット
+ゴルバット
+ナゾノクサ
+クサイハナ
+ラフレシア
+パラス
+パラセクト
+コンパン
+モルフォン
+ディグダ
+ダグトリオ
+ニャース
+ペルシアン
+コダック
+ゴルダック
+マンキー
+オコリザル
+ガーディ
+ウインディ
+ニョロモ
+ニョロゾ
+ニョロボン
+ケーシィ
+ユンゲラー
+フーディン
+ワンリキー
+ゴーリキー
+カイリキー
+マダツボミ
+ウツドン
+ウツボット
+メノクラゲ
+ドククラゲ
+イシツブテ
+ゴローン
+ゴローニャ
+ポニータ
+ギャロップ
+ヤドン
+ヤドラン
+コイル
+レアコイル
+カモネギ
+ドードー
+ドードリオ
+パウワウ
+ジュゴン
+ベトベター
+ベトベトン
+シェルダー
+パルシェン
+ゴース
+ゴースト
+ゲンガー
+イワーク
+スリープ
+スリーパー
+クラブ
+キングラー
+ビリリダマ
+マルマイン
+タマタマ
+ナッシー
+カラカラ
+ガラガラ
+サワムラー
+エビワラー
+ベロリンガ
+ドガース
+マタドガス
+サイホーン
+サイドン
+ラッキー
+モンジャラ
+ガルーラ
+タッツー
+シードラ
+トサキント
+アズマオウ
+ヒトデマン
+スターミー
+バリヤード
+ストライク
+ルージュラ
+エレブー
+ブーバー
+カイロス
+ケンタロス
+コイキング
+ギャラドス
+ラプラス
+メタモン
+イーブイ
+シャワーズ
+サンダース
+ブースター
+ポリゴン
+オムナイト
+オムスター
+カブト
+カブトプス
+プテラ
+カビゴン
+フリーザー
+サンダー
+ファイヤー
+ミニリュウ
+ハクリュー
+カイリュー
+ミュウツー
+ミュウ
+チコリータ
+ベイリーフ
+メガニウム
+ヒノアラシ
+マグマラシ
+バクフーン
+ワニノコ
+アリゲイツ
+オーダイル
+オタチ
+オオタチ
+ホーホー
+ヨルノズク
+レディバ
+レディアン
+イトマル
+アリアドス
+クロバット
+チョンチー
+ランターン
+ピチュー
+ピィ
+ププリン
+トゲピー
+トゲチック
+ネイティ
+ネイティオ
+メリープ
+モココ
+デンリュウ
+キレイハナ
+マリル
+マリルリ
+ウソッキー
+ニョロトノ
+ハネッコ
+ポポッコ
+ワタッコ
+エイパム
+ヒマナッツ
+キマワリ
+ヤンヤンマ
+ウパー
+ヌオー
+エーフィ
+ブラッキー
+ヤミカラス
+ヤドキング
+ムウマ
+アンノーン
+ソーナンス
+キリンリキ
+クヌギダマ
+フォレトス
+ノコッチ
+グライガー
+ハガネール
+ブルー
+グランブル
+ハリーセン
+ハッサム
+ツボツボ
+ヘラクロス
+ニューラ
+ヒメグマ
+リングマ
+マグマッグ
+マグカルゴ
+ウリムー
+イノムー
+サニーゴ
+テッポウオ
+オクタン
+デリバード
+マンタイン
+エアームド
+デルビル
+ヘルガー
+キングドラ
+ゴマゾウ
+ドンファン
+ポリゴン２
+オドシシ
+ドーブル
+バルキー
+カポエラー
+ムチュール
+エレキッド
+ブビィ
+ミルタンク
+ハピナス
+ライコウ
+エンテイ
+スイクン
+ヨーギラス
+サナギラス
+バンギラス
+ルギア
+ホウオウ
+セレビィ
+キモリ
+ジュプトル
+ジュカイン
+アチャモ
+ワカシャモ
+バシャーモ
+ミズゴロウ
+ヌマクロー
+ラグラージ
+ポチエナ
+グラエナ
+ジグザグマ
+マッスグマ
+ケムッソ
+カラサリス
+アゲハント
+マユルド
+ドクケイル
+ハスボー
+ハスブレロ
+ルンパッパ
+タネボー
+コノハナ
+ダーテング
+スバメ
+オオスバメ
+キャモメ
+ペリッパー
+ラルトス
+キルリア
+サーナイト
+アメタマ
+アメモース
+キノココ
+キノガッサ
+ナマケロ
+ヤルキモノ
+ケッキング
+ツチニン
+テッカニン
+ヌケニン
+ゴニョニョ
+ドゴーム
+バクオング
+マクノシタ
+ハリテヤマ
+ルリリ
+ノズパス
+エネコ
+エネコロロ
+ヤミラミ
+クチート
+ココドラ
+コドラ
+ボスゴドラ
+アサナン
+チャーレム
+ラクライ
+ライボルト
+プラスル
+マイナン
+バルビート
+イルミーゼ
+ロゼリア
+ゴクリン
+マルノーム
+キバニア
+サメハダー
+ホエルコ
+ホエルオー
+ドンメル
+バクーダ
+コータス
+バネブー
+ブーピッグ
+パッチール
+ナックラー
+ビブラーバ
+フライゴン
+サボネア
+ノクタス
+チルット
+チルタリス
+ザングース
+ハブネーク
+ルナトーン
+ソルロック
+ドジョッチ
+ナマズン
+ヘイガニ
+シザリガー
+ヤジロン
+ネンドール
+リリーラ
+ユレイドル
+アノプス
+アーマルド
+ヒンバス
+ミロカロス
+ポワルン
+カクレオン
+カゲボウズ
+ジュペッタ
+ヨマワル
+サマヨール
+トロピウス
+チリーン
+アブソル
+ソーナノ
+ユキワラシ
+オニゴーリ
+タマザラシ
+トドグラー
+トドゼルガ
+パールル
+ハンテール
+サクラビス
+ジーランス
+ラブカス
+タツベイ
+コモルー
+ボーマンダ
+ダンバル
+メタング
+メタグロス
+レジロック
+レジアイス
+レジスチル
+ラティアス
+ラティオス
+カイオーガ
+グラードン
+レックウザ
+ジラーチ
+デオキシス
+ナエトル
+ハヤシガメ
+ドダイトス
+ヒコザル
+モウカザル
+ゴウカザル
+ポッチャマ
+ポッタイシ
+エンペルト
+ムックル
+ムクバード
+ムクホーク
+ビッパ
+ビーダル
+コロボーシ
+コロトック
+コリンク
+ルクシオ
+レントラー
+スボミー
+ロズレイド
+ズガイドス
+ラムパルド
+タテトプス
+トリデプス
+ミノムッチ
+ミノマダム
+ガーメイル
+ミツハニー
+ビークイン
+パチリス
+ブイゼル
+フローゼル
+チェリンボ
+チェリム
+カラナクシ
+トリトドン
+エテボース
+フワンテ
+フワライド
+ミミロル
+ミミロップ
+ムウマージ
+ドンカラス
+ニャルマー
+ブニャット
+リーシャン
+スカンプー
+スカタンク
+ドーミラー
+ドータクン
+ウソハチ
+マネネ
+ピンプク
+ペラップ
+ミカルゲ
+フカマル
+ガバイト
+ガブリアス
+ゴンベ
+リオル
+ルカリオ
+ヒポポタス
+カバルドン
+スコルピ
+ドラピオン
+グレッグル
+ドクロッグ
+マスキッパ
+ケイコウオ
+ネオラント
+タマンタ
+ユキカブリ
+ユキノオー
+マニューラ
+ジバコイル
+ベロベルト
+ドサイドン
+モジャンボ
+エレキブル
+ブーバーン
+トゲキッス
+メガヤンマ
+リーフィア
+グレイシア
+グライオン
+マンムー
+ポリゴンＺ
+エルレイド
+ダイノーズ
+ヨノワール
+ユキメノコ
+ロトム
+ユクシー
+エムリット
+アグノム
+ディアルガ
+パルキア
+ヒードラン
+レジギガス
+ギラティナ
+クレセリア
+フィオネ
+マナフィ
+ダークライ
+シェイミ
+アルセウス

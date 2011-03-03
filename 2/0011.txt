@@ -1,68 +1,314 @@
-﻿\xf000ȁ\x0001\x0000
-Total \xf000Ȅ\x0001\x0000
-Who will you thank?
-You thanked \xf000Ā\x0001\x0000!
-Will you use\xfffe\xf000đ\x0001\x0001?\xfffeNeeded: \xf000Ȃ\x0001\x0002 / Held: \xf000Ȃ\x0001\x0003
-Will you use \xf000đ\x0001\x0001\xfffeactivated by \xf000Ā\x0001\x0000?
-Special Pass Power activated!!\xfffeWill you use\xfffe\xf000đ\x0001\x0001?
-Used \xf000đ\x0001\x0001!
-You don't have enough Pass Balls\xfffeto use Pass Power.\xfffeNeeded: \xf000Ȃ\x0001\x0002 / Held: \xf000Ȃ\x0001\x0003
-Using \xf000đ\x0001\x0001.\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
-Using \xf000đ\x0001\x0001.\xfffe\xf000Ȃ\x0001\x0004 minutes,\xfffe\xf000ȁ\x0001\x0005 seconds remaining.
-You said\xfffe"\xf000Ĝ\x0001\x0000"!
-Confirm
-Yes
-No
-Confirm
-Close
-Okay?
-"\xf000Ā\x0001\x0000" is near.
-\xf000Ā\x0001\x0000 started\xfffefighting a wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 won\xfffeagainst a wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 started\xfffefighting a special Pokémon!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special Pokémon!
-\xf000Ā\x0001\x0000 began\xfffebattling \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 won\xfffeagainst \xf000Ď\x0001\x0001's \xf000Ā\x0001\x0002!
-\xf000Ā\x0001\x0000 began\xfffebattling a gym leader!
-\xf000Ā\x0001\x0000 won\xfffeagainst a gym leader!
-\xf000Ā\x0001\x0000 began\xfffebattling a special Trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special Trainer!
-\xf000Ā\x0001\x0000 began\xfffebattling a special Trainer!
-\xf000Ā\x0001\x0000 won\xfffeagainst a special Trainer!
-\xf000Ā\x0001\x0000 caught\xfffea wild \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 caught\xfffea special Pokémon!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002\xfffejust leveled up!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 evolved\xfffeinto \xf000ā\x0001\x0001!
-This is a dummy message\xfffeto match the Action ID\xfffeand the game.
-\xf000Ā\x0001\x0000 found\xfffea \xf000ĉ\x0001\x0001!
-\xf000Ā\x0001\x0000 passed\xfffe\xf000Ȃ\x0001\x0001 hours of playtime!
-\xf000Ā\x0001\x0000 completed\xfffethe Pokédex!
-\xf000Ā\x0001\x0000 passed\xfffe\xf000Ȃ\x0001\x0001 thank-yous!
-\xf000Ā\x0001\x0000 is at\xfffethe Union Room receptionist.
-\xf000Ā\x0001\x0000\xfffethanked you!
-Currently transmitting\xfffe\xf000ā\x0001\x0001!
-Currently transmitting\xfffe\xf000ĉ\x0001\x0001!
-Currently transmitting\xfffea Mystery Gift!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002's attack\xfffewas a critical hit!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 took\xfffea critical hit!
-\xf000Ā\x0001\x0000 ran\xfffeaway from battle!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffelow on HP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffelow on PP!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffefainted!
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 has\xfffea status effect!
-\xf000Ā\x0001\x0000 is\xfffeusing \xf000ĉ\x0001\x0001.
-\xf000Ā\x0001\x0000 is\xfffeusing \xf000ć\x0001\x0001.
-\xf000Ā\x0001\x0000 received\xfffea egg.
-\xf000Ā\x0001\x0000's egg\xfffehatched into \xf000ā\x0001\x0001!
-\xf000Ā\x0001\x0000 is\xfffeshopping.
-\xf000Ā\x0001\x0000 is\xfffechallenging the Battle Subway.
-\xf000Ā\x0001\x0000 is\xfffeon the Battle Subway\xfffeat \xf000Ȁ\x0001\x0001 in a row!
-\xf000Ā\x0001\x0000 got\xfffea trophy on\xfffethe Battle Subway!
-\xf000Ā\x0001\x0000 is\xfffechallenging the Trial House.
-\xf000Ā\x0001\x0000 was\xffferecognized as \xf000ģ\x0001\x0001\xfffeat the Trial House!
-\xf000Ā\x0001\x0000 got on\xfffethe Ferris wheel.
-\xf000Ā\x0001\x0000 started\xfffeusing the PokéShifter.
-\xf000Ā\x0001\x0000's\xfffe\xf000Ă\x0001\x0002 is\xfffeparticipating in a musical.
-\xf000Ā\x0001\x0000 used the\xfffe\xf000đ\x0001\x0001 they received!
-\xf000Ā\x0001\x0000 said\xfffe"\xf000Ĝ\x0001\x0001"
-This is a dummy message\xfffeto match the Action ID\xfffeand the game.
+Joshua
+London
+Berry
+Smith
+Agneau
+Crevett
+Jillian
+Coin
+Egon
+Ezra
+Egbert
+Kevyn
+Hearts
+Elise
+Peaches
+Plum
+Pound
+Rupee
+Dollar
+Rutie
+Won
+Peso
+Sasha
+Real
+Oda
+Hide
+Nobu
+Tada
+Janice
+Dakota
+Monroe
+Hellen
+Irwin
+Ananda
+Serjbu
+Myera
+Tatyana
+Theresa
+Sawyer
+Abdul
+Vern
+Willow
+Chaonne
+Terra
+Norm
+Ormond
+Kali
+Nerola
+Karelen
+Farna
+Hodgman
+Saber
+Diplo
+Jaguar
+Polo
+Leone
+Scampi
+Tiiu
+Atlas
+Calisto
+Nichols
+Paulo
+Balut
+Carabel
+Klara
+Olga
+Bob
+Bobhiko
+Micah
+Henrik
+Lincoln
+Truman
+Herbert
+Kiley
+Tanna
+Teresa
+Chestin
+Persim
+Peachum
+Roberta
+Faun
+Haniska
+Rodger
+Fabian
+Cimon
+Lew
+Emil
+Kegan
+Way
+Min
+Marx
+Durbin
+Furze
+Cloud
+Basiléu
+Hoffman
+Lara
+Elodie
+Godwin
+Kocher
+Turtle
+Pella
+Trenton
+Enzo
+Dione
+Nerid
+Willy
+Timmy
+Roanne
+Quyen
+Sill
+Sherman
+Huitres
+Paulina
+Fritz
+Layton
+Scout
+Percy
+Troy
+Bertran
+Poisson
+Huitre
+Usef
+Zaid
+Betty
+Helen
+Mabon
+Shamus
+Zlata
+Polina
+Lennart
+Karston
+Ikaora
+Meena
+Sergio
+Filippe
+Biijal
+Meryl
+Tapioca
+Glen
+Duncan
+Morgan
+Cocome
+Nu
+Pomodi
+Oberon
+Triton
+Calon
+Xavier
+Jacob
+Joachim
+Chelsie
+Col
+Maris
+Surune
+Egil
+Brant
+Minerva
+Ceylon
+Cyanea
+Dali
+Iron
+Bogey
+March
+Hazel
+Polka
+Antoin
+Rey
+Earwin
+Lamont
+Hamid
+Amhed
+Oren
+Minnow
+Bobjiro
+Bobyosi
+Vadim
+Yuri
+Velour
+Mohair
+Ketmon
+Nida
+Cameron
+Jackie
+Frank
+Thymine
+Adenine
+Tomatoe
+Kikuri
+Kushina
+Daniil
+Fedor
+Sue
+Kathy
+Boyce
+Dover
+Ashley
+Joice
+Phyl
+Florian
+Ulfgang
+Faust
+Stubs
+Spacey
+Shan
+Lotte
+Therese
+Charis
+Boldbat
+Solongo
+Khaan
+Zaya
+Sambala
+Longo
+Unsu
+Harimao
+Enpi
+Aces
+Queenie
+Flush
+Smokey
+Mouse
+Skyblue
+Terran
+Paula
+Ivy
+Farley
+Dylan
+Reigel
+Gwen
+Mooi
+Palm
+Ponta
+Donta
+Colombo
+Leron
+Hecate
+Ginger
+Risha
+Jeune
+Cedric
+Felton
+Simone
+Wald
+Hasan
+Gonyan
+Amber
+Roe
+Jorge
+Kemuel
+Humfrey
+Fird
+Vanna
+Hilary
+Ganymed
+Proteus
+Petro
+Philipo
+Judy
+Vespera
+Aramis
+Athos
+Anguile
+Fesan
+Hacikan
+Rikkyu
+Evelyn
+Chachi
+Roman
+Valéry
+Hayes
+Quinn
+Marion
+Dante
+Birgit
+Margit
+Bank
+Elwin
+Bobnori
+Bobemon
+Eric
+Oscar
+Isadore
+Ramses
+Anette
+Anora
+Dwight
+Levant
+Saisune
+Panarat
+Manford
+Eoin
+Shawna
+Janet
+Camus
+Kavan
+Saty
+Aparna
+Chand
+Artemas
+Hilbert
+Hilbert
+Hilbert
+Hilda
+Hilda
+Hilda
+Ingo
+Ingo
+Emmet
+Emmet
+Ingo
+Emmet
+Ingo
+Emmet

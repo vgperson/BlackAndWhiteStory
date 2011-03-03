@@ -1,9 +1,9 @@
-﻿Are you going to go up?
-Let me check you for a second first.\xf000븁\x0000Pat, pat...\xfffepat, pat... and pat, pat there, too...\xf000븁\x0000
-You don't seem to have\xfffeanything suspicious.\xf000븀\x0000Okay! Go on through!\xf000븁\x0000
-Okay! Go on through!
-...I see.\xfffeAlright then.
-...I see.\xfffeAlright then.\xf000븁\x0000
-I was invited to the party,\xfffebut the guy in front of the elevator...\xf000븁\x0000He, um, touched me...\xfffeIs that the kind of party this is?
-I got to talk to all kinds of\xfffepeople up there! It was a blast!
-Where do you come from?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Whoa! Nuvema Town?\xfffeNice place, that!
+Do you want to go up?
+I need to check you.\xf000븁\x0000\xfffeFrisk, frisk...\xfffeFrisk, frisk... And one more frisk...\xf000븁\x0000
+You don't seem to have\xfffeanything suspicious.\xf000븁\x0000\xfffeOK! You can go.\xf000븁\x0000
+OK! You can go.
+...OK. That's fine, then.
+...OK. That's fine, then.\xf000븁\x0000
+I'm invited to a party, but the person\xfffein front of the elevator wants\xf000븀\x0000\xfffeto pat me down.\xf000븁\x0000\xfffeOr is it just my imagination?
+I talked with a lot of people upstairs.\xfffeIt was fun!
+Where are you from?\xf000븁\x0000\xfffeReally? You're from Nuvema Town?\xfffeIt's a great place!

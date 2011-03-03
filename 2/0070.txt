@@ -1,4 +1,4 @@
-﻿-----
+―――――
 Bulbasaur
 Ivysaur
 Venusaur
@@ -27,10 +27,10 @@ Pikachu
 Raichu
 Sandshrew
 Sandslash
-Nidoran♀
+Nidoran⑮
 Nidorina
 Nidoqueen
-Nidoran♂
+Nidoran⑭
 Nidorino
 Nidoking
 Clefairy
@@ -577,7 +577,7 @@ Gothorita
 Gothitelle
 Solosis
 Duosion
-Reuiniclus
+Reuniclus
 Ducklett
 Swanna
 Vanillite
@@ -589,7 +589,7 @@ Emolga
 Karrablast
 Escavalier
 Foongus
-Amoongus
+Amoonguss
 Frillish
 Jellicent
 Alomomola

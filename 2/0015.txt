@@ -1,1680 +1,200 @@
-﻿!
-!
-!
-\xf000ā\x0001\x0000 used\xfffePound!
-The wild \xf000ā\x0001\x0000 used\xfffePound!
-The foe's \xf000ā\x0001\x0000 used\xfffePound!
-\xf000ā\x0001\x0000 used\xfffeKarate Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeKarate Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeKarate Chop!
-\xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-The wild \xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-The foe's \xf000ā\x0001\x0000 used\xfffeDoubleSlap!
-\xf000ā\x0001\x0000 used\xfffeComet Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeComet Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeComet Punch!
-\xf000ā\x0001\x0000 used\xfffeMega Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Punch!
-\xf000ā\x0001\x0000 used\xfffePay Day!
-The wild \xf000ā\x0001\x0000 used\xfffePay Day!
-The foe's \xf000ā\x0001\x0000 used\xfffePay Day!
-\xf000ā\x0001\x0000 used\xfffeFire Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Punch!
-\xf000ā\x0001\x0000 used\xfffeIce Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Punch!
-\xf000ā\x0001\x0000 used\xfffeThunderPunch!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderPunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderPunch!
-\xf000ā\x0001\x0000 used\xfffeScratch!
-The wild \xf000ā\x0001\x0000 used\xfffeScratch!
-The foe's \xf000ā\x0001\x0000 used\xfffeScratch!
-\xf000ā\x0001\x0000 used\xfffeViceGrip!
-The wild \xf000ā\x0001\x0000 used\xfffeViceGrip!
-The foe's \xf000ā\x0001\x0000 used\xfffeViceGrip!
-\xf000ā\x0001\x0000 used\xfffeGuillotine!
-The wild \xf000ā\x0001\x0000 used\xfffeGuillotine!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuillotine!
-\xf000ā\x0001\x0000 used\xfffeRazor Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Wind!
-\xf000ā\x0001\x0000 used\xfffeSwords Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeSwords Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwords Dance!
-\xf000ā\x0001\x0000 used\xfffeCut!
-The wild \xf000ā\x0001\x0000 used\xfffeCut!
-The foe's \xf000ā\x0001\x0000 used\xfffeCut!
-\xf000ā\x0001\x0000 used\xfffeGust!
-The wild \xf000ā\x0001\x0000 used\xfffeGust!
-The foe's \xf000ā\x0001\x0000 used\xfffeGust!
-\xf000ā\x0001\x0000 used\xfffeWing Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeWing Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeWing Attack!
-\xf000ā\x0001\x0000 used\xfffeWhirlwind!
-The wild \xf000ā\x0001\x0000 used\xfffeWhirlwind!
-The foe's \xf000ā\x0001\x0000 used\xfffeWhirlwind!
-\xf000ā\x0001\x0000 used\xfffeFly!
-The wild \xf000ā\x0001\x0000 used\xfffeFly!
-The foe's \xf000ā\x0001\x0000 used\xfffeFly!
-\xf000ā\x0001\x0000 used\xfffeBind!
-The wild \xf000ā\x0001\x0000 used\xfffeBind!
-The foe's \xf000ā\x0001\x0000 used\xfffeBind!
-\xf000ā\x0001\x0000 used\xfffeSlam!
-The wild \xf000ā\x0001\x0000 used\xfffeSlam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlam!
-\xf000ā\x0001\x0000 used\xfffeVine Whip!
-The wild \xf000ā\x0001\x0000 used\xfffeVine Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffeVine Whip!
-\xf000ā\x0001\x0000 used\xfffeStomp!
-The wild \xf000ā\x0001\x0000 used\xfffeStomp!
-The foe's \xf000ā\x0001\x0000 used\xfffeStomp!
-\xf000ā\x0001\x0000 used\xfffeDouble Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Kick!
-\xf000ā\x0001\x0000 used\xfffeMega Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Kick!
-\xf000ā\x0001\x0000 used\xfffeJump Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeJump Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeJump Kick!
-\xf000ā\x0001\x0000 used\xfffeRolling Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeRolling Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeRolling Kick!
-\xf000ā\x0001\x0000 used\xfffeSand-Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeSand-Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeSand-Attack!
-\xf000ā\x0001\x0000 used\xfffeHeadbutt!
-The wild \xf000ā\x0001\x0000 used\xfffeHeadbutt!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeadbutt!
-\xf000ā\x0001\x0000 used\xfffeHorn Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Attack!
-\xf000ā\x0001\x0000 used\xfffeFury Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Attack!
-\xf000ā\x0001\x0000 used\xfffeHorn Drill!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Drill!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Drill!
-\xf000ā\x0001\x0000 used\xfffeTackle!
-The wild \xf000ā\x0001\x0000 used\xfffeTackle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTackle!
-\xf000ā\x0001\x0000 used\xfffeBody Slam!
-The wild \xf000ā\x0001\x0000 used\xfffeBody Slam!
-The foe's \xf000ā\x0001\x0000 used\xfffeBody Slam!
-\xf000ā\x0001\x0000 used\xfffeWrap!
-The wild \xf000ā\x0001\x0000 used\xfffeWrap!
-The foe's \xf000ā\x0001\x0000 used\xfffeWrap!
-\xf000ā\x0001\x0000 used\xfffeTake Down!
-The wild \xf000ā\x0001\x0000 used\xfffeTake Down!
-The foe's \xf000ā\x0001\x0000 used\xfffeTake Down!
-\xf000ā\x0001\x0000 used\xfffeThrash!
-The wild \xf000ā\x0001\x0000 used\xfffeThrash!
-The foe's \xf000ā\x0001\x0000 used\xfffeThrash!
-\xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble-Edge!
-\xf000ā\x0001\x0000 used\xfffeTail Whip!
-The wild \xf000ā\x0001\x0000 used\xfffeTail Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffeTail Whip!
-\xf000ā\x0001\x0000 used\xfffePoison Sting!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Sting!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Sting!
-\xf000ā\x0001\x0000 used\xfffeTwineedle!
-The wild \xf000ā\x0001\x0000 used\xfffeTwineedle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTwineedle!
-\xf000ā\x0001\x0000 used\xfffePin Missile!
-The wild \xf000ā\x0001\x0000 used\xfffePin Missile!
-The foe's \xf000ā\x0001\x0000 used\xfffePin Missile!
-\xf000ā\x0001\x0000 used\xfffeLeer!
-The wild \xf000ā\x0001\x0000 used\xfffeLeer!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeer!
-\xf000ā\x0001\x0000 used\xfffeBite!
-The wild \xf000ā\x0001\x0000 used\xfffeBite!
-The foe's \xf000ā\x0001\x0000 used\xfffeBite!
-\xf000ā\x0001\x0000 used\xfffeGrowl!
-The wild \xf000ā\x0001\x0000 used\xfffeGrowl!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrowl!
-\xf000ā\x0001\x0000 used\xfffeRoar!
-The wild \xf000ā\x0001\x0000 used\xfffeRoar!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoar!
-\xf000ā\x0001\x0000 used\xfffeSing!
-The wild \xf000ā\x0001\x0000 used\xfffeSing!
-The foe's \xf000ā\x0001\x0000 used\xfffeSing!
-\xf000ā\x0001\x0000 used\xfffeSupersonic!
-The wild \xf000ā\x0001\x0000 used\xfffeSupersonic!
-The foe's \xf000ā\x0001\x0000 used\xfffeSupersonic!
-\xf000ā\x0001\x0000 used\xfffeSonicBoom!
-The wild \xf000ā\x0001\x0000 used\xfffeSonicBoom!
-The foe's \xf000ā\x0001\x0000 used\xfffeSonicBoom!
-\xf000ā\x0001\x0000 used\xfffeDisable!
-The wild \xf000ā\x0001\x0000 used\xfffeDisable!
-The foe's \xf000ā\x0001\x0000 used\xfffeDisable!
-\xf000ā\x0001\x0000 used\xfffeAcid!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid!
-\xf000ā\x0001\x0000 used\xfffeEmber!
-The wild \xf000ā\x0001\x0000 used\xfffeEmber!
-The foe's \xf000ā\x0001\x0000 used\xfffeEmber!
-\xf000ā\x0001\x0000 used\xfffeFlamethrower!
-The wild \xf000ā\x0001\x0000 used\xfffeFlamethrower!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlamethrower!
-\xf000ā\x0001\x0000 used\xfffeMist!
-The wild \xf000ā\x0001\x0000 used\xfffeMist!
-The foe's \xf000ā\x0001\x0000 used\xfffeMist!
-\xf000ā\x0001\x0000 used\xfffeWater Gun!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Gun!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Gun!
-\xf000ā\x0001\x0000 used\xfffeHydro Pump!
-The wild \xf000ā\x0001\x0000 used\xfffeHydro Pump!
-The foe's \xf000ā\x0001\x0000 used\xfffeHydro Pump!
-\xf000ā\x0001\x0000 used\xfffeSurf!
-The wild \xf000ā\x0001\x0000 used\xfffeSurf!
-The foe's \xf000ā\x0001\x0000 used\xfffeSurf!
-\xf000ā\x0001\x0000 used\xfffeIce Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Beam!
-\xf000ā\x0001\x0000 used\xfffeBlizzard!
-The wild \xf000ā\x0001\x0000 used\xfffeBlizzard!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlizzard!
-\xf000ā\x0001\x0000 used\xfffePsybeam!
-The wild \xf000ā\x0001\x0000 used\xfffePsybeam!
-The foe's \xf000ā\x0001\x0000 used\xfffePsybeam!
-\xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-The wild \xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-The foe's \xf000ā\x0001\x0000 used\xfffeBubbleBeam!
-\xf000ā\x0001\x0000 used\xfffeAurora Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeAurora Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeAurora Beam!
-\xf000ā\x0001\x0000 used\xfffeHyper Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Beam!
-\xf000ā\x0001\x0000 used\xfffePeck!
-The wild \xf000ā\x0001\x0000 used\xfffePeck!
-The foe's \xf000ā\x0001\x0000 used\xfffePeck!
-\xf000ā\x0001\x0000 used\xfffeDrill Peck!
-The wild \xf000ā\x0001\x0000 used\xfffeDrill Peck!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrill Peck!
-\xf000ā\x0001\x0000 used\xfffeSubmission!
-The wild \xf000ā\x0001\x0000 used\xfffeSubmission!
-The foe's \xf000ā\x0001\x0000 used\xfffeSubmission!
-\xf000ā\x0001\x0000 used\xfffeLow Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeLow Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeLow Kick!
-\xf000ā\x0001\x0000 used\xfffeCounter!
-The wild \xf000ā\x0001\x0000 used\xfffeCounter!
-The foe's \xf000ā\x0001\x0000 used\xfffeCounter!
-\xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-The wild \xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeismic Toss!
-\xf000ā\x0001\x0000 used\xfffeStrength!
-The wild \xf000ā\x0001\x0000 used\xfffeStrength!
-The foe's \xf000ā\x0001\x0000 used\xfffeStrength!
-\xf000ā\x0001\x0000 used\xfffeAbsorb!
-The wild \xf000ā\x0001\x0000 used\xfffeAbsorb!
-The foe's \xf000ā\x0001\x0000 used\xfffeAbsorb!
-\xf000ā\x0001\x0000 used\xfffeMega Drain!
-The wild \xf000ā\x0001\x0000 used\xfffeMega Drain!
-The foe's \xf000ā\x0001\x0000 used\xfffeMega Drain!
-\xf000ā\x0001\x0000 used\xfffeLeech Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeLeech Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeech Seed!
-\xf000ā\x0001\x0000 used\xfffeGrowth!
-The wild \xf000ā\x0001\x0000 used\xfffeGrowth!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrowth!
-\xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Leaf!
-\xf000ā\x0001\x0000 used\xfffeSolarBeam!
-The wild \xf000ā\x0001\x0000 used\xfffeSolarBeam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSolarBeam!
-\xf000ā\x0001\x0000 used\xfffePoisonPowder!
-The wild \xf000ā\x0001\x0000 used\xfffePoisonPowder!
-The foe's \xf000ā\x0001\x0000 used\xfffePoisonPowder!
-\xf000ā\x0001\x0000 used\xfffeStun Spore!
-The wild \xf000ā\x0001\x0000 used\xfffeStun Spore!
-The foe's \xf000ā\x0001\x0000 used\xfffeStun Spore!
-\xf000ā\x0001\x0000 used\xfffeSleep Powder!
-The wild \xf000ā\x0001\x0000 used\xfffeSleep Powder!
-The foe's \xf000ā\x0001\x0000 used\xfffeSleep Powder!
-\xf000ā\x0001\x0000 used\xfffePetal Dance!
-The wild \xf000ā\x0001\x0000 used\xfffePetal Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffePetal Dance!
-\xf000ā\x0001\x0000 used\xfffeString Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeString Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeString Shot!
-\xf000ā\x0001\x0000 used\xfffeDragon Rage!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Rage!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Rage!
-\xf000ā\x0001\x0000 used\xfffeFire Spin!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Spin!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Spin!
-\xf000ā\x0001\x0000 used\xfffeThunderShock!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderShock!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderShock!
-\xf000ā\x0001\x0000 used\xfffeThunderbolt!
-The wild \xf000ā\x0001\x0000 used\xfffeThunderbolt!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunderbolt!
-\xf000ā\x0001\x0000 used\xfffeThunder Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder Wave!
-\xf000ā\x0001\x0000 used\xfffeThunder!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder!
-\xf000ā\x0001\x0000 used\xfffeRock Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Throw!
-\xf000ā\x0001\x0000 used\xfffeEarthquake!
-The wild \xf000ā\x0001\x0000 used\xfffeEarthquake!
-The foe's \xf000ā\x0001\x0000 used\xfffeEarthquake!
-\xf000ā\x0001\x0000 used\xfffeFissure!
-The wild \xf000ā\x0001\x0000 used\xfffeFissure!
-The foe's \xf000ā\x0001\x0000 used\xfffeFissure!
-\xf000ā\x0001\x0000 used\xfffeDig!
-The wild \xf000ā\x0001\x0000 used\xfffeDig!
-The foe's \xf000ā\x0001\x0000 used\xfffeDig!
-\xf000ā\x0001\x0000 used\xfffeToxic!
-The wild \xf000ā\x0001\x0000 used\xfffeToxic!
-The foe's \xf000ā\x0001\x0000 used\xfffeToxic!
-\xf000ā\x0001\x0000 used\xfffeConfusion!
-The wild \xf000ā\x0001\x0000 used\xfffeConfusion!
-The foe's \xf000ā\x0001\x0000 used\xfffeConfusion!
-\xf000ā\x0001\x0000 used\xfffePsychic!
-The wild \xf000ā\x0001\x0000 used\xfffePsychic!
-The foe's \xf000ā\x0001\x0000 used\xfffePsychic!
-\xf000ā\x0001\x0000 used\xfffeHypnosis!
-The wild \xf000ā\x0001\x0000 used\xfffeHypnosis!
-The foe's \xf000ā\x0001\x0000 used\xfffeHypnosis!
-\xf000ā\x0001\x0000 used\xfffeMeditate!
-The wild \xf000ā\x0001\x0000 used\xfffeMeditate!
-The foe's \xf000ā\x0001\x0000 used\xfffeMeditate!
-\xf000ā\x0001\x0000 used\xfffeAgility!
-The wild \xf000ā\x0001\x0000 used\xfffeAgility!
-The foe's \xf000ā\x0001\x0000 used\xfffeAgility!
-\xf000ā\x0001\x0000 used\xfffeQuick Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeQuick Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeQuick Attack!
-\xf000ā\x0001\x0000 used\xfffeRage!
-The wild \xf000ā\x0001\x0000 used\xfffeRage!
-The foe's \xf000ā\x0001\x0000 used\xfffeRage!
-\xf000ā\x0001\x0000 used\xfffeTeleport!
-The wild \xf000ā\x0001\x0000 used\xfffeTeleport!
-The foe's \xf000ā\x0001\x0000 used\xfffeTeleport!
-\xf000ā\x0001\x0000 used\xfffeNight Shade!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Shade!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Shade!
-\xf000ā\x0001\x0000 used\xfffeMimic!
-The wild \xf000ā\x0001\x0000 used\xfffeMimic!
-The foe's \xf000ā\x0001\x0000 used\xfffeMimic!
-\xf000ā\x0001\x0000 used\xfffeScreech!
-The wild \xf000ā\x0001\x0000 used\xfffeScreech!
-The foe's \xf000ā\x0001\x0000 used\xfffeScreech!
-\xf000ā\x0001\x0000 used\xfffeDouble Team!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Team!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Team!
-\xf000ā\x0001\x0000 used\xfffeRecover!
-The wild \xf000ā\x0001\x0000 used\xfffeRecover!
-The foe's \xf000ā\x0001\x0000 used\xfffeRecover!
-\xf000ā\x0001\x0000 used\xfffeHarden!
-The wild \xf000ā\x0001\x0000 used\xfffeHarden!
-The foe's \xf000ā\x0001\x0000 used\xfffeHarden!
-\xf000ā\x0001\x0000 used\xfffeMinimize!
-The wild \xf000ā\x0001\x0000 used\xfffeMinimize!
-The foe's \xf000ā\x0001\x0000 used\xfffeMinimize!
-\xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-The wild \xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmokeScreen!
-\xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-The wild \xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-The foe's \xf000ā\x0001\x0000 used\xfffeConfuse Ray!
-\xf000ā\x0001\x0000 used\xfffeWithdraw!
-The wild \xf000ā\x0001\x0000 used\xfffeWithdraw!
-The foe's \xf000ā\x0001\x0000 used\xfffeWithdraw!
-\xf000ā\x0001\x0000 used\xfffeDefense Curl!
-The wild \xf000ā\x0001\x0000 used\xfffeDefense Curl!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefense Curl!
-\xf000ā\x0001\x0000 used\xfffeBarrier!
-The wild \xf000ā\x0001\x0000 used\xfffeBarrier!
-The foe's \xf000ā\x0001\x0000 used\xfffeBarrier!
-\xf000ā\x0001\x0000 used\xfffeLight Screen!
-The wild \xf000ā\x0001\x0000 used\xfffeLight Screen!
-The foe's \xf000ā\x0001\x0000 used\xfffeLight Screen!
-\xf000ā\x0001\x0000 used\xfffeHaze!
-The wild \xf000ā\x0001\x0000 used\xfffeHaze!
-The foe's \xf000ā\x0001\x0000 used\xfffeHaze!
-\xf000ā\x0001\x0000 used\xfffeReflect!
-The wild \xf000ā\x0001\x0000 used\xfffeReflect!
-The foe's \xf000ā\x0001\x0000 used\xfffeReflect!
-\xf000ā\x0001\x0000 used\xfffeFocus Energy!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Energy!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Energy!
-\xf000ā\x0001\x0000 used\xfffeBide!
-The wild \xf000ā\x0001\x0000 used\xfffeBide!
-The foe's \xf000ā\x0001\x0000 used\xfffeBide!
-\xf000ā\x0001\x0000 used\xfffeMetronome!
-The wild \xf000ā\x0001\x0000 used\xfffeMetronome!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetronome!
-\xf000ā\x0001\x0000 used\xfffeMirror Move!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Move!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Move!
-\xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-The wild \xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-The foe's \xf000ā\x0001\x0000 used\xfffeSelfdestruct!
-\xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeEgg Bomb!
-\xf000ā\x0001\x0000 used\xfffeLick!
-The wild \xf000ā\x0001\x0000 used\xfffeLick!
-The foe's \xf000ā\x0001\x0000 used\xfffeLick!
-\xf000ā\x0001\x0000 used\xfffeSmog!
-The wild \xf000ā\x0001\x0000 used\xfffeSmog!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmog!
-\xf000ā\x0001\x0000 used\xfffeSludge!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge!
-\xf000ā\x0001\x0000 used\xfffeBone Club!
-The wild \xf000ā\x0001\x0000 used\xfffeBone Club!
-The foe's \xf000ā\x0001\x0000 used\xfffeBone Club!
-\xf000ā\x0001\x0000 used\xfffeFire Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Blast!
-\xf000ā\x0001\x0000 used\xfffeWaterfall!
-The wild \xf000ā\x0001\x0000 used\xfffeWaterfall!
-The foe's \xf000ā\x0001\x0000 used\xfffeWaterfall!
-\xf000ā\x0001\x0000 used\xfffeClamp!
-The wild \xf000ā\x0001\x0000 used\xfffeClamp!
-The foe's \xf000ā\x0001\x0000 used\xfffeClamp!
-\xf000ā\x0001\x0000 used\xfffeSwift!
-The wild \xf000ā\x0001\x0000 used\xfffeSwift!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwift!
-\xf000ā\x0001\x0000 used\xfffeSkull Bash!
-The wild \xf000ā\x0001\x0000 used\xfffeSkull Bash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSkull Bash!
-\xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpike Cannon!
-\xf000ā\x0001\x0000 used\xfffeConstrict!
-The wild \xf000ā\x0001\x0000 used\xfffeConstrict!
-The foe's \xf000ā\x0001\x0000 used\xfffeConstrict!
-\xf000ā\x0001\x0000 used\xfffeAmnesia!
-The wild \xf000ā\x0001\x0000 used\xfffeAmnesia!
-The foe's \xf000ā\x0001\x0000 used\xfffeAmnesia!
-\xf000ā\x0001\x0000 used\xfffeKinesis!
-The wild \xf000ā\x0001\x0000 used\xfffeKinesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeKinesis!
-\xf000ā\x0001\x0000 used\xfffeSoftboiled!
-The wild \xf000ā\x0001\x0000 used\xfffeSoftboiled!
-The foe's \xf000ā\x0001\x0000 used\xfffeSoftboiled!
-\xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeHi Jump Kick!
-\xf000ā\x0001\x0000 used\xfffeGlare!
-The wild \xf000ā\x0001\x0000 used\xfffeGlare!
-The foe's \xf000ā\x0001\x0000 used\xfffeGlare!
-\xf000ā\x0001\x0000 used\xfffeDream Eater!
-The wild \xf000ā\x0001\x0000 used\xfffeDream Eater!
-The foe's \xf000ā\x0001\x0000 used\xfffeDream Eater!
-\xf000ā\x0001\x0000 used\xfffePoison Gas!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Gas!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Gas!
-\xf000ā\x0001\x0000 used\xfffeBarrage!
-The wild \xf000ā\x0001\x0000 used\xfffeBarrage!
-The foe's \xf000ā\x0001\x0000 used\xfffeBarrage!
-\xf000ā\x0001\x0000 used\xfffeLeech Life!
-The wild \xf000ā\x0001\x0000 used\xfffeLeech Life!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeech Life!
-\xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-The wild \xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-The foe's \xf000ā\x0001\x0000 used\xfffeLovely Kiss!
-\xf000ā\x0001\x0000 used\xfffeSky Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Attack!
-\xf000ā\x0001\x0000 used\xfffeTransform!
-The wild \xf000ā\x0001\x0000 used\xfffeTransform!
-The foe's \xf000ā\x0001\x0000 used\xfffeTransform!
-\xf000ā\x0001\x0000 used\xfffeBubble!
-The wild \xf000ā\x0001\x0000 used\xfffeBubble!
-The foe's \xf000ā\x0001\x0000 used\xfffeBubble!
-\xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDizzy Punch!
-\xf000ā\x0001\x0000 used\xfffeSpore!
-The wild \xf000ā\x0001\x0000 used\xfffeSpore!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpore!
-\xf000ā\x0001\x0000 used\xfffeFlash!
-The wild \xf000ā\x0001\x0000 used\xfffeFlash!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlash!
-\xf000ā\x0001\x0000 used\xfffePsywave!
-The wild \xf000ā\x0001\x0000 used\xfffePsywave!
-The foe's \xf000ā\x0001\x0000 used\xfffePsywave!
-\xf000ā\x0001\x0000 used\xfffeSplash!
-The wild \xf000ā\x0001\x0000 used\xfffeSplash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSplash!
-\xf000ā\x0001\x0000 used\xfffeAcid Armor!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid Armor!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid Armor!
-\xf000ā\x0001\x0000 used\xfffeCrabhammer!
-The wild \xf000ā\x0001\x0000 used\xfffeCrabhammer!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrabhammer!
-\xf000ā\x0001\x0000 used\xfffeExplosion!
-The wild \xf000ā\x0001\x0000 used\xfffeExplosion!
-The foe's \xf000ā\x0001\x0000 used\xfffeExplosion!
-\xf000ā\x0001\x0000 used\xfffeFury Swipes!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Swipes!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Swipes!
-\xf000ā\x0001\x0000 used\xfffeBonemerang!
-The wild \xf000ā\x0001\x0000 used\xfffeBonemerang!
-The foe's \xf000ā\x0001\x0000 used\xfffeBonemerang!
-\xf000ā\x0001\x0000 used\xfffeRest!
-The wild \xf000ā\x0001\x0000 used\xfffeRest!
-The foe's \xf000ā\x0001\x0000 used\xfffeRest!
-\xf000ā\x0001\x0000 used\xfffeRock Slide!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Slide!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Slide!
-\xf000ā\x0001\x0000 used\xfffeHyper Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Fang!
-\xf000ā\x0001\x0000 used\xfffeSharpen!
-The wild \xf000ā\x0001\x0000 used\xfffeSharpen!
-The foe's \xf000ā\x0001\x0000 used\xfffeSharpen!
-\xf000ā\x0001\x0000 used\xfffeConversion!
-The wild \xf000ā\x0001\x0000 used\xfffeConversion!
-The foe's \xf000ā\x0001\x0000 used\xfffeConversion!
-\xf000ā\x0001\x0000 used\xfffeTri Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeTri Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeTri Attack!
-\xf000ā\x0001\x0000 used\xfffeSuper Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeSuper Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeSuper Fang!
-\xf000ā\x0001\x0000 used\xfffeSlash!
-The wild \xf000ā\x0001\x0000 used\xfffeSlash!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlash!
-\xf000ā\x0001\x0000 used\xfffeSubstitute!
-The wild \xf000ā\x0001\x0000 used\xfffeSubstitute!
-The foe's \xf000ā\x0001\x0000 used\xfffeSubstitute!
-\xf000ā\x0001\x0000 used\xfffeStruggle!
-The wild \xf000ā\x0001\x0000 used\xfffeStruggle!
-The foe's \xf000ā\x0001\x0000 used\xfffeStruggle!
-\xf000ā\x0001\x0000 used\xfffeSketch!
-The wild \xf000ā\x0001\x0000 used\xfffeSketch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSketch!
-\xf000ā\x0001\x0000 used\xfffeTriple Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeTriple Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeTriple Kick!
-\xf000ā\x0001\x0000 used\xfffeThief!
-The wild \xf000ā\x0001\x0000 used\xfffeThief!
-The foe's \xf000ā\x0001\x0000 used\xfffeThief!
-\xf000ā\x0001\x0000 used\xfffeSpider Web!
-The wild \xf000ā\x0001\x0000 used\xfffeSpider Web!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpider Web!
-\xf000ā\x0001\x0000 used\xfffeMind Reader!
-The wild \xf000ā\x0001\x0000 used\xfffeMind Reader!
-The foe's \xf000ā\x0001\x0000 used\xfffeMind Reader!
-\xf000ā\x0001\x0000 used\xfffeNightmare!
-The wild \xf000ā\x0001\x0000 used\xfffeNightmare!
-The foe's \xf000ā\x0001\x0000 used\xfffeNightmare!
-\xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Wheel!
-\xf000ā\x0001\x0000 used\xfffeSnore!
-The wild \xf000ā\x0001\x0000 used\xfffeSnore!
-The foe's \xf000ā\x0001\x0000 used\xfffeSnore!
-\xf000ā\x0001\x0000 used\xfffeCurse!
-The wild \xf000ā\x0001\x0000 used\xfffeCurse!
-The foe's \xf000ā\x0001\x0000 used\xfffeCurse!
-\xf000ā\x0001\x0000 used\xfffeFlail!
-The wild \xf000ā\x0001\x0000 used\xfffeFlail!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlail!
-\xf000ā\x0001\x0000 used\xfffeConversion 2!
-The wild \xf000ā\x0001\x0000 used\xfffeConversion 2!
-The foe's \xf000ā\x0001\x0000 used\xfffeConversion 2!
-\xf000ā\x0001\x0000 used\xfffeAeroblast!
-The wild \xf000ā\x0001\x0000 used\xfffeAeroblast!
-The foe's \xf000ā\x0001\x0000 used\xfffeAeroblast!
-\xf000ā\x0001\x0000 used\xfffeCotton Spore!
-The wild \xf000ā\x0001\x0000 used\xfffeCotton Spore!
-The foe's \xf000ā\x0001\x0000 used\xfffeCotton Spore!
-\xf000ā\x0001\x0000 used\xfffeReversal!
-The wild \xf000ā\x0001\x0000 used\xfffeReversal!
-The foe's \xf000ā\x0001\x0000 used\xfffeReversal!
-\xf000ā\x0001\x0000 used\xfffeSpite!
-The wild \xf000ā\x0001\x0000 used\xfffeSpite!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpite!
-\xf000ā\x0001\x0000 used\xfffePowder Snow!
-The wild \xf000ā\x0001\x0000 used\xfffePowder Snow!
-The foe's \xf000ā\x0001\x0000 used\xfffePowder Snow!
-\xf000ā\x0001\x0000 used\xfffeProtect!
-The wild \xf000ā\x0001\x0000 used\xfffeProtect!
-The foe's \xf000ā\x0001\x0000 used\xfffeProtect!
-\xf000ā\x0001\x0000 used\xfffeMach Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeMach Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeMach Punch!
-\xf000ā\x0001\x0000 used\xfffeScary Face!
-The wild \xf000ā\x0001\x0000 used\xfffeScary Face!
-The foe's \xf000ā\x0001\x0000 used\xfffeScary Face!
-\xf000ā\x0001\x0000 used\xfffeFaint Attack!
-The wild \xf000ā\x0001\x0000 used\xfffeFaint Attack!
-The foe's \xf000ā\x0001\x0000 used\xfffeFaint Attack!
-\xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-The wild \xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-The foe's \xf000ā\x0001\x0000 used\xfffeSweet Kiss!
-\xf000ā\x0001\x0000 used\xfffeBelly Drum!
-The wild \xf000ā\x0001\x0000 used\xfffeBelly Drum!
-The foe's \xf000ā\x0001\x0000 used\xfffeBelly Drum!
-\xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge Bomb!
-\xf000ā\x0001\x0000 used\xfffeMud-Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeMud-Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud-Slap!
-\xf000ā\x0001\x0000 used\xfffeOctazooka!
-The wild \xf000ā\x0001\x0000 used\xfffeOctazooka!
-The foe's \xf000ā\x0001\x0000 used\xfffeOctazooka!
-\xf000ā\x0001\x0000 used\xfffeSpikes!
-The wild \xf000ā\x0001\x0000 used\xfffeSpikes!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpikes!
-\xf000ā\x0001\x0000 used\xfffeZap Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeZap Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeZap Cannon!
-\xf000ā\x0001\x0000 used\xfffeForesight!
-The wild \xf000ā\x0001\x0000 used\xfffeForesight!
-The foe's \xf000ā\x0001\x0000 used\xfffeForesight!
-\xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-The wild \xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-The foe's \xf000ā\x0001\x0000 used\xfffeDestiny Bond!
-\xf000ā\x0001\x0000 used\xfffePerish Song!
-The wild \xf000ā\x0001\x0000 used\xfffePerish Song!
-The foe's \xf000ā\x0001\x0000 used\xfffePerish Song!
-\xf000ā\x0001\x0000 used\xfffeIcy Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeIcy Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcy Wind!
-\xf000ā\x0001\x0000 used\xfffeDetect!
-The wild \xf000ā\x0001\x0000 used\xfffeDetect!
-The foe's \xf000ā\x0001\x0000 used\xfffeDetect!
-\xf000ā\x0001\x0000 used\xfffeBone Rush!
-The wild \xf000ā\x0001\x0000 used\xfffeBone Rush!
-The foe's \xf000ā\x0001\x0000 used\xfffeBone Rush!
-\xf000ā\x0001\x0000 used\xfffeLock-On!
-The wild \xf000ā\x0001\x0000 used\xfffeLock-On!
-The foe's \xf000ā\x0001\x0000 used\xfffeLock-On!
-\xf000ā\x0001\x0000 used\xfffeOutrage!
-The wild \xf000ā\x0001\x0000 used\xfffeOutrage!
-The foe's \xf000ā\x0001\x0000 used\xfffeOutrage!
-\xf000ā\x0001\x0000 used\xfffeSandstorm!
-The wild \xf000ā\x0001\x0000 used\xfffeSandstorm!
-The foe's \xf000ā\x0001\x0000 used\xfffeSandstorm!
-\xf000ā\x0001\x0000 used\xfffeGiga Drain!
-The wild \xf000ā\x0001\x0000 used\xfffeGiga Drain!
-The foe's \xf000ā\x0001\x0000 used\xfffeGiga Drain!
-\xf000ā\x0001\x0000 used\xfffeEndure!
-The wild \xf000ā\x0001\x0000 used\xfffeEndure!
-The foe's \xf000ā\x0001\x0000 used\xfffeEndure!
-\xf000ā\x0001\x0000 used\xfffeCharm!
-The wild \xf000ā\x0001\x0000 used\xfffeCharm!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharm!
-\xf000ā\x0001\x0000 used\xfffeRollout!
-The wild \xf000ā\x0001\x0000 used\xfffeRollout!
-The foe's \xf000ā\x0001\x0000 used\xfffeRollout!
-\xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-The wild \xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-The foe's \xf000ā\x0001\x0000 used\xfffeFalse Swipe!
-\xf000ā\x0001\x0000 used\xfffeSwagger!
-The wild \xf000ā\x0001\x0000 used\xfffeSwagger!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwagger!
-\xf000ā\x0001\x0000 used\xfffeMilk Drink!
-The wild \xf000ā\x0001\x0000 used\xfffeMilk Drink!
-The foe's \xf000ā\x0001\x0000 used\xfffeMilk Drink!
-\xf000ā\x0001\x0000 used\xfffeSpark!
-The wild \xf000ā\x0001\x0000 used\xfffeSpark!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpark!
-\xf000ā\x0001\x0000 used\xfffeFury Cutter!
-The wild \xf000ā\x0001\x0000 used\xfffeFury Cutter!
-The foe's \xf000ā\x0001\x0000 used\xfffeFury Cutter!
-\xf000ā\x0001\x0000 used\xfffeSteel Wing!
-The wild \xf000ā\x0001\x0000 used\xfffeSteel Wing!
-The foe's \xf000ā\x0001\x0000 used\xfffeSteel Wing!
-\xf000ā\x0001\x0000 used\xfffeMean Look!
-The wild \xf000ā\x0001\x0000 used\xfffeMean Look!
-The foe's \xf000ā\x0001\x0000 used\xfffeMean Look!
-\xf000ā\x0001\x0000 used\xfffeAttract!
-The wild \xf000ā\x0001\x0000 used\xfffeAttract!
-The foe's \xf000ā\x0001\x0000 used\xfffeAttract!
-\xf000ā\x0001\x0000 used\xfffeSleep Talk!
-The wild \xf000ā\x0001\x0000 used\xfffeSleep Talk!
-The foe's \xf000ā\x0001\x0000 used\xfffeSleep Talk!
-\xf000ā\x0001\x0000 used\xfffeHeal Bell!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Bell!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Bell!
-\xf000ā\x0001\x0000 used\xfffeReturn!
-The wild \xf000ā\x0001\x0000 used\xfffeReturn!
-The foe's \xf000ā\x0001\x0000 used\xfffeReturn!
-\xf000ā\x0001\x0000 used\xfffePresent!
-The wild \xf000ā\x0001\x0000 used\xfffePresent!
-The foe's \xf000ā\x0001\x0000 used\xfffePresent!
-\xf000ā\x0001\x0000 used\xfffeFrustration!
-The wild \xf000ā\x0001\x0000 used\xfffeFrustration!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrustration!
-\xf000ā\x0001\x0000 used\xfffeSafeguard!
-The wild \xf000ā\x0001\x0000 used\xfffeSafeguard!
-The foe's \xf000ā\x0001\x0000 used\xfffeSafeguard!
-\xf000ā\x0001\x0000 used\xfffePain Split!
-The wild \xf000ā\x0001\x0000 used\xfffePain Split!
-The foe's \xf000ā\x0001\x0000 used\xfffePain Split!
-\xf000ā\x0001\x0000 used\xfffeSacred Fire!
-The wild \xf000ā\x0001\x0000 used\xfffeSacred Fire!
-The foe's \xf000ā\x0001\x0000 used\xfffeSacred Fire!
-\xf000ā\x0001\x0000 used\xfffeMagnitude!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnitude!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnitude!
-\xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-The wild \xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDynamicPunch!
-\xf000ā\x0001\x0000 used\xfffeMegahorn!
-The wild \xf000ā\x0001\x0000 used\xfffeMegahorn!
-The foe's \xf000ā\x0001\x0000 used\xfffeMegahorn!
-\xf000ā\x0001\x0000 used\xfffeDragonBreath!
-The wild \xf000ā\x0001\x0000 used\xfffeDragonBreath!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragonBreath!
-\xf000ā\x0001\x0000 used\xfffeBaton Pass!
-The wild \xf000ā\x0001\x0000 used\xfffeBaton Pass!
-The foe's \xf000ā\x0001\x0000 used\xfffeBaton Pass!
-\xf000ā\x0001\x0000 used\xfffeEncore!
-The wild \xf000ā\x0001\x0000 used\xfffeEncore!
-The foe's \xf000ā\x0001\x0000 used\xfffeEncore!
-\xf000ā\x0001\x0000 used\xfffePursuit!
-The wild \xf000ā\x0001\x0000 used\xfffePursuit!
-The foe's \xf000ā\x0001\x0000 used\xfffePursuit!
-\xf000ā\x0001\x0000 used\xfffeRapid Spin!
-The wild \xf000ā\x0001\x0000 used\xfffeRapid Spin!
-The foe's \xf000ā\x0001\x0000 used\xfffeRapid Spin!
-\xf000ā\x0001\x0000 used\xfffeSweet Scent!
-The wild \xf000ā\x0001\x0000 used\xfffeSweet Scent!
-The foe's \xf000ā\x0001\x0000 used\xfffeSweet Scent!
-\xf000ā\x0001\x0000 used\xfffeIron Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Tail!
-\xf000ā\x0001\x0000 used\xfffeMetal Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Claw!
-\xf000ā\x0001\x0000 used\xfffeVital Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeVital Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeVital Throw!
-\xf000ā\x0001\x0000 used\xfffeMorning Sun!
-The wild \xf000ā\x0001\x0000 used\xfffeMorning Sun!
-The foe's \xf000ā\x0001\x0000 used\xfffeMorning Sun!
-\xf000ā\x0001\x0000 used\xfffeSynthesis!
-The wild \xf000ā\x0001\x0000 used\xfffeSynthesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeSynthesis!
-\xf000ā\x0001\x0000 used\xfffeMoonlight!
-The wild \xf000ā\x0001\x0000 used\xfffeMoonlight!
-The foe's \xf000ā\x0001\x0000 used\xfffeMoonlight!
-\xf000ā\x0001\x0000 used\xfffeHidden Power!
-The wild \xf000ā\x0001\x0000 used\xfffeHidden Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeHidden Power!
-\xf000ā\x0001\x0000 used\xfffeCross Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Chop!
-\xf000ā\x0001\x0000 used\xfffeTwister!
-The wild \xf000ā\x0001\x0000 used\xfffeTwister!
-The foe's \xf000ā\x0001\x0000 used\xfffeTwister!
-\xf000ā\x0001\x0000 used\xfffeRain Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeRain Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeRain Dance!
-\xf000ā\x0001\x0000 used\xfffeSunny Day!
-The wild \xf000ā\x0001\x0000 used\xfffeSunny Day!
-The foe's \xf000ā\x0001\x0000 used\xfffeSunny Day!
-\xf000ā\x0001\x0000 used\xfffeCrunch!
-The wild \xf000ā\x0001\x0000 used\xfffeCrunch!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrunch!
-\xf000ā\x0001\x0000 used\xfffeMirror Coat!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Coat!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Coat!
-\xf000ā\x0001\x0000 used\xfffePsych Up!
-The wild \xf000ā\x0001\x0000 used\xfffePsych Up!
-The foe's \xf000ā\x0001\x0000 used\xfffePsych Up!
-\xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-The wild \xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-The foe's \xf000ā\x0001\x0000 used\xfffeExtremeSpeed!
-\xf000ā\x0001\x0000 used\xfffeAncientPower!
-The wild \xf000ā\x0001\x0000 used\xfffeAncientPower!
-The foe's \xf000ā\x0001\x0000 used\xfffeAncientPower!
-\xf000ā\x0001\x0000 used\xfffeShadow Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Ball!
-\xf000ā\x0001\x0000 used\xfffeFuture Sight!
-The wild \xf000ā\x0001\x0000 used\xfffeFuture Sight!
-The foe's \xf000ā\x0001\x0000 used\xfffeFuture Sight!
-\xf000ā\x0001\x0000 used\xfffeRock Smash!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Smash!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Smash!
-\xf000ā\x0001\x0000 used\xfffeWhirlpool!
-The wild \xf000ā\x0001\x0000 used\xfffeWhirlpool!
-The foe's \xf000ā\x0001\x0000 used\xfffeWhirlpool!
-\xf000ā\x0001\x0000 used\xfffeBeat Up!
-The wild \xf000ā\x0001\x0000 used\xfffeBeat Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeBeat Up!
-\xf000ā\x0001\x0000 used\xfffeFake Out!
-The wild \xf000ā\x0001\x0000 used\xfffeFake Out!
-The foe's \xf000ā\x0001\x0000 used\xfffeFake Out!
-\xf000ā\x0001\x0000 used\xfffeUproar!
-The wild \xf000ā\x0001\x0000 used\xfffeUproar!
-The foe's \xf000ā\x0001\x0000 used\xfffeUproar!
-\xf000ā\x0001\x0000 used\xfffeStockpile!
-The wild \xf000ā\x0001\x0000 used\xfffeStockpile!
-The foe's \xf000ā\x0001\x0000 used\xfffeStockpile!
-\xf000ā\x0001\x0000 used\xfffeSpit Up!
-The wild \xf000ā\x0001\x0000 used\xfffeSpit Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpit Up!
-\xf000ā\x0001\x0000 used\xfffeSwallow!
-The wild \xf000ā\x0001\x0000 used\xfffeSwallow!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwallow!
-\xf000ā\x0001\x0000 used\xfffeHeat Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeHeat Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeat Wave!
-\xf000ā\x0001\x0000 used\xfffeHail!
-The wild \xf000ā\x0001\x0000 used\xfffeHail!
-The foe's \xf000ā\x0001\x0000 used\xfffeHail!
-\xf000ā\x0001\x0000 used\xfffeTorment!
-The wild \xf000ā\x0001\x0000 used\xfffeTorment!
-The foe's \xf000ā\x0001\x0000 used\xfffeTorment!
-\xf000ā\x0001\x0000 used\xfffeFlatter!
-The wild \xf000ā\x0001\x0000 used\xfffeFlatter!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlatter!
-\xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-The wild \xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-The foe's \xf000ā\x0001\x0000 used\xfffeWill-O-Wisp!
-\xf000ā\x0001\x0000 used\xfffeMemento!
-The wild \xf000ā\x0001\x0000 used\xfffeMemento!
-The foe's \xf000ā\x0001\x0000 used\xfffeMemento!
-\xf000ā\x0001\x0000 used\xfffeFacade!
-The wild \xf000ā\x0001\x0000 used\xfffeFacade!
-The foe's \xf000ā\x0001\x0000 used\xfffeFacade!
-\xf000ā\x0001\x0000 used\xfffeFocus Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Punch!
-\xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-The wild \xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-The foe's \xf000ā\x0001\x0000 used\xfffeSmellingSalt!
-\xf000ā\x0001\x0000 used\xfffeFollow Me!
-The wild \xf000ā\x0001\x0000 used\xfffeFollow Me!
-The foe's \xf000ā\x0001\x0000 used\xfffeFollow Me!
-\xf000ā\x0001\x0000 used\xfffeNature Power!
-The wild \xf000ā\x0001\x0000 used\xfffeNature Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeNature Power!
-\xf000ā\x0001\x0000 used\xfffeCharge!
-The wild \xf000ā\x0001\x0000 used\xfffeCharge!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharge!
-\xf000ā\x0001\x0000 used\xfffeTaunt!
-The wild \xf000ā\x0001\x0000 used\xfffeTaunt!
-The foe's \xf000ā\x0001\x0000 used\xfffeTaunt!
-\xf000ā\x0001\x0000 used\xfffeHelping Hand!
-The wild \xf000ā\x0001\x0000 used\xfffeHelping Hand!
-The foe's \xf000ā\x0001\x0000 used\xfffeHelping Hand!
-\xf000ā\x0001\x0000 used\xfffeTrick!
-The wild \xf000ā\x0001\x0000 used\xfffeTrick!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrick!
-\xf000ā\x0001\x0000 used\xfffeRole Play!
-The wild \xf000ā\x0001\x0000 used\xfffeRole Play!
-The foe's \xf000ā\x0001\x0000 used\xfffeRole Play!
-\xf000ā\x0001\x0000 used\xfffeWish!
-The wild \xf000ā\x0001\x0000 used\xfffeWish!
-The foe's \xf000ā\x0001\x0000 used\xfffeWish!
-\xf000ā\x0001\x0000 used\xfffeAssist!
-The wild \xf000ā\x0001\x0000 used\xfffeAssist!
-The foe's \xf000ā\x0001\x0000 used\xfffeAssist!
-\xf000ā\x0001\x0000 used\xfffeIngrain!
-The wild \xf000ā\x0001\x0000 used\xfffeIngrain!
-The foe's \xf000ā\x0001\x0000 used\xfffeIngrain!
-\xf000ā\x0001\x0000 used\xfffeSuperpower!
-The wild \xf000ā\x0001\x0000 used\xfffeSuperpower!
-The foe's \xf000ā\x0001\x0000 used\xfffeSuperpower!
-\xf000ā\x0001\x0000 used\xfffeMagic Coat!
-The wild \xf000ā\x0001\x0000 used\xfffeMagic Coat!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagic Coat!
-\xf000ā\x0001\x0000 used\xfffeRecycle!
-The wild \xf000ā\x0001\x0000 used\xfffeRecycle!
-The foe's \xf000ā\x0001\x0000 used\xfffeRecycle!
-\xf000ā\x0001\x0000 used\xfffeRevenge!
-The wild \xf000ā\x0001\x0000 used\xfffeRevenge!
-The foe's \xf000ā\x0001\x0000 used\xfffeRevenge!
-\xf000ā\x0001\x0000 used\xfffeBrick Break!
-The wild \xf000ā\x0001\x0000 used\xfffeBrick Break!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrick Break!
-\xf000ā\x0001\x0000 used\xfffeYawn!
-The wild \xf000ā\x0001\x0000 used\xfffeYawn!
-The foe's \xf000ā\x0001\x0000 used\xfffeYawn!
-\xf000ā\x0001\x0000 used\xfffeKnock Off!
-The wild \xf000ā\x0001\x0000 used\xfffeKnock Off!
-The foe's \xf000ā\x0001\x0000 used\xfffeKnock Off!
-\xf000ā\x0001\x0000 used\xfffeEndeavor!
-The wild \xf000ā\x0001\x0000 used\xfffeEndeavor!
-The foe's \xf000ā\x0001\x0000 used\xfffeEndeavor!
-\xf000ā\x0001\x0000 used\xfffeEruption!
-The wild \xf000ā\x0001\x0000 used\xfffeEruption!
-The foe's \xf000ā\x0001\x0000 used\xfffeEruption!
-\xf000ā\x0001\x0000 used\xfffeSkill Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeSkill Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeSkill Swap!
-\xf000ā\x0001\x0000 used\xfffeImprison!
-The wild \xf000ā\x0001\x0000 used\xfffeImprison!
-The foe's \xf000ā\x0001\x0000 used\xfffeImprison!
-\xf000ā\x0001\x0000 used\xfffeRefresh!
-The wild \xf000ā\x0001\x0000 used\xfffeRefresh!
-The foe's \xf000ā\x0001\x0000 used\xfffeRefresh!
-\xf000ā\x0001\x0000 used\xfffeGrudge!
-The wild \xf000ā\x0001\x0000 used\xfffeGrudge!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrudge!
-\xf000ā\x0001\x0000 used\xfffeSnatch!
-The wild \xf000ā\x0001\x0000 used\xfffeSnatch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSnatch!
-\xf000ā\x0001\x0000 used\xfffeSecret Power!
-The wild \xf000ā\x0001\x0000 used\xfffeSecret Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeSecret Power!
-\xf000ā\x0001\x0000 used\xfffeDive!
-The wild \xf000ā\x0001\x0000 used\xfffeDive!
-The foe's \xf000ā\x0001\x0000 used\xfffeDive!
-\xf000ā\x0001\x0000 used\xfffeArm Thrust!
-The wild \xf000ā\x0001\x0000 used\xfffeArm Thrust!
-The foe's \xf000ā\x0001\x0000 used\xfffeArm Thrust!
-\xf000ā\x0001\x0000 used\xfffeCamouflage!
-The wild \xf000ā\x0001\x0000 used\xfffeCamouflage!
-The foe's \xf000ā\x0001\x0000 used\xfffeCamouflage!
-\xf000ā\x0001\x0000 used\xfffeTail Glow!
-The wild \xf000ā\x0001\x0000 used\xfffeTail Glow!
-The foe's \xf000ā\x0001\x0000 used\xfffeTail Glow!
-\xf000ā\x0001\x0000 used\xfffeLuster Purge!
-The wild \xf000ā\x0001\x0000 used\xfffeLuster Purge!
-The foe's \xf000ā\x0001\x0000 used\xfffeLuster Purge!
-\xf000ā\x0001\x0000 used\xfffeMist Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeMist Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeMist Ball!
-\xf000ā\x0001\x0000 used\xfffeFeatherDance!
-The wild \xf000ā\x0001\x0000 used\xfffeFeatherDance!
-The foe's \xf000ā\x0001\x0000 used\xfffeFeatherDance!
-\xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeTeeter Dance!
-\xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlaze Kick!
-\xf000ā\x0001\x0000 used\xfffeMud Sport!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Sport!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Sport!
-\xf000ā\x0001\x0000 used\xfffeIce Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Ball!
-\xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-The wild \xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-The foe's \xf000ā\x0001\x0000 used\xfffeNeedle Arm!
-\xf000ā\x0001\x0000 used\xfffeSlack Off!
-The wild \xf000ā\x0001\x0000 used\xfffeSlack Off!
-The foe's \xf000ā\x0001\x0000 used\xfffeSlack Off!
-\xf000ā\x0001\x0000 used\xfffeHyper Voice!
-The wild \xf000ā\x0001\x0000 used\xfffeHyper Voice!
-The foe's \xf000ā\x0001\x0000 used\xfffeHyper Voice!
-\xf000ā\x0001\x0000 used\xfffePoison Fang!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Fang!
-\xf000ā\x0001\x0000 used\xfffeCrush Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeCrush Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrush Claw!
-\xf000ā\x0001\x0000 used\xfffeBlast Burn!
-The wild \xf000ā\x0001\x0000 used\xfffeBlast Burn!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlast Burn!
-\xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeHydro Cannon!
-\xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-The wild \xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-The foe's \xf000ā\x0001\x0000 used\xfffeMeteor Mash!
-\xf000ā\x0001\x0000 used\xfffeAstonish!
-The wild \xf000ā\x0001\x0000 used\xfffeAstonish!
-The foe's \xf000ā\x0001\x0000 used\xfffeAstonish!
-\xf000ā\x0001\x0000 used\xfffeWeather Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeWeather Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeWeather Ball!
-\xf000ā\x0001\x0000 used\xfffeAromatherapy!
-The wild \xf000ā\x0001\x0000 used\xfffeAromatherapy!
-The foe's \xf000ā\x0001\x0000 used\xfffeAromatherapy!
-\xf000ā\x0001\x0000 used\xfffeFake Tears!
-The wild \xf000ā\x0001\x0000 used\xfffeFake Tears!
-The foe's \xf000ā\x0001\x0000 used\xfffeFake Tears!
-\xf000ā\x0001\x0000 used\xfffeAir Cutter!
-The wild \xf000ā\x0001\x0000 used\xfffeAir Cutter!
-The foe's \xf000ā\x0001\x0000 used\xfffeAir Cutter!
-\xf000ā\x0001\x0000 used\xfffeOverheat!
-The wild \xf000ā\x0001\x0000 used\xfffeOverheat!
-The foe's \xf000ā\x0001\x0000 used\xfffeOverheat!
-\xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-The wild \xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-The foe's \xf000ā\x0001\x0000 used\xfffeOdor Sleuth!
-\xf000ā\x0001\x0000 used\xfffeRock Tomb!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Tomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Tomb!
-\xf000ā\x0001\x0000 used\xfffeSilver Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeSilver Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeSilver Wind!
-\xf000ā\x0001\x0000 used\xfffeMetal Sound!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Sound!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Sound!
-\xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-The wild \xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrassWhistle!
-\xf000ā\x0001\x0000 used\xfffeTickle!
-The wild \xf000ā\x0001\x0000 used\xfffeTickle!
-The foe's \xf000ā\x0001\x0000 used\xfffeTickle!
-\xf000ā\x0001\x0000 used\xfffeCosmic Power!
-The wild \xf000ā\x0001\x0000 used\xfffeCosmic Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeCosmic Power!
-\xf000ā\x0001\x0000 used\xfffeWater Spout!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Spout!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Spout!
-\xf000ā\x0001\x0000 used\xfffeSignal Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeSignal Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSignal Beam!
-\xf000ā\x0001\x0000 used\xfffeShadow Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Punch!
-\xf000ā\x0001\x0000 used\xfffeExtrasensory!
-The wild \xf000ā\x0001\x0000 used\xfffeExtrasensory!
-The foe's \xf000ā\x0001\x0000 used\xfffeExtrasensory!
-\xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Uppercut!
-\xf000ā\x0001\x0000 used\xfffeSand Tomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSand Tomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSand Tomb!
-\xf000ā\x0001\x0000 used\xfffeSheer Cold!
-The wild \xf000ā\x0001\x0000 used\xfffeSheer Cold!
-The foe's \xf000ā\x0001\x0000 used\xfffeSheer Cold!
-\xf000ā\x0001\x0000 used\xfffeMuddy Water!
-The wild \xf000ā\x0001\x0000 used\xfffeMuddy Water!
-The foe's \xf000ā\x0001\x0000 used\xfffeMuddy Water!
-\xf000ā\x0001\x0000 used\xfffeBullet Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeBullet Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeBullet Seed!
-\xf000ā\x0001\x0000 used\xfffeAerial Ace!
-The wild \xf000ā\x0001\x0000 used\xfffeAerial Ace!
-The foe's \xf000ā\x0001\x0000 used\xfffeAerial Ace!
-\xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-The wild \xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcicle Spear!
-\xf000ā\x0001\x0000 used\xfffeIron Defense!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Defense!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Defense!
-\xf000ā\x0001\x0000 used\xfffeBlock!
-The wild \xf000ā\x0001\x0000 used\xfffeBlock!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlock!
-\xf000ā\x0001\x0000 used\xfffeHowl!
-The wild \xf000ā\x0001\x0000 used\xfffeHowl!
-The foe's \xf000ā\x0001\x0000 used\xfffeHowl!
-\xf000ā\x0001\x0000 used\xfffeDragon Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Claw!
-\xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-The wild \xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrenzy Plant!
-\xf000ā\x0001\x0000 used\xfffeBulk Up!
-The wild \xf000ā\x0001\x0000 used\xfffeBulk Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeBulk Up!
-\xf000ā\x0001\x0000 used\xfffeBounce!
-The wild \xf000ā\x0001\x0000 used\xfffeBounce!
-The foe's \xf000ā\x0001\x0000 used\xfffeBounce!
-\xf000ā\x0001\x0000 used\xfffeMud Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Shot!
-\xf000ā\x0001\x0000 used\xfffePoison Tail!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Tail!
-\xf000ā\x0001\x0000 used\xfffeCovet!
-The wild \xf000ā\x0001\x0000 used\xfffeCovet!
-The foe's \xf000ā\x0001\x0000 used\xfffeCovet!
-\xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-The wild \xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-The foe's \xf000ā\x0001\x0000 used\xfffeVolt Tackle!
-\xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-The wild \xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagical Leaf!
-\xf000ā\x0001\x0000 used\xfffeWater Sport!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Sport!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Sport!
-\xf000ā\x0001\x0000 used\xfffeCalm Mind!
-The wild \xf000ā\x0001\x0000 used\xfffeCalm Mind!
-The foe's \xf000ā\x0001\x0000 used\xfffeCalm Mind!
-\xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Blade!
-\xf000ā\x0001\x0000 used\xfffeDragon Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Dance!
-\xf000ā\x0001\x0000 used\xfffeRock Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Blast!
-\xf000ā\x0001\x0000 used\xfffeShock Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeShock Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeShock Wave!
-\xf000ā\x0001\x0000 used\xfffeWater Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Pulse!
-\xf000ā\x0001\x0000 used\xfffeDoom Desire!
-The wild \xf000ā\x0001\x0000 used\xfffeDoom Desire!
-The foe's \xf000ā\x0001\x0000 used\xfffeDoom Desire!
-\xf000ā\x0001\x0000 used\xfffePsycho Boost!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Boost!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Boost!
-\xf000ā\x0001\x0000 used\xfffeRoost!
-The wild \xf000ā\x0001\x0000 used\xfffeRoost!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoost!
-\xf000ā\x0001\x0000 used\xfffeGravity!
-The wild \xf000ā\x0001\x0000 used\xfffeGravity!
-The foe's \xf000ā\x0001\x0000 used\xfffeGravity!
-\xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-The wild \xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-The foe's \xf000ā\x0001\x0000 used\xfffeMiracle Eye!
-\xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeWake-Up Slap!
-\xf000ā\x0001\x0000 used\xfffeHammer Arm!
-The wild \xf000ā\x0001\x0000 used\xfffeHammer Arm!
-The foe's \xf000ā\x0001\x0000 used\xfffeHammer Arm!
-\xf000ā\x0001\x0000 used\xfffeGyro Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeGyro Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeGyro Ball!
-\xf000ā\x0001\x0000 used\xfffeHealing Wish!
-The wild \xf000ā\x0001\x0000 used\xfffeHealing Wish!
-The foe's \xf000ā\x0001\x0000 used\xfffeHealing Wish!
-\xf000ā\x0001\x0000 used\xfffeBrine!
-The wild \xf000ā\x0001\x0000 used\xfffeBrine!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrine!
-\xf000ā\x0001\x0000 used\xfffeNatural Gift!
-The wild \xf000ā\x0001\x0000 used\xfffeNatural Gift!
-The foe's \xf000ā\x0001\x0000 used\xfffeNatural Gift!
-\xf000ā\x0001\x0000 used\xfffeFeint!
-The wild \xf000ā\x0001\x0000 used\xfffeFeint!
-The foe's \xf000ā\x0001\x0000 used\xfffeFeint!
-\xf000ā\x0001\x0000 used\xfffePluck!
-The wild \xf000ā\x0001\x0000 used\xfffePluck!
-The foe's \xf000ā\x0001\x0000 used\xfffePluck!
-\xf000ā\x0001\x0000 used\xfffeTailwind!
-The wild \xf000ā\x0001\x0000 used\xfffeTailwind!
-The foe's \xf000ā\x0001\x0000 used\xfffeTailwind!
-\xf000ā\x0001\x0000 used\xfffeAcupressure!
-The wild \xf000ā\x0001\x0000 used\xfffeAcupressure!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcupressure!
-\xf000ā\x0001\x0000 used\xfffeMetal Burst!
-The wild \xf000ā\x0001\x0000 used\xfffeMetal Burst!
-The foe's \xf000ā\x0001\x0000 used\xfffeMetal Burst!
-\xf000ā\x0001\x0000 used\xfffeU-turn!
-The wild \xf000ā\x0001\x0000 used\xfffeU-turn!
-The foe's \xf000ā\x0001\x0000 used\xfffeU-turn!
-\xf000ā\x0001\x0000 used\xfffeClose Combat!
-The wild \xf000ā\x0001\x0000 used\xfffeClose Combat!
-The foe's \xf000ā\x0001\x0000 used\xfffeClose Combat!
-\xf000ā\x0001\x0000 used\xfffePayback!
-The wild \xf000ā\x0001\x0000 used\xfffePayback!
-The foe's \xf000ā\x0001\x0000 used\xfffePayback!
-\xf000ā\x0001\x0000 used\xfffeAssurance!
-The wild \xf000ā\x0001\x0000 used\xfffeAssurance!
-The foe's \xf000ā\x0001\x0000 used\xfffeAssurance!
-\xf000ā\x0001\x0000 used\xfffeEmbargo!
-The wild \xf000ā\x0001\x0000 used\xfffeEmbargo!
-The foe's \xf000ā\x0001\x0000 used\xfffeEmbargo!
-\xf000ā\x0001\x0000 used\xfffeFling!
-The wild \xf000ā\x0001\x0000 used\xfffeFling!
-The foe's \xf000ā\x0001\x0000 used\xfffeFling!
-\xf000ā\x0001\x0000 used\xfffePsycho Shift!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Shift!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Shift!
-\xf000ā\x0001\x0000 used\xfffeTrump Card!
-The wild \xf000ā\x0001\x0000 used\xfffeTrump Card!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrump Card!
-\xf000ā\x0001\x0000 used\xfffeHeal Block!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Block!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Block!
-\xf000ā\x0001\x0000 used\xfffeWring Out!
-The wild \xf000ā\x0001\x0000 used\xfffeWring Out!
-The foe's \xf000ā\x0001\x0000 used\xfffeWring Out!
-\xf000ā\x0001\x0000 used\xfffePower Trick!
-The wild \xf000ā\x0001\x0000 used\xfffePower Trick!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Trick!
-\xf000ā\x0001\x0000 used\xfffeGastro Acid!
-The wild \xf000ā\x0001\x0000 used\xfffeGastro Acid!
-The foe's \xf000ā\x0001\x0000 used\xfffeGastro Acid!
-\xf000ā\x0001\x0000 used\xfffeLucky Chant!
-The wild \xf000ā\x0001\x0000 used\xfffeLucky Chant!
-The foe's \xf000ā\x0001\x0000 used\xfffeLucky Chant!
-\xf000ā\x0001\x0000 used\xfffeMe First!
-The wild \xf000ā\x0001\x0000 used\xfffeMe First!
-The foe's \xf000ā\x0001\x0000 used\xfffeMe First!
-\xf000ā\x0001\x0000 used\xfffeCopycat!
-The wild \xf000ā\x0001\x0000 used\xfffeCopycat!
-The foe's \xf000ā\x0001\x0000 used\xfffeCopycat!
-\xf000ā\x0001\x0000 used\xfffePower Swap!
-The wild \xf000ā\x0001\x0000 used\xfffePower Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Swap!
-\xf000ā\x0001\x0000 used\xfffeGuard Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeGuard Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuard Swap!
-\xf000ā\x0001\x0000 used\xfffePunishment!
-The wild \xf000ā\x0001\x0000 used\xfffePunishment!
-The foe's \xf000ā\x0001\x0000 used\xfffePunishment!
-\xf000ā\x0001\x0000 used\xfffeLast Resort!
-The wild \xf000ā\x0001\x0000 used\xfffeLast Resort!
-The foe's \xf000ā\x0001\x0000 used\xfffeLast Resort!
-\xf000ā\x0001\x0000 used\xfffeWorry Seed!
-The wild \xf000ā\x0001\x0000 used\xfffeWorry Seed!
-The foe's \xf000ā\x0001\x0000 used\xfffeWorry Seed!
-\xf000ā\x0001\x0000 used\xfffeSucker Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeSucker Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeSucker Punch!
-\xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-The wild \xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-The foe's \xf000ā\x0001\x0000 used\xfffeToxic Spikes!
-\xf000ā\x0001\x0000 used\xfffeHeart Swap!
-The wild \xf000ā\x0001\x0000 used\xfffeHeart Swap!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeart Swap!
-\xf000ā\x0001\x0000 used\xfffeAqua Ring!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Ring!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Ring!
-\xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnet Rise!
-\xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-The wild \xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlare Blitz!
-\xf000ā\x0001\x0000 used\xfffeForce Palm!
-The wild \xf000ā\x0001\x0000 used\xfffeForce Palm!
-The foe's \xf000ā\x0001\x0000 used\xfffeForce Palm!
-\xf000ā\x0001\x0000 used\xfffeAura Sphere!
-The wild \xf000ā\x0001\x0000 used\xfffeAura Sphere!
-The foe's \xf000ā\x0001\x0000 used\xfffeAura Sphere!
-\xf000ā\x0001\x0000 used\xfffeRock Polish!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Polish!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Polish!
-\xf000ā\x0001\x0000 used\xfffePoison Jab!
-The wild \xf000ā\x0001\x0000 used\xfffePoison Jab!
-The foe's \xf000ā\x0001\x0000 used\xfffePoison Jab!
-\xf000ā\x0001\x0000 used\xfffeDark Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeDark Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeDark Pulse!
-\xf000ā\x0001\x0000 used\xfffeNight Slash!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Slash!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Slash!
-\xf000ā\x0001\x0000 used\xfffeAqua Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Tail!
-\xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeed Bomb!
-\xf000ā\x0001\x0000 used\xfffeAir Slash!
-The wild \xf000ā\x0001\x0000 used\xfffeAir Slash!
-The foe's \xf000ā\x0001\x0000 used\xfffeAir Slash!
-\xf000ā\x0001\x0000 used\xfffeX-Scissor!
-The wild \xf000ā\x0001\x0000 used\xfffeX-Scissor!
-The foe's \xf000ā\x0001\x0000 used\xfffeX-Scissor!
-\xf000ā\x0001\x0000 used\xfffeBug Buzz!
-The wild \xf000ā\x0001\x0000 used\xfffeBug Buzz!
-The foe's \xf000ā\x0001\x0000 used\xfffeBug Buzz!
-\xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Pulse!
-\xf000ā\x0001\x0000 used\xfffeDragon Rush!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Rush!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Rush!
-\xf000ā\x0001\x0000 used\xfffePower Gem!
-The wild \xf000ā\x0001\x0000 used\xfffePower Gem!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Gem!
-\xf000ā\x0001\x0000 used\xfffeDrain Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeDrain Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrain Punch!
-\xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeVacuum Wave!
-\xf000ā\x0001\x0000 used\xfffeFocus Blast!
-The wild \xf000ā\x0001\x0000 used\xfffeFocus Blast!
-The foe's \xf000ā\x0001\x0000 used\xfffeFocus Blast!
-\xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeEnergy Ball!
-\xf000ā\x0001\x0000 used\xfffeBrave Bird!
-The wild \xf000ā\x0001\x0000 used\xfffeBrave Bird!
-The foe's \xf000ā\x0001\x0000 used\xfffeBrave Bird!
-\xf000ā\x0001\x0000 used\xfffeEarth Power!
-The wild \xf000ā\x0001\x0000 used\xfffeEarth Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeEarth Power!
-\xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-The wild \xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-The foe's \xf000ā\x0001\x0000 used\xfffeSwitcheroo!
-\xf000ā\x0001\x0000 used\xfffeGiga Impact!
-The wild \xf000ā\x0001\x0000 used\xfffeGiga Impact!
-The foe's \xf000ā\x0001\x0000 used\xfffeGiga Impact!
-\xf000ā\x0001\x0000 used\xfffeNasty Plot!
-The wild \xf000ā\x0001\x0000 used\xfffeNasty Plot!
-The foe's \xf000ā\x0001\x0000 used\xfffeNasty Plot!
-\xf000ā\x0001\x0000 used\xfffeBullet Punch!
-The wild \xf000ā\x0001\x0000 used\xfffeBullet Punch!
-The foe's \xf000ā\x0001\x0000 used\xfffeBullet Punch!
-\xf000ā\x0001\x0000 used\xfffeAvalanche!
-The wild \xf000ā\x0001\x0000 used\xfffeAvalanche!
-The foe's \xf000ā\x0001\x0000 used\xfffeAvalanche!
-\xf000ā\x0001\x0000 used\xfffeIce Shard!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Shard!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Shard!
-\xf000ā\x0001\x0000 used\xfffeShadow Claw!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Claw!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Claw!
-\xf000ā\x0001\x0000 used\xfffeThunder Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeThunder Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeThunder Fang!
-\xf000ā\x0001\x0000 used\xfffeIce Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Fang!
-\xf000ā\x0001\x0000 used\xfffeFire Fang!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Fang!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Fang!
-\xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Sneak!
-\xf000ā\x0001\x0000 used\xfffeMud Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeMud Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeMud Bomb!
-\xf000ā\x0001\x0000 used\xfffePsycho Cut!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Cut!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Cut!
-\xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-The wild \xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-The foe's \xf000ā\x0001\x0000 used\xfffeZen Headbutt!
-\xf000ā\x0001\x0000 used\xfffeMirror Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Shot!
-\xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-The wild \xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlash Cannon!
-\xf000ā\x0001\x0000 used\xfffeRock Climb!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Climb!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Climb!
-\xf000ā\x0001\x0000 used\xfffeDefog!
-The wild \xf000ā\x0001\x0000 used\xfffeDefog!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefog!
-\xf000ā\x0001\x0000 used\xfffeTrick Room!
-The wild \xf000ā\x0001\x0000 used\xfffeTrick Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrick Room!
-\xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-The wild \xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-The foe's \xf000ā\x0001\x0000 used\xfffeDraco Meteor!
-\xf000ā\x0001\x0000 used\xfffeDischarge!
-The wild \xf000ā\x0001\x0000 used\xfffeDischarge!
-The foe's \xf000ā\x0001\x0000 used\xfffeDischarge!
-\xf000ā\x0001\x0000 used\xfffeLava Plume!
-The wild \xf000ā\x0001\x0000 used\xfffeLava Plume!
-The foe's \xf000ā\x0001\x0000 used\xfffeLava Plume!
-\xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Storm!
-\xf000ā\x0001\x0000 used\xfffePower Whip!
-The wild \xf000ā\x0001\x0000 used\xfffePower Whip!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Whip!
-\xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-The wild \xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-The foe's \xf000ā\x0001\x0000 used\xfffeRock Wrecker!
-\xf000ā\x0001\x0000 used\xfffeCross Poison!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Poison!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Poison!
-\xf000ā\x0001\x0000 used\xfffeGunk Shot!
-The wild \xf000ā\x0001\x0000 used\xfffeGunk Shot!
-The foe's \xf000ā\x0001\x0000 used\xfffeGunk Shot!
-\xf000ā\x0001\x0000 used\xfffeIron Head!
-The wild \xf000ā\x0001\x0000 used\xfffeIron Head!
-The foe's \xf000ā\x0001\x0000 used\xfffeIron Head!
-\xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagnet Bomb!
-\xf000ā\x0001\x0000 used\xfffeStone Edge!
-The wild \xf000ā\x0001\x0000 used\xfffeStone Edge!
-The foe's \xf000ā\x0001\x0000 used\xfffeStone Edge!
-\xf000ā\x0001\x0000 used\xfffeCaptivate!
-The wild \xf000ā\x0001\x0000 used\xfffeCaptivate!
-The foe's \xf000ā\x0001\x0000 used\xfffeCaptivate!
-\xf000ā\x0001\x0000 used\xfffeStealth Rock!
-The wild \xf000ā\x0001\x0000 used\xfffeStealth Rock!
-The foe's \xf000ā\x0001\x0000 used\xfffeStealth Rock!
-\xf000ā\x0001\x0000 used\xfffeGrass Knot!
-The wild \xf000ā\x0001\x0000 used\xfffeGrass Knot!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrass Knot!
-\xf000ā\x0001\x0000 used\xfffeChatter!
-The wild \xf000ā\x0001\x0000 used\xfffeChatter!
-The foe's \xf000ā\x0001\x0000 used\xfffeChatter!
-\xf000ā\x0001\x0000 used\xfffeJudgment!
-The wild \xf000ā\x0001\x0000 used\xfffeJudgment!
-The foe's \xf000ā\x0001\x0000 used\xfffeJudgment!
-\xf000ā\x0001\x0000 used\xfffeBug Bite!
-The wild \xf000ā\x0001\x0000 used\xfffeBug Bite!
-The foe's \xf000ā\x0001\x0000 used\xfffeBug Bite!
-\xf000ā\x0001\x0000 used\xfffeCharge Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeCharge Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeCharge Beam!
-\xf000ā\x0001\x0000 used\xfffeWood Hammer!
-The wild \xf000ā\x0001\x0000 used\xfffeWood Hammer!
-The foe's \xf000ā\x0001\x0000 used\xfffeWood Hammer!
-\xf000ā\x0001\x0000 used\xfffeAqua Jet!
-The wild \xf000ā\x0001\x0000 used\xfffeAqua Jet!
-The foe's \xf000ā\x0001\x0000 used\xfffeAqua Jet!
-\xf000ā\x0001\x0000 used\xfffeAttack Order!
-The wild \xf000ā\x0001\x0000 used\xfffeAttack Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeAttack Order!
-\xf000ā\x0001\x0000 used\xfffeDefend Order!
-The wild \xf000ā\x0001\x0000 used\xfffeDefend Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeDefend Order!
-\xf000ā\x0001\x0000 used\xfffeHeal Order!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Order!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Order!
-\xf000ā\x0001\x0000 used\xfffeHead Smash!
-The wild \xf000ā\x0001\x0000 used\xfffeHead Smash!
-The foe's \xf000ā\x0001\x0000 used\xfffeHead Smash!
-\xf000ā\x0001\x0000 used\xfffeDouble Hit!
-The wild \xf000ā\x0001\x0000 used\xfffeDouble Hit!
-The foe's \xf000ā\x0001\x0000 used\xfffeDouble Hit!
-\xf000ā\x0001\x0000 used\xfffeRoar of Time!
-The wild \xf000ā\x0001\x0000 used\xfffeRoar of Time!
-The foe's \xf000ā\x0001\x0000 used\xfffeRoar of Time!
-\xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-The wild \xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-The foe's \xf000ā\x0001\x0000 used\xfffeSpacial Rend!
-\xf000ā\x0001\x0000 used\xfffeLunar Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeLunar Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeLunar Dance!
-\xf000ā\x0001\x0000 used\xfffeCrush Grip!
-The wild \xf000ā\x0001\x0000 used\xfffeCrush Grip!
-The foe's \xf000ā\x0001\x0000 used\xfffeCrush Grip!
-\xf000ā\x0001\x0000 used\xfffeMagma Storm!
-The wild \xf000ā\x0001\x0000 used\xfffeMagma Storm!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagma Storm!
-\xf000ā\x0001\x0000 used\xfffeDark Void!
-The wild \xf000ā\x0001\x0000 used\xfffeDark Void!
-The foe's \xf000ā\x0001\x0000 used\xfffeDark Void!
-\xf000ā\x0001\x0000 used\xfffeSeed Flare!
-The wild \xf000ā\x0001\x0000 used\xfffeSeed Flare!
-The foe's \xf000ā\x0001\x0000 used\xfffeSeed Flare!
-\xf000ā\x0001\x0000 used\xfffeOminous Wind!
-The wild \xf000ā\x0001\x0000 used\xfffeOminous Wind!
-The foe's \xf000ā\x0001\x0000 used\xfffeOminous Wind!
-\xf000ā\x0001\x0000 used\xfffeShadow Force!
-The wild \xf000ā\x0001\x0000 used\xfffeShadow Force!
-The foe's \xf000ā\x0001\x0000 used\xfffeShadow Force!
-\xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
-The wild \xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
-The foe's \xf000ā\x0001\x0000 used\xfffeClaw Sharpen!
-\xf000ā\x0001\x0000 used\xfffeWide Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeWide Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeWide Guard!
-\xf000ā\x0001\x0000 used\xfffeGuard Share!
-The wild \xf000ā\x0001\x0000 used\xfffeGuard Share!
-The foe's \xf000ā\x0001\x0000 used\xfffeGuard Share!
-\xf000ā\x0001\x0000 used\xfffePower Share!
-The wild \xf000ā\x0001\x0000 used\xfffePower Share!
-The foe's \xf000ā\x0001\x0000 used\xfffePower Share!
-\xf000ā\x0001\x0000 used\xfffeWonder Room!
-The wild \xf000ā\x0001\x0000 used\xfffeWonder Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeWonder Room!
-\xf000ā\x0001\x0000 used\xfffePsycho Shock!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Shock!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Shock!
-\xf000ā\x0001\x0000 used\xfffeVenom Shock!
-The wild \xf000ā\x0001\x0000 used\xfffeVenom Shock!
-The foe's \xf000ā\x0001\x0000 used\xfffeVenom Shock!
-\xf000ā\x0001\x0000 used\xfffeBody Purge!
-The wild \xf000ā\x0001\x0000 used\xfffeBody Purge!
-The foe's \xf000ā\x0001\x0000 used\xfffeBody Purge!
-\xf000ā\x0001\x0000 used\xfffeSuper Powder!
-The wild \xf000ā\x0001\x0000 used\xfffeSuper Powder!
-The foe's \xf000ā\x0001\x0000 used\xfffeSuper Powder!
-\xf000ā\x0001\x0000 used\xfffeTelekinesis!
-The wild \xf000ā\x0001\x0000 used\xfffeTelekinesis!
-The foe's \xf000ā\x0001\x0000 used\xfffeTelekinesis!
-\xf000ā\x0001\x0000 used\xfffeMagic Room!
-The wild \xf000ā\x0001\x0000 used\xfffeMagic Room!
-The foe's \xf000ā\x0001\x0000 used\xfffeMagic Room!
-\xf000ā\x0001\x0000 used\xfffeKnock Down!
-The wild \xf000ā\x0001\x0000 used\xfffeKnock Down!
-The foe's \xf000ā\x0001\x0000 used\xfffeKnock Down!
-\xf000ā\x0001\x0000 used\xfffeMountain Storm!
-The wild \xf000ā\x0001\x0000 used\xfffeMountain Storm!
-The foe's \xf000ā\x0001\x0000 used\xfffeMountain Storm!
-\xf000ā\x0001\x0000 used\xfffeFlame Burst!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Burst!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Burst!
-\xf000ā\x0001\x0000 used\xfffeSludge Wave!
-The wild \xf000ā\x0001\x0000 used\xfffeSludge Wave!
-The foe's \xf000ā\x0001\x0000 used\xfffeSludge Wave!
-\xf000ā\x0001\x0000 used\xfffeButterfly Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeButterfly Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeButterfly Dance!
-\xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
-The wild \xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeavy Bomber!
-\xf000ā\x0001\x0000 used\xfffeSynchronise!
-The wild \xf000ā\x0001\x0000 used\xfffeSynchronise!
-The foe's \xf000ā\x0001\x0000 used\xfffeSynchronise!
-\xf000ā\x0001\x0000 used\xfffeElectro Ball!
-The wild \xf000ā\x0001\x0000 used\xfffeElectro Ball!
-The foe's \xf000ā\x0001\x0000 used\xfffeElectro Ball!
-\xf000ā\x0001\x0000 used\xfffeWater Soak!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Soak!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Soak!
-\xf000ā\x0001\x0000 used\xfffeFlame Charge!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Charge!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Charge!
-\xf000ā\x0001\x0000 used\xfffeCoil!
-The wild \xf000ā\x0001\x0000 used\xfffeCoil!
-The foe's \xf000ā\x0001\x0000 used\xfffeCoil!
-\xf000ā\x0001\x0000 used\xfffeAnkle Kick!
-The wild \xf000ā\x0001\x0000 used\xfffeAnkle Kick!
-The foe's \xf000ā\x0001\x0000 used\xfffeAnkle Kick!
-\xf000ā\x0001\x0000 used\xfffeAcid Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeAcid Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcid Bomb!
-\xf000ā\x0001\x0000 used\xfffeTrickery!
-The wild \xf000ā\x0001\x0000 used\xfffeTrickery!
-The foe's \xf000ā\x0001\x0000 used\xfffeTrickery!
-\xf000ā\x0001\x0000 used\xfffeSimple Beam!
-The wild \xf000ā\x0001\x0000 used\xfffeSimple Beam!
-The foe's \xf000ā\x0001\x0000 used\xfffeSimple Beam!
-\xf000ā\x0001\x0000 used\xfffeMake Friends!
-The wild \xf000ā\x0001\x0000 used\xfffeMake Friends!
-The foe's \xf000ā\x0001\x0000 used\xfffeMake Friends!
-\xf000ā\x0001\x0000 used\xfffeAfter You!
-The wild \xf000ā\x0001\x0000 used\xfffeAfter You!
-The foe's \xf000ā\x0001\x0000 used\xfffeAfter You!
-\xf000ā\x0001\x0000 used\xfffeRound!
-The wild \xf000ā\x0001\x0000 used\xfffeRound!
-The foe's \xf000ā\x0001\x0000 used\xfffeRound!
-\xf000ā\x0001\x0000 used\xfffeEcho Voice!
-The wild \xf000ā\x0001\x0000 used\xfffeEcho Voice!
-The foe's \xf000ā\x0001\x0000 used\xfffeEcho Voice!
-\xf000ā\x0001\x0000 used\xfffeBit by Bit!
-The wild \xf000ā\x0001\x0000 used\xfffeBit by Bit!
-The foe's \xf000ā\x0001\x0000 used\xfffeBit by Bit!
-\xf000ā\x0001\x0000 used\xfffeClear Smog!
-The wild \xf000ā\x0001\x0000 used\xfffeClear Smog!
-The foe's \xf000ā\x0001\x0000 used\xfffeClear Smog!
-\xf000ā\x0001\x0000 used\xfffeAssist Power!
-The wild \xf000ā\x0001\x0000 used\xfffeAssist Power!
-The foe's \xf000ā\x0001\x0000 used\xfffeAssist Power!
-\xf000ā\x0001\x0000 used\xfffeFast Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeFast Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeFast Guard!
-\xf000ā\x0001\x0000 used\xfffeSide Change!
-The wild \xf000ā\x0001\x0000 used\xfffeSide Change!
-The foe's \xf000ā\x0001\x0000 used\xfffeSide Change!
-\xf000ā\x0001\x0000 used\xfffeScald!
-The wild \xf000ā\x0001\x0000 used\xfffeScald!
-The foe's \xf000ā\x0001\x0000 used\xfffeScald!
-\xf000ā\x0001\x0000 used\xfffeShell Break!
-The wild \xf000ā\x0001\x0000 used\xfffeShell Break!
-The foe's \xf000ā\x0001\x0000 used\xfffeShell Break!
-\xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-The wild \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeal Pulse!
-\xf000ā\x0001\x0000 used\xfffeHex!
-The wild \xf000ā\x0001\x0000 used\xfffeHex!
-The foe's \xf000ā\x0001\x0000 used\xfffeHex!
-\xf000ā\x0001\x0000 used\xfffeSky Drop!
-The wild \xf000ā\x0001\x0000 used\xfffeSky Drop!
-The foe's \xf000ā\x0001\x0000 used\xfffeSky Drop!
-\xf000ā\x0001\x0000 used\xfffeGear Change!
-The wild \xf000ā\x0001\x0000 used\xfffeGear Change!
-The foe's \xf000ā\x0001\x0000 used\xfffeGear Change!
-\xf000ā\x0001\x0000 used\xfffeOverhead Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeOverhead Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeOverhead Throw!
-\xf000ā\x0001\x0000 used\xfffeIncinerate!
-The wild \xf000ā\x0001\x0000 used\xfffeIncinerate!
-The foe's \xf000ā\x0001\x0000 used\xfffeIncinerate!
-\xf000ā\x0001\x0000 used\xfffePostpone!
-The wild \xf000ā\x0001\x0000 used\xfffePostpone!
-The foe's \xf000ā\x0001\x0000 used\xfffePostpone!
-\xf000ā\x0001\x0000 used\xfffeAcrobatics!
-The wild \xf000ā\x0001\x0000 used\xfffeAcrobatics!
-The foe's \xf000ā\x0001\x0000 used\xfffeAcrobatics!
-\xf000ā\x0001\x0000 used\xfffeMirror Type!
-The wild \xf000ā\x0001\x0000 used\xfffeMirror Type!
-The foe's \xf000ā\x0001\x0000 used\xfffeMirror Type!
-\xf000ā\x0001\x0000 used\xfffeVengeance!
-The wild \xf000ā\x0001\x0000 used\xfffeVengeance!
-The foe's \xf000ā\x0001\x0000 used\xfffeVengeance!
-\xf000ā\x0001\x0000 used\xfffeLife Gamble!
-The wild \xf000ā\x0001\x0000 used\xfffeLife Gamble!
-The foe's \xf000ā\x0001\x0000 used\xfffeLife Gamble!
-\xf000ā\x0001\x0000 used\xfffeGift Pass!
-The wild \xf000ā\x0001\x0000 used\xfffeGift Pass!
-The foe's \xf000ā\x0001\x0000 used\xfffeGift Pass!
-\xf000ā\x0001\x0000 used\xfffePurgatory!
-The wild \xf000ā\x0001\x0000 used\xfffePurgatory!
-The foe's \xf000ā\x0001\x0000 used\xfffePurgatory!
-\xf000ā\x0001\x0000 used\xfffeWater Oath!
-The wild \xf000ā\x0001\x0000 used\xfffeWater Oath!
-The foe's \xf000ā\x0001\x0000 used\xfffeWater Oath!
-\xf000ā\x0001\x0000 used\xfffeFire Oath!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Oath!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Oath!
-\xf000ā\x0001\x0000 used\xfffeGrass Oath!
-The wild \xf000ā\x0001\x0000 used\xfffeGrass Oath!
-The foe's \xf000ā\x0001\x0000 used\xfffeGrass Oath!
-\xf000ā\x0001\x0000 used\xfffeVolt Change!
-The wild \xf000ā\x0001\x0000 used\xfffeVolt Change!
-The foe's \xf000ā\x0001\x0000 used\xfffeVolt Change!
-\xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-The wild \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-The foe's \xf000ā\x0001\x0000 used\xfffeStruggle Bug!
-\xf000ā\x0001\x0000 used\xfffeLevel Ground!
-The wild \xf000ā\x0001\x0000 used\xfffeLevel Ground!
-The foe's \xf000ā\x0001\x0000 used\xfffeLevel Ground!
-\xf000ā\x0001\x0000 used\xfffeIce Breath!
-The wild \xf000ā\x0001\x0000 used\xfffeIce Breath!
-The foe's \xf000ā\x0001\x0000 used\xfffeIce Breath!
-\xf000ā\x0001\x0000 used\xfffeDragon Tail!
-The wild \xf000ā\x0001\x0000 used\xfffeDragon Tail!
-The foe's \xf000ā\x0001\x0000 used\xfffeDragon Tail!
-\xf000ā\x0001\x0000 used\xfffeWork Up!
-The wild \xf000ā\x0001\x0000 used\xfffeWork Up!
-The foe's \xf000ā\x0001\x0000 used\xfffeWork Up!
-\xf000ā\x0001\x0000 used\xfffeElectra Net!
-The wild \xf000ā\x0001\x0000 used\xfffeElectra Net!
-The foe's \xf000ā\x0001\x0000 used\xfffeElectra Net!
-\xf000ā\x0001\x0000 used\xfffeWild Bolt!
-The wild \xf000ā\x0001\x0000 used\xfffeWild Bolt!
-The foe's \xf000ā\x0001\x0000 used\xfffeWild Bolt!
-\xf000ā\x0001\x0000 used\xfffeDrill Run!
-The wild \xf000ā\x0001\x0000 used\xfffeDrill Run!
-The foe's \xf000ā\x0001\x0000 used\xfffeDrill Run!
-\xf000ā\x0001\x0000 used\xfffeDual Chop!
-The wild \xf000ā\x0001\x0000 used\xfffeDual Chop!
-The foe's \xf000ā\x0001\x0000 used\xfffeDual Chop!
-\xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-The wild \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeart Stamp!
-\xf000ā\x0001\x0000 used\xfffeHorn Leech!
-The wild \xf000ā\x0001\x0000 used\xfffeHorn Leech!
-The foe's \xf000ā\x0001\x0000 used\xfffeHorn Leech!
-\xf000ā\x0001\x0000 used\xfffeSacred Sword!
-The wild \xf000ā\x0001\x0000 used\xfffeSacred Sword!
-The foe's \xf000ā\x0001\x0000 used\xfffeSacred Sword!
-\xf000ā\x0001\x0000 used\xfffeRazor Shell!
-The wild \xf000ā\x0001\x0000 used\xfffeRazor Shell!
-The foe's \xf000ā\x0001\x0000 used\xfffeRazor Shell!
-\xf000ā\x0001\x0000 used\xfffeHeat Stamp!
-The wild \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
-The foe's \xf000ā\x0001\x0000 used\xfffeHeat Stamp!
-\xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-The wild \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-The foe's \xf000ā\x0001\x0000 used\xfffeLeaf Tornado!
-\xf000ā\x0001\x0000 used\xfffeHard Roller!
-The wild \xf000ā\x0001\x0000 used\xfffeHard Roller!
-The foe's \xf000ā\x0001\x0000 used\xfffeHard Roller!
-\xf000ā\x0001\x0000 used\xfffeCotton Guard!
-The wild \xf000ā\x0001\x0000 used\xfffeCotton Guard!
-The foe's \xf000ā\x0001\x0000 used\xfffeCotton Guard!
-\xf000ā\x0001\x0000 used\xfffeNight Burst!
-The wild \xf000ā\x0001\x0000 used\xfffeNight Burst!
-The foe's \xf000ā\x0001\x0000 used\xfffeNight Burst!
-\xf000ā\x0001\x0000 used\xfffePsycho Break!
-The wild \xf000ā\x0001\x0000 used\xfffePsycho Break!
-The foe's \xf000ā\x0001\x0000 used\xfffePsycho Break!
-\xf000ā\x0001\x0000 used\xfffeSweep Slap!
-The wild \xf000ā\x0001\x0000 used\xfffeSweep Slap!
-The foe's \xf000ā\x0001\x0000 used\xfffeSweep Slap!
-\xf000ā\x0001\x0000 used\xfffeHurricane!
-The wild \xf000ā\x0001\x0000 used\xfffeHurricane!
-The foe's \xf000ā\x0001\x0000 used\xfffeHurricane!
-\xf000ā\x0001\x0000 used\xfffeAfro Break!
-The wild \xf000ā\x0001\x0000 used\xfffeAfro Break!
-The foe's \xf000ā\x0001\x0000 used\xfffeAfro Break!
-\xf000ā\x0001\x0000 used\xfffeGear Saucer!
-The wild \xf000ā\x0001\x0000 used\xfffeGear Saucer!
-The foe's \xf000ā\x0001\x0000 used\xfffeGear Saucer!
-\xf000ā\x0001\x0000 used\xfffeFlame Bomb!
-The wild \xf000ā\x0001\x0000 used\xfffeFlame Bomb!
-The foe's \xf000ā\x0001\x0000 used\xfffeFlame Bomb!
-\xf000ā\x0001\x0000 used\xfffeTechno Buster!
-The wild \xf000ā\x0001\x0000 used\xfffeTechno Buster!
-The foe's \xf000ā\x0001\x0000 used\xfffeTechno Buster!
-\xf000ā\x0001\x0000 used\xfffeAncient Song!
-The wild \xf000ā\x0001\x0000 used\xfffeAncient Song!
-The foe's \xf000ā\x0001\x0000 used\xfffeAncient Song!
-\xf000ā\x0001\x0000 used\xfffeMystery Blade!
-The wild \xf000ā\x0001\x0000 used\xfffeMystery Blade!
-The foe's \xf000ā\x0001\x0000 used\xfffeMystery Blade!
-\xf000ā\x0001\x0000 used\xfffeFrozen World!
-The wild \xf000ā\x0001\x0000 used\xfffeFrozen World!
-The foe's \xf000ā\x0001\x0000 used\xfffeFrozen World!
-\xf000ā\x0001\x0000 used\xfffeLightning Edge!
-The wild \xf000ā\x0001\x0000 used\xfffeLightning Edge!
-The foe's \xf000ā\x0001\x0000 used\xfffeLightning Edge!
-\xf000ā\x0001\x0000 used\xfffeBlue Fire!
-The wild \xf000ā\x0001\x0000 used\xfffeBlue Fire!
-The foe's \xf000ā\x0001\x0000 used\xfffeBlue Fire!
-\xf000ā\x0001\x0000 used\xfffeFire Dance!
-The wild \xf000ā\x0001\x0000 used\xfffeFire Dance!
-The foe's \xf000ā\x0001\x0000 used\xfffeFire Dance!
-\xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
-The wild \xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
-The foe's \xf000ā\x0001\x0000 used\xfffeFreeze Bolt!
-\xf000ā\x0001\x0000 used\xfffeCold Flare!
-The wild \xf000ā\x0001\x0000 used\xfffeCold Flare!
-The foe's \xf000ā\x0001\x0000 used\xfffeCold Flare!
-\xf000ā\x0001\x0000 used\xfffeBark Out!
-The wild \xf000ā\x0001\x0000 used\xfffeBark Out!
-The foe's \xf000ā\x0001\x0000 used\xfffeBark Out!
-\xf000ā\x0001\x0000 used\xfffeIcicle Throw!
-The wild \xf000ā\x0001\x0000 used\xfffeIcicle Throw!
-The foe's \xf000ā\x0001\x0000 used\xfffeIcicle Throw!
-\xf000ā\x0001\x0000 used\xfffeV-Generate!
-The wild \xf000ā\x0001\x0000 used\xfffeV-Generate!
-The foe's \xf000ā\x0001\x0000 used\xfffeV-Generate!
-\xf000ā\x0001\x0000 used\xfffeCross Flame!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Flame!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Flame!
-\xf000ā\x0001\x0000 used\xfffeCross Thunder!
-The wild \xf000ā\x0001\x0000 used\xfffeCross Thunder!
-The foe's \xf000ā\x0001\x0000 used\xfffeCross Thunder!
+●●
+A wild \xf000ā\x0001\x0000 appeared!
+Oh! A wild \xf000ā\x0001\x0000 and\xfffe\xf000ā\x0001\x0001 appeared!
+A wild \xf000ā\x0001\x0000 appeared!
+A wild \xf000ā\x0001\x0000 appeared!
+The \xf000ā\x0001\x0000 your Pokémon saw\xfffein the dream appeared!
+\xf000ā\x0001\x0000 appeared!
+You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!\xf000븁\x0000
+You are challenged by\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+You are challenged by\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 and\xf000븀\x0000\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!\xf000븁\x0000
+You are challenged by\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!\xf000븁\x0000
+Go! \xf000Ă\x0001\x0000!
+Go! \xf000Ă\x0001\x0000 and\xfffe\xf000Ă\x0001\x0001!
+Go! \xf000Ă\x0001\x0000,\xfffe\xf000Ă\x0001\x0001, and \xf000Ă\x0001\x0002!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent\xfffeout \xf000Ă\x0001\x0002!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002 and \xf000Ă\x0001\x0003!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 sent out\xfffe\xf000Ă\x0001\x0002, \xf000Ă\x0001\x0003,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0004!
+\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001!
+\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001 and \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000 sent out\xfffe\xf000Ă\x0001\x0001, \xf000Ă\x0001\x0002,\xf000븀\x0000\xfffeand \xf000Ă\x0001\x0003!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001 is\xfffeabout to send in \xf000Ă\x0001\x0002.\xf000븀\x0000\xfffeWill you switch your Pokémon?
+You're in charge, \xf000Ă\x0001\x0000!
+Go for it, \xf000Ă\x0001\x0000!
+Just a little more!\xfffeHang in there, \xf000Ă\x0001\x0000!
+Your foe's weak!\xfffeGet 'em, \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000, switch out!\xfffeCome back!
+\xf000Ă\x0001\x0000, come back!
+\xf000Ă\x0001\x0000, enough!\xfffeGet back!
+\xf000Ă\x0001\x0000, OK!\xfffeCome back!
+\xf000Ă\x0001\x0000, good job!\xfffeGet back!
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffewithdrew \xf000Ă\x0001\x0002!
+\xf000Ā\x0001\x0000\xfffewithdrew \xf000Ă\x0001\x0001!
+Hit \xf000Ȁ\x0001\x0000 time(s)!
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
+\xf000Ā\x0001\x0000 used the\xfffe\xf000ĉ\x0001\x0001.
+\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xfffeused one \xf000ĉ\x0001\x0002!
+\xf000Ā\x0001\x0000 launched the \xf000ĉ\x0001\x0002\xfffetoward \xf000Ă\x0001\x0001!
+You cannot use your\xfffeWonder Launcher now!
+\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
+\xf000Ā\x0001\x0000's Pokémon\xffferotated to the left!
+\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
+\xf000Ā\x0001\x0000's Pokémon\xffferotated to the right!
+\xf000Č\x0001\x0000 gained\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
+\xf000Č\x0001\x0000 gained a boosted\xfffe\xf000Ȇ\x0001\x0001 Exp. Points!
+Player defeated\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Player beat\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001\xf000븀\x0000\xfffeand \xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003!
+Player lost against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Player battled to a draw against\xfffe\xf000Ď\x0001\x0000 \xf000Ā\x0001\x0001!
+Player defeated\xfffe\xf000Ā\x0001\x0000!
+Player defeated \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
+Player lost against\xfffe\xf000Ā\x0001\x0000!
+Player lost to \xf000Ā\x0001\x0000\xfffeand \xf000Ā\x0001\x0001!
+Player battled to a draw against\xfffe\xf000Ā\x0001\x0000!
+Player battled to a draw against\xfffe\xf000Ā\x0001\x0000 and \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0000 is out of\xfffeusable Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0000 dropped $\xf000Ȅ\x0001\x0001\xfffein panic...
+\xf000Ā\x0001\x0000 paid out $\xf000Ȅ\x0001\x0001\xfffeto the winner...
+\xf000Ā\x0001\x0000 blacked out!
+\xf000Ā\x0001\x0000 got $\xf000Ȅ\x0001\x0001\xfffefor winning!
+\xf000Ā\x0001\x0000 picked up\xfffe$\xf000Ȅ\x0001\x0001!
+\xf000Č\x0001\x0000 grew to\xfffeLv. \xf000Ȃ\x0001\x0001!
+Oh, no!\xfffeThe Pokémon broke free!
+Aww!\xfffeIt appeared to be caught!
+Aargh!\xfffeAlmost had it!
+Shoot!\xfffeIt was so close, too!
+Gotcha!\xfffe\xf000ā\x0001\x0000 was caught!
+\xf000ā\x0001\x0000's data was\xfffeadded to the Pokédex.
+The Trainer blocked the ball!\xf000븁\x0000\xfffeDon't be a thief!
+But it had no effect!
+What will \xf000Č\x0001\x0000 do?
+What will \xf000Ā\x0001\x0000 do?
+\xf000븉\x0001<But it failed!
+Got away safely!
+Couldn't get away!
+Can't escape!
+The wild \xf000Ă\x0001\x0000 fled!
+No! There's no running\xfffefrom a Trainer battle!
+Would you like to forfeit the match\xfffeand quit now?
+It's super effective!
+It's not very effective...
+It hurt itself in its confusion!
+A critical hit!
+But there was no PP left\xfffefor the move!
+\xf000Ā\x0001\x0000 came to the rescue\xfffeto restore \xf000Ă\x0001\x0001's health!
+The sunlight turned harsh!
+It started to rain!
+A sandstorm kicked up!
+It started to hail!
+Fog crept up as thick as soup!
+The sunlight faded.
+The rain stopped.
+The sandstorm subsided.
+The hail stopped.
+The fog lifted.
+The effects of weather disappeared.
+The sandstorm rages.
+The hail crashes down.
+It's a one-hit KO!
+The \xf000ĉ\x0001\x0000 weakened\xfffe\xf000ć\x0001\x0001's power!
+The \xf000ĉ\x0001\x0000 allows the\xfffeuse of only \xf000ć\x0001\x0001!
+\xf000Č\x0001\x0000 can use only\xfffe\xf000ć\x0001\x0001!
+All stat changes were eliminated!
+But nothing happened!
+\xf000Ă\x0001\x0000's\xfffe\xf000Ć\x0001\x0001
+Magnitude 4!
+Magnitude 5!
+Magnitude 6!
+Magnitude 7!
+Magnitude 8!
+Magnitude 9!
+Magnitude 10!
+A bell chimed!
+A soothing aroma wafted\xfffethrough the area!
+The battlers shared\xfffetheir pain!
+Fire's power was weakened!
+Electricity's power was weakened!
+The twisted dimensions returned\xfffeto normal!
+Gravity intensified!
+Gravity returned to normal!
+All Pokémon hearing the song\xfffewill faint in three turns!
+Waggling a finger\xfffelet it use \xf000ć\x0001\x0000!
+Nature Power turned into\xfffe\xf000ć\x0001\x0000!
+Coins were scattered everywhere!
+It was too weak to make\xfffea substitute!
+Reflect raised your team's\xfffeDefense!
+Reflect raised the\xfffeopposing team's Defense!
+Your team's Reflect\xfffewore off!
+The opposing team's Reflect\xfffewore off!
+Light Screen raised your team's\xfffeSpecial Defense!
+Light Screen raised\xfffethe opposing team's Special Defense!
+Your team's Light Screen\xfffewore off!
+The opposing team's Light Screen\xfffewore off!
+Your team became cloaked in\xfffea mystical veil!
+The foe's team became\xfffecloaked in a mystical veil!
+Your team is no longer protected\xfffeby Safeguard!
+The foe's team is no longer protected\xfffeby Safeguard!
+Your team became\xfffeshrouded in mist!
+The foe's team became\xfffeshrouded in mist!
+Your team is no longer protected\xfffeby mist!
+The foe's team is no longer protected\xfffeby mist!
+The tailwind blew from behind\xfffeyour team!
+The tailwind blew from behind\xfffethe foe's team!
+Your team's tailwind petered out!
+The foe's team's tailwind petered out!
+The Lucky Chant shielded your team\xfffefrom critical hits!
+The Lucky Chant shielded the opposing team\xfffefrom critical hits!
+Your team's Lucky Chant wore off!
+The opposing team's Lucky Chant wore off!
+Spikes were scattered all around\xfffeyour team's feet!
+Spikes were scattered all around\xfffethe feet of the foe's team!
+The spikes disappeared from\xfffearound your team's feet!
+The spikes disappeared from\xfffearound the foe's team's feet!
+Poison spikes were scattered all\xfffearound your team's feet!
+Poison spikes were scattered all\xfffearound the foe's team's feet!
+The poison spikes disappeared\xfffefrom around your team's feet!
+The poison spikes disappeared\xfffefrom around the foe's team's feet!
+Pointed stones float in the air\xfffearound your team!
+Pointed stones float in the air\xfffearound your foe's team!
+The pointed stones disappeared\xfffefrom around your team!
+The pointed stones disappeared\xfffefrom around the foe's team!
+Wide Guard protected your team!
+Wide Guard protected the foe's team!
+Quick Guard protected your team!
+Quick Guard protected the foe's team!
+A rainbow appeared in the sky\xfffeon your team's side!
+A rainbow appeared in the sky\xfffeon the foe's team's side!
+The rainbow on your team's side\xfffedisappeared!
+The rainbow on the foe's team's side\xfffedisappeared!
+A sea of fire enveloped\xfffeyour team!
+A sea of fire enveloped\xfffethe foe's team!
+The sea of fire around your team\xfffedisappeared!
+The sea of fire around the foe's team\xfffedisappeared!
+A swamp enveloped your team!
+A swamp enveloped the\xfffefoe's team!
+The swamp around your team\xfffedisappeared!
+The swamp around the foe's team\xfffedisappeared!
+Your team is too nervous to\xfffeeat Berries!
+The foe's team is too nervous to\xfffeeat Berries!
+It created a bizarre area in which\xfffethe Defense and Sp. Def stats are swapped!
+Wonder Room wore off, and the Defense\xfffeand Sp. Def stats returned to normal!
+It created a bizarre area in which\xfffePokémon's held items lose their effects!
+Magic Room wore off, and the held items'\xfffeeffects returned to normal!
+The \xf000ĉ\x0001\x0000 strengthened\xfffe\xf000ć\x0001\x0001's power!
+The time limit is up!\xfffeThe battle will end!
+The battle is too long.\xfffePlayback canceled.
+Zen Mode triggered!
+Zen Mode ended!
+The two moves are joined!\xfffeIt's a combined move!
+\xf000Č\x0001\x0000 won't obey!
+\xf000Č\x0001\x0000 is\xfffeloafing around!
+\xf000Č\x0001\x0000 turned away!
+\xf000Č\x0001\x0000 pretended\xfffenot to notice!
+\xf000Č\x0001\x0000 ignored orders!
+\xf000Č\x0001\x0000 began to nap!
+\xf000Č\x0001\x0000 ignored\xfffeorders while asleep!
+Automatic center!
+But it's not where this item\xfffecan be used!
+Sky Drop won't let \xf000Č\x0001\x0000 go!
+The match was forfeited.
+(\xf000Ȁ\x0001\x0000)'s Metronome \xf000Ȃ\x0001\x0001:\xf000ć\x0001\x0002

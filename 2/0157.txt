@@ -1,163 +1,180 @@
-こうかんにだす
-もどる
-あいてにみせる
-つよさをみる
-こうかんする
-Quit
-つうしん たいきちゅう！\xfffeしばらく おまちください
-パートナーとなる あいてに\xfffeせきがいせんを むけてください
-リーダーに なりました！
-たいせん あいての リーダーに\xfffeせきがいせんを むけてください
-しばらく おまちください
-ともだちコード
-フィーリングチェック
-ちゅうだん しますか？
-こうかんする あいてに\xfffeせきがいせんを むけてください
-ポケモンこうかん
-てもち
-\xf000Ă\x0001\x0000と \xf000Ă\x0001\x0001を\xfffeこうかん しますか？
-Ｌｖ．\xf000Ȃ\x0001\x0000
-しゅうりょうしますか？
-こうかんしました
-しばらく おまちください
-あそぶないようが ちがったので\xfffeさいしょに もどります
-ここまでの かつやくを\xfffeポケモンレポートに かきこみますか？
-Yes
-No
-ポケモンレポートに かきこんでいます\xfffeでんげんを きらないでください
-No.\xf000Ȃ\x0001\x0001
-\xf000ā\x0001\x0000
+CONFIRM
+CANCEL
+L\xf000Ȃ\x0001\x0000
 \xf000Ă\x0001\x0000
-ＨＰ
-こうげき
-ぼうぎょ
-とくこう
-とくぼう
-すばやさ
-せいかく
-とくせい
-もちもの
-\xf000Ȃ\x0001\x0000／\xf000Ȃ\x0001\x0001
 \xf000Ȃ\x0001\x0000
-\xf000Ĉ\x0001\x0000
-\xf000Ć\x0001\x0000
-\xf000ĉ\x0001\x0000
-もっているわざ
-\xf000ć\x0001\x0000
-♂
-♀
-\xf000Ā\x0001\x0000から\xfffe\xf000Ă\x0001\x0001が おくられてきた
-\xf000Ă\x0001\x0001を\xfffeかわいがって あげてね！
-つうしん しています\xfffeしばらく おまちください
-みつけたい ポケモンの\xfffeかしらもじを えらんでください
-えらんだ かしらもじのつく\xfffeポケモンは いません
-\xf000봂\x0000ア
-\xf000봂\x0000イ
-\xf000봂\x0000ウ
-\xf000봂\x0000エ
-\xf000봂\x0000オ
-\xf000봂\x0000カ
-\xf000봂\x0000キ
-\xf000봂\x0000ク
-\xf000봂\x0000ケ
-\xf000봂\x0000コ
-\xf000봂\x0000サ
-\xf000봂\x0000シ
-\xf000봂\x0000ス
-\xf000봂\x0000セ
-\xf000봂\x0000ソ
-\xf000봂\x0000タ
-\xf000봂\x0000チ
-\xf000봂\x0000ツ
-\xf000봂\x0000テ
-\xf000봂\x0000ト
-\xf000봂\x0000ナ
-\xf000봂\x0000ニ
-\xf000봂\x0000ヌ
-\xf000봂\x0000ネ
-\xf000봂\x0000ノ
-\xf000봂\x0000ハ
-\xf000봂\x0000ヒ
-\xf000봂\x0000フ
-\xf000봂\x0000へ
-\xf000봂\x0000ホ
-\xf000봂\x0000マ
-\xf000봂\x0000ミ
-\xf000봂\x0000ム
-\xf000봂\x0000メ
-\xf000봂\x0000モ
-\xf000봂\x0000ヤ
-\xf000봂\x0000ユ
-\xf000봂\x0000ヨ
-\xf000봂\x0000ラ
-\xf000봂\x0000リ
-\xf000봂\x0000ル
-\xf000봂\x0000レ
-\xf000봂\x0000ロ
-\xf000봂\x0000ワ
-こうかんは\xfffeキャンセル されました
-そのポケモンを こうかんすると\xfffeぼうけん できなくなっちゃうよ！
-あいてが こうかんできない\xfffeポケモンを だしています
-じぶんが こうかんできない\xfffeポケモンを だしています
-たいせつな わざを おぼえているので\xfffeてもちから はずせません
-あいては ポケモンこうかんを\xfffeしたいようです
-こうかんを やめますか？
-あいての しゅうりょうを\xfffeまっています……
-タマゴ
-ポケモンが もっていた メールを\xfffeパソコンに てんそう しました！
-メールを すてますが\xfffeよろしいですか？
-メールボックスが いっぱいです\xfffeせいりしますか？
-メールを すてました
-とった メールを\xfffeパソコンに てんそう しました
-あいては メールを うけとれません\xfffeこうかんを キャンセル します
-\xf000ā\x0001\x0000
-さしだすポケモンを えらんでください\xfffeポケモンは ３ひきまで えらべます
-\xf000봃\x0001\x0000えらびちゅう
-\xf000봃\x0001\x0000けっていずみ
-\xf000봃\x0001\x0000しゅうりょうまち
-\xf000Ā\x0001\x0000の\xfffeほしいポケモン
-すべてのポケモン
-かっこいいポケモン
-かわいいポケモン
-こわいポケモン
-へんなポケモン
-なんでも
-Ｌｖ．１からＬｖ．４９
-Ｌｖ．５０
-Ｌｖ．５１から１００
-けってい
-\xf000Ā\x0001\x0000
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ おくります！！\xfffeバイバイ \xf000Ă\x0001\x0000！
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001に かえします！\xfffeありがとう \xf000Ă\x0001\x0000！
-\xf000Ā\x0001\x0000の ところから\xfffe\xf000Ă\x0001\x0001が もどってきた！
-おかえり \xf000Ă\x0001\x0001！
-こうかんきぼう
-さしだす ポケモンを えらんでください\xfffeポケモンは ３ひきまで えらべます
-あいてに さしだす ポケモンは\xfffeこれで いいですか？
-あいての せんたくを まっています\xfffeしばらく おまちください……
-おたがい さしだした ポケモンから\xfffe１ひき えらびます よろしいですか？
-あいてが こうかんを\xfffeキャンセルしました
-あいては こうかん\xfffeしたがっている ようです
-こうかんを\xfffeしゅうりょう しますか？
-こうかんを\xfffeしゅうりょう しました
-そのポケモンを あいてに\xfffeさしだすことは できません
-じぶんに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
-あいてに こうかんできない ポケモンが\xfffeいます もういちど えらびなおしてください
-ほしいポケモンを あいての さしだした\xfffeポケモンから １ひき えらんでください
-「\xf000Ă\x0001\x0000」と じぶんの「\xf000Ă\x0001\x0001」を\xfffeこうかんします よろしいですか？
-あいてが こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
-あいてに さしだした\xfffeポケモンを へんこうしますか？
-こうかんを キャンセルしました\xfffeもういちど えらびなおしてください
-こうかんを キャンセルしました\xfffeもういちど １ひき えらびなおしてください
-あいてが こうかんを キャンセルしました\xfffeもういちど １ひき えらびなおしてください
-\xf000Ă\x0001\x0000を あずけます
-\xf000Ă\x0001\x0001を ひきとった
-せつぞくを きる
-\xf000Ă\x0001\x0000を \xf000Ā\x0001\x0001へ\xfffeおくります
-\xf000Ā\x0001\x0000から \xf000Ă\x0001\x0001が\xfffeおくられてきました
-つうしんを しっぱいしました
-つうしんエラーが はっせいしました\xfffe（１３２８０）
-つうしんエラーが はっせいしました\xfffe（１３２８１）
-つうしんエラーが はっせいしました\xfffe（１３２８２）
-つうしんエラーが はっせいしました\xfffe（１３２８３）
-？？？
+\xf000Ȃ\x0001\x0000
+/
+⑭
+⑮
+Choose a Pokémon.
+
+Move to where?
+Give to which Pokémon?
+Use on which Pokémon?
+Teach which Pokémon?
+
+Deposit which Pokémon?
+Use on which Pokémon?
+Do what with\xfffe\xf000Ă\x0001\x0000?
+Do what with\xfffean item?
+
+Restore\xfffewhich move?
+Boost the PP\xfffeof which move?
+Send the removed Mail to\xfffeyour PC?
+
+
+The Mail was sent to your PC.
+If the Mail is removed, its written\xfffemessage will be lost. Is that OK?
+
+
+Your PC's Mailbox is full.
+Mail was taken from the\xfffePokémon.
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeHowever, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000\xfffeShould a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+
+
+Give up on learning the move\xfffe\xf000ć\x0001\x0001?
+
+
+\xf000Ă\x0001\x0000 did not learn\xfffe\xf000ć\x0001\x0001.
+Which move should\xfffebe forgotten?
+1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+\xf000Ă\x0001\x0000 and \xf000ć\x0001\x0001\xfffeare not compatible.\xf000븁\x0000\xfffe\xf000ć\x0001\x0001 can't be learned.
+\xf000Ă\x0001\x0000 already knows\xfffe\xf000ć\x0001\x0001.
+\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
+\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
+\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
+\xf000Ă\x0001\x0000's burn was healed.
+\xf000Ă\x0001\x0000 was thawed out.
+PP was restored.
+\xf000Ă\x0001\x0000 recovered from\xfffefainting!
+\xf000Ă\x0001\x0000 became healthy.
+\xf000ć\x0001\x0000's PP\xfffeincreased.
+
+
+\xf000Ă\x0001\x0000's base \xf000č\x0001\x0001\xffferose!
+This can't be used until a new\xfffeBadge is obtained.
+Must remove Mail before the\xfffePokémon is allowed to hold an item.
+\xf000Ă\x0001\x0000 is already holding\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000\xfffeWould you like to switch the\xfffetwo items?
+
+
+\xf000Ă\x0001\x0000 isn't holding\xfffeanything.
+Received the \xf000ĉ\x0001\x0001\xfffefrom \xf000Ă\x0001\x0000.
+The Bag is full.
+The \xf000ĉ\x0001\x0001 was taken and\xfffereplaced with the \xf000ĉ\x0001\x0002.
+
+
+
+
+
+
+\xf000Ă\x0001\x0000 woke up.
+
+
+
+
+
+
+
+You're already surfing.
+You can't use that here.
+It won't have any effect.
+
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeHowever, its base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 adores you!\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 fell!
+\xf000Ă\x0001\x0000 became more friendly.\xf000븁\x0000\xfffeIts base \xf000č\x0001\x0001 can't go lower.
+\xf000Ă\x0001\x0000 was given the\xfffe\xf000ĉ\x0001\x0001 to hold.
+Choose a Pokémon.
+Two Pokémon are needed.
+Three Pokémon are needed.
+Four Pokémon are needed.
+Five Pokémon are needed.
+Six Pokémon are needed.
+No more than one Pokémon\xfffemay enter.
+No more than two Pokémon\xfffemay enter.
+No more than three Pokémon\xfffemay enter.
+No more than four Pokémon\xfffemay enter.
+No more than five Pokémon\xfffemay enter.
+Mail was transferred from\xfffethe Mailbox.
+This Pokémon is holding an item.\xfffeIt cannot hold Mail.
+This can't be used on\xfffethat Pokémon.
+
+
+
+
+
+
+Not enough HP...
+SWITCH
+SUMMARY
+ITEM
+MAIL
+READ
+TAKE
+STORE
+QUIT
+
+ENTER
+NO ENTRY
+
+
+
+
+GIVE
+TAKE
+
+
+
+
+NOT ENTERED
+BANNED
+FIRST
+SECOND
+THIRD
+FOURTH
+FIFTH
+SIXTH
+ABLE!
+UNABLE!
+LEARNED
+ABLE!
+UNABLE!
+
+
+Identical Pokémon are not permitted.\xfffe
+Some Pokémon are holding identical\xfffeitems.
+The total of all party members'\xfffelevels has gone over \xf000Ȃ\x0001\x0000.
+
+The Pokémon which must participate\xfffeis not selected.
+MAX HP
+ATTACK
+DEFENSE
+SP. ATK
+SP. DEF
+SPEED
++
+\xf000Ȃ\x0001\x0000
+\xf000Ă\x0001\x0000 was elevated to\xfffeLv. \xf000Ȃ\x0001\x0001!\xf000븅\x0001\x0002\xf000븅\x0001\x0005
+
+You can't use that when you have\xfffesomeone with you.
+
+
+What will you do\xfffewith the Egg?
+Please select an Egg.
+
+CONFIRM
+\xf000ā\x0001\x0000 changed Forme!
+
+
+\xf000Ā\x0001\x0000 is standing by...
+One person standing by...
+Two people standing by...
+Three people standing by...
+Time Limit
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0001
+Communicating. Please wait.
+YES
+NO
+You used your last \xf000ĉ\x0001\x0000.

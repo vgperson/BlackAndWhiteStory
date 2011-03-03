@@ -1,15 +1,15 @@
-﻿N: \xf000븉\x0001\x0001...Are you searching\xfffefor Team Plasma?\xf000븁\x0000They ran off to the\xfffecenter of the park.\xf000븀\x0000Come with me.\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001...Not here.\xf000븁\x0000Let's ride the Ferris wheel\xfffeand look for them there.\xf000븁\x0000I love Ferris wheels,\xfffeyou know.\xf000븁\x0000Their circular motion... the dynamics...\xfffea beautiful combination of formulas...\xf000븉\x0001\x0000\xf000븁\x0000
-Grunt: Lord N!\xf000븁\x0000
-Grunt: Are you safe?!\xf000븁\x0000
-N: \xf000븉\x0001\x0001I'm just fine.\xf000븁\x0000My followers,\xfffewho collaborate to save Pokémon...\xf000븀\x0000I must protect them, too.\xf000븁\x0000While I fight,\xfffeyou two get away from here.\xf000븁\x0000...So, \xf000Ā\x0001\x0000,\xfffedo you understand my thoughts?\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001I'm truly happy\xfffeto hear that.\xf000븁\x0000Now then...\xfffeThis is the future I have seen...\xf000븁\x0000Even if I cannot win against\xfffeyou here, I shall fight you\xf000븀\x0000for the sake of Team Plasma!\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001I see...\xfffeThat's a shame.\xf000븁\x0000Now then...\xfffeThis is the future I have seen...\xf000븁\x0000Even if I cannot win against\xfffeyou here, I shall fight you\xf000븀\x0000for the sake of Team Plasma!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001...You are strong.\xf000븁\x0000But there is a future\xfffeI must change.\xf000븀\x0000And so...!\xf000븉\x0001\x0000\xf000븁\x0000
-I shall surpass the Champion.\xf000븁\x0000I will become\xfffean undefeatable opponent.\xf000븁\x0000And I will liberate Pokémon\xfffefrom all Trainers!\xf000븁\x0000But you wish to be\xfffetogether with Pokémon...!\xf000븁\x0000If that is your desire,\xfffethen collect all the gym badges\xf000븀\x0000and come to the Pokémon League!\xf000븁\x0000Once there, try to stop me!\xf000븁\x0000
-\xf000븉\x0001\x0001If you do not feel as strongly...\xfffeyou shall not stop me.\xf000븉\x0001\x0000\xf000븁\x0000
-Go, go, roller coasteeeeer!\xfffeYou spinnin', spinnin' roller coaster!
-Round and round the Ferris wheel goes!\xfffeHow high it reaches, nobody knows!
-No matter how old I am,\xfffeamusement parks make my heart dance...
+N: \xf000븉\x0001\x0001You're looking for Team Plasma, right?\xf000븁\x0000\xfffeThey ran into the amusement park.\xfffeCome with me.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001They're not here.\xf000븁\x0000\xfffeLet's ride the Ferris wheel\xfffeand see if we can spot them.\xf000븁\x0000\xfffeI love Ferris wheels.\xfffeThe circular motion... The mechanics...\xf000븁\x0000\xfffeThey're like collections of\xfffeelegant formulas.\xf000븉\x0001\x0000\xf000븁\x0000
+Team Plasma: My lord N!\xf000븁\x0000
+Team Plasma: You're safe, sire!\xf000븁\x0000
+N: \xf000븉\x0001\x0001There's no problem.\xf000븁\x0000\xfffeYou're part of the people we brought in\xfffeto help us save the Pokémon.\xf000븀\x0000\xfffeSo, you're under my protection, as well.\xf000븁\x0000\xfffeGo, quickly, and let my battle cover\xfffeyour retreat.\xf000븁\x0000\xfffe...Now then, \xf000Ā\x0001\x0000,\xfffedo you follow my logic?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001If true, your words please me.\xf000븁\x0000\xfffeAh. Then...\xfffeThe future I envision...\xf000븁\x0000\xfffePerhaps I can't beat you here and now,\xfffebut I'll battle you to buy time for these\xf000븀\x0000\xfffemembers of Team Plasma to get away!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001So that's how it is...\xfffeThat's unfortunate.\xf000븁\x0000\xfffeAh. Then...\xfffeThe future I envision...\xf000븁\x0000\xfffePerhaps I can't beat you here and now,\xfffebut I'll battle you anyway to buy time\xf000븀\x0000\xfffefor these members of Team Plasma\xf000븀\x0000\xfffeto flee.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001You're quite strong.\xf000븁\x0000\xfffeBut I have a future that I must change.\xfffeAnd, for that future...\xf000븉\x0001\x0000\xf000븁\x0000
+I'll defeat the Champion and become\xfffeunbeatable, unlike any other!\xf000븁\x0000\xfffeI'll make all Trainers free their Pokémon!\xfffeJust try and stop me!\xf000븁\x0000\xfffeIf you want to be together with Pokémon,\xfffeyour only hope is to collect the Badges\xf000븀\x0000\xfffefrom each area and head for the\xf000븀\x0000\xfffePokémon League!\xf000븀\x0000\xfffeTry and stop me there, if you dare!\xf000븁\x0000
+\xf000븉\x0001\x0001If your conviction is not strong enough,\xfffeyou will never be able to defeat me.\xf000븉\x0001\x0000\xf000븁\x0000
+Whooshing, swooshing roller coaster!\xfffeWhirltwirlwhirltwirl...whoa!
+Spinning, spinning Ferris wheel!\xfffeClimbing, climbing Ferris wheel!
+No matter how old you get, amusement\xfffeparks are always exciting, am I right?
 Look! Look!\xfffeIt's a clown!
-Nimbasa Pokémon Gym\xf000븁\x0000\xfffeLeader: Elesa\xf000븀\x0000\xfffeThe Shining Beauty
+Nimbasa City Pokémon Gym\xfffeLeader: Elesa\xf000븀\x0000\xfffeThe Shining Beauty

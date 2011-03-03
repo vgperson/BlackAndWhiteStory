@@ -1,6 +1,6 @@
-﻿Click!\xf000븁\x0000A switch-like sound echoed...
-There was a low\xfffesound from afar...
-A low sound echoed...
-The low sound is near!
-It's the water current!
-The wall moved,\xfffeallowing further progress!
+Click!\xf000븁\x0000\xfffeThe sound reverberates.
+A dull sound came from far away.
+A dull sound echoed.
+The dull sound is close!
+It's a torrent of water!
+The wall moved, and you can proceed now!

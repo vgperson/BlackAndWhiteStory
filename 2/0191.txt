@@ -1,77 +1,77 @@
-﻿Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Youngster
 Lass
-School Boy
-School Girl
-Tennis Player
-Footballer
+School Kid
+School Kid
+Smasher
+Linebacker
 Waiter
 Waitress
-Gym Leader
-Gym Leader
-Gym Leader
-Nursery Worker
-Kindergartener
-Kindergartener
+Leader
+Leader
+Leader
+Nursery Aide
+Preschooler
+Preschooler
 Twins
-Pokémon Breeder
-Pokémon Breeder
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Pokémon Ranger
-Pokémon Ranger
+⒆⒇ Breeder
+⒆⒇ Breeder
+Leader
+Leader
+Leader
+Leader
+Leader
+⒆⒇ Ranger
+⒆⒇ Ranger
 Worker
 Backpacker
 Backpacker
 Fisherman
 Musician
-Breakdancer
-Clown
+Dancer
+Harlequin
 Artist
 Baker
 Psychic
 Psychic
-Pokémon Trainer
-Pokémon Trainer
+⒆⒇ Trainer
+⒆⒇ Trainer
 Team Plasma
-Pokémon Trainer
+⒆⒇ Trainer
 Rich Boy
 Lady
 Pilot
 Worker
-Basketballer
-Researcher
+Hoopster
+Scientist
 Team Plasma
-Secretary
+Clerk ⑮
 Ace Trainer
 Ace Trainer
-Karate King
-Researcher
-Soccer Player
-Gym Leader
-Gym Leader
-Gym Leader
-Cue Ball
+Black Belt
+Scientist
+Striker
+Leader
+Leader
+Leader
+Roughneck
 Janitor
 Pokéfan
 Pokéfan
 Doctor
 Nurse
-Gangster
+Hooligans
 Battle Girl
 Parasol Lady
-Businessman
-Businessman
-Fanclubber
-Fanclubber
+Clerk ⑭
+Clerk ⑭
+Backers
+Backers
 Veteran
 Veteran
 Biker
-Baseballer
+Infielder
 Hiker
 Socialite
 Gentleman
@@ -81,25 +81,25 @@ Elite Four
 Elite Four
 Elite Four
 Team Plasma
-Railroad Worker
-Swimmer
-Bikini Swimmer
-Police Officer
+Depot Agent
+Swimmer ⑭
+Swimmer ⑮
+Policeman
 Maid
-Subway Master
+Subway Boss
 Champion
 Cyclist
 Cyclist
-Bike Enthusiast
-Bourgeois
-Bourgeois
-Bourgeois
-Bourgeois
-Game Freak
-Bourgeois
-Bourgeois
-Pokémon Trainer
+Motorcyclist
+The Riches
+The Riches
+The Riches
+The Riches
+GAME FREAK
+The Riches
+The Riches
+⒆⒇ Trainer
 Team Plasma
-Subway Master
-Pokémon Trainer
-Pokémon Trainer
+Subway Boss
+⒆⒇ Trainer
+⒆⒇ Trainer

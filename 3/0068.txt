@@ -1,23 +1,23 @@
-﻿...You aren't too dizzy\xfffefrom the speed, are you?\xf000븁\x0000\xfffeOf course, now I'll make you dizzy\xfffewith my lovely Pokémon, but...\xf000븁\x0000
-Marvelous...\xfffeI'm enchanted by your fighting style!\xf000븁\x0000\xfffeI feel to the deepest level\xfffethat you are a great Trainer...\xf000븀\x0000\xfffeTake this...!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe Bolt Badge from Elesa!\xf000븁\x0000
-With four badges, including the Bolt Badge,\xfffePokémon up to Level 50 will follow you.\xf000븁\x0000\xfffeIn addition to that,\xfffethis is my favorite technique...\xf000븀\x0000\xfffeIf you like, you can use it too.\xf000븁\x0000
-That is Volt Change...\xf000븁\x0000After it attacks the foe,\xfffeyou can switch to another Pokémon.\xf000븁\x0000Of course, if there\xfffearen't any Pokémon to switch to,\xf000븀\x0000you'll just stay there...\xf000븁\x0000
-So... are you going\xfffeto Driftveil City next?\xf000븁\x0000After all, there is\xfffea Pokémon gym there.\xf000븁\x0000Ah...\xf000븁\x0000But of course, you can't.\xf000븁\x0000Right... I'll help you get through.\xfffeI'll be waiting on Route 5.
-What you want to do...\xfffeWhat your Pokémon want to do...\xf000븁\x0000\xfffeDon't you think it amazing\xfffewhen those two coincide?
-Elesa: ...As a gym leader,\xfffeI fight with Pokémon,\xf000븀\x0000but is that the real me?\xf000븁\x0000A model's work is to\xfffesatisfy another's hopes,\xf000븀\x0000so it's a bit of a struggle...
-How's your ride on\xfffethe roller coaster been?\xf000븁\x0000
-When you ride the coaster,\xfffeit zooms around with incredible speed!\xf000븁\x0000\xfffeBut if that didn't get you,\xfffeI'll dizzy you with a Pokémon battle!\xf000븁\x0000
-Your fighting style might\xfffeactually compare to Miss Elesa's!\xf000븀\x0000\xfffeSo elegant! So gorgeous!\xf000븁\x0000
-When you switch the paths,\xfffethe roller coaster's route changes.\xf000븀\x0000But you knew that, of course.
-Your challenge of Nimbasa Gym\xfffeis nearly at the grand finale!\xf000븁\x0000\xfffeBut if you can't beat me,\xfffeyou'll never meet Miss Elesa!\xf000븁\x0000
-I too am a Trainer who's trained\xfffeher Pokémon against Miss Elesa...\xf000븁\x0000\xfffeLet me show you the appropriate\xfffepower and fighting style in this gym!\xf000븁\x0000
-It's an honor to be able to fight\xfffesublimely powerful Trainers like you!\xf000븁\x0000
-If you aren't tripped up by the\xfffegym's gimmick and just proceed calmly...\xf000븁\x0000\xfffeYou can beat not only\xfffeMiss Elesa, but any Trainer.
-\xf000Ā\x0001\x0000 switched\xfffethe track's course!\xf000븁\x0000\xfffeThe path of the roller coaster\xfffewas altered!
-How 'bout it?\xfffeSurprised, aren'tcha?!\xf000븁\x0000\xfffeAs you can see, this gym is\xfffebuilt around a roller coaster!!\xf000븁\x0000\xfffeWell, first off,\xfffelet me give you this!\xf000븁\x0000
-The first thing to do in this\xffferollercoaster gym is to get on a car!\xf000븁\x0000\xfffeThen get off at the platforms...\xfffeonto the footholds!\xf000븀\x0000\xfffeThere, switch the paths.\xf000븁\x0000\xfffeSometimes you can even ride onward\xfffein the cars of defeated foes!\xf000븁\x0000\xfffeDo this to make your way to\xfffewhere the gym leader awaits!\xf000븁\x0000By the way, electric-type Pokémon\xfffeare weak to ground-type attacks...
-Miss Elesa's coming at you with\xfffedazzlingly beautiful electric attacks!\xf000븁\x0000\xfffeBut you duck and dodge,\xfffeand combine with your Pokémon!\xf000븁\x0000\xfffeIt's like a movie\xfffeabout a roller coaster!
-Nimbasa Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Elesa!
-Nimbasa Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Elesa!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Nimbasa Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Elesa!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBianca
+Did the fantastic speed leave you dizzy?\xf000븁\x0000\xfffeMy beloved Pokémon will be the next one\xfffeto make your head spin!\xf000븁\x0000
+My, oh my...\xfffeYou have a sweet fighting style.\xf000븁\x0000\xfffeI mean, you're a great Trainer!\xfffeExcuse me, I...uh... Oh, here!\xf000븀\x0000\xfffeI want you to have this!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received the\xfffeBolt Badge from Elesa!\xf000븁\x0000
+If you have four Badges, including this\xfffeBolt Badge, Pokémon up to Lv. 50,\xf000븀\x0000\xfffeincluding traded Pokémon, will obey you.\xf000븁\x0000\xfffeAlso, here's this move I like.\xfffeFeel free to use it, um, if you want to.\xf000븁\x0000
+Volt Switch lets the Pokémon switch with\xfffea different Pokémon after attacking.\xf000븁\x0000\xfffeOf course, if you don't have another\xfffePokémon in your party, you can't switch.\xf000븁\x0000
+You're going to Driftveil City next?\xf000븁\x0000\xfffeOf course. There is a Pokémon Gym there,\xfffeafter all. Oh...\xf000븁\x0000\xfffeI bet you won't be able to get there.\xfffeYou know what?\xf000븁\x0000\xfffeI'll fix it so you can cross.\xfffeWait for me on Route 5.
+What you'd like to do...\xfffeWhat your Pokémon would like to do...\xf000븁\x0000\xfffeDon't you think it could be amazing\xfffeif those are aligned?
+Elesa: I think the real me is the one who\xfffebattles with Pokémon as a Gym Leader.\xf000븁\x0000\xfffeA model's job is to make someone else's\xfffevision look like a reality.\xf000븀\x0000\xfffeIt's interesting, but it's not easy...
+Are you cool riding a roller coaster?\xf000븁\x0000
+When you ride a roller coaster, the\xfffespeed can make you dizzy.\xf000븁\x0000\xfffeI'm going to make your head spin with\xfffea Pokémon battle that's just as intense!\xf000븁\x0000
+Your way of battling...\xfffeIt's elegant! You've got style!\xf000븀\x0000\xfffeEven compared to Ms. Elesa!\xf000븁\x0000
+If you press the switches, the\xffferoller coaster's path will change.
+Your Nimbasa Gym challenge is finally\xfffenearing its finale.\xf000븁\x0000\xfffeBut if you don't beat me,\xfffeyou won't get to meet Ms. Elesa.\xf000븁\x0000
+I'm also a Pokémon Trainer who was\xfffetoughened up by Ms. Elesa.\xf000븁\x0000\xfffeI'll show you power and style befitting\xfffethis Gym.\xf000븁\x0000
+It pleases me to be the opponent of a\xfffestrong and honorable Trainer like you!\xf000븁\x0000
+If you maintain your calm and don't get\xfffeflustered by this Gym's gimmicks,\xf000븀\x0000\xfffeyou'll be able to defeat Ms. Elesa...\xf000븀\x0000\xfffeand any other Trainer, as well!
+\xf000Ā\x0001\x0000 pressed the switch.\xf000븁\x0000\xfffeThe roller coaster's path\xfffehas been changed!
+How about it? I can see you're surprised!\xf000븁\x0000\xfffeWould you ever have guessed that\xfffethis Gym is a roller coaster?\xf000븁\x0000\xfffeOK, let me fill you in...\xfffeAnd take this, too!\xf000븁\x0000
+In this roller coaster Gym, the first\xfffestep is to get in the car.\xf000븁\x0000\xfffeNext comes the platform!\xfffeThere, you can change\xf000븀\x0000\xfffewhere the coaster is going!\xf000븁\x0000\xfffeSometimes you continue by riding\xfffethe cars of opponents you defeat.\xf000븀\x0000\xfffeThat's how you aim for the Gym Leader!\xf000븁\x0000\xfffeBy the way, Electric-type Pokémon don't\xfffedo well against Ground-type moves...
+Elesa uses sparkling bright\xfffeElectric-type attacks!\xf000븁\x0000\xfffeBut the combination of you and your\xfffePokémon was even more impressive!\xf000븁\x0000\xfffeIt was... It was...\xfffean emotional roller coaster!
+Nimbasa Pokémon Gym\xf000븁\x0000\xfffeGym Leader: Elesa\xfffeCertified Trainers:
+Nimbasa Pokémon Gym\xf000븁\x0000\xfffeGym Leader: Elesa\xfffeCertified Trainers:\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Nimbasa Pokémon Gym\xf000븁\x0000\xfffeGym Leader: Elesa\xfffeCertified Trainers:\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBianca

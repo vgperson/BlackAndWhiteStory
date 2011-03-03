@@ -1,19 +1,25 @@
-﻿▲
-Pokédex
-Pokémon
-Bag
-TrainerCard
-Save
-Options
- 
-Chat
- 
-Pokédex selected.
-Pokémon Status selected.
-Bag selected.
-Trainer Card selected.
-Save selected.
-Options selected.
-Now saving.
-The game was\xfffesuccessfully saved!
-Can't save while communicating.
+Lillil
+Dye
+Fluffee
+Dye
+Redeye
+Kyle
+Blueeye
+Kyle
+Minipete
+Manny
+Gorge
+Ander
+Eeks
+Lillian
+
+
+
+
+
+
+
+
+
+
+

@@ -1,90 +1,90 @@
-﻿Cheren: Come with me.\xf000븁\x0000
-Head straight this way\xfffeto get to the Pokémon Center.\xf000븁\x0000And... if you want,\xfffeyou can use this.\xf000븁\x0000
-Give a Chesto Berry to a Pokémon,\xfffeand even if it falls asleep,\xf000븀\x0000it'll use it to wake up.\xf000븁\x0000Lastly, some advice.\xf000븁\x0000The gym leader of Nacrene City\xfffeuses normal-types.\xf000븁\x0000If you bring fighting-type Pokémon,\xfffethey'll probably be a great advantage.\xf000븁\x0000
-N: \xf000븉\x0001\x0001I... want to see things\xfffeno one else sees.\xf000븁\x0000The ideal for the Pokémon\xfffewe keep inside balls...\xf000븁\x0000The truth of what\xfffea "Trainer" should be...\xf000븁\x0000And a future where Pokémon\xfffehave attained their zenith...\xf000븁\x0000Don't you wish to see them, too?\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001Is that so?\xf000븁\x0000Then, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001...Hmph.\xfffeSo my expectations were incorrect.\xf000븁\x0000More importantly, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
-N: \xf000븉\x0001\x0001As they are now, my Pokémon\xfffecannot save all Pokémon...\xf000븁\x0000The formula that can change the world\xfffeis yet to be solved...\xf000븁\x0000I require power... Power that\xfffewill let everyone understand...\xf000븉\x0001\x0000\xf000븁\x0000
-no data
-...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Unova... Reshiram!\xf000븁\x0000I shall be your hero, Reshiram...\xfffeand I shall befriend you!\xf000븁\x0000
-...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Unova... Zekrom!\xf000븁\x0000I shall be your hero, Zekrom...\xfffeand I shall befriend you!\xf000븁\x0000
-???: Hey, Miss Lenora!\xfffeFound any good fossils?\xf000븁\x0000
-Lenora: And are you\xfffeout lookin' for inspiration again?\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000Take a good look at this guy,\xfffe'cause he's Burgh,\xf000븀\x0000Castelia Gym's leader!\xf000븁\x0000
-Burgh: ...Hmm? Is it just me,\xfffeor is something off about you?\xf000븁\x0000Could there have been...\xfffesome kind of trouble, maybe?\xf000븁\x0000
-Lenora: You bet there is!!\xfffeThey've got one of my exhibits!\xf000븁\x0000
-Bianca: Heyyy, uh, \xf000Ā\x0001\x0000?\xfffeWhy's everyone bunched up here?\xf000븁\x0000
-Cheren: ...Is there a problem, \xf000Ā\x0001\x0000?\xf000븁\x0000
-Lenora: What's all this, then?\xfffeThese kids...\xf000븀\x0000they friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Bianca and Cheren...\xfffealright, you must be Trainers!\xf000븁\x0000Then let's split the work!\xfffeI'll go this way...\xf000븁\x0000
-Next, you kids!\xf000븁\x0000Cheren and Bianca,\xfffewatch the museum for me!\xf000븁\x0000
-Then Burgh and \xf000Ā\x0001\x0000'll go\xfffesearch Pinwheel Forest!\xf000븁\x0000Alright? Burgh,\xfffeyou lead the way.\xf000븁\x0000I'm beggin' you all!\xf000븁\x0000
-Burgh: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
-Burgh: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
-Bianca: Oh, \xf000Ā\x0001\x0000!\xfffeTake this with you!\xf000븁\x0000It's a Dowsing Machine\xfffeFennel left with me!\xf000븁\x0000
-Using the Dowsing Machine\xfffewon't let you see invisible items, but\xf000븀\x0000it will let you see their locations!\xf000븁\x0000
-Cheren: Is it really... I don't know, safe\xfffeto leave us protecting the museum\xf000븀\x0000for the time being...?\xf000븁\x0000
-Bianca: Oh, me too!\xf000븁\x0000
-Lenora: Doesn't seem Team Plasma\xfffewent over this way...\xf000븀\x0000But I'm not movin' an inch!\xf000븁\x0000You... Make sure you thoroughly\xfffesearch Pinwheel Forest!
-An old, unused clothes\xfffefactory and warehouse...\xf000븁\x0000Taken by hopeful youths\xfffeand converted into an atelier!\xf000븁\x0000And that's how Nacrene City,\xfffeso-called town of the arts, began...
-This warehouse...\xfffeThey're selling good stuff inside!
-To think a plain old warehouse\xfffecould have become this popular...\xf000븀\x0000The old values are shaking down!
-Nacrene City is a town where\xfffepeople aspire to be stylish!\xf000븁\x0000Even the remarkably average\xfffecan be turned cool!
-How do you like the\xfffesound of my accordion?
-Nacrene City\xfffeThe town of seven treasures!
-Cafe Soco\xfffeDelicious service on Wednesdays!
-Nacrene City Pokémon Gym\xfffeLeader: Lenora\xf000븀\x0000\xfffeNatural Born Darling
-Juniper: ...I heard about\xfffethings from Alder.\xf000븁\x0000\xf000Ā\x0001\x0000, we've gotten involved\xfffein something very serious...\xf000븁\x0000
-Lenora: This, right?\xf000븁\x0000
-Bianca: That's, um...\xf000븁\x0000That old stone you\xfffefound in Desert Resort...\xf000븁\x0000
-Lenora: Yeah...\xfffeSo, it's seriously a dragon Pokémon?\xf000븁\x0000
-Juniper's Dad: Um...!\xf000븁\x0000I did some investigation\xfffeof Dragonspiral Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era\xf000븀\x0000as this Dark Stone!\xf000븁\x0000
-Juniper's Dad: Um...!\xf000븁\x0000I did some investigation\xfffeof Dragonspiral Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era\xf000븀\x0000as this Light Stone!\xf000븁\x0000
-Juniper: ...And I've checked up on that.\xf000븁\x0000
-Lenora: Nice work, guys!\xf000븁\x0000
-Bianca: Um, whatever the case...\xf000븁\x0000It's a really good thing Team Plasma\xfffedidn't notice this old stone before.\xf000븁\x0000
-Lenora: Yeah...\xf000븁\x0000Now that I think about it,\xfffesince they were planning to revive\xf000븀\x0000a legendary dragon Pokémon...\xf000븁\x0000That must've been why\xfffethey stole the Dragon Skull!\xf000븁\x0000
-Well, \xf000Ā\x0001\x0000,\xfffethis is for...\xf000븁\x0000
-Alder: Wait, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Taking that Dark Stone\xfffemeans fighting N,\xf000븀\x0000should anything happen to me.\xf000븁\x0000Is that alright?
-Taking that Light Stone\xfffemeans fighting N,\xf000븀\x0000should anything happen to me.\xf000븁\x0000Is that alright?
-Alder: ...Your resolve is impressive.\xf000븁\x0000Alright.\xfffeTake heart, and accept it.\xf000븁\x0000
-Alder: Then,\xfffethe world N wants...\xf000븁\x0000A world where Pokémon and Trainers\xfffeare separated awaits us?
-Alder: But...\xfffeBut still! Please!\xf000븁\x0000Come on! Just take\xfffethe stone, for our sake!
-Alder: ...Sorry I had to\xfffeget so forceful.\xf000븁\x0000The world where everyone\xfffecan live with Pokémon...\xf000븀\x0000protect it for us!\xf000븁\x0000
-Lenora: ...Right then.\xf000븁\x0000This Dark Stone's for you.\xf000븁\x0000You gotta protect the ideal future,\xfffethe one for both us and Pokémon!\xf000븁\x0000Keep this safe, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Lenora: ...Right then.\xf000븁\x0000This Light Stone's for you.\xf000븁\x0000You gotta protect the true future,\xfffethe one for both us and Pokémon!\xf000븁\x0000Keep this safe, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Juniper's Dad: ...\xf000븁\x0000So... how are we planning on\xfffewaking the dragon Pokémon up\xf000븀\x0000from the stone?
-Oh?
+Cheren: Come with me a sec.\xf000븁\x0000
+If you go straight from here,\xfffethere's a Pokémon Center.\xf000븁\x0000\xfffeAnd...\xfffeUse these if you want.\xf000븁\x0000
+Cheren: Give your Pokémon a\xfffeChesto Berry to hold. Then, if it ever\xf000븀\x0000\xfffefalls asleep, it will wake up immediately.\xf000븁\x0000\xfffeOh, and another piece of advice--\xf000븁\x0000\xfffeNacrene City's Gym Leader uses\xfffeNormal types.\xf000븁\x0000\xfffeIf you have a Fighting-type Pokémon,\xfffeit might give you a big advantage.\xf000븁\x0000
+N: \xf000븉\x0001\x0001I...want to see things no one can see.\xf000븁\x0000\xfffeThe ideals of Pokémon inside Poké Balls.\xf000븁\x0000\xfffeThe truths of how Trainers should be.\xf000븁\x0000\xfffeAnd a future where Pokémon\xfffehave become perfect...\xf000븁\x0000\xfffeDo you feel the same?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001I...want to see things no one can see.\xf000븁\x0000\xfffeThe truths of Pokémon inside Poké Balls.\xf000븁\x0000\xfffeThe ideals of how Trainers should be.\xf000븁\x0000\xfffeAnd a future where Pokémon\xfffehave become perfect...\xf000븁\x0000\xfffeDo you feel the same?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001That so?\xf000븁\x0000\xfffeI think my friends and I should test you\xfffeto see if you can see this future, too.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Huh. I expected more from you.\xfffeNow pay attention.\xf000븁\x0000\xfffeMy friends and I will test you\xfffeto see if you can see this future, too.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Right now, my friends aren't strong\xfffeenough to save all Pokémon.\xf000븁\x0000\xfffeMaybe I can't solve the equation\xfffethat will change the world.\xf000븁\x0000\xfffeSo, I need power... Power enough\xfffeto make anyone agree with me.\xf000븉\x0001\x0000\xf000븁\x0000
+
+Now I know what power I need.\xfffeReshiram!\xf000븁\x0000\xfffeThe legendary Pokémon that, along with\xfffethe hero, created the Unova region.\xf000븁\x0000\xfffeIt's my turn to become that hero--\xfffeand you and I will be friends!\xf000븁\x0000
+Now I know what power I need.\xfffeZekrom!\xf000븁\x0000\xfffeThe legendary Pokémon that, along with\xfffethe hero, created the Unova region.\xf000븁\x0000\xfffeIt's my turn to become that hero--\xfffeand you and I will be friends!\xf000븁\x0000
+???: Good day, Lenora.\xfffeFind any good Fossils lately?\xf000븁\x0000
+Lenora: This is a surprise visit! Are you\xfffesuffering from artist's block again?\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeThis is Burgh.\xfffeHe may not look like it, but he's\xf000븀\x0000\xfffeCastelia City's Gym Leader!\xf000븁\x0000
+Burgh: ...Eh?\xfffeJust looking for a change of pace.\xf000븁\x0000\xfffeSeems hectic or something around here.\xfffeWhat's up?\xf000븁\x0000
+Lenora: What's up?!\xf000븁\x0000\xfffeSomeone just walked away with an exhibit,\xfffethat's what's up!\xf000븁\x0000
+Bianca: Oh, hi, \xf000Ā\x0001\x0000!\xfffeWhat's everybody doing here?\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000, is there\xfffesome kind of problem?\xf000븁\x0000
+Lenora: And these two are...?\xf000븁\x0000\xfffeYour friends?\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeBianca and Cheren...\xfffeOh, I see. They're Trainers.\xf000븁\x0000\xfffeOK, then. Let's split up and search.\xfffeI'll head this way.\xf000븁\x0000
+Everyone!\xf000븁\x0000\xfffeCheren and Bianca,\xfffeI want you to stay here at the museum.\xf000븁\x0000
+Burgh and \xf000Ā\x0001\x0000,\xfffeyou two search Pinwheel Forest!\xf000븁\x0000\xfffeGot it?\xfffeBurgh, you show the way!\xf000븁\x0000\xfffeI'm counting on you, everyone!\xf000븁\x0000
+Burgh: Uh-huh.\xfffeYou are...\xf000Ā\x0001\x0000, is it?\xf000븁\x0000\xfffeAre you raring to round up\xfffeour robbers?\xf000븁\x0000
+Burgh: Uh-huh.\xfffeYou are...\xf000Ā\x0001\x0000, is it?\xf000븁\x0000\xfffeAre you raring to round up\xfffeour robbers?\xf000븁\x0000
+Bianca: Oh! Oh, \xf000Ā\x0001\x0000!\xfffeTake this with you!\xf000븁\x0000\xfffeFennel gave me this Dowsing Machine\xfffeto give you.\xf000븁\x0000
+Now, what did she tell me? Um...\xf000븁\x0000\xfffeYou can use the Dowsing Machine\xfffeto find places where items are hidden.\xf000븀\x0000\xfffeSo you can find stuff you can't even see!\xf000븁\x0000
+Cheren: For now, all we need to do is\xfffeprotect the museum, right?\xf000븁\x0000
+Bianca: Hey, wait for me!\xf000븁\x0000
+Lenora: It doesn't look like there are\xfffeany members of Team Plasma over here...\xf000븀\x0000\xfffeI think I'd better stay here, though.\xf000븁\x0000\xfffePlease head to Pinwheel Forest\xfffeand search very carefully!
+These old textile factories\xfffeand storehouses were abandoned.\xf000븁\x0000\xfffeBut enterprising young people\xfffestarted using them as studios.\xf000븁\x0000\xfffeThat could be called the beginning of\xfffeNacrene City, the city of art.
+That warehouse...\xfffeThey're selling something good inside.
+Even though it's just an old warehouse,\xfffeit's become so popular...\xf000븁\x0000\xfffeIt makes me take a second look at\xfffewhat I think things are worth.
+Nacrene City is a highly fashionable\xfffeand admired locale!\xf000븁\x0000\xfffeContrariwise, if you happen to be a bit\xfffeordinary, here that's cool in its own way.
+How do you like the sound of accordions?
+Nacrene City\xfffeA Pearl of a Place
+Café Warehouse\xfffeTry our delicious Wednesday specials!
+Nacrene City Pokémon Gym\xfffeLeader: Lenora\xf000븀\x0000\xfffeAn Archeologist with Backbone
+Professor Juniper: Alder told me what's\xfffegoing on.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, you got caught up\xfffein something serious, it seems...\xf000븁\x0000
+Lenora: Is this it?\xf000븁\x0000
+Bianca: Whoa. Isn't that the...stone...\xfffefound in the Desert Resort?\xf000븁\x0000
+Lenora: Yes, that's right, but is this\xfffereally a Dragon-type Pokémon?\xf000븁\x0000
+Cedric: Surely...\xfffeWhen I investigated Dragonspiral Tower,\xf000븀\x0000\xfffeI found elements that were dated to the\xf000븀\x0000\xfffesame era as this Dark Stone!\xf000븁\x0000
+Cedric: Surely...\xfffeWhen I investigated Dragonspiral Tower,\xf000븀\x0000\xfffeI found elements that were dated to the\xf000븀\x0000\xfffesame era as this Light Stone!\xf000븁\x0000
+Professor Juniper: ...I looked into that.\xf000븁\x0000
+Lenora: Impressive, as always.\xf000븁\x0000
+Bianca: But, you know, we're lucky...\xfffe'Cause what if Team Plasma, like, noticed\xf000븀\x0000\xfffethat old stone that time...\xf000븁\x0000
+Lenora: That's a good point.\xf000븁\x0000\xfffeIt's clear to me that they were\xfffetrying to steal the Dragon Skull so\xf000븀\x0000\xfffethey could revive the legendary\xf000븀\x0000\xfffeDragon-type Pokémon.\xf000븁\x0000
+If you would, \xf000Ā\x0001\x0000, take this...\xf000븁\x0000
+Alder: Wait a moment, \xf000Ā\x0001\x0000!\xf000븁\x0000
+If you take this Dark Stone, that\xfffemeans you'll be the one to battle N\xf000븀\x0000\xfffeif anything happens to me.\xf000븁\x0000\xfffeAre you really OK with that?
+If you take this Light Stone, that\xfffemeans you'll be the one to battle N\xf000븀\x0000\xfffeif anything happens to me.\xf000븁\x0000\xfffeAre you really OK with that?
+Alder: I understand. You are determined\xfffeto take on this duty.\xf000븁\x0000\xfffeThen, here it is.\xfffePrepare yourself. Be strong.\xf000븁\x0000
+Alder: So, you're just going to allow\xfffeN to fulfill his plans for a new world?\xf000븁\x0000\xfffeA world where Pokémon and Trainers\xfffeare separated?
+Alder: Still, I must ask you...\xfffeSincerely, I must ask you...\xf000븁\x0000\xfffeTake this stone.\xfffeJust in case it's needed!
+Alder: I am deeply sorry.\xfffeI wish I didn't have to burden you.\xf000븁\x0000\xfffeThis world of ours, where Pokémon\xfffeand people live together...\xf000븁\x0000\xfffePlease...\xfffeIf anything happens to me, protect it!\xf000븁\x0000
+Lenora: ...I see.\xf000븁\x0000\xfffeIf things don't go as planned,\xfffeyou'll use this Dark Stone.\xf000븁\x0000\xfffeYou'll protect the ideal future\xfffefor us and Pokémon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, we're counting on you.\xfffePlease take care of yourself.\xf000븁\x0000
+Lenora: ...I see.\xf000븁\x0000\xfffeIf things don't go as planned,\xfffeyou'll use this Light Stone.\xf000븁\x0000\xfffeYou'll protect the true future\xfffefor us and Pokémon.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, we're counting on you.\xfffePlease take care of yourself.\xf000븁\x0000
+Cedric: ...\xf000븁\x0000\xfffeSo, how do we wake the Dragon-type\xfffePokémon from the stone, then?
+Huh?
 ...
 Umm...
-Lenora: Aha! Aren't they there?\xfffeYou know, those two?\xf000븁\x0000
-Alder: Ah, yes.\xfffeThere is them.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xfffeHead for Opelucid City.\xf000븁\x0000The gym leader of that town\xfffemay know something\xf000븀\x0000about the dragon Pokémon.\xf000븁\x0000I'll be waiting there!\xfffeLater!\xf000븁\x0000
-Juniper: Aha!\xf000븁\x0000Yes, perhaps Opelucid's little Iris\xfffemay be familiar with it!\xf000븁\x0000
-Juniper: Aha!\xf000븁\x0000Yes, perhaps Opelucid's Drayden\xfffemay be familiar with it!\xf000븁\x0000
-Juniper's Dad: \xf000Ā\x0001\x0000!\xf000븁\x0000Don't forget there are always\xfffePokémon right beside you!\xf000븁\x0000
-Juniper: What kind of creature\xfffeis the dragon Pokémon?\xf000븁\x0000Is there a way to wake it up?\xfffeWe'll head back to the lab\xf000븀\x0000and look into it...\xf000븁\x0000
-Lenora: Don't you worry!\xf000븁\x0000You need anything,\xfffejust come runnin' to us!\xf000븁\x0000
-Lenora: Don't you worry!\xf000븁\x0000You need anything,\xfffejust come runnin' to us!
-Bianca: ...Man, I can't tell what's going\xfffeon other than major bad news, but...\xf000븁\x0000...\xf000Ā\x0001\x0000, do you know\xfffehow to get to Opelucid City?\xf000븁\x0000Cross Tubeline Bridge\xfffefrom Icirrus City,\xf000븀\x0000and it's just past there.\xf000븁\x0000And if you didn't\xfffeget that explanation,\xf000븀\x0000you can just check the Town Map...\xf000븁\x0000
-Bianca: ...Man, I can't tell what's going\xfffeon other than major bad news, but...\xf000븁\x0000...\xf000Ā\x0001\x0000, do you know\xfffehow to get to Opelucid City?\xf000븁\x0000Cross Tubeline Bridge\xfffefrom Icirrus City,\xf000븀\x0000and it's just past there.\xf000븁\x0000And if you didn't\xfffeget that explanation,\xf000븀\x0000you can just check the Town Map...
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
-no data
+Lenora: That's it!\xfffeWe've got them, don't we?\xf000븁\x0000
+Alder: Ah-hah. We've got those two.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xfffeGo to Opelucid City.\xf000븁\x0000\xfffeThe Gym Leader of that city\xfffeuses Dragon-type Pokémon.\xf000븁\x0000\xfffeThe Gym Leader could know something.\xfffeI'll go ahead and wait for you there!\xf000븁\x0000\xfffeUntil then!\xf000븁\x0000
+Professor Juniper: That's right!\xf000븁\x0000\xfffeOpelucid City's Iris might know something!\xf000븁\x0000
+Professor Juniper: That's right!\xf000븁\x0000\xfffeOpelucid City's Drayden might\xfffeknow something!\xf000븁\x0000
+Cedric: Hey, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeNever forget that you always\xfffehave Pokémon right by your side.\xf000븁\x0000
+Professor Juniper: I'm going to head\xfffeback to the lab and do some research...\xf000븁\x0000\xfffeI'll see if I can uncover what kinds of\xfffebeings these legendary Dragon-type\xf000븀\x0000\xfffePokémon are and if there is any way\xf000븀\x0000\xfffeto awaken them...\xf000븁\x0000
+Lenora: Don't worry!\xf000븁\x0000\xfffeIf we have something for you,\xfffewe'll come running to find you!\xf000븁\x0000
+Lenora: Don't worry!\xf000븁\x0000\xfffeIf we have something for you,\xfffewe'll come running to find you!
+Bianca: Ooh. Sounds real serious...\xfffeUm, that's about all I got out of it.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, do you know Opelucid City?\xf000븁\x0000\xfffeWhen you leave from Icirrus City\xfffeand, like, cross the Tubeline Bridge,\xf000븀\x0000\xfffeit's on the other side. Umm...\xf000븁\x0000\xfffeI'm not that great with directions, so if\xfffeyou need more, check your Town Map, OK?\xf000븁\x0000
+Bianca: Ooh. Sounds real serious...\xfffeUm, that's about all I got out of it.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, do you know Opelucid City?\xf000븁\x0000\xfffeWhen you leave from Icirrus City\xfffeand, like, cross the Tubeline Bridge,\xf000븀\x0000\xfffeit's on the other side. Umm...\xf000븁\x0000\xfffeI'm not that great with directions, so if\xfffeyou need more, check your Town Map, OK?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

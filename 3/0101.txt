@@ -1,59 +1,59 @@
-﻿???: Hmph! You the Trainers\xfffeElesa was talkin' about?\xf000븁\x0000\xfffeI'm Clay, gym leader\xfffeof this here town!\xf000븁\x0000\xfffeGuess I gotta welcome ya.\xf000븁\x0000\xfffeAny rate, thanks ta lowerin' the bridge,\xfffesome Plasma grunts we'd caught\xf000븀\x0000fled into town!\xf000븁\x0000
-Cheren: ...What a pain.\xf000븁\x0000Well, I'm thankful you\xfffelet the bridge down for us...\xf000븀\x0000er, but that's unrelated, isn't it?\xf000븁\x0000
-Clay: No way, son.\xf000븁\x0000\xfffeIt was important that ya came here...\xfffesure, it meant lettin' Team Plasma\xf000븀\x0000into town, but so be it.\xf000븁\x0000\xfffeI was just thinkin' this to myself,\xfffebut y'oughta search out Plasma too.\xf000븀\x0000\xfffeYer real go-getter Trainers, ain't ya?\xf000븁\x0000
-Right...\xf000븁\x0000\xfffeOnce ya find Team Plasma,\xfffecome challenge me at the gym!\xf000븀\x0000\xfffeLife's a give and take!\xf000븁\x0000
-Cheren: Understood.\xf000븁\x0000He didn't have to tell us so,\xfffebut we'll search for Team Plasma.\xf000븁\x0000They're a tedious lot to beat\xfffeagain and again, but at least\xf000븀\x0000it makes us stronger, I suppose...\xf000븁\x0000
+Hrmph! So yer the Trainers Elesa was\xfffetalkin' about, huh.\xf000븁\x0000\xfffeI'm Clay. I'm the Gym Leader 'round\xfffethese parts.\xf000븁\x0000\xfffeDon't be expectin' no welcome, now.\xf000븁\x0000\xfffe'Cause when we lowered that bridge,\xfffethe Team Plasma guys we'd caught\xf000븀\x0000\xfffedone escaped in all the ruckus!\xf000븁\x0000
+Cheren: What a bother.\xf000븁\x0000\xfffeWe're grateful that you lowered the\xfffebridge, but how is it our fault that\xf000븀\x0000\xfffethey escaped?\xf000븁\x0000
+Clay: Ya can say whatever ya want.\xf000븁\x0000\xfffeBut what's important is y'all showed up,\xfffeand then Team Plasma escaped.\xf000븁\x0000\xfffeMaybe it's a little heavy-handed, but\xfffeyou oughtta start lookin' for\xf000븀\x0000\xfffeTeam Plasma, too.\xf000븁\x0000\xfffeYer both talented Trainers, aren't ya?\xf000븁\x0000
+Tell ya what...\xf000븁\x0000\xfffeIf ya find Team Plasma, I'll let ya\xfffechallenge my Gym!\xf000븁\x0000\xfffeLife's all about give and take!\xf000븁\x0000
+Cheren: Well, I suppose that's fair.\xf000븁\x0000\xfffeBut really, we would have looked\xfffefor Team Plasma even if he hadn't asked.\xf000븁\x0000\xfffeI can get stronger while beating that\xfffebothersome bunch...\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xfffeI'll go on ahead.\xf000븁\x0000
-Ghetsis: Hello, Mr. Clay.\xf000븁\x0000\xfffeI am Ghetsis\xfffeof Team Plasma.\xf000븁\x0000\xfffeI see you've taken care of\xfffesome of my own.\xf000븁\x0000
-Clay: Oh, no need ta thank me.\xf000븁\x0000\xfffeYer members were\xfffestealin' Pokémon, after all.\xf000븁\x0000
-Ghetsis: Oh? I think there's been\xfffea misunderstanding.\xf000븁\x0000\xfffeWe are merely freeing\xfffePokémon from evil people.\xf000븁\x0000
-Clay: You really goin' with that?\xf000븁\x0000Honestly, I ain't too good\xfffewith words...\xf000븁\x0000And on the other hand,\xfffeyou're pretty fancy with 'em...\xf000븀\x0000but they reek of a liar.\xf000븁\x0000So what d'ya mean ta say?\xf000븁\x0000
-Ghetsis: Team Plasma has\xfffean interest in Driftveil City.\xf000븁\x0000\xfffeThere are many people who are\xfffeonly to be found here...\xf000븁\x0000
-Clay: ...Not sure if that's\xfffea lie or truth, but...\xf000븁\x0000It's always best ta come to a\xfffevictory without havin' to fight it.\xf000븁\x0000Hmph! Awright.\xfffeTake 'em back, fine!\xf000븁\x0000
-Ghetsis: Just as I expected from the\xfffeone they call King of the Hills...\xf000븁\x0000A magnificent decision-maker, indeed.\xf000븁\x0000\xfffeNow... Allow me to speak\xfffewith that Sage there...\xf000븁\x0000
-Vio: Lord Ghetsis...\xfffeThank you so very much...\xf000븁\x0000
-Ghetsis: Oh, it's fine.\xf000븁\x0000We're working for the king together...\xfffeAre we not both Sages?\xf000븁\x0000Well then, everyone.\xfffeWhatever day we might meet again...\xf000븁\x0000
-Clay: You found them rotten\xfffeTeam Plasma guys and all, but ugh...\xf000븁\x0000\xfffeWell, gotta pull myself together.\xfffeLet's get ta our Pokémon battle!\xf000븀\x0000Don't make me wait, now!\xf000븁\x0000
-Cheren: ...Are both of them looking\xfffeto prevent quarrel in the town?\xf000븁\x0000Either way, I don't feel that Ghetsis\xfffefellow to be any ordinary person.\xf000븁\x0000...Well, I'll be\xfffetraining my Pokémon.\xf000븁\x0000I don't want to lose\xfffeto Clay one bit!\xf000븁\x0000I'll take the gym badge\xfffeafter a flawless victory!\xf000븁\x0000
-When the drawbridge raises or lowers,\xfffeeverybody takes notice!\xf000븁\x0000...Which is what gave Team Plasma\xfffethe chance to run.\xf000븁\x0000They weren't seen near the bridge,\xfffeso they're somewhere in town...
-Mr. Clay is the gym leader,\xfffebut he's in the midst of business.\xf000븀\x0000\xfffeCome back again later.
-Bianca: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
-Bianca: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
-Um, did you maybe\xfffego to the gym?\xf000븁\x0000Whoooooa!\xfffeThat's the Driftveil gym badge!\xf000븀\x0000Niceness! That's so awesome!!\xf000븁\x0000
-Oh, no, no!\xfffeI'm just admiring!\xf000븁\x0000I'm a Trainer too, you know!\xfffeAnd at times like this, we battle!\xf000븁\x0000
-Bianca: It's been a while since I had a\xfffePokémon battle with you, \xf000Ā\x0001\x0000,\xf000븀\x0000but you've gotten REALLY strong!\xf000븁\x0000I'm still not that strong, so I can't\xfffeput it into words all that well, but...\xf000븁\x0000I think you really understand the\xfffefeelings of your Pokémon, \xf000Ā\x0001\x0000!\xf000븁\x0000Oh yeah! You should\xfffehave this HM, too!\xf000븁\x0000
-Bianca: Dad gave me that after...\xfffeyou know!\xf000븁\x0000So I'll always be able to come\xfffeback right away and whenever!\xf000븀\x0000Or so he said, anyway...\xf000븁\x0000Oh yeah, I guess I'll have to\xfffegive it to Cheren too...\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xfffeBye-bye!!\xf000븁\x0000
-What do you think of\xfffethe town's famous drawbridge?\xf000븁\x0000\xfffeIt's also known as Charizard Bridge\xfffefor its beautiful figure.
-Hey, Trainer!\xf000븁\x0000\xfffeHave you fought the\xfffePokémon League's Elite Four?\xf000븁\x0000You can't fight them unless\xfffeyou have eight gym badges, right?
-By way of the sea...\xf000븁\x0000\xfffeMight the tears I shed here\xfffeflow all the way to Olivine City...?
-I was forced to battle Team Plasma,\xfffeI lost, and they stole my Pokémon...
-When you win, it's thanks to Pokémon...\xfffeWhen you lose, it's your own fault...\xf000븁\x0000Always thinking that way\xfffeis sure to turn ugly fast!
-Hey, I have a reason for loitering!\xf000븁\x0000It's 'cause I wanna loiter!\xf000븁\x0000Oh! And Pokémon using Surf\xfffewill let ya proceed across water!
-There are kids around the freezer storage\xfffecatching and training Pokémon!
-The lightning Pokémon\xfffeand the wind Pokémon...\xf000븁\x0000Both appear wherever they want\xfffeat their own whims.
-There are so many people\xfffeand so many Pokémon beyond the sea!
-There's an old man on Route 6\xfffelooking for a legendary Pokémon...\xf000븁\x0000If you're curious,\xfffeyou should meet him!
-Bridges are marvels!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!\xf000븁\x0000...Wait, you're telling me a guy\xfffeon Route 5 said the same thing?!
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Triple Battle!\xfffeWant to know about it?
-...Very well! It's truly difficult\xfffemaking an opponent swoon...
-A Triple Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000The rules are simple!\xf000븁\x0000Just make all the\xfffeopponent's Pokémon faint...\xf000븁\x0000That's all there really is\xfffeto Triple Battles, roughly!\xf000븁\x0000
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000So, Trainer! You wanna do it?\xfffe...Uh! A Triple Battle, I mean?!
-You've got dedication!\xf000븁\x0000But I am a man loved by many!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
-Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Triple Battle needs three\xfffePokémon that can fight!
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!
-...Heh, what a mess! I was\xfffegonna tell you, but I got told!\xf000븁\x0000Still, you've definitely\xfffegot some promise.\xf000븁\x0000You gotta understand your Pokémon,\xfffeor you can't win a Triple Battle!\xf000븁\x0000If you wanna do more Triple Battles,\xfffeget to Opelucid City...
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a bike and become\xfffethe wind! Is that such a crime?
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Rotation Battle!\xfffeWant to know about it?
-...Very well! It's truly difficult\xfffemaking an opponent swoon...
-A Rotation Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000And there's one set into the\xfffefront position, and two in the back!\xf000븁\x0000Their positions can be changed\xfffeat the cost of a turn...\xf000븁\x0000That's all there really is\xfffeto Rotation Battles, roughly!\xf000븁\x0000
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000So, Trainer! You wanna do it?\xfffe...Uh! A Rotation Battle, I mean?!
-You've got dedication!\xf000븁\x0000But I am a man loved by many!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
-Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Rotation Battle needs three\xfffePokémon that can fight!
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!
-...Heh, what a mess! I was\xfffegonna tell you, but I got told!\xf000븁\x0000Still, you've definitely\xfffegot some promise.\xf000븁\x0000You gotta understand your Pokémon,\xfffeor you can't win a Rotation Battle!\xf000븁\x0000If you wanna do more Rotation Battles,\xfffeget to Opelucid City...
-I... am a man loved by many.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a bike and become\xfffethe wind! Is that such a crime?
+Ghetsis: Clay.\xfffeIt's a pleasure to meet you.\xf000븁\x0000\xfffeI am Ghetsis, of Team Plasma.\xf000븁\x0000\xfffeI've come to pick up my associates\xfffewho are in your care.\xf000븁\x0000
+Clay: I don't need no thanks, now.\xf000븁\x0000\xfffeYer buddies were tryin' to steal\xfffesome folks' Pokémon.\xf000븁\x0000
+Ghetsis: What's this? It seems as if\xfffethere has been some misunderstanding.\xf000븁\x0000\xfffeWe only free Pokémon from wicked people.\xf000븁\x0000
+Clay: Well, that sounds real nice,\xfffeif it's true.\xf000븁\x0000\xfffeI may not talk purty, but at least\xfffeI'm an honest man.\xf000븁\x0000\xfffeYou talk real nice, but what yer sayin'\xfffekinda sounds like lyin'.\xf000븁\x0000\xfffeSo tell me plain, what are ya tryin'\xfffeto say?\xf000븁\x0000
+Ghetsis: Team Plasma also has an interest\xfffein Driftveil City.\xf000븁\x0000\xfffeAnd we have many, many more members\xfffebesides those who are here...\xf000븁\x0000
+Clay: ...Well, I can't tell if yer lyin' or\xfffenot, but I reckon you've won this\xf000븀\x0000\xfffewithout a fight.\xf000븁\x0000\xfffeHrrmph. Fine. Take 'em and git!\xf000븁\x0000
+Ghetsis: A decision worthy of a\xfffebusinessman called the Miner King.\xf000븁\x0000\xfffeYour grasp of the situation\xfffeis outstanding.\xf000븁\x0000\xfffeWell then, we will be taking\xfffeour colleagues off your hands...\xf000븁\x0000
+Zinzolin: Ghetsis...\xfffeThank you very much...\xf000븁\x0000
+Ghetsis: Don't worry, my fellow servant\xfffeof the king...\xf000븁\x0000\xfffeWe are two of the Seven Sages,\xfffeare we not?\xf000븁\x0000\xfffeWell then, everyone, I expect that we\xfffewill meet again somewhere.\xf000븁\x0000
+Clay: Sorry to let Team Plasma go after\xfffeyou tracked 'em down, fellas.\xf000븁\x0000\xfffeSay, why don't we cheer ourselves up\xfffewith a Pokémon battle?\xf000븁\x0000\xfffeDon't keep me waitin'!\xf000븁\x0000
+Cheren: Well, we avoided a fight in\xfffethe middle of the city, anyway.\xf000븁\x0000\xfffeStill, I can't help but think Ghetsis isn't\xfffejust an ordinary person.\xf000븁\x0000\xfffeI'm off to go make my Pokémon stronger.\xf000븁\x0000\xfffeI really don't want to lose\xfffeto that Clay guy.\xf000븁\x0000\xfffeActually, I'm going to win my\xfffeGym Badge in a flawless victory!\xf000븁\x0000
+
+Our Gym Leader, Clay, is in the\xfffemiddle of something right now.\xf000븀\x0000\xfffePlease come again later.
+Bianca: Oh, hi, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000!!\xfffeGuess what, guess what?\xf000븁\x0000
+Hey, were you at the Gym just now?\xf000븁\x0000\xfffeOh, hey! That's Driftveil's Gym Badge!\xfffeOh, that's totally cool. That's amazing.\xf000븁\x0000
+No, no, no! I can't get distracted being\xfffeall impressed with your shiny new Badge!\xf000븁\x0000\xfffeI'm also a Trainer!\xfffeAt times like this you battle, right?\xf000븁\x0000
+Bianca: I haven't had a Pokémon battle\xfffewith you in a while, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeYou've become totally strong, huh?\xf000븁\x0000\xfffeI'm not that strong, so I don't know\xfffehow to say it, but I think you're way\xf000븀\x0000\xfffetuned in to how your Pokémon feel!\xf000븁\x0000\xfffeOh, you know what! I want to share this\xfffeHM with you, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bianca: My papa gave it to me after\xfffehe tried to take me home that time.\xf000븁\x0000\xfffeI'm sure it's so I can come home anytime\xfffehe wants, though...\xf000븁\x0000\xfffeOh, hey, I have to share this with\xfffeCheren, too...\xf000븁\x0000\xfffeSee you, \xf000Ā\x0001\x0000! Buh-bye!\xf000븁\x0000
+So how about this city's pride and joy,\xfffethe drawbridge?\xf000븁\x0000\xfffeWe also call it the Charizard Bridge\xfffedue to its elegant form!
+Hey there, Trainer!\xf000븁\x0000\xfffeHave you ever battled the Elite Four\xfffeof the Pokémon League?\xf000븁\x0000\xfffeYou can't battle them unless you\xfffehave eight Gym Badges, right?
+Oh, ocean...\xf000븁\x0000\xfffeI wonder if the tears I've cried\xfffewill flow all the way to Olivine City.
+Those Team Plasma meanies forced me\xfffeto battle them.\xf000븁\x0000\xfffeAnd when I lost, they stole my Pokémon!
+When I win, it's because of my Pokémon.\xfffeWhen I lose, it's because of me.\xf000븁\x0000\xfffeThat's how I always think. If you get\xfffeconceited, you get sloppy fast.
+The reason I'm hangin' around is\xfffebecause I want to hang around!\xf000븁\x0000\xfffeAww! If my Pokémon just knew the move\xfffeSurf, I could go on top of the water!
+Some kids are catching and training\xfffePokémon close to the Cold Storage.
+The Pokémon of lightning and the Pokémon\xfffeof wind are both known to come and go\xf000븀\x0000\xfffeas they please.
+On the other side of the ocean, there\xfffeare a lot of different people and a lot of\xf000븀\x0000\xfffedifferent Pokémon, aren't there?
+The old guy on Route 6 is searching for\xfffelegendary Pokémon.\xf000븁\x0000\xfffeIf you're interested, go talk to him!
+Bridges are amazing. 'Cause they are a\xfffesymbol of connecting the world.\xf000븁\x0000\xfffeBut the guy on Route 5 is saying the\xfffesame thing, isn't he?
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI wanted to get the attention of a girl\xfffeI like, so I learned a new style of\xf000븀\x0000\xfffePokémon battling.\xf000븁\x0000\xfffeIts name... Triple Battle!\xfffeWant to learn about it?
+Oh, man! Getting someone's attention is\xfffereally hard.
+In Triple Battles, you send out three\xfffePokémon at a time and battle!\xf000븁\x0000\xfffeThe rules are simple: just make all of\xfffeyour opponent's Pokémon faint.\xf000븁\x0000\xfffeAnd that's a rough explanation\xfffeof Triple Battles.\xf000븁\x0000
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeHey! If you're a Trainer, how about a\xfffeTriple Battle?
+You've got a good attitude, don't you!\xf000븁\x0000\xfffeI'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI'm always at full throttle.\xf000븁\x0000
+I hate to burst your bubble when you're\xfffeall fired up, but...\xf000븁\x0000\xfffeIn Triple Battles, you need three or\xfffemore Pokémon to battle.
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI have some advice for you.\xfffeChallenge is the essence of life!
+Sheesh. That's embarrassing. Getting\xfffeschooled when I was planning to teach.\xf000븁\x0000\xfffeStill, you have potential!\xf000븁\x0000\xfffeYou have to understand your Pokémon\xfffeto win in a Triple Battle.\xf000븁\x0000\xfffeIf you want more Triple Battles, you\xfffeshould go to Opelucid City.
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeRiding a bike and becoming the wind fits\xfffea bad boy like me.
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI wanted to get the attention of a girl\xfffeI like, so I learned a new style of\xf000븀\x0000\xfffePokémon battling.\xf000븁\x0000\xfffeIts name... Rotation Battle!\xfffeWant to learn about it?
+Oh, man! Getting someone's attention is\xfffereally hard.
+In Rotation Battles, you send out three\xfffePokémon at a time and battle!\xf000븁\x0000\xfffeOne Pokémon takes the lead position,\xfffeand the other two stand on each side.\xf000븁\x0000\xfffeThe trick is, each turn you can change\xfffetheir positions...\xf000븁\x0000\xfffeAnd that's a rough explanation\xfffeof Rotation Battles.\xf000븁\x0000
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeHey! If you're a Trainer, how about a\xfffeRotation Battle?
+You've got a good attitude, don't you!\xf000븁\x0000\xfffeI'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI'm always at full throttle.\xf000븁\x0000
+I hate to burst your bubble when you're\xfffeall fired up, but...\xf000븁\x0000\xfffeIn Rotation Battles, you need three or\xfffemore Pokémon to battle.
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeI have some advice for you.\xf000븁\x0000\xfffeChallenge is the essence of life!
+Sheesh. That's embarrassing. Getting\xfffeschooled when I was planning to teach.\xf000븁\x0000\xfffeStill, you have potential!\xf000븁\x0000\xfffeYou have to understand your Pokémon\xfffeto win in a Rotation Battle.\xf000븁\x0000\xfffeIf you want to have more\xfffeRotation Battles, go to Opelucid City.
+I'm a heartbreaker...\xfffeMy name... Charles.\xf000븁\x0000\xfffeRiding a bike and becoming the wind fits a\xfffebad boy like me.
 Driftveil Drawbridge
 Welcome to Driftveil City!
-Driftveil City, home of\xfffeships' sails and whirling water
+Driftveil City\xfffeA City of Billowing Sails
 Driftveil Market
-Driftveil Pokémon Gym\xfffeLeader: Clay\xf000븀\x0000\xfffeBoss of the Underground
+Driftveil City Pokémon Gym\xfffeLeader: Clay\xf000븀\x0000\xfffeThe Underground Boss

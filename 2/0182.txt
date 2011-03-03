@@ -1,4 +1,4 @@
--
+--
 Stench
 Drizzle
 Speed Boost
@@ -122,43 +122,43 @@ Reckless
 Multitype
 Flower Gift
 Bad Dreams
-Wicked Trick
+Pickpocket
 Sheer Force
-Perversity
-Tension
-Competitive Spirit
-Faint Hearted
+Contrary
+Unnerve
+Defiant
+Defeatist
 Cursed Body
 Healer
-Friend Card
-Breakable Armor
+Friend Guard
+Weak Armor
 Heavy Metal
 Light Metal
-Multi-Scale
-Poison Rampage
-Heat Rampage
+Multiscale
+Toxic Boost
+Flare Boost
 Harvest
 Telepathy
-Inconsistent
-Dust-proof
-Poisoned Hand
-Regeneration
+Moody
+Overcoat
+Poison Touch
+Regenerator
 Big Pecks
-Sand Throw
-Miracle Skin
-Analyze
+Sand Rush
+Wonder Skin
+Analytic
 Illusion
-Eccentric
-Slip Through
+Imposter
+Infiltrator
 Mummy
 Moxie
-Heart of Justice
-Self-Conscious
-Magic Mirror
+Justified
+Rattled
+Magic Bounce
 Sap Sipper
-Mischievous Heart
+Prankster
 Sand Force
-Steel Thorns
+Iron Barbs
 Zen Mode
 Victory Star
 Turboblaze

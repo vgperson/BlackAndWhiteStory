@@ -1,4 +1,4 @@
-﻿
+
 For some time after its birth, it\xfffegrows by gaining nourishment from\xfffethe seed on its back.
 When the bud on its back starts\xfffeswelling, a sweet aroma wafts to\xfffeindicate the flower's coming bloom.
 After a rainy day, the flower on\xfffeits back smells stronger. The\xfffescent attracts other Pokémon.
@@ -93,7 +93,7 @@ It fights by keeping its shell\xfffetightly shut for protection and\xfffeby shoo
 Born from gases, anyone would\xfffefaint if engulfed by its gaseous\xfffebody, which contains poison.
 It likes to lurk in the dark and tap\xfffeshoulders with a gaseous hand. Its\xfffetouch causes endless shuddering.
 The leer that floats in darkness\xfffebelongs to a Gengar delighting in\xfffecasting curses on people.
-It burrows through the ground\xfffeat a speed of 50 mph while\xfffefeeding on large boulders.\xfffe
+It burrows through the ground\xfffeat a speed of 50 mph while\xfffefeeding on large boulders.
 It can tell what people are\xfffedreaming by sniffing with its big\xfffenose. It loves fun dreams.
 Seeing its swinging pendulum can\xfffeinduce sleep in three seconds,\xfffeeven in someone who just woke up.
 It lives in burrows dug on sandy\xfffebeaches. Its pincers fully grow\xfffeback if they are broken in battle.
@@ -492,159 +492,159 @@ It is born with a wondrous power\xfffethat lets it bond with any kind of\xfffePo
 To protect itself, it afflicts those\xfffearound it with nightmares. However,\xfffeit means no harm.
 The flowers all over its body burst\xfffeinto bloom if it is lovingly hugged\xfffeand senses gratitude.
 It is said to have emerged from an\xfffeegg in a place where there was\xfffenothing, then shaped the world.
-It produces infinite energy inside its\xfffebody. When it touches an ally, it shares\xfffethe energy.
-It bathes its tail in sunlight and\xfffeundergoes photosynthesis. If it runs out\xfffeof energy, its tail droops.
-It slips through shadows of overgrown\xfffeplants to avoid attacks. It skillfully\xfffewhips the enemy to counterattack.
-It raises its head high to intimidate\xfffeopponents. It only becomes serious when\xfffefighting a strong enemy.
-It snorts flames from its nostrils. When\xfffeit has a cold, this becomes black smoke\xfffeinstead of flames.
-A flame burns in its stomach, fueled by\xfffethe food it eats. When it's angry, its\xfffefire power increases.
-It has a beard of flames. It possesses\xfffeboth power and speed and has learned\xfffegrappling techniques.
-The shell on its stomach is made from the\xfffesame material as claws. It detaches it\xfffefrom its stomach and uses it as a sword.
-The attacks it uses with the shells on\xfffeits body differ between Dewott.\xfffeIt never fails to maintain its shells.
-A portion of the armor on its forelegs\xfffebecomes a large sword. It only needs to\xffferoar to pacify its enemies.
-They're very wary and take shifts\xfffeto keep watch around their nest.\xfffeThey get nervous if there's no guard.
-The pattern on its body shines and\xfffeintimidates its enemies. It has eyes that\xfffecan see its settings even in the dark.
-The long hair that covers its face is an\xfffeexcellent radar. It adeptly senses what\xfffeis happening in its surroundings.
-It's obedient to its Trainer's orders.\xfffeIt's been an assistant to Trainers who\xffferaise Pokémon since long ago.
-Its specialty is rescuing people who are\xfffein accidents at sea or in the mountains.\xfffeA very smart Pokémon.
-It charms people with cute ways and uses\xfffethe moment to steal their stuff. When\xfffeangered, it draws its claws and attacks.
-It sneaks up without any indication.\xfffeBefore the opponent notices, it\xfffestealthily takes them down from behind.
-It shares the leaves on its head with\xfffeexhausted Pokémon. They have the effect\xfffeof curing fatigue.
-It attacks by slamming the opponent with\xfffeits spiked tail. A Pokémon with a violent\xfffetemperament.
-It lives in volcanic caves. The\xfffehottest part of its head tassel burns\xfffeat a temperature of 300 degrees.
-A flame burns inside its body, and it\xfffescorches enemies by scattering sparks\xfffefrom its head and tail.
-It's weak in dry environments. It\xfffemoistens the tassel on its head with\xfffewater stored in its tail.
-It fires high-pressure water from its\xfffetail with enough force to destroy\xfffea concrete wall.
-It eats the dreams of humans and\xfffePokémon. When it eats a fun dream,\xfffeit spits out pink smoke.
-It makes the dreams it ate appear. The\xfffesmoke that leaks from its forehead\xfffechanges the form of items created.
-A Pokémon that lives in towns. Since\xfffethey're social, they gather in large\xfffegroups in parks and plazas.
-It's said that the forests where\xfffeTranquill live are peaceful regions\xfffefree of strife.
-The male has adornments on its head. It\xfffenever grows attached to any human other\xfffethan its Trainer.
-It appears when thunderclouds cover\xfffethe sky. It catches thunder and stores\xfffethe electricity in its mane.
-It has a violent nature. When angered, it\xfffeshoots electricity from its mane in all\xfffedirections, so be careful.
-It was discovered inside a fissure after\xfffea great earthquake 100 years ago. It\xfffehas an energy core inside its body.
-Energy that seeps out of its body\xfffeclumps up and turns into\xfffeorange crystals.
-The orange crystals that grow from its\xfffebody absorb sunlight. The energy is\xfffeamplified and expelled through the mouth.
-It clings to cavern walls with suction\xfffefrom its nostrils and sleeps there. A\xfffeheart shape is left where it adhered.
-Anyone who bathes in the ultrasonic waves\xfffeit emits during courtship is put into a\xfffevery happy mood.
-It puts its claws together, spins its\xfffebody at high speed, and drills through\xfffethe earth at dizzying speeds.
-It makes its labyrinth-like den 100\xfffemeters below the surface. The dens were\xfffeexposed by subway tunnels.
-It has extraordinary hearing. It gets\xfffeinformation about its surroundings from\xfffefaint noises, just like a radar.
-It always carries a plank of wood. This\xfffePokémon appears at construction sites\xfffeto help with building.
-It tones its body by shouldering steel\xfffebeams. It shows its toned muscles off to\xfffeits friends.
-It freely wields the concrete beams that\xfffeit uses as walking sticks, without\xfffetapping all of its strength.
-It vibrates its cheeks and emits sound\xfffewaves that are inaudible to humans. It\xfffecommunicates with these rhythms.
-It lives in the water and on land. It\xfffecatches prey by entangling it in its\xfffelong, sticky tongue.
-It makes the lumps on its fists vibrate\xfffeto double the power of its punches. It\xfffecan pulverize a boulder in one strike.
-It can throw opponents that are larger\xfffethan itself. It always makes packs with\xfffefive members.
-The destructive power of its punches\xfffegrows when it puts on its belt and yells.\xfffeIt gets angry if you hinder its training.
-It cuts leaves and sews them together\xfffewith sticky thread from its mouth.\xfffeA Pokémon that makes its own clothes.
-It wraps its body in a leaf to ward off\xfffethe cold. It moves through the forest\xfffeeating nearby fallen leaves.
-It warms its eggs with the heat of\xfffefermenting fallen leaves. It makes\xfffeblankets for Sewaddle out of leaves.
-It feels out its surroundings with the\xfffeantennae on its head and tail. It has an\xfffeextremely brutal nature.
-It usually doesn't move, but if it's\xfffeattacked, it rolls around at high speeds\xfffeand rams the enemy to fight back.
-It thrusts the claws on its head into its\xfffeopponents' bodies and poisons them. It\xfffehas a very aggressive nature.
-It goes wherever the wind takes it.\xfffeSince its body grows heavy in the rain,\xfffeit waits out storms under tree roots.
-It appears riding a whirlwind. It's a\xfffePokémon that enters houses through\xfffecracks and causes mischief.
-Since it prefers soil with an abundance\xfffeof moisture and nutrients, fields where\xfffePetilil live produce excellent crops.
-The aroma of the flowers on its head has\xfffea relaxing effect. If you neglect to trim\xfffethem, they wither.
-Red and blue Basculin don't get along,\xfffebut for some reason, different-colored\xfffeones tend get mixed into the schools.
-It moves by burrowing through the sand\xfffewith its eyes and nose above ground.\xfffeA black membrane protects its eyes.
-Since the special membrane around its\xfffeeyeballs perceives body heat, it can see\xfffeits surroundings even in the dark.
-It has eyes that can magnify things that\xfffeare far away, just like a pair of\xfffebinoculars.
-Since Darumaka's droppings are hot,\xfffeancient people put them in their pockets\xfffeto warm their bodies.
-When it's weakened in battle, it becomes\xfffemotionless like a rock. It's honed its\xfffemind and battles with force of will.
-It lives in arid lands. When it moves its\xfffebody rhythmically, it plays a sound\xfffesimilar to maracas.
-It makes a hole in a suitable rock and\xfffenests there. If its rock is smashed,\xfffeit won't rest until it finds a new one.
-It has the stamina to walk across arid\xfffeland for many days with a heavy rock on\xfffeits back.
-It immediately launches a Headbutt\xfffeat any enemy who locks eyes with it. It\xfffehas a very hard skull.
-The one with the biggest crest is chosen\xfffeas the group's leader. Its kicking\xfffeattacks demolish concrete blocks.
-The guardian deity of an ancient city. It\xfffeattacked invaders with psychic powers.
-It was born from the soul of a human\xfffeburied in an ancient tomb. It still has\xfffeits memories from long ago.
-It pretends to be an elegant casket,\xfffethen punishes grave robbers. Its body\xfffehas a solid gold coating.
-It swam the oceans roughly 100,000,000\xfffeyears ago. It also came up on land to\xfffecapture prey.
-The power of its jaws is incomparable. It\xfffechomps down on steel beams and rocks\xfffeand devours them along with its prey.
-A Pokémon that was revived from a fossil.\xfffeIt is thought to be the ancestor of all\xfffebird Pokémon.
-It excels at both running and flying. It\xfffecatches prey running at speeds that\xfffecould outpace a car.
-When a garbage bag was exposed to\xfffeindustrial waste, a chemical change\xfffeoccurred and it became a Pokémon.
-It inhales garbage and makes it part of\xfffeits body. It sprays venom from the\xfffefingertips of its right hand.
-It disguises itself as humans and other\xfffePokémon. By hiding its body, it protects\xfffeitself from danger.
-It has the power to bewitch many people\xfffeat once. It protects its habitat by\xfffedisplaying illusory scenery.
-A Pokémon obsessed with cleanliness. It\xfffeuses its tail as a broom to sweep the\xfffedust from its habitat.
-Its white fur feels luxurious. It never\xfffeattracts dust or static.
-It patiently observes Pokémon and\xfffeTrainers. It appears to be looking at\xfffesomething that only Gothita can see.
-Starlight is the source of its power. At\xfffenight, it levitates rocks with psychic\xfffepower and maps the stars' positions.
-It has the ability to predict future\xfffeevents based on the stars' movements.\xfffeIt can also see its Trainer's lifespan.
-Its body is enveloped in a special\xfffeliquid, which enables it to live in any\xfffeenvironment.
-Its brain is split into two sections. It\xfffedisplays its full power when both brains\xfffeare thinking the same thing.
-It fights by manipulating arms that have\xfffea grip that can crush a boulder. A\xfffePokémon with a high IQ.
-When it's attacked by an enemy, it emits\xfffemist from its plumage. It uses the mist\xfffeas a diversion and escapes.
-The attacks it performs with its beak\xfffeare strong. It draws its long neck back\xfffeand unleashes a volley of strikes.
-Icicles that were bathed in the energy\xfffeof the morning sun became a Pokémon.\xfffeIt covers itself in snow when it sleeps.
-It uses numerous small shards of ice to\xfffehide its body from enemy eyes.
-When both heads are angered at the same\xfffetime, it blasts out a blizzard. It buries\xfffeeverything around it in heavy snow.
-When the seasons turn, its scent and fur\xfffechange. This Pokémon is used as a\xfffebarometer of the seasons.
-The flowering plant that grows from its\xfffehorns changes with the seasons. The one\xfffewith the finest horns leads the herd.
-It lives on treetops in forests. It\xfffedischarges electricity from its cloak\xfffelike membrane as it glides.
-When it senses danger it shoots acidic\xfffeliquid from its mouth to repel the enemy.\xfffeIt pursues Shelmet.
-A Pokémon that evolved by wearing\xfffeShelmet's shell. Steel armor protects\xfffeits entire body.
-A Pokémon that resembles a Poké Ball for\xfffesome reason. It spews poisonous spores\xfffeto repel enemies that try to catch it.
-It uses its Poké Ball mushrooms as a lure\xfffefor prey, but few Pokémon are deceived.
-It paralyzes its prey with poison, then\xfffedrags it to its den in the ocean's\xfffedepths, 8000 meters below the surface.
-It expels water that it absorbs into its\xfffebody with great force to propel itself.\xfffeLife energy is its favorite food.
-It drifts about in the ocean. If it spots\xfffea wounded Pokémon, it gathers it in its\xfffearms and carries it to shore.
-It clings to larger Pokémon, absorbs\xfffetheir static electricity, and stores it\xfffein its electric sacs.
-It builds traps from threads charged\xfffewith electricity. It slowly devours the\xfffeelectrically stunned prey.
-It thrusts its spikes into cave walls and\xfffeaffixes itself. It absorbs minerals from\xfffethe rocks.
-It attaches itself to cave ceilings. When\xfffeprey passes beneath, it assaults them\xfffewith a barrage of iron spikes.
-The rotation of the two engaged bodies\xfffeproduces its life energy.
-It attacks by spinning the small gear at\xfffehigh speeds and firing it. This is risky,\xfffeas the gear might not be recovered.
-It rapidly spins the red gear at its core\xfffeto quickly charge energy.
-A Pokémon that lives in a group. It has\xfffeorgans that produce electricity, which it\xfffedischarges in a pinch.
-A Pokémon with a vigorous appetite. Once\xfffeit spots its prey, it chases it down,\xfffestuns it with electricity, and eats it.
-It sucks on its prey with its sucker\xfffemouth, and shocks it with the electricity\xfffethat flows from its teeth.
-It suddenly happened, 50 years ago,\xfffeacross the desert. No one has seen this\xfffePokémon since then.
-It manipulates its opponents' brains and\xfffeoverwrites their memories with different\xfffeones.
-While appearing to shed light and serve\xfffeas a guidepost, it sucks out creatures'\xfffelifeforce.
-It appears before those on their\xfffedeathbeds, severs the soul from the\xfffebody, and immediately sucks it up.
-If something is wrapped in Chandelure's\xfffeflame, its soul is sucked out and\xfffeimmolated. Only the empty body remains.
-It marks its territory by scarring trees\xfffewith its fangs. Even if the fangs break,\xfffethey immediately grow back.
-It has fangs that can smash boulders.\xfffeThe fights of Fraxure over territory\xfffeare extremely violent.
-It has sturdy, blade-like fangs that can\xfffeeven cut through an iron frame. It is\xfffecovered with hard armor.
-Mucus is always hanging from its nose.\xfffeIt sucks the mucus up and launches\xfffeit back out as an attack.
-It freezes its breath to make fangs and\xfffeclaws of ice. It lives in the cold lands\xfffeof the north.
-It was born inside a snow cloud. It\xfffecatches prey with the chains coming out\xfffeof its ice crystals.
-It evolves when it and Karrablast are\xfffebathed in electric energy. The reason\xfffefor this is unknown.
-If it removes its heavy shell, it becomes\xfffenimble. It fights with the agility of a\xfffeninja.
-It buries itself in mud on the beach and\xfffewaits for prey. When it feels prey, it\xfffedischarges electricity and paralyzes it.
-It uses pretty, endless attacks. If it\xfffeunifies body and soul, the techniques'\xfffespeed and intensity increase.
-It fights by slamming the enemy with the\xfffelong hair on its arms. It shakes its arms\xfffelike whips.
-It catches the prey running around its\xfffenarrow den with its sharp claws. The skin\xfffeon its face is as hard as stone.
-It's thought that this Pokémon was born\xfffeof the science of a mythical ancient\xfffecivilization.
-It's said that Golett was ordered by\xfffethe ancient people who used it to\xfffeprotect humans and Pokémon alike.
-It fights at Bisharp's command. It\xfffeclings to its prey and ebbs away at it\xfffewith its blades.
-It hunts prey as a swarm, accompanied\xfffeby large numbers of Pawniard.\xfffeBisharp lands the finishing blow.
-It charges indiscriminately and lands\xfffeheadbutts. It has the destructive power\xfffeto derail a train.
-It indiscriminately challenges even\xfffestrong opponents to battle. It battles\xffferepeatedly to become strong.
-A fearless warrior of the sky. It's said\xfffethat the more wounds it has, the more\xffferespect it gets from its comrades.
-If it finds a handy skeleton, it has a\xfffehabit of using it to protect its bottom.\xfffeIt chases after weak Pokémon.
-It surveys the ground from the sky,\xfffethen swoops down on weak prey. It has\xfffea habit of wearing bones.
-It melts Durant's steel body with its\xfffefiery tongue, which burns at high\xfffetemperatures, and eats what's inside.
-It burrows into mountains to make its\xfffenests. The complex tunnels are an\xfffeDurant-made labyrinth.
-Since it can't see, it finds its way by\xfffetackling and biting its surroundings.\xfffeIt's always covered in fresh bruises.
-Since the two heads fight so viciously\xfffeover food, it always eats\xfffemore than it has to.
-The heads on its arms lack brains. It\xfffedestroys and devours everything with\xfffeits three heads.
-It lives at the bottom of a volcano. It\xfffespews flames from its five horns to\xffferepel anyone who comes to attack it.
-In battle it scatters smoldering scales\xfffefrom its six wings, turning the area\xfffearound it into a sea of flames.
-It has a body and heart of steel. All it\xfffehas to do is look, and even brutal\xfffePokémon defer to it.
-It has the charging power to penetrate\xfffethick castle walls in a single shot. A\xfffePokémon that's mentioned in legends.
-The horn on its head is a sharp sword. It\xfffetosses its enemy with whirlwind like\xfffemovements, then cuts it apart.
-The energy that flows from Tornadus's\xfffetail awakens huge storms. It has the\xfffepower to blow away a house.
-It launches electric attacks from the\xfffespike on its tail. It flies around in the\xfffeskies of Unova dropping thunderbolts.
-When Reshiram's tail burns, the\xfffeatmosphere is affected by the thermal\xfffeenergy and the earth's weather changes.
-A Pokémon that appears in myths. Inside\xfffeof its tail is an enormous generator that\xfffeproduces electricity.
-The energy that flows from its tail\xfffenourishes the soil, causing the crops to\xfffegrow larger.
-It has the power to create sub-zero\xfffeweather conditions, but it freezes its\xfffeown body as well.
-It races around the globe, running on\xfffethe surface of oceans and rivers.\xfffeIt appears by beautiful waterfronts.
-The melodies Meloetta plays provided the\xfffeinspiration for many famous works of\xfffemusic.
-An ancient Bug Pokémon that was altered\xfffeby Team Plasma. The cannons on its back\xfffewere made more powerful.
+It creates an unlimited supply of\xfffeenergy inside its body, which it\xfffeshares with those who touch it.
+They photosynthesize by bathing their\xfffetails in sunlight. When they are not\xfffefeeling well, their tails droop.
+They avoid attacks by sinking into the\xfffeshadows of thick foliage. They retaliate\xfffewith masterful whipping techniques.
+They raise their heads to intimidate\xfffeopponents but only give it their all\xfffewhen fighting a powerful opponent.
+It blows fire through its nose.\xfffeWhen it catches a cold, the fire\xfffebecomes pitch-black smoke instead.
+Whatever it eats becomes fuel for the\xfffeflame in its stomach. When it is angered,\xfffethe intensity of the flame increases.
+It has mastered fast and powerful\xfffefighting moves. It grows a beard of fire.
+The scalchop on its stomach is made from\xfffethe same elements as claws. It detaches\xfffethe scalchop for use as a blade.
+Scalchop techniques differ from one\xfffeDewott to another. It never\xfffeneglects maintaining its scalchops.
+Part of the armor on its anterior legs\xfffebecomes a giant sword. Its cry alone\xfffeis enough to intimidate most enemies.
+Extremely cautious, they take shifts to\xfffemaintain a constant watch of their nest.\xfffeThey feel insecure without a lookout.
+They make the patterns on their bodies\xfffeshine in order to threaten predators.\xfffeKeen eyesight lets them see in the dark.
+The long hair around its face provides\xfffean amazing radar that lets it sense\xfffesubtle changes in its surroundings.
+It loyally follows its Trainer's\xfffeorders. For ages, they have helped\xfffeTrainers raise Pokémon.
+This extremely wise Pokémon excels\xfffeat rescuing people stranded at sea or\xfffein the mountains.
+Its cute act is a ruse. When victims let\xfffedown their guard, they find their items\xfffetaken. It attacks with sharp claws.
+Stealthily, it sneaks up on its target,\xfffestriking from behind before its victim\xfffehas a chance to react.
+It shares the leaf on its head with\xfffeweary-looking Pokémon. These\xfffeleaves are known to relieve stress.
+It attacks enemies with strikes\xfffeof its thorn-covered tail.\xfffeThis Pokémon is wild tempered.
+This Pokémon lives in caves\xfffein volcanoes. The fire within the\xfffetuft on its head can reach 600° F.
+A flame burns inside its body.\xfffeIt scatters embers from its head\xfffeand tail to sear its opponents.
+It does not thrive in dry environments.\xfffeIt keeps itself damp by shooting water\xfffestored in its head tuft from its tail.
+The high-pressure water expelled\xfffefrom its tail is so powerful,\xfffeit can destroy a concrete wall.
+It eats the dreams of people and\xfffePokémon. When it eats a pleasant\xfffedream, it expels pink-colored mist.
+With the mist from its forehead,\xfffeit can create shapes of things\xfffefrom dreams it has eaten.
+These Pokémon live in cities. They are\xfffeaccustomed to people. Flocks often\xfffegather in parks and plazas.
+Many people believe that, deep in the\xfffeforest where Tranquill live, there is\xfffea peaceful place where there is no war.
+Males have plumage on their heads.\xfffeThey will never let themselves feel close\xfffeto anyone other than their Trainers.
+When thunderclouds cover the sky,\xfffeit will appear. It can catch lightning\xfffewith its mane and store the electricity.
+This ill-tempered Pokémon is dangerous\xfffebecause when it's angry, it shoots\xfffelightning from its mane in all directions.
+They were discovered a hundred years\xfffeago in an earthquake fissure. Inside\xfffeeach one is an energy core.
+Because its energy was too great to be\xfffecontained, the energy leaked and formed\xfffeorange crystals.
+The solar energy absorbed by its body's\xfffeorange crystals is magnified internally\xfffeand fired from its mouth.
+Suction from its nostrils enables it to\xfffestick to cave walls during sleep. It\xfffeleaves a heart-shaped mark behind.
+Anyone who comes into contact with the\xfffeultrasonic waves emitted by a courting\xfffemale experiences a positive mood shift.
+It makes its way swiftly through the soil\xfffeby putting both claws together and\xffferotating at high speed.
+More than 300 feet below the surface,\xfffethey build mazelike nests. Their activity\xfffecan be destructive to subway tunnels.
+Its auditory sense is astounding. It has\xfffea radarlike ability to understand its\xfffesurroundings through slight sounds.
+These Pokémon appear at building\xfffesites and help out with construction.\xfffeThey always carry squared logs.
+They strengthen their bodies by\xfffecarrying steel beams. They show off\xfffetheir big muscles to their friends.
+They use concrete pillars as walking\xfffecanes. They know moves that enable them\xfffeto swing the pillars freely in battle.
+By vibrating its cheeks, it emits sound\xfffewaves imperceptible to humans. It uses\xfffethe rhythm of these sounds to talk.
+It lives in the water and on land.\xfffeIt uses its long, sticky tongue\xfffeto capture prey.
+It increases the power of its punches by\xfffevibrating the bumps on its fists. It can\xfffeturn a boulder to rubble with one punch.
+When they encounter foes bigger than\xfffethemselves, they try to throw them.\xfffeThey always travel in packs of five.
+Tying their belts gets them pumped and\xfffemakes their punches more destructive.\xfffeDisturbing their training angers them.
+This Pokémon makes clothes for itself.\xfffeIt chews up leaves and sews them with\xfffesticky thread extruded from its mouth.
+It protects itself from the cold\xfffeby wrapping up in leaves. It stays on\xfffethe move, eating leaves in forests.
+It keeps its eggs warm with heat from\xfffefermenting leaves. It also uses leaves\xfffeto make warm wrappings for Sewaddle.
+It discovers what is going on around it\xfffeby using the feelers on its head and tail.\xfffeIt is brutally aggressive.
+It is usually motionless, but when\xfffeattacked, it rotates at high speed and\xfffethen crashes into its opponent.
+Highly aggressive, it uses the claws\xfffenear its neck to dig into its opponents\xfffeand poison them.
+They go wherever the wind takes them.\xfffeOn rainy days, their bodies are heavier,\xfffeso they take shelter beneath big trees.
+Riding whirlwinds, they appear.\xfffeThese Pokémon sneak through gaps into\xfffehouses and cause all sorts of mischief.
+Since they prefer moist, nutrient-rich\xfffesoil, the areas where Petilil live are\xfffeknown to be good for growing plants.
+The fragrance of the garland on its head\xfffehas a relaxing effect. It withers if a\xfffeTrainer does not take good care of it.
+Red and blue Basculin usually do not\xfffeget along, but sometimes members of one\xfffeschool mingle with the other's school.
+It moves along below the sand's surface,\xfffeexcept for its nose and eyes. A dark\xfffemembrane shields its eyes from the sun.
+The special membrane covering its eyes\xfffecan sense the heat of objects, so it can\xfffesee its surroundings even in darkness.
+It can expand the focus of its eyes,\xfffeenabling it to see objects in the far\xfffedistance as if it were using binoculars.
+Darumaka's droppings are hot, so\xfffepeople used to put them in their\xfffeclothes to keep themselves warm.
+When weakened in battle, it transforms\xfffeinto a stone statue. Then it sharpens\xfffeits mind and fights on mentally.
+Arid regions are their habitat.\xfffeThey move rhythmically, making\xfffea sound similar to maracas.
+It makes a hole in a suitable rock. If\xfffethat rock breaks, the Pokémon remains\xfffeagitated until it locates a replacement.
+It possesses legs of enormous strength,\xfffeenabling it to carry heavy slabs for many\xfffedays, even when crossing arid land.
+It immediately headbutts anyone that\xfffemakes eye contact with it. Its skull is\xfffemassively thick.
+It can smash concrete blocks with its\xfffekicking attacks. The one with the biggest\xfffecrest is the group leader.
+The guardians of an ancient city, they\xfffeuse their psychic power to attack\xfffeenemies that invade their territory.
+These Pokémon arose from the spirits of\xfffepeople interred in graves in past ages.\xfffeEach retains memories of its former life.
+They pretend to be elaborate coffins\xfffeto teach lessons to grave robbers.\xfffeTheir bodies are covered in pure gold.
+About 100 million years ago, these\xfffePokémon swam in oceans. It is thought\xfffethey also went on land to attack prey.
+Incredible jaw strength enables them\xfffeto chew up steel beams and rocks\xfffealong with their prey.
+Revived from a fossil, this Pokémon\xfffeis thought to be the ancestor of all\xfffebird Pokémon.
+It runs better than it flies.\xfffeIt catches prey by running at speeds\xfffecomparable to those of an automobile.
+The combination of garbage bags and\xfffeindustrial waste caused the chemical\xfffereaction that created this Pokémon.
+They absorb garbage and make it part\xfffeof their bodies. They shoot a poisonous\xfffeliquid from their right-hand fingertips.
+To protect themselves from danger,\xfffethey hide their true identities by\xfffetransforming into people and Pokémon.
+Each has the ability to fool a large\xfffegroup of people simultaneously. They\xfffeprotect their lair with illusory scenery.
+These Pokémon prefer a tidy habitat.\xfffeThey are always sweeping and dusting,\xfffeusing their tails as brooms.
+Their white fur feels amazing to touch.\xfffeTheir fur repels dust and prevents\xfffestatic electricity from building up.
+They intently observe both Trainers and\xfffePokémon. Apparently, they are looking\xfffeat something that only Gothita can see.
+Starlight is the source of their power.\xfffeAt night, they mark star positions by\xfffeusing psychic power to float stones.
+They can predict the future from the\xfffeplacement and movement of the stars.\xfffeThey can see Trainers' life spans.
+Because their bodies are enveloped\xfffein a special liquid, they can survive\xfffein any environment.
+When their brains, now divided in two,\xfffeare thinking the same thoughts, these\xfffePokémon exhibit their maximum power.
+These remarkably intelligent Pokémon\xfffefight by controlling arms that can\xfffegrip with rock-crushing power.
+When attacked, it uses its feathers\xfffeto splash water, escaping under cover\xfffeof the spray.
+It administers sharp, powerful pecks\xfffewith its bill. It whips its long neck to\xfffedeliver forceful repeated strikes.
+This Pokémon formed from icicles\xfffebathed in energy from the morning sun.\xfffeIt sleeps buried in snow.
+It conceals itself from enemy eyes\xfffeby creating many small ice particles\xfffeand hiding among them.
+If both heads get angry simultaneously,\xfffethis Pokémon expels a blizzard, burying\xfffeeverything in snow.
+The turning of the seasons changes the\xfffecolor and scent of this Pokémon's fur.\xfffePeople use it to mark the seasons.
+The plants growing on its horns change\xfffeaccording to the season. The leaders of\xfffethe herd possess magnificent horns.
+They live on treetops and glide using\xfffethe inside of a cape-like membrane\xfffewhile discharging electricity.
+When they feel threatened, they spit\xfffean acidic liquid to drive attackers away.\xfffeThis Pokémon targets Shelmet.
+These Pokémon evolve by wearing the\xfffeshell covering of a Shelmet. The steel\xfffearmor protects their whole body.
+For some reason, this Pokémon resembles\xfffea Poké Ball. They release poison spores\xfffeto repel those who try to catch them.
+They show off their Poké Ball caps to\xfffelure prey, but very few Pokémon are\xfffefooled by this.
+They paralyze prey with poison,\xfffethen drag them down to their lairs,\xfffefive miles below the surface.
+They propel themselves by expelling\xfffeabsorbed seawater from their bodies.\xfffeTheir favorite food is life energy.
+Floating in the open sea is how they live.\xfffeWhen they find a wounded Pokémon,\xfffethey embrace it and bring it to shore.
+They attach themselves to large-bodied\xfffePokémon and absorb static electricity,\xfffewhich they store in an electric pouch.
+They employ an electrically charged web\xfffeto trap their prey. While it is immobilized\xfffeby shock, they leisurely consume it.
+They stick their spikes into cave\xfffewalls and absorb the minerals\xfffethey find in the rock.
+They attach themselves to cave\xfffeceilings, firing steel spikes at targets\xfffepassing beneath them.
+Interlocking two bodies and\xfffespinning around generates\xfffethe energy they need to live.
+Spinning minigears are rotated at high\xfffespeed and repeatedly fired away. It is\xfffedangerous if the gears don't return.
+The gear with the red core is\xffferotated at high speed for a\xffferapid energy charge.
+These Pokémon move in schools. They\xfffehave an electricity-generating organ, so\xfffethey discharge electricity if in danger.
+These Pokémon have a big appetite.\xfffeWhen they spot their prey, they attack\xfffeit and paralyze it with electricity.
+With their sucker mouths, they\xfffesuck in prey. Then they use their fangs\xfffeto shock the prey with electricity.
+This Pokémon had never been seen until\xfffeit appeared from far in the desert\xfffe50 years ago.
+It uses psychic power\xfffeto control an opponent's brain\xfffeand tamper with its memories.
+While shining a light and pretending\xfffeto be a guide, it leeches off the life\xfffeforce of any who follow it.
+It arrives near the moment of death\xfffeand steals spirit from the body.
+Being consumed in Chandelure's flame\xfffeburns up the spirit, leaving the\xfffebody behind.
+They mark their territory by leaving\xfffegashes in trees with their tusks. If a\xfffetusk breaks, a new one grows in quickly.
+Their tusks can shatter rocks.\xfffeTerritory battles between Fraxure\xfffecan be intensely violent.
+Their sturdy tusks will stay sharp even\xfffeif used to cut steel beams. These\xfffePokémon are covered in hard armor.
+Its nose is always running. It sniffs the\xfffesnot back up because the mucus\xfffeprovides the raw material for its moves.
+It freezes its breath to create\xfffefangs and claws of ice to fight with.\xfffeCold northern areas are its habitat.
+They are born in snow clouds.\xfffeThey use chains made of\xfffeice crystals to capture prey.
+It evolves when bathed in an\xfffeelectric-like energy along with\xfffeKarrablast. The reason is still unknown.
+Having removed its heavy shell,\xfffeit becomes very light and can fight\xfffewith ninja-like movements.
+It conceals itself in the mud of the\xfffeseashore. Then it waits. When prey touch\xfffeit, it delivers a jolt of electricity.
+They have mastered elegant combos.\xfffeAs they concentrate, their battle moves\xfffebecome swifter and more precise.
+They use the long fur on their arms\xfffeas a whip to strike their opponents.
+It races through narrow caves, using\xfffeits sharp claws to catch prey. The skin\xfffeon its face is harder than a rock.
+These Pokémon are thought to have been\xfffecreated by the science of an ancient\xfffeand mysterious civilization.
+It is said that Golurk were ordered\xfffeto protect people and Pokémon\xfffeby the ancient people who made them.
+They fight at Bisharp's command.\xfffeThey cling to their prey and inflict\xfffedamage by sinking their blades into it.
+Bisharp pursues prey in the company of a\xfffelarge group of Pawniard. Then Bisharp\xfffefinishes off the prey.
+They charge wildly and headbutt\xfffeeverything. Their headbutts have enough\xfffedestructive force to derail a train.
+They will challenge anything, even strong\xfffeopponents, without fear. Their frequent\xfffefights help them become stronger.
+The more scars they have, the more\xffferespect these brave soldiers of the sky \xfffeget from their peers.
+They tend to guard their posteriors\xfffewith suitable bones they have found.\xfffeThey pursue weak Pokémon.
+Watching from the sky, they swoop to\xfffestrike weakened Pokémon on the ground.\xfffeThey decorate themselves with bones.
+Using their very hot, flame-covered\xfffetongues, they burn through Durant's\xfffesteel bodies and consume their insides.
+Durant dig nests in mountains.\xfffeThey build their complicated,\xfffeinterconnected tunnels into mazes.
+They cannot see, so they tackle and bite\xfffeto learn about their surroundings.\xfffeTheir bodies are covered in wounds.
+Since their two heads do not get along\xfffeand compete with each other for food,\xfffethey always eat too much.
+The heads on their arms do not have\xfffebrains. They use all three heads to\xfffeconsume and destroy everything.
+The base of volcanoes is where they make\xfffetheir homes. They shoot fire from their\xfffefive horns to repel attacking enemies.
+A sea of fire engulfs the surroundings\xfffeof their battles, since they use their\xfffesix wings to scatter their ember scales.
+It has a body and heart of steel.\xfffeIts glare is sufficient to make even\xfffean unruly Pokémon obey it.
+Its charge is strong enough to break\xfffethrough a giant castle wall in one blow.\xfffeThis Pokémon is spoken of in legends.
+Its head sprouts horns as sharp as\xfffeblades. Using whirlwind-like movements,\xfffeit confounds and swiftly cuts opponents.
+Tornadus expels massive energy from its\xfffetail, causing severe storms. Its power\xfffeis great enough to blow houses away.
+The spikes on its tail discharge immense\xfffebolts of lightning. It flies around the\xfffeUnova region firing off lightning bolts.
+When Reshiram's tail flares, the\xfffeheat energy moves the atmosphere\xfffeand changes the world's weather.
+This Pokémon appears in legends.\xfffeIn its tail, it has a giant generator\xfffethat creates electricity.
+The energy that comes pouring from its\xfffetail increases the nutrition in the soil,\xfffemaking crops grow to great size.
+It can produce ultracold air.\xfffeIts body is frozen.
+It crosses the world, running over\xfffethe surfaces of oceans and rivers.\xfffeIt appears at scenic waterfronts.
+Many famous songs have been inspired\xfffeby the melodies that Meloetta plays.
+This ancient bug Pokémon was altered\xfffeby Team Plasma. They upgraded the\xfffecannon on its back.

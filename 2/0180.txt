@@ -2,8 +2,7 @@ HP
 Attack
 Defense
 Speed
-Sp. Attack
-Sp. Defense
-Accuracy
-Evasion
-Max HP
+Sp. Atk
+Sp. Def
+
+

@@ -1,11 +1,11 @@
-﻿Sumura: When I saw you back in Castelia City,\xfffeI thought nothing of you, but...\xf000븁\x0000You were tested here in\xfffeChargestone Cave by Lord Ghetsis...\xf000븁\x0000...Well, you seem in search\xfffeof something once more.\xf000븁\x0000Now, show yourselves!\xf000븁\x0000
-Grunt: Lord Sumura!\xfffeI'll take this punk down!\xf000븁\x0000
-Grunt: This one's the real deal!\xf000븁\x0000
-Grunt: So it's your fault we're now\xfffethe "former" Team Plasma?\xf000븁\x0000Who wants to be a "former" anything?\xfffeHow COULD you?\xf000븁\x0000
-Grunt: ...Former members of Team Plasma\xfffehave become just Pokémon Trainers...\xf000븁\x0000
-Sumura: Even Team Plasma's Pokémon\xfffewere fighting for the Trainers.\xf000븁\x0000We were overlooking\xfffesomething so common...\xf000븀\x0000I'm grateful you showed us that.\xf000븁\x0000Take this.\xf000븁\x0000
-Sumura: ...I wonder if Lord N now knows\xfffewhy Pokémon, even when wounded,\xf000븀\x0000wield their power for Trainers' sakes...?\xf000븁\x0000
-Looker: Alright, then...\xfffeI'm an international policeman!\xf000븁\x0000So tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
-Sumura: ...Forgive these two,\xfffefor they have left Team Plasma\xf000븀\x0000and will treat Pokémon well.\xf000븁\x0000However! Those that\xfffewill not face up to Pokémon justly,\xf000븀\x0000I will not have stand.\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Besides Ghetsis, I guess this leaves\xfffe\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Okay, \xf000Ā\x0001\x0000...\xfffeThere's something I need to tell you.\xf000븁\x0000I've heard intel that, somewhere\xfffereally far away from here,\xf000븀\x0000there's been sighting of an N-ish person\xf000븀\x0000with a dragon Pokémon.\xf000븁\x0000I'm going to go and see\xfffeif it's really true!\xf000븀\x0000Well, see you again someday!\xf000븁\x0000
+Bronius: When I saw you in Castelia,\xfffeI did not care about your existence.\xf000븁\x0000\xfffeHere in the Chargestone Cave,\xfffeGhetsis tested your ability...\xf000븁\x0000\xfffeOnce more, we will test you to learn\xfffewhat it is you are.\xf000븁\x0000\xfffeTeam Plasma, come out!\xf000븁\x0000
+Team Plasma: Bronius of the Seven Sages,\xfffeI will bring this kid down!\xf000븁\x0000
+Team Plasma: This kid is the real thing!\xf000븁\x0000
+Team Plasma: Because of you,\xfffeI'm now ex-Team Plasma.\xf000븁\x0000\xfffeBeing an ex doesn't sound cool, does it?\xfffeHow are you going to make it up to me?\xf000븁\x0000
+Team Plasma: An ex-Team Plasma member\xfffebecomes an ordinary Pokémon Trainer...\xf000븀\x0000\xfffeThis was that moment.\xf000븁\x0000
+Bronius: The Pokémon of our Team Plasma\xfffeare also fighting for their Trainers.\xf000븁\x0000\xfffeIt was so obvious that I overlooked it...\xfffeThank you for reminding me of that.\xf000븁\x0000\xfffeHere, I'd like you to take this.\xf000븁\x0000
+Bronius: Pokémon do their best for their\xfffeTrainers even when they are injured.\xf000븁\x0000\xfffeI wonder whether my lord N understands\xfffewhat that means?\xf000븁\x0000
+Looker: On the topic of Team Plasma...\xf000븁\x0000\xfffeI am an officer of the\xfffeInternational Police,\xf000븀\x0000\xfffeso you would be wise\xf000븀\x0000\xfffeto share all you know.\xf000븁\x0000
+Bronius: Those who left Team Plasma and\xfffeare behaving with respect and\xf000븀\x0000\xfffeunderstanding toward Pokémon...\xf000븁\x0000\xfffeThem, please forgive!\xfffeHowever, those who won't interact with\xf000븀\x0000\xfffePokémon in a kind and honest way...\xf000븀\x0000\xfffeEven I will never forgive them!\xf000븁\x0000
+Looker: Truly, I thank you!\xf000븁\x0000\xfffeNow, Ghetsis notwithstanding,\xfffethere yet remains but \xf000Ȁ\x0001\x0000 of the\xf000븀\x0000\xfffeSeven Sages still at large.\xf000븁\x0000\xfffeTheir innermost thoughts,\xfffetheir uttermost hopes...\xf000븀\x0000\xfffeThese I must and shall discover!\xf000븀\x0000\xfffeOnce more, a brief farewell!\xf000븁\x0000
+Looker: Thank you!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, there is something\xfffeof which we must speak.\xf000븁\x0000\xfffeA report has been received. By me.\xfffeFar from here, a sighting occurred of a\xf000븀\x0000\xfffeperson like N and--a dragon Pokémon.\xf000븁\x0000\xfffeI must instantly go to confirm the\xfffecomplete confirmation of this report.\xf000븀\x0000\xfffeI will see you again, and soon!\xf000븁\x0000
