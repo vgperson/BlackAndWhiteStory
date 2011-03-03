@@ -70,9 +70,9 @@ I'm actually just an underling,\xfffea businessman's daughter...
 Hohoho...
 Ohohoho...
 Tohohoho...
-Preschooler gonna battle you!\xfffeNice to meet you.
-Little baby is a winna!\xfffeTank you! Tank you!
-Da Preschooler lost!\xfffeTank you anyways!
+I'm your preschoolah foe!\xfffePleased to meet you!
+I'm a preschoolah winnah!\xfffeTank you very much!
+I'm a preschoolah losah!\xfffeTank you very much!
 I am a kindergarten genius!\xfffeI'm already applying to colleges!
 Losing to a kindergartener...\xfffeHow old are you, anyway?
 I'm proud of my studies,\xfffebut I'm still a kid in Pokémon...
@@ -187,7 +187,7 @@ You gotta decide\xfffeyour dream too, OR ELSE!
 I'm a biker, but\xfffeI've never ridden a bike.
 I'm a biker, but\xfffeI still lack friends.
 I'm a biker, but\xfffeI've not yet won.
-My Pokémon are on the rise! I raised\xfffethem with special yeast bread!
+My Pokémon are healthy as bread!\xfffeThat's what I raised them on!
 If you ate my special bread,\xfffeyou'd feel good in a flash too!
 You're strong... have you\xfffebeen eating my special bread?
 One, two, three, four loaves...\xfffeNope, still missing a loaf...
@@ -358,9 +358,9 @@ I'm rich, so who cares?\xfffeIt wouldn't've made me that happy...
 Yes! I am Rich Boy!
 Okay! Good bye!\xfffeI was Rich Boy!
 Thank you! Merci!\xfffeI was Rich Boy!
-I just battle for fun,\xfffebut I'll do my best.
-Well, I only won by chance.\xfffePlease pay it no mind.
-It's good when you battle for fun.\xfffeIf it's too serious, you won't enjoy it...
+I only enjoy it as a hobby,\xfffebut I shall do my best!
+Ah, it happens every so often.\xfffeDon't get too worked up about it.
+As I'm playing games, a passing\xfffepetal acts unexpectedly... not bad...
 Party yesterday, Pokémon today!\xfffeThat's the lifestyle of the rich!
 I don't even need to work!\xfffeBecause I'm RICH!
 All play and no work is no good\xfffeOf course I know that!
