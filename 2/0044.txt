@@ -6,25 +6,25 @@
 Creating save data.\xfffePlease wait...
 Hi there!\xf000븁\x0000\xfffeWelcome to the world of Pokémon!\xf000븁\x0000
 My name is Professor Juniper.\xfffeEveryone calls me the Pokémon Professor!\xf000븁\x0000
-That's right! This world is widely\xfffeinhabited by mysterious creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
-Pokémon have mysterious powers.\xfffeThey come in many shapes\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle one another\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that is why I research Pokémon.\xf000븁\x0000
-Well, that's enough from me...\xfffeCould you tell me about yourself?\xf000븁\x0000
+Right! This world is widely\xfffeinhabited by fantastic creatures\xf000븀\x0000\xfffecalled Pokémon!\xf000븁\x0000
+Pokémon have some incredible powers.\xfffeThey come in all shapes and sizes,\xf000븀\x0000\xfffeand live in many different places.\xf000븁\x0000\xfffeWe humans live happily with Pokémon!\xfffeLiving and working together,\xf000븀\x0000\xfffewe complement each other.\xf000븁\x0000\xfffeWe help each other out to\xfffeaccomplish difficult tasks.\xf000븁\x0000\xfffeHaving Pokémon battle together\xfffeis particularly popular, and it deepens\xf000븀\x0000\xfffethe bonds between people and Pokémon.\xf000븀\x0000\xfffeAnd that's why I research Pokémon.\xf000븁\x0000
+Now, that's quite enough\xfffeabout me...\xf000븁\x0000Won't you tell me some about yourself?\xf000븁\x0000
 Are you a boy?\xfffeOr a girl?\xf000븁\x0000
-You're a boy, right?\xf000븁\x0000
-You're a girl, right?\xf000븁\x0000
+You're a boy, then?\xf000븁\x0000
+You're a girl, then?\xf000븁\x0000
 
 
-I'd like to know your name.\xf000븁\x0000\xfffePlease tell me.\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
-Your name is \xf000Ā\x0001\x0000?\xf000븁\x0000
+Well, I want to know your name, too!\xf000븁\x0000So... tell me your name!\xf000븁\x0000
+\xf000Ā\x0001\x0000, is it?\xf000븁\x0000
+\xf000Ā\x0001\x0000, is it?\xf000븁\x0000
 Yes
 No
-So your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
-Well then. I'm going to introduce you\xfffeto your two best friends!\xf000븁\x0000
-This young man is Cheren.\xf000븁\x0000\xfffeHe can be a little difficult, but\xfffehe's a very honest person.\xf000븁\x0000
-This young woman is Bianca.\xf000븁\x0000\xfffeShe's a little flighty,\xfffebut she works very hard.\xf000븁\x0000
-I think you three have potential,\xfffeso I'm going to give you\xf000븀\x0000\xfffea very, very important Pokémon.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeThe moment you choose the\xfffePokémon that will accompany\xf000븀\x0000\xfffeyou on your journey,\xf000븀\x0000\xfffeyour story will truly begin.\xf000븁\x0000\xfffeDuring your journey, you will meet many\xfffePokémon and people with different\xf000븀\x0000\xfffepersonalities and points of view!\xf000븁\x0000\xfffeI really hope you find what is important\xfffeto you in all of these travels...\xf000븁\x0000\xfffeThat's right! Befriend\xfffenew people and Pokémon and\xf000븀\x0000\xfffegrow as a person!\xf000븁\x0000\xfffeThat is the most important goal\xfffefor your journey!\xf000븁\x0000\xfffeLet's go visit the world of Pokémon!\xf000븁\x0000
+Your name's \xf000Ā\x0001\x0000.\xfffeWhat a wonderful name!\xf000븁\x0000
+Now then, allow me to introduce your\xfffefriends who'll be with you on the way.\xf000븁\x0000
+This young man is Cheren.\xf000븁\x0000\xfffeHe's a bit moody at times,\xfffebut he's very frank with people.\xf000븁\x0000
+And this young woman is Bianca.\xf000븁\x0000\xfffeShe tends to take things at her own pace,\xfffebut she's a persistent one for sure.\xf000븁\x0000
+I think you three have potential, so\xfffeI've sent you a present containing\xf000븀\x0000\xfffea precious Pokémon for each of you!\xf000븁\x0000
+\xf000Ā\x0001\x0000!!\xf000븁\x0000From the moment you choose your Pokémon\xfffepartner for the journey ahead...\xf000븁\x0000That is when the tale of\xfffeyour own adventure truly begins!\xf000븁\x0000On your journey,\xfffeyou will meet countless Pokémon...\xf000븁\x0000And people who act and think\xfffein many different ways!\xf000븁\x0000And through all your journey,\xfffeI deeply hope you find something\xf000븀\x0000that is very precious to you...\xf000븁\x0000Right! As you come into contact\xfffewith more people and Pokémon,\xf000븀\x0000you will mature as a person.\xf000븁\x0000And that is the greatest goal\xfffeof your adventure!\xf000븁\x0000So, let us be off!\xfffeInto the world of Pokémon!\xf000븁\x0000
 
 
 
